@@ -1,0 +1,158 @@
+"""Synthetic zoom transactions and cache reuse; never touch personal drafts."""
+import copy,json,sys,tempfile,unittest
+from pathlib import Path
+from unittest.mock import patch
+import test_workflow as workflow
+import zoom
+import context_pipeline as c
+a=workflow.a
+
+class ZoomTests(unittest.TestCase):
+    def test_auto_close_revalidates_before_zoom_write(self):
+        import app_lifecycle as life
+        state={'running':True}
+        def close():state['running']=False;return [{'close_requested':True}]
+        with patch.object(a.s,'capcut_running',side_effect=lambda:state['running']),patch.object(life,'request_close',side_effect=close),patch.object(life.time,'sleep'):
+            result=a.apply_zoom_batch(self.batch['batch_id'])
+        self.assertTrue(result['capcut_close']['auto_close_requested'])
+        self.assertEqual(zoom.audio_signature(a,self.draft),zoom.audio_signature(a,a.s.read_json(self.path)))
+
+    def setUp(self):
+        self.fixture=workflow.WorkflowTests();self.fixture.setUp()
+        self.job=self.fixture.jobs[0];self.project=a.s.project_path('project0');self.path=self.fixture.paths[0]
+        media=self.fixture.root/'voice.mov';media.write_bytes(b'fixture media stat only')
+        d=a.s.read_json(self.path)
+        d.update(canvas_config={'width':1080,'height':1920},fps=30)
+        d['materials']['videos']=[{'id':'v1','path':str(media),'width':1080,'height':1920},{'id':'v2','path':str(media),'width':1080,'height':1920}]
+        d['materials']['speeds']=[{'id':'speed','speed':1,'curve_speed':None}]
+        clip={'scale':{'x':1.,'y':1.},'transform':{'x':0.,'y':.65},'rotation':0,'flip':{'horizontal':False,'vertical':False},'alpha':1}
+        d['tracks']=[{'type':'video','id':f't{i}','segments':[{'id':f's{i}','material_id':f'v{i}','target_timerange':{'start':0,'duration':10_000_000},
+            'source_timerange':{'start':3_000_000,'duration':10_000_000},'clip':copy.deepcopy(clip),'volume':.7,'last_nonzero_volume':.7,'speed':1,
+            'extra_material_refs':['speed'],'common_keyframes':[],'keyframe_refs':[],'render_timerange':{'start':0,'duration':0}}]} for i in (1,2)]
+        a.s.write_json(self.path,d);a.s.write_json(self.project/'draft_content.json',d)
+        r=a.job_data(self.job);r['source_hash']=a.digest(self.path);r['cache_key']=c.context_inputs(self.project,d)[1]
+        a.s.write_json(a.job_path(self.job)/'job.json',r);a.s.write_json(a.job_path(self.job)/'source.json',d)
+        report={'cache_key':r['cache_key'],'tracks':[{'role':f'video_track_{i}','speech':[{'start':2,'end':4,'text':'that is wild','words':[
+            {'start':2,'end':2.3,'text':'that'},{'start':2.4,'end':2.6,'text':'is'},{'start':3,'end':3.8,'text':'wild'}]}]} for i in (1,2)]}
+        a.s.write_json(a.job_path(self.job)/'context_report.json',report)
+        a.s.write_json(a.STATE/'data'/'zoom_style.json',{'version':1,'references':[],'policy':'fixture'})
+        self.draft=d
+        self.target={'project':'project0','timeline':'test0','analysis_job_id':self.job}
+        self.batch=a.prepare_zoom_batch([self.target]);self.zid=self.batch['jobs'][0]
+        self.event={'start':2,'end':3.5,'scale':1.3,'role':'video_track_1','dialogue':'that is wild','reason':'Meaningful reaction to the completed reveal.',
+            'timing_anchor':{'kind':'speech_word','role':'video_track_1','word_index':0,'at':2,'text':'that'}}
+        self.notes={'whole_video_reviewed':True,'silence_reviewed':True,'unresolved':[],'framing_reviewed':True}
+        a.stage_zoom_plan(self.zid,[self.event],self.notes);self.audit(self.zid)
+
+    def audit(self,zid):
+        dest=zoom.folder(a,zid);image=dest/'fixture.jpg';image.write_bytes(b'fixture preview')
+        a.s.write_json(dest/'preview.json',{'plan_hash':a.digest(dest/'plan.json'),'image':str(image),'image_hash':a.digest(image)})
+
+    def test_native_splits_preserve_source_sample_audio_and_other_role(self):
+        plan=a.s.read_json(zoom.folder(a,self.zid)/'plan.json');changed=zoom.apply_native(a,self.draft,plan)
+        self.assertEqual(len(changed['tracks'][0]['segments']),3)
+        self.assertEqual(changed['tracks'][1],self.draft['tracks'][1])
+        self.assertEqual(zoom.audio_signature(a,self.draft),zoom.audio_signature(a,changed))
+        pieces=changed['tracks'][0]['segments'];self.assertEqual([s['source_timerange']['start'] for s in pieces],[3_000_000,5_000_000,6_500_000])
+        self.assertEqual([s['clip']['scale']['x'] for s in pieces],[1.,1.3,1.])
+        ids=[s['id'] for s in pieces];self.assertEqual(len(set(ids)),3)
+
+    def test_preserves_preexisting_manual_sfx_and_captions(self):
+        d=copy.deepcopy(self.draft);d['tracks']+= [{'type':'audio','segments':[{'id':'manual','volume':.42}]},{'type':'text','segments':[{'id':'caption'}]}]
+        changed=zoom.apply_native(a,d,a.s.read_json(zoom.folder(a,self.zid)/'plan.json'))
+        self.assertEqual(changed['tracks'][-2:],d['tracks'][-2:])
+
+    def test_unsupported_keyframes_curve_and_coverage_block(self):
+        plan=a.s.read_json(zoom.folder(a,self.zid)/'plan.json')
+        for kind in ('keyframes','curve','gap'):
+            d=copy.deepcopy(self.draft)
+            if kind=='keyframes':d['tracks'][0]['segments'][0]['common_keyframes']=[{'id':'key'}]
+            if kind=='curve':d['materials']['speeds'][0]['curve_speed']={'points':[1,2]}
+            if kind=='gap':d['tracks'][0]['segments'][0]['target_timerange']['start']=3_000_000
+            with self.assertRaises(ValueError):zoom.apply_native(a,d,plan)
+
+    def test_cached_media_and_manual_hash_are_checked(self):
+        source=Path(self.draft['materials']['videos'][0]['path']);source.write_bytes(b'changed media')
+        with self.assertRaisesRegex(ValueError,'Cached source media'):a.prepare_zoom_batch([self.target])
+        d=a.s.read_json(self.path);d['manual_note']='new edit';a.s.write_json(self.path,d)
+        with patch.object(a.s,'capcut_running',return_value=False),self.assertRaisesRegex(ValueError,'Target changed'):a.apply_zoom_batch(self.batch['batch_id'])
+
+    def test_open_capcut_and_stale_preview_block_without_writes(self):
+        before=self.path.read_bytes()
+        with patch.object(a.s,'capcut_running',return_value=True),self.assertRaisesRegex(ValueError,'Quit CapCut'):a.apply_zoom_batch(self.batch['batch_id'],auto_close=False)
+        event={**self.event,'scale':1.4};a.stage_zoom_plan(self.zid,[event],self.notes)
+        with patch.object(a.s,'capcut_running',return_value=False),self.assertRaisesRegex(ValueError,'changed after preview'):a.apply_zoom_batch(self.batch['batch_id'])
+        self.assertEqual(before,self.path.read_bytes())
+
+    def test_framing_and_real_word_anchor_required(self):
+        event=copy.deepcopy(self.event);event['timing_anchor']['text']='invented'
+        with self.assertRaisesRegex(ValueError,'verified cached'):a.stage_zoom_plan(self.zid,[event],self.notes)
+        a.stage_zoom_plan(self.zid,[self.event],{**self.notes,'framing_reviewed':False});self.audit(self.zid)
+        with patch.object(a.s,'capcut_running',return_value=False),self.assertRaisesRegex(ValueError,'framing_reviewed'):a.apply_zoom_batch(self.batch['batch_id'])
+
+    def test_new_style_blocks_old_plan(self):
+        a.s.write_json(a.STATE/'data'/'zoom_style.json',{'version':2,'references':[]})
+        with patch.object(a.s,'capcut_running',return_value=False),self.assertRaisesRegex(ValueError,'source/style changed'):a.apply_zoom_batch(self.batch['batch_id'])
+
+    def test_failure_restores_all_draft_files(self):
+        _,changes=zoom.changes(a,self.batch['batch_id']);before={p:p.read_bytes() for p in changes};write=a.s.write_json;calls=[]
+        def broken(path,value):
+            calls.append(path)
+            if len(calls)==2:raise OSError('synthetic failure')
+            return write(path,value)
+        with patch.object(a.s,'capcut_running',return_value=False),patch.object(a.s,'write_json',side_effect=broken),self.assertRaises(OSError):a.apply_zoom_batch(self.batch['batch_id'])
+        self.assertEqual(before,{p:p.read_bytes() for p in before})
+
+    def test_same_session_build_adds_sfx_then_zoom_once(self):
+        effect=a.s.read_json(a.job_path(self.job)/'plan.json')['effects'][0]
+        result=a.stage_plan(self.job,[effect],{'whole_video_reviewed':True,'silence_reviewed':True,'unresolved':[]},[self.event],self.notes)
+        self.audit(result['zoom_job_id'])
+        plan=a.s.read_json(a.job_path(self.job)/'plan.json');plan['master_gain']=1;a.s.write_json(a.job_path(self.job)/'plan.json',plan)
+        a.s.write_json(a.job_path(self.job)/'mix.json',{'plan_hash':a.digest(a.job_path(self.job)/'plan.json')})
+        changed=a.build_changes(self.job)[self.path]
+        self.assertEqual(len(changed['tracks'][0]['segments']),3)
+        self.assertEqual(len(list(a.s.flatten_sfx(changed,self.fixture.catalog,self.project))),1)
+        self.assertEqual(c.context_inputs(self.project,self.draft)[1],a.job_data(self.job)['cache_key'])
+
+    def test_default_batch_requires_zoom_and_explicit_optout_is_preserved(self):
+        with patch.object(a.s,'scan_library',return_value=self.fixture.catalog),patch.object(a.subprocess,'Popen'):
+            batch=a.prepare_batch([self.target]);r=a.job_data(batch['jobs'][0])
+            only=a.prepare_batch([self.target],include_zoom=False);opt=a.job_data(only['jobs'][0])
+        self.assertEqual(batch['workflow'],'sfx_and_zoom');self.assertTrue(r['zoom_required'])
+        self.assertEqual(only['workflow'],'sfx_only');self.assertFalse(opt['zoom_required'])
+        old=a.job_data(self.job);old['zoom_required']=True;a.s.write_json(a.job_path(self.job)/'job.json',old)
+        effect=a.s.read_json(a.job_path(self.job)/'plan.json')['effects'][0]
+        with self.assertRaisesRegex(ValueError,'Default workflow'):a.stage_plan(self.job,[effect],self.notes)
+        result=a.stage_plan(self.job,[effect],self.notes,[],self.notes)
+        self.assertTrue(result['zoom_job_id'])
+        self.assertEqual(a.s.read_json(zoom.folder(a,result['zoom_job_id'])/'plan.json')['zooms'],[])
+
+    def test_diff_distinguishes_added_retimed_and_reframed_examples(self):
+        p=[{**self.event,'dx':0,'dy':0},{**self.event,'start':6,'end':7}]
+        m=[{'role':'video_track_1','start':2.2,'end':3.7,'scale':1.5,'dx':.02,'dy':-.04},
+            {'role':'video_track_1','start':9,'end':10,'scale':1.2,'dx':0,'dy':0}]
+        result=zoom.revision_diff(p,m)
+        self.assertEqual(result['added'],[1]);self.assertEqual(result['removed_or_distant_move'],[1])
+        self.assertTrue(result['matches'][0]['retimed']);self.assertTrue(result['matches'][0]['reframed'])
+
+    def test_lossless_batch_brief_and_no_analysis_rerun(self):
+        with patch.object(c,'prepare',side_effect=AssertionError('ASR must not run')):
+            batch=a.prepare_zoom_batch([self.target]);brief=a.get_zoom_briefs(batch['batch_id'])
+        self.assertEqual(batch['transcription_runs'],0)
+        full=a.s.read_json(zoom.folder(a,batch['jobs'][0])/'brief.json')
+        self.assertEqual(a.merge(a.unpack(brief['$shared']),a.unpack(brief['$jobs'][0]['$delta'])),full)
+
+    def test_manual_zoom_removal_is_learned_without_overwriting_audio(self):
+        before=self.path.read_bytes()
+        with patch.object(a.s,'capcut_running',return_value=False):a.apply_zoom_batch(self.batch['batch_id'])
+        # User removes all closeups by restoring the flat original native footage.
+        a.s.write_json(self.path,self.draft);manual=self.path.read_bytes()
+        with patch.object(c,'prepare',side_effect=AssertionError('No ASR on revisions')):result=a.learn_zoom_revision(self.zid)
+        self.assertEqual(result['manual'],0);self.assertEqual(result['predicted'],1)
+        self.assertEqual(manual,self.path.read_bytes());value=zoom.style(a)
+        self.assertEqual(value['references'][-1]['events'],[])
+        self.assertEqual(len(value['references'][-1]['predicted']),1)
+        self.assertEqual(value['statistics']['events'],0)
+        self.assertTrue(a.learn_zoom_revision(self.zid)['already_learned'])
+
+if __name__=='__main__':unittest.main()
