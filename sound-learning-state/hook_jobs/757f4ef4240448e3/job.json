@@ -1,0 +1,14 @@
+{
+  "job_id": "757f4ef4240448e3",
+  "batch_id": "13c1b20f4a7b4a1b",
+  "project": "test 1",
+  "timeline": "day 6.3",
+  "timeline_id": "FB491A32-AB7A-40eb-8DA2-1F374A378EF4",
+  "source_hash": "52af6c8db7418aaa243d694c4a066fec8dc3eea775a95b099c850111b2cb3ea1",
+  "analysis_job_id": "56bbaffb27f342a9",
+  "style_version": 12,
+  "status": "staged",
+  "existing_field": true,
+  "existing_text": "YOUR BIRTH MONTH IS\nWHO BROKE IN\nWHO DID YOU GET?",
+  "duration": 104.0
+}

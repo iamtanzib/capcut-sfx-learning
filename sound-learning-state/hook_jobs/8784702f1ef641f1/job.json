@@ -1,0 +1,15 @@
+{
+  "job_id": "8784702f1ef641f1",
+  "batch_id": "d79812deaf2b42ee",
+  "project": "test 1",
+  "timeline": "day3.1",
+  "timeline_id": "BCD361CD-B7EE-4cd1-A1FE-8C2BBA701DAE",
+  "source_hash": "e9d7a7c5146aa1664b8bc3d40b72ae99e1b4ea2e119235af16a853cfaeeccf3a",
+  "analysis_job_id": "ce7c547c80024566",
+  "style_version": 1,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "PICK A MAGIC DRINK\nPOWER + A SIDE EFFECT\nWHICH WILL YOU DRINK?",
+  "duration": 64.0,
+  "applied_at": 1791808013.4315324
+}

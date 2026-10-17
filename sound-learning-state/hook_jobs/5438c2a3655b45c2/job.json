@@ -1,0 +1,14 @@
+{
+  "job_id": "5438c2a3655b45c2",
+  "batch_id": "b41652c7dca74732",
+  "project": "test 1",
+  "timeline": "Day 1.6",
+  "timeline_id": "0B5F1D36-7A3D-4125-A0BF-239497868970",
+  "source_hash": "66adcf08cc7f0f6d70d21dcdb020f255aeb3bb92e2e8c1f690062c912a95d283",
+  "analysis_job_id": "da9792d07f664e7e",
+  "style_version": 1,
+  "status": "ready",
+  "existing_field": true,
+  "existing_text": "YOUR BIRTH MONTH IS \nYOUR MAGIC PILL  \nWHAT DID YOU GET?",
+  "duration": 103.933333
+}

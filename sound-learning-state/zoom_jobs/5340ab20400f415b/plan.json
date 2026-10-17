@@ -1,0 +1,235 @@
+{
+  "job_id": "5340ab20400f415b",
+  "source_hash": "0115fc57b31b0c5a1b26f27eb3a6ae68064bc639835490adb7fd9931125ecd1c",
+  "style_version": 14,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 14.666667,
+      "end": 16.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "oh heck January, God bless you",
+      "reason": "Hold the frowning January refusal through God bless you.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 15.03,
+        "text": "had",
+        "word_index": 4,
+        "offset_reason": "Start 0.36s before the cached had word on the caption oh-heck reaction (14.667s) that ASR missed; frame 14.7s shows the frowning refusal already under way."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.433333,
+      "end": 24.3,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "W, I'm happy with that",
+      "reason": "Full smiling grandma acceptance and its settling beat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.42,
+        "text": "W.",
+        "word_index": 12
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.366667,
+      "end": 41.0,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "million thousand, what the",
+      "reason": "Hold the million-dollar disbelief through what the.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.36,
+        "text": "million",
+        "word_index": 29
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 42.4,
+      "end": 44.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "oh heck nah, May not",
+      "reason": "Complete escaped-prisoner refusal and its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 42.39,
+        "text": "Oh,",
+        "word_index": 33
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 51.3,
+      "end": 52.6,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I don't trust that",
+      "reason": "Squinting distrust gesture held through the whole line.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 51.29,
+        "text": "I",
+        "word_index": 49
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 59.7,
+      "end": 61.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "heck nah",
+      "reason": "Open-mouth refusal of the creepy doll collector.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 59.7,
+        "text": "hack",
+        "word_index": 57
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 63.8,
+      "end": 65.4,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "you can pray",
+      "reason": "Smiling you-can-pray verdict held to its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 63.8,
+        "text": "You",
+        "word_index": 59
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 66.533333,
+      "end": 67.7,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Fire",
+      "reason": "Smirking fire approval of the free personal chef.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 66.53,
+        "text": "Fire!",
+        "word_index": 62
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 77.0,
+      "end": 78.3,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What?",
+      "reason": "Strong squint at the man watching for six months.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 77.01,
+        "text": "What?",
+        "word_index": 75
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 81.933333,
+      "end": 83.5,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "what the frick is that",
+      "reason": "Full basement-creature question and its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 81.92,
+        "text": "What",
+        "word_index": 84
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 91.3,
+      "end": 92.6,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "oh I guess not bad",
+      "reason": "Big smiling acceptance of the homeless guy option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 91.29,
+        "text": "Oh,",
+        "word_index": 94
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 98.8,
+      "end": 99.9,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Evil",
+      "reason": "Deadpan evil echo at the evil scientist reveal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 98.81,
+        "text": "Evil.",
+        "word_index": 104
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 103.066667,
+      "end": 104.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "oh heck naw",
+      "reason": "Final laughing refusal held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 103.08,
+        "text": "Oh,",
+        "word_index": 105
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

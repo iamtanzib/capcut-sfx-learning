@@ -1,0 +1,15 @@
+{
+  "job_id": "9f6af93efb254b33",
+  "batch_id": "3dcf8bac98fa4b75",
+  "project": "test 1",
+  "timeline": "Day 4.6",
+  "timeline_id": "46654AA4-629A-41ec-BDCA-AF89F8B2C74A",
+  "source_hash": "cefdfe48cb667ee49bb41e377d3799367bdced98c5a82fb1cd982b40e370b7c8",
+  "analysis_job_id": "637f338ea0c247fe",
+  "style_version": 8,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "YOUR BIRTH MONTH IS\nYOUR MIDNIGHT SNACK\nWHAT DID YOU GET?",
+  "duration": 104.0,
+  "applied_at": 1791912816.159054
+}

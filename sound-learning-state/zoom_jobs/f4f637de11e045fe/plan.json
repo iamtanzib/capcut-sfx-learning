@@ -1,0 +1,268 @@
+{
+  "job_id": "f4f637de11e045fe",
+  "source_hash": "389b800fb8691ca735619d572f91ff6e9c75f0a6f5cc5b84451ae04aeb8c040b",
+  "style_version": 22,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 10.4,
+      "end": 11.7,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "heck nah",
+      "reason": "Laughing pumpkin refusal held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 10.4,
+        "text": "heck",
+        "word_index": 4
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 12.033333,
+      "end": 13.5,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Yeah, you could go",
+      "reason": "Smiling door-fit roast held through go.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 12.04,
+        "text": "Yeah,",
+        "word_index": 6
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 24.6,
+      "end": 26.8,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "what the heck that's so weird, Flash",
+      "reason": "Amused question and Flash recognition in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 24.61,
+        "text": "what",
+        "word_index": 16
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.933333,
+      "end": 33.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "That's not even fair, but that's something I would do",
+      "reason": "Whole candy-stealing confession with the hands-up gesture.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.95,
+        "text": "That's",
+        "word_index": 23
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.466667,
+      "end": 41.1,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Hey, that works",
+      "reason": "Pirate acceptance held through works.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.45,
+        "text": "Hey",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 41.5,
+      "end": 43.3,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Luffy what the",
+      "reason": "Luffy recognition and what-the held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 41.49,
+        "text": "Luffy",
+        "word_index": 40
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 48.866667,
+      "end": 51.3,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh heck nah",
+      "reason": "Complete banana refusal held through nah.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 48.86,
+        "text": "Oh",
+        "word_index": 49
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 59.1,
+      "end": 60.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Finn",
+      "reason": "Finn recognition held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 59.09,
+        "text": "Finn",
+        "word_index": 58
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 63.1,
+      "end": 64.5,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "that's kind of fire",
+      "reason": "Big-smile Finn approval held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 63.09,
+        "text": "that's",
+        "word_index": 59
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 71.0,
+      "end": 73.0,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I don't know about that",
+      "reason": "Mild hold on the grinning toilet hesitation.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 70.99,
+        "text": "I",
+        "word_index": 63
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 80.466667,
+      "end": 82.6,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "heck no no no, that's weird",
+      "reason": "Laughing candy-corn refusal and weird tag together.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 80.45,
+        "text": "heck",
+        "word_index": 71
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 87.066667,
+      "end": 89.1,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "candy corn is not bad, come on",
+      "reason": "Candy-corn reversal held through come on.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 87.06,
+        "text": "candy",
+        "word_index": 79
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 91.0,
+      "end": 92.2,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "That's kind of fire",
+      "reason": "Smiling pizza approval held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 91,
+        "text": "That's",
+        "word_index": 86
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 95.133333,
+      "end": 97.0,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Yeah heck no. No sir",
+      "reason": "Alien refusal and no-sir in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 95.14,
+        "text": "Yeah,",
+        "word_index": 90
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 103.033333,
+      "end": 104.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Yeah no",
+      "reason": "Final yeah-no held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 103.02,
+        "text": "Yeah,",
+        "word_index": 95
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

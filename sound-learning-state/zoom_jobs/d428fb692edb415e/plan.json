@@ -1,0 +1,183 @@
+{
+  "job_id": "d428fb692edb415e",
+  "source_hash": "9db5268ed75247502cc5bc483d14ab2ac446b2e6e5ca67f83b9d1f3fb379d7eb",
+  "style_version": 18,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 12.233333,
+      "end": 13.7,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I could get all my money back",
+      "reason": "Money-back realization held through back.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 12.23,
+        "text": "I",
+        "word_index": 4
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.866667,
+      "end": 16.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "That's not bad, I'd probably do that",
+      "reason": "Whole not-bad acceptance in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.88,
+        "text": "That's",
+        "word_index": 11
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 18.133333,
+      "end": 19.3,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh yeah maybe",
+      "reason": "Mild hold on the hesitant maybe.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 18.14,
+        "text": "Oh,",
+        "word_index": 18
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.5,
+      "end": 24.8,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh yeah, I'm taking that away, I'm doing that",
+      "reason": "Smiling celebration and commitment held together.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.49,
+        "text": "Oh,",
+        "word_index": 21
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.066667,
+      "end": 27.4,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh wait wait",
+      "reason": "Wait-wait rethink at the injury option, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.08,
+        "text": "Oh,",
+        "word_index": 32
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 32.166667,
+      "end": 33.8,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "That might be the best one, I don't know",
+      "reason": "Pointing appraisal and qualification in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 32.16,
+        "text": "That",
+        "word_index": 36
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 34.933333,
+      "end": 36.3,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "You need mistakes",
+      "reason": "Hand-on-mouth smirk on the need-mistakes punchline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 34.94,
+        "text": "You",
+        "word_index": 45
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 38.533333,
+      "end": 42.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "the mistake one might be better, I don't know",
+      "reason": "Mild long hold on the thinking reconsideration.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 38.53,
+        "text": "Well,",
+        "word_index": 48
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 47.033333,
+      "end": 48.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "No, I don't know about that",
+      "reason": "Smiling no to the biggest-regret option, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 47.04,
+        "text": "No,",
+        "word_index": 62
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 53.366667,
+      "end": 54.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'm going first one",
+      "reason": "Final smirking first-button choice held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 53.37,
+        "text": "I'm",
+        "word_index": 68
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

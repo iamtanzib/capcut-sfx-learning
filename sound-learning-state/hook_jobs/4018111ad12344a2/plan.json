@@ -1,0 +1,25 @@
+{
+  "job_id": "4018111ad12344a2",
+  "source_hash": "d65937e3b18e2ab5626e1e922620bddbe6f74067ecbc3d04ef2144bb13d98618",
+  "style_version": 1,
+  "hook": {
+    "text": "YOUR BIRTH MONTH IS\nYOUR PUMPKIN PATCH\nWHAT DID YOU GET?",
+    "highlight_phrases": [
+      "PUMPKIN PATCH"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "It's fall, and your birth month is your pumpkin patch. What pumpkin patch did you get?"
+    },
+    "reason": "Keep the actual birth-month-to-pumpkin-patch premise and what-did-you-get question, using the native settings. User explicitly approved replacing the unrelated punishment title.",
+    "action": "replace_existing",
+    "replace_existing": true
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly replied: হ্যাঁ, চারটার title বদলে দাও",
+    "review": "Native Rubik-Bold text preview inspected for all lines/colors; wording is grounded in main intro and fits the calibrated width. Original typography, placement and timing preserved."
+  }
+}

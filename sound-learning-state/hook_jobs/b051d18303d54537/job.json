@@ -1,0 +1,14 @@
+{
+  "job_id": "b051d18303d54537",
+  "batch_id": "b41652c7dca74732",
+  "project": "test 1",
+  "timeline": "Day 1.5",
+  "timeline_id": "26AED1E3-C262-4305-8167-BED7F8650865",
+  "source_hash": "53a57b82c5c167f195e90881d8e7c2b4f55905315de897bdeca4cfbe912af049",
+  "analysis_job_id": "5629d3c2bd774def",
+  "style_version": 1,
+  "status": "ready",
+  "existing_field": true,
+  "existing_text": "THE WORLD GETS A \nNEW CURRENCY  \nWHAT ARE YOU PICKING?",
+  "duration": 64.0
+}

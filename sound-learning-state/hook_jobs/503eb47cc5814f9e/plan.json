@@ -1,0 +1,24 @@
+{
+  "job_id": "503eb47cc5814f9e",
+  "source_hash": "2a560f6e11ace1102323e6aa4f65ff5231f29841823ce2683b03bef4c6260d56",
+  "style_version": 8,
+  "hook": {
+    "text": "YOU'RE MOVING TO\nA NEW COUNTRY\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "NEW COUNTRY"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "you're moving to a new country. But each country has certain rules. Which country are"
+    },
+    "reason": "Keep the new-country topic and which-country choice question; shortened to fit the native width.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User explicitly chose 'Replace all 4' in chat on 2026-10-14 for the leftover WHO RAISED YOU title."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "job_id": "7ad2d44f2c3f445a",
+  "source_hash": "c1d31e9ba2838cdcd0d99212162b5fddba3517b67a9ef77121cadc4d33069f75",
+  "style_version": 11,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 9.933333,
+      "end": 11.533333,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "Oh yeah for sure, what",
+      "reason": "Hold the mountain acceptance and short attached surprise through its settling beat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 9.92,
+        "text": "Oh,",
+        "word_index": 5
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 13.266667,
+      "end": 16.266667,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "And I get a jet, heck yeah bro, that's Avengers",
+      "reason": "One closeup covers the whole jet celebration and Avengers comparison, resetting before the waterfall response.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 13.27,
+        "text": "And",
+        "word_index": 10
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.566667,
+      "end": 24.3,
+      "scale": 1.26,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "That might be better, that might be better",
+      "reason": "Keep both connected speedboat appraisals in a single hold; leave the earlier waterfall oh at baseline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.56,
+        "text": "That",
+        "word_index": 27
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 25.833333,
+      "end": 27.666667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "What, underneath McDonald's or something",
+      "reason": "Hold the complete fast-food-location question; no late noun-only punch-in.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 25.82,
+        "text": "what",
+        "word_index": 36
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.166667,
+      "end": 32.866667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Hey it's unlimited food",
+      "reason": "Cover the delighted food reaction and clap; reset before the frozen-garage explanation.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.16,
+        "text": "Hey,",
+        "word_index": 42
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 38.4,
+      "end": 40.266667,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "Ooh, ah no, I'm going waterfall",
+      "reason": "Exact 38.4 frame supports the expression despite unreliable ASR for the initial ooh and choice polarity. Use visual anchoring and no uncertain SFX attack.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 38.89,
+        "text": "I'm",
+        "word_index": 48,
+        "offset_reason": "Deliberately lead the cached I'm at 38.89 by 0.49s, starting on the exact inspected 38.4 expressive rounded-mouth frame. This is a verified visual hold start; no precise onset is claimed for the ASR-missed ooh."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 41.533333,
+      "end": 43.9,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "What the heck nah",
+      "reason": "Hold the entire ocean-headquarters objection and face settling.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 41.55,
+        "text": "What",
+        "word_index": 53
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.533333,
+      "end": 47.933333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "That's too scary, I'm not doing that, I'm good",
+      "reason": "Keep the complete connected personal refusal together; baseline reset for desert.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.54,
+        "text": "That's",
+        "word_index": 57
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 50.033333,
+      "end": 51.2,
+      "scale": 1.33,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "What the",
+      "reason": "Cover the discrete desert-reveal burst with a natural settling hold; final short fire appraisal remains at baseline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 50.04,
+        "text": "What",
+        "word_index": 68
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "framing_reviewed": true,
+    "unresolved": [],
+    "hold_policy": "Cover each complete meaningful reaction and settling expression; baseline reset before the next unrelated reaction. Holds are independent of SFX tails.",
+    "framing_notes": "Inspected baseline/onset/end sheet for every planned zoom. Hair and eyes stay visible, actor expressions and relevant gestures remain within the upper pane, lower footage stays unchanged, and baseline resets retain the complete reaction."
+  }
+}

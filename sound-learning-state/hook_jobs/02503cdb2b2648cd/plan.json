@@ -1,0 +1,25 @@
+{
+  "job_id": "02503cdb2b2648cd",
+  "source_hash": "9121ca36cd1a124dd56552ed321f32e24d19718591fbe2522f3ec310efb59044",
+  "style_version": 1,
+  "hook": {
+    "text": "FREE FOOD FOR LIFE\nPICK WHO YOU EAT WITH\nWHO ARE YOU CHOOSING?",
+    "highlight_phrases": [
+      "FREE FOOD"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You get free food for life, but every time you're hungry, you got to eat with one of these people. Who are you choosing?"
+    },
+    "reason": "Keep the lifetime free-food benefit conditional on choosing an eating partner, and retain the actual choice question. User explicitly approved replacing the copied title.",
+    "action": "replace_existing",
+    "replace_existing": true
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly replied: হ্যাঁ, চারটার title বদলে দাও",
+    "review": "Native Rubik-Bold text preview inspected for all lines/colors; wording is grounded in main intro and fits the calibrated width. Original typography, placement and timing preserved."
+  }
+}

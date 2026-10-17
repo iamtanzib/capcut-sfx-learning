@@ -1,0 +1,23 @@
+{
+  "job_id": "9f6af93efb254b33",
+  "source_hash": "cefdfe48cb667ee49bb41e377d3799367bdced98c5a82fb1cd982b40e370b7c8",
+  "style_version": 8,
+  "hook": {
+    "text": "YOUR BIRTH MONTH\nPICKS WHO RAISED YOU\nWHO DID YOU GET?",
+    "highlight_phrases": [
+      "WHO RAISED YOU"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Your birth month is who raised you?"
+    },
+    "reason": "Replace the leftover midnight-snack title with the new video's actual birth-month premise and question.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true
+  }
+}

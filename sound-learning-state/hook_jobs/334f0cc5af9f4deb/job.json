@@ -1,0 +1,15 @@
+{
+  "job_id": "334f0cc5af9f4deb",
+  "batch_id": "d3c97e202d544be1",
+  "project": "test 1",
+  "timeline": "Day 4.2",
+  "timeline_id": "8D8FF002-4594-4c3b-B362-C50B45942AB4",
+  "source_hash": "c1d31e9ba2838cdcd0d99212162b5fddba3517b67a9ef77121cadc4d33069f75",
+  "analysis_job_id": "373100e5361a4787",
+  "style_version": 5,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "ONLY ONE WORD\nFOR 24 HOURS\nWHICH WILL YOU PICK?",
+  "duration": 56.0,
+  "applied_at": 1791886925.8086736
+}

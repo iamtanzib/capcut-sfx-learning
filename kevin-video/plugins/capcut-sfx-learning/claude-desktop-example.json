@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "capcut-sfx-learning": {
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "C:\\PATH\\capcut-sfx-learning\\launch.ps1"
+      ]
+    }
+  }
+}

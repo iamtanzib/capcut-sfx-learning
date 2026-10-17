@@ -1,0 +1,271 @@
+{
+  "job_id": "ae1c971cd87640e1",
+  "source_hash": "af94da46e8392fc77d23e49bca525d236da60cbdb13ac2ae39c887f2f54798d5",
+  "style_version": 7,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 10.533333,
+      "end": 11.666667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.055,
+      "dialogue": "Oh heck no",
+      "reason": "Hold the completed pickle refusal; omit the early ASR Oh.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 10.54,
+        "text": "Hacknow.",
+        "word_index": 4
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 13.533333,
+      "end": 15.5,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "Pickles are good, not bad",
+      "reason": "One closeup covers the revised positive pickle appraisal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 13.55,
+        "text": "pickles",
+        "word_index": 7
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 18.666667,
+      "end": 20.266667,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh yes sir",
+      "reason": "Cover the full enthusiastic personal February reveal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 18.66,
+        "text": "Oh,",
+        "word_index": 16
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.2,
+      "end": 27.8,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh heck no",
+      "reason": "Hold the sardine refusal and expression before the narrator odor line.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.2,
+        "text": "Oh,",
+        "word_index": 26
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.266667,
+      "end": 31.8,
+      "scale": 1.26,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "March God bless you",
+      "reason": "Keep the dry blessing intact and let the face settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.26,
+        "text": "March.",
+        "word_index": 29
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 36.933333,
+      "end": 38.5,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "That looks so good",
+      "reason": "Preserve the full fruit appraisal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 36.92,
+        "text": "But",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 42.333333,
+      "end": 43.6,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.065,
+      "dialogue": "What, calculator",
+      "reason": "The complete surprised calculator reaction gets the strongest closeup in this section.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 42.34,
+        "text": "What?",
+        "word_index": 39
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.133333,
+      "end": 46.533333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.055,
+      "dialogue": "Eat a calculator",
+      "reason": "Cover the clearly timed eat-a-calculator part; omit the inaccurate opening words.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.14,
+        "text": "eat",
+        "word_index": 42
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 47.7,
+      "end": 48.333333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "May's cooked",
+      "reason": "Include the entire short roast and settling response.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 47.69,
+        "text": "Mase",
+        "word_index": 45
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 66.3,
+      "end": 67.9,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.055,
+      "dialogue": "August you're cooked",
+      "reason": "One hold for the packing-material recipient roast.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 66.29,
+        "text": "Pro",
+        "word_index": 54
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 69.4,
+      "end": 71.266667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Pray August",
+      "reason": "Keep the whole prayer through the recipient name.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 69.41,
+        "text": "pray",
+        "word_index": 58
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 77.333333,
+      "end": 79.933333,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "September trade with me, trade please",
+      "reason": "Hold the complete trade plea rather than a late please syllable.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 77.35,
+        "text": "trade",
+        "word_index": 62
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 84.533333,
+      "end": 87.5,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "I'd be pissed, I'd be mad",
+      "reason": "A single extended reaction covers both connected foam-toy complaints.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 84.52,
+        "text": "be",
+        "word_index": 68
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 89.0,
+      "end": 90.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Ooh, mac and cheese",
+      "reason": "Punch in on the inspected open-mouth expression at 89.0s and hold the continuing reaction through its settling beat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 88.22,
+        "text": "ooh",
+        "word_index": 73,
+        "offset_reason": "Deliberately start on the exact 89.0s inspected open-mouth mac-and-cheese reaction; the ASR ooh spans an earlier onset and is not claimed as precise vocal attack."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 102.6,
+      "end": 104.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "Bro you're lucky",
+      "reason": "Hold the closing cake appraisal to the finish.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 102.61,
+        "text": "you're",
+        "word_index": 79
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "hold_policy": "Complete phrases plus natural settling; duration chosen separately from SFX tails. Misaligned early words omitted.",
+    "framing_review": "Every baseline/onset/end preview inspected; hair, eyes, expressive gestures and split boundary remain legible. Complete phrase holds and baseline resets reviewed."
+  }
+}

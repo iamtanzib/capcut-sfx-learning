@@ -1,0 +1,167 @@
+{
+  "job_id": "e215e948615b41bf",
+  "source_hash": "f18790727eafcdc243c0dfece4597ff06c489502e4a10fcabc4996b48c8a48de",
+  "style_version": 22,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 9.6,
+      "end": 10.8,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Bruh",
+      "reason": "Pouting shopping-cart bruh held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 9.6,
+        "text": "Bruh.",
+        "word_index": 5
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.966667,
+      "end": 18.0,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I could make it with that, Ms. Frizzle",
+      "reason": "Whole Ms. Frizzle joke in one connected hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.98,
+        "text": "I",
+        "word_index": 6
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.766667,
+      "end": 24.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'll just fly",
+      "reason": "Grimacing I'll-just-fly comeback held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.76,
+        "text": "I'll",
+        "word_index": 15
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.2,
+      "end": 32.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "The cavities",
+      "reason": "Smiling cavities remark held through the grin.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.19,
+        "text": "cavities,",
+        "word_index": 20
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.333333,
+      "end": 40.8,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I could stay in that bowl",
+      "reason": "Toilet-bowl acceptance joke held through bowl.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.35,
+        "text": "I",
+        "word_index": 24
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 41.933333,
+      "end": 43.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Easy",
+      "reason": "Confident easy held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 41.95,
+        "text": "Easy.",
+        "word_index": 30
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.1,
+      "end": 46.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Yes",
+      "reason": "Smiling free-food yes held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.1,
+        "text": "Yes.",
+        "word_index": 31
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.933333,
+      "end": 48.4,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh, okay, that would cook me",
+      "reason": "Glass-crack realization and cooked punchline in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 46.94,
+        "text": "Oh.",
+        "word_index": 32
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 49.7,
+      "end": 51.0,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "dog what",
+      "reason": "Open-mouth what at the space turtle, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 48.85,
+        "text": "What?",
+        "word_index": 38,
+        "offset_reason": "ASR stretches What over 48.85-50.11; caption 14 starts 49.767 and frame 49.9 shows the open-mouth reaction, so the hold starts there."
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

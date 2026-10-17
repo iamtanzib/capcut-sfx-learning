@@ -1,0 +1,133 @@
+{
+  "job_id": "3ac58324e0394f6f",
+  "source_hash": "9121ca36cd1a124dd56552ed321f32e24d19718591fbe2522f3ec310efb59044",
+  "style_version": 5,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 12.333333,
+      "end": 13.5,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I need my food",
+      "reason": "Keep the dry food-theft complaint personal and restrained.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 12.32,
+        "text": "need",
+        "word_index": 9
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 19.466667,
+      "end": 20.2,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.075,
+      "dialogue": "heck no",
+      "reason": "Reaction to the farting eater; baseline before the next option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 19.46,
+        "text": "not,",
+        "word_index": 18
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 29.266667,
+      "end": 30.766667,
+      "scale": 1.22,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "I'll eat with him",
+      "reason": "Mild closeup through the repeated acceptance, without two separate zooms.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 29.27,
+        "text": "eat",
+        "word_index": 26
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 35.666667,
+      "end": 36.766667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.085,
+      "dialogue": "definitely not",
+      "reason": "Complete refusal of the talking partner.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 35.66,
+        "text": "definitely",
+        "word_index": 38
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.666667,
+      "end": 46.666667,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.11,
+      "dialogue": "Why is it white",
+      "reason": "The skeptical facial expression is the payoff to the spitting scene.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.65,
+        "text": "Why",
+        "word_index": 46
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.566667,
+      "end": 56.266667,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I won't",
+      "reason": "Brief definite refusal after the odor reassurance.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.56,
+        "text": "won't.",
+        "word_index": 55
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 63.033333,
+      "end": 64.0,
+      "scale": 1.2,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "That works",
+      "reason": "Restrained closing acceptance, returning at the end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 63.03,
+        "text": "works.",
+        "word_index": 58
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "review": "Every baseline/onset/end and the adjusted actor framing were visually inspected. Hair, eyes, mouth and relevant gestures remain readable; reset boundaries and distinct reaction timing reviewed. Native CapCut overlays/effects playback remains unverified."
+  }
+}

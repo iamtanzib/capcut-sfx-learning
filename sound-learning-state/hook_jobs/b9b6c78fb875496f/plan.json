@@ -1,0 +1,24 @@
+{
+  "job_id": "b9b6c78fb875496f",
+  "source_hash": "0115fc57b31b0c5a1b26f27eb3a6ae68064bc639835490adb7fd9931125ecd1c",
+  "style_version": 8,
+  "hook": {
+    "text": "YOUR BIRTH MONTH IS\nWHO BROKE IN\nWHO DID YOU GET?",
+    "highlight_phrases": [
+      "BROKE IN"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Your birth month is who broke into your house?"
+    },
+    "reason": "Keep the actual birth-month burglar topic and who-did-you-get question; rebroken to fit the native width.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User explicitly chose 'Replace all 4' in chat on 2026-10-14 for the leftover WHO RAISED YOU title."
+  }
+}

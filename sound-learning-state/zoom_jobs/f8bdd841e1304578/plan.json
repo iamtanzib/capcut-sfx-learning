@@ -1,0 +1,133 @@
+{
+  "job_id": "f8bdd841e1304578",
+  "source_hash": "7b616d0f4fe0aae28f94091a518ad0b66026b1ae6a20218ac223c2841d93f9c5",
+  "style_version": 5,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 15.566667,
+      "end": 16.533333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "not worth it",
+      "reason": "Short completed rejection of lifespan loss, then baseline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 15.57,
+        "text": "not",
+        "word_index": 8
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.733333,
+      "end": 24.533333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "that's bad; definitely not",
+      "reason": "Hold the completed loved-ones objection, including the refusal, and reset for the money drink.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.74,
+        "text": "bad.",
+        "word_index": 16
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 25.366667,
+      "end": 26.4,
+      "scale": 1.22,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "50 mil",
+      "reason": "Mild reaction closeup on the surprising amount.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 25.38,
+        "text": "50",
+        "word_index": 21
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.8,
+      "end": 32.333333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "what's the point",
+      "reason": "Dry memory-loss question; release before the next benefit explanation.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.81,
+        "text": "what's",
+        "word_index": 25
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 38.866667,
+      "end": 40.5,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.09,
+      "dialogue": "I need mistakes; you need mistakes",
+      "reason": "Emphasize the actor's personal contrarian payoff and expressive hand gesture.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 38.87,
+        "text": "need",
+        "word_index": 31
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 51.133333,
+      "end": 52.266667,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.085,
+      "dialogue": "What the",
+      "reason": "Immediate resurrection disbelief, kept shorter than the doom-bell ending.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 51.13,
+        "text": "What",
+        "word_index": 44
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.466667,
+      "end": 55.466667,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "yeah nah",
+      "reason": "The final refusal of a fatal exchange deserves a closing reaction, not automatic silence.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.46,
+        "text": "yeah,",
+        "word_index": 47
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "review": "Every baseline/onset/end and the adjusted actor framing were visually inspected. Hair, eyes, mouth and relevant gestures remain readable; reset boundaries and distinct reaction timing reviewed. Native CapCut overlays/effects playback remains unverified."
+  }
+}

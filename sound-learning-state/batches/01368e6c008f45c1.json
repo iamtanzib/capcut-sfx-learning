@@ -1,0 +1,11 @@
+{
+  "batch_id": "01368e6c008f45c1",
+  "jobs": [
+    "ce7c547c80024566",
+    "1bc71e7c12624a07",
+    "d5bb60c15e5d44a0",
+    "8390aca0814d499a"
+  ],
+  "workers": 2,
+  "style_version": 21
+}

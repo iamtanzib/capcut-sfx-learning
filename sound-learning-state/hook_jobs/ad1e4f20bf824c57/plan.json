@@ -1,0 +1,24 @@
+{
+  "job_id": "ad1e4f20bf824c57",
+  "source_hash": "4d56c6c44f38af932dc0176c062bdd883db3f124088a2bbcecd38d1232f26ca7",
+  "style_version": 8,
+  "hook": {
+    "text": "YOU GOT STRAIGHT F'S\nWHERE ARE YOU HIDING\nYOUR REPORT CARD?",
+    "highlight_phrases": [
+      "STRAIGHT F'S"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "I'm not gonna lie, you suck at school, you got straight F's, your mom's gonna see this,"
+    },
+    "reason": "Keep the straight-F report card and where-are-you-hiding-it question from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User explicitly chose 'Replace all 4' in chat on 2026-10-14 for the leftover WHO RAISED YOU title."
+  }
+}

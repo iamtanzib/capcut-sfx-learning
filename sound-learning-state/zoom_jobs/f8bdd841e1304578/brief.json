@@ -1,0 +1,3608 @@
+{
+  "job_id": "f8bdd841e1304578",
+  "timeline": "Day2.1",
+  "duration": 55.666666,
+  "dialogue": {
+    "tracks": [
+      {
+        "role": "video_track_1",
+        "speech": [
+          {
+            "start": 1.36,
+            "end": 5.77,
+            "text": "Okay, oh",
+            "words": [
+              {
+                "start": 1.36,
+                "end": 1.86,
+                "text": "Okay,",
+                "word_index": 0
+              },
+              {
+                "start": 5.51,
+                "end": 5.77,
+                "text": "oh",
+                "word_index": 1
+              }
+            ]
+          },
+          {
+            "start": 7.24,
+            "end": 24.38,
+            "text": "Let's see. Okay. Oh, yeah, it's not worth it. Okay. I don't die. That's bad. I know definitely not",
+            "words": [
+              {
+                "start": 7.24,
+                "end": 7.76,
+                "text": "Let's",
+                "word_index": 2
+              },
+              {
+                "start": 7.76,
+                "end": 7.9,
+                "text": "see.",
+                "word_index": 3
+              },
+              {
+                "start": 9.34,
+                "end": 9.78,
+                "text": "Okay.",
+                "word_index": 4
+              },
+              {
+                "start": 14.55,
+                "end": 15.07,
+                "text": "Oh,",
+                "word_index": 5
+              },
+              {
+                "start": 15.15,
+                "end": 15.35,
+                "text": "yeah,",
+                "word_index": 6
+              },
+              {
+                "start": 15.53,
+                "end": 15.57,
+                "text": "it's",
+                "word_index": 7
+              },
+              {
+                "start": 15.57,
+                "end": 15.67,
+                "text": "not",
+                "word_index": 8
+              },
+              {
+                "start": 15.67,
+                "end": 15.83,
+                "text": "worth",
+                "word_index": 9
+              },
+              {
+                "start": 15.83,
+                "end": 16.01,
+                "text": "it.",
+                "word_index": 10
+              },
+              {
+                "start": 17.27,
+                "end": 17.79,
+                "text": "Okay.",
+                "word_index": 11
+              },
+              {
+                "start": 17.83,
+                "end": 17.89,
+                "text": "I",
+                "word_index": 12
+              },
+              {
+                "start": 17.89,
+                "end": 18.07,
+                "text": "don't",
+                "word_index": 13
+              },
+              {
+                "start": 18.07,
+                "end": 18.25,
+                "text": "die.",
+                "word_index": 14
+              },
+              {
+                "start": 22.24,
+                "end": 22.74,
+                "text": "That's",
+                "word_index": 15
+              },
+              {
+                "start": 22.74,
+                "end": 22.98,
+                "text": "bad.",
+                "word_index": 16
+              },
+              {
+                "start": 23.46,
+                "end": 23.48,
+                "text": "I",
+                "word_index": 17
+              },
+              {
+                "start": 23.48,
+                "end": 23.76,
+                "text": "know",
+                "word_index": 18
+              },
+              {
+                "start": 23.76,
+                "end": 24.14,
+                "text": "definitely",
+                "word_index": 19
+              },
+              {
+                "start": 24.14,
+                "end": 24.38,
+                "text": "not",
+                "word_index": 20
+              }
+            ]
+          },
+          {
+            "start": 25.38,
+            "end": 31.950001,
+            "text": "50 mil. Okay, so what's the point? I?",
+            "words": [
+              {
+                "start": 25.38,
+                "end": 25.68,
+                "text": "50",
+                "word_index": 21
+              },
+              {
+                "start": 25.68,
+                "end": 25.98,
+                "text": "mil.",
+                "word_index": 22
+              },
+              {
+                "start": 27.49,
+                "end": 28.01,
+                "text": "Okay,",
+                "word_index": 23
+              },
+              {
+                "start": 28.01,
+                "end": 29.05,
+                "text": "so",
+                "word_index": 24
+              },
+              {
+                "start": 30.81,
+                "end": 30.97,
+                "text": "what's",
+                "word_index": 25
+              },
+              {
+                "start": 30.97,
+                "end": 31.03,
+                "text": "the",
+                "word_index": 26
+              },
+              {
+                "start": 31.03,
+                "end": 31.29,
+                "text": "point?",
+                "word_index": 27
+              },
+              {
+                "start": 31.95,
+                "end": 31.950001,
+                "text": "I?",
+                "word_index": 28
+              }
+            ]
+          },
+          {
+            "start": 36.1,
+            "end": 54.88,
+            "text": "Okay, I need mistakes. You need mistakes. Okay. I'll do that by only 30 minutes. What the? Oh, yeah, nah",
+            "words": [
+              {
+                "start": 36.1,
+                "end": 36.62,
+                "text": "Okay,",
+                "word_index": 29
+              },
+              {
+                "start": 38.35,
+                "end": 38.87,
+                "text": "I",
+                "word_index": 30
+              },
+              {
+                "start": 38.87,
+                "end": 39.03,
+                "text": "need",
+                "word_index": 31
+              },
+              {
+                "start": 39.03,
+                "end": 39.25,
+                "text": "mistakes.",
+                "word_index": 32
+              },
+              {
+                "start": 39.59,
+                "end": 39.61,
+                "text": "You",
+                "word_index": 33
+              },
+              {
+                "start": 39.61,
+                "end": 39.73,
+                "text": "need",
+                "word_index": 34
+              },
+              {
+                "start": 39.73,
+                "end": 39.97,
+                "text": "mistakes.",
+                "word_index": 35
+              },
+              {
+                "start": 42.87,
+                "end": 43.39,
+                "text": "Okay.",
+                "word_index": 36
+              },
+              {
+                "start": 47.0,
+                "end": 47.34,
+                "text": "I'll",
+                "word_index": 37
+              },
+              {
+                "start": 47.34,
+                "end": 47.44,
+                "text": "do",
+                "word_index": 38
+              },
+              {
+                "start": 47.44,
+                "end": 47.6,
+                "text": "that",
+                "word_index": 39
+              },
+              {
+                "start": 47.6,
+                "end": 47.76,
+                "text": "by",
+                "word_index": 40
+              },
+              {
+                "start": 47.76,
+                "end": 47.88,
+                "text": "only",
+                "word_index": 41
+              },
+              {
+                "start": 47.88,
+                "end": 48.04,
+                "text": "30",
+                "word_index": 42
+              },
+              {
+                "start": 48.04,
+                "end": 48.3,
+                "text": "minutes.",
+                "word_index": 43
+              },
+              {
+                "start": 51.13,
+                "end": 51.41,
+                "text": "What",
+                "word_index": 44
+              },
+              {
+                "start": 51.41,
+                "end": 51.65,
+                "text": "the?",
+                "word_index": 45
+              },
+              {
+                "start": 54.24,
+                "end": 54.28,
+                "text": "Oh,",
+                "word_index": 46
+              },
+              {
+                "start": 54.46,
+                "end": 54.56,
+                "text": "yeah,",
+                "word_index": 47
+              },
+              {
+                "start": 54.8,
+                "end": 54.88,
+                "text": "nah",
+                "word_index": 48
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "video_track_2",
+        "speech": [
+          {
+            "start": 0.0,
+            "end": 1.42,
+            "text": "Choose one of these magic drinks.",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.16,
+                "text": "Choose",
+                "word_index": 0
+              },
+              {
+                "start": 0.16,
+                "end": 0.46,
+                "text": "one",
+                "word_index": 1
+              },
+              {
+                "start": 0.46,
+                "end": 0.58,
+                "text": "of",
+                "word_index": 2
+              },
+              {
+                "start": 0.58,
+                "end": 0.7,
+                "text": "these",
+                "word_index": 3
+              },
+              {
+                "start": 0.7,
+                "end": 1.1,
+                "text": "magic",
+                "word_index": 4
+              },
+              {
+                "start": 1.1,
+                "end": 1.42,
+                "text": "drinks.",
+                "word_index": 5
+              }
+            ]
+          },
+          {
+            "start": 1.94,
+            "end": 3.6,
+            "text": "Each drink gives you an insane power,",
+            "words": [
+              {
+                "start": 1.94,
+                "end": 2.06,
+                "text": "Each",
+                "word_index": 6
+              },
+              {
+                "start": 2.06,
+                "end": 2.34,
+                "text": "drink",
+                "word_index": 7
+              },
+              {
+                "start": 2.34,
+                "end": 2.6,
+                "text": "gives",
+                "word_index": 8
+              },
+              {
+                "start": 2.6,
+                "end": 2.72,
+                "text": "you",
+                "word_index": 9
+              },
+              {
+                "start": 2.72,
+                "end": 2.84,
+                "text": "an",
+                "word_index": 10
+              },
+              {
+                "start": 2.84,
+                "end": 3.2,
+                "text": "insane",
+                "word_index": 11
+              },
+              {
+                "start": 3.2,
+                "end": 3.6,
+                "text": "power,",
+                "word_index": 12
+              }
+            ]
+          },
+          {
+            "start": 3.62,
+            "end": 5.52,
+            "text": "but comes with a terrible side effect.",
+            "words": [
+              {
+                "start": 3.62,
+                "end": 4.0,
+                "text": "but",
+                "word_index": 13
+              },
+              {
+                "start": 4.0,
+                "end": 4.22,
+                "text": "comes",
+                "word_index": 14
+              },
+              {
+                "start": 4.22,
+                "end": 4.42,
+                "text": "with",
+                "word_index": 15
+              },
+              {
+                "start": 4.42,
+                "end": 4.5,
+                "text": "a",
+                "word_index": 16
+              },
+              {
+                "start": 4.5,
+                "end": 4.96,
+                "text": "terrible",
+                "word_index": 17
+              },
+              {
+                "start": 4.96,
+                "end": 5.32,
+                "text": "side",
+                "word_index": 18
+              },
+              {
+                "start": 5.32,
+                "end": 5.52,
+                "text": "effect.",
+                "word_index": 19
+              }
+            ]
+          },
+          {
+            "start": 6.04,
+            "end": 7.1,
+            "text": "Which one are you drinking?",
+            "words": [
+              {
+                "start": 6.04,
+                "end": 6.24,
+                "text": "Which",
+                "word_index": 20
+              },
+              {
+                "start": 6.24,
+                "end": 6.5,
+                "text": "one",
+                "word_index": 21
+              },
+              {
+                "start": 6.5,
+                "end": 6.72,
+                "text": "are",
+                "word_index": 22
+              },
+              {
+                "start": 6.72,
+                "end": 6.86,
+                "text": "you",
+                "word_index": 23
+              },
+              {
+                "start": 6.86,
+                "end": 7.1,
+                "text": "drinking?",
+                "word_index": 24
+              }
+            ]
+          },
+          {
+            "start": 7.9,
+            "end": 9.02,
+            "text": "The time travel drink.",
+            "words": [
+              {
+                "start": 7.9,
+                "end": 8.06,
+                "text": "The",
+                "word_index": 25
+              },
+              {
+                "start": 8.06,
+                "end": 8.38,
+                "text": "time",
+                "word_index": 26
+              },
+              {
+                "start": 8.38,
+                "end": 8.78,
+                "text": "travel",
+                "word_index": 27
+              },
+              {
+                "start": 8.78,
+                "end": 9.02,
+                "text": "drink.",
+                "word_index": 28
+              }
+            ]
+          },
+          {
+            "start": 9.62,
+            "end": 11.26,
+            "text": "You can travel to any point in time,",
+            "words": [
+              {
+                "start": 9.62,
+                "end": 9.68,
+                "text": "You",
+                "word_index": 29
+              },
+              {
+                "start": 9.68,
+                "end": 9.78,
+                "text": "can",
+                "word_index": 30
+              },
+              {
+                "start": 9.78,
+                "end": 10.0,
+                "text": "travel",
+                "word_index": 31
+              },
+              {
+                "start": 10.0,
+                "end": 10.22,
+                "text": "to",
+                "word_index": 32
+              },
+              {
+                "start": 10.22,
+                "end": 10.5,
+                "text": "any",
+                "word_index": 33
+              },
+              {
+                "start": 10.5,
+                "end": 10.84,
+                "text": "point",
+                "word_index": 34
+              },
+              {
+                "start": 10.84,
+                "end": 11.0,
+                "text": "in",
+                "word_index": 35
+              },
+              {
+                "start": 11.0,
+                "end": 11.26,
+                "text": "time,",
+                "word_index": 36
+              }
+            ]
+          },
+          {
+            "start": 11.56,
+            "end": 14.92,
+            "text": "but every jump takes one year off your life.",
+            "words": [
+              {
+                "start": 11.56,
+                "end": 11.76,
+                "text": "but",
+                "word_index": 37
+              },
+              {
+                "start": 11.76,
+                "end": 12.14,
+                "text": "every",
+                "word_index": 38
+              },
+              {
+                "start": 12.14,
+                "end": 12.5,
+                "text": "jump",
+                "word_index": 39
+              },
+              {
+                "start": 12.5,
+                "end": 12.82,
+                "text": "takes",
+                "word_index": 40
+              },
+              {
+                "start": 12.82,
+                "end": 13.28,
+                "text": "one",
+                "word_index": 41
+              },
+              {
+                "start": 13.28,
+                "end": 14.08,
+                "text": "year",
+                "word_index": 42
+              },
+              {
+                "start": 14.08,
+                "end": 14.44,
+                "text": "off",
+                "word_index": 43
+              },
+              {
+                "start": 14.44,
+                "end": 14.62,
+                "text": "your",
+                "word_index": 44
+              },
+              {
+                "start": 14.62,
+                "end": 14.92,
+                "text": "life.",
+                "word_index": 45
+              }
+            ]
+          },
+          {
+            "start": 16.03,
+            "end": 17.27,
+            "text": "The forever young drink.",
+            "words": [
+              {
+                "start": 16.03,
+                "end": 16.11,
+                "text": "The",
+                "word_index": 46
+              },
+              {
+                "start": 16.11,
+                "end": 16.31,
+                "text": "forever",
+                "word_index": 47
+              },
+              {
+                "start": 16.31,
+                "end": 16.89,
+                "text": "young",
+                "word_index": 48
+              },
+              {
+                "start": 16.89,
+                "end": 17.27,
+                "text": "drink.",
+                "word_index": 49
+              }
+            ]
+          },
+          {
+            "start": 17.87,
+            "end": 18.97,
+            "text": "You'll never age again,",
+            "words": [
+              {
+                "start": 17.87,
+                "end": 18.01,
+                "text": "You'll",
+                "word_index": 50
+              },
+              {
+                "start": 18.01,
+                "end": 18.27,
+                "text": "never",
+                "word_index": 51
+              },
+              {
+                "start": 18.27,
+                "end": 18.65,
+                "text": "age",
+                "word_index": 52
+              },
+              {
+                "start": 18.65,
+                "end": 18.97,
+                "text": "again,",
+                "word_index": 53
+              }
+            ]
+          },
+          {
+            "start": 19.27,
+            "end": 21.99,
+            "text": "but everyone you love ages twice as fast.",
+            "words": [
+              {
+                "start": 19.27,
+                "end": 19.51,
+                "text": "but",
+                "word_index": 54
+              },
+              {
+                "start": 19.51,
+                "end": 19.97,
+                "text": "everyone",
+                "word_index": 55
+              },
+              {
+                "start": 19.97,
+                "end": 20.25,
+                "text": "you",
+                "word_index": 56
+              },
+              {
+                "start": 20.25,
+                "end": 20.53,
+                "text": "love",
+                "word_index": 57
+              },
+              {
+                "start": 20.53,
+                "end": 21.07,
+                "text": "ages",
+                "word_index": 58
+              },
+              {
+                "start": 21.07,
+                "end": 21.45,
+                "text": "twice",
+                "word_index": 59
+              },
+              {
+                "start": 21.45,
+                "end": 21.75,
+                "text": "as",
+                "word_index": 60
+              },
+              {
+                "start": 21.75,
+                "end": 21.99,
+                "text": "fast.",
+                "word_index": 61
+              }
+            ]
+          },
+          {
+            "start": 23.78,
+            "end": 25.4,
+            "text": "The $50 million drink.",
+            "words": [
+              {
+                "start": 23.78,
+                "end": 24.12,
+                "text": "The",
+                "word_index": 62
+              },
+              {
+                "start": 24.12,
+                "end": 24.54,
+                "text": "$50",
+                "word_index": 63
+              },
+              {
+                "start": 24.54,
+                "end": 24.84,
+                "text": "million",
+                "word_index": 64
+              },
+              {
+                "start": 24.84,
+                "end": 25.4,
+                "text": "drink.",
+                "word_index": 65
+              }
+            ]
+          },
+          {
+            "start": 25.86,
+            "end": 27.26,
+            "text": "You instantly get $50 million,",
+            "words": [
+              {
+                "start": 25.86,
+                "end": 25.98,
+                "text": "You",
+                "word_index": 66
+              },
+              {
+                "start": 25.98,
+                "end": 26.36,
+                "text": "instantly",
+                "word_index": 67
+              },
+              {
+                "start": 26.36,
+                "end": 26.66,
+                "text": "get",
+                "word_index": 68
+              },
+              {
+                "start": 26.66,
+                "end": 27.02,
+                "text": "$50",
+                "word_index": 69
+              },
+              {
+                "start": 27.02,
+                "end": 27.26,
+                "text": "million,",
+                "word_index": 70
+              }
+            ]
+          },
+          {
+            "start": 27.62,
+            "end": 29.46,
+            "text": "but you lose every memory of your past.",
+            "words": [
+              {
+                "start": 27.62,
+                "end": 27.86,
+                "text": "but",
+                "word_index": 71
+              },
+              {
+                "start": 27.86,
+                "end": 27.96,
+                "text": "you",
+                "word_index": 72
+              },
+              {
+                "start": 27.96,
+                "end": 28.1,
+                "text": "lose",
+                "word_index": 73
+              },
+              {
+                "start": 28.1,
+                "end": 28.44,
+                "text": "every",
+                "word_index": 74
+              },
+              {
+                "start": 28.44,
+                "end": 28.88,
+                "text": "memory",
+                "word_index": 75
+              },
+              {
+                "start": 28.88,
+                "end": 29.12,
+                "text": "of",
+                "word_index": 76
+              },
+              {
+                "start": 29.12,
+                "end": 29.24,
+                "text": "your",
+                "word_index": 77
+              },
+              {
+                "start": 29.24,
+                "end": 29.46,
+                "text": "past.",
+                "word_index": 78
+              }
+            ]
+          },
+          {
+            "start": 29.46,
+            "end": 33.16,
+            "text": "The second chance drink.",
+            "words": [
+              {
+                "start": 29.46,
+                "end": 30.6,
+                "text": "The",
+                "word_index": 79
+              },
+              {
+                "start": 32.08,
+                "end": 32.46,
+                "text": "second",
+                "word_index": 80
+              },
+              {
+                "start": 32.46,
+                "end": 32.74,
+                "text": "chance",
+                "word_index": 81
+              },
+              {
+                "start": 32.74,
+                "end": 33.16,
+                "text": "drink.",
+                "word_index": 82
+              }
+            ]
+          },
+          {
+            "start": 33.84,
+            "end": 35.34,
+            "text": "It undoes your biggest mistake,",
+            "words": [
+              {
+                "start": 33.84,
+                "end": 33.92,
+                "text": "It",
+                "word_index": 83
+              },
+              {
+                "start": 33.92,
+                "end": 34.32,
+                "text": "undoes",
+                "word_index": 84
+              },
+              {
+                "start": 34.32,
+                "end": 34.54,
+                "text": "your",
+                "word_index": 85
+              },
+              {
+                "start": 34.54,
+                "end": 34.88,
+                "text": "biggest",
+                "word_index": 86
+              },
+              {
+                "start": 34.88,
+                "end": 35.34,
+                "text": "mistake,",
+                "word_index": 87
+              }
+            ]
+          },
+          {
+            "start": 35.86,
+            "end": 37.94,
+            "text": "but erases your greatest achievement.",
+            "words": [
+              {
+                "start": 35.86,
+                "end": 36.02,
+                "text": "but",
+                "word_index": 88
+              },
+              {
+                "start": 36.02,
+                "end": 36.46,
+                "text": "erases",
+                "word_index": 89
+              },
+              {
+                "start": 36.46,
+                "end": 36.8,
+                "text": "your",
+                "word_index": 90
+              },
+              {
+                "start": 36.8,
+                "end": 37.26,
+                "text": "greatest",
+                "word_index": 91
+              },
+              {
+                "start": 37.26,
+                "end": 37.94,
+                "text": "achievement.",
+                "word_index": 92
+              }
+            ]
+          },
+          {
+            "start": 40.04,
+            "end": 41.04,
+            "text": "The invisibility drink.",
+            "words": [
+              {
+                "start": 40.04,
+                "end": 40.16,
+                "text": "The",
+                "word_index": 93
+              },
+              {
+                "start": 40.16,
+                "end": 40.72,
+                "text": "invisibility",
+                "word_index": 94
+              },
+              {
+                "start": 40.72,
+                "end": 41.04,
+                "text": "drink.",
+                "word_index": 95
+              }
+            ]
+          },
+          {
+            "start": 41.46,
+            "end": 43.14,
+            "text": "You can turn invisible whenever you want,",
+            "words": [
+              {
+                "start": 41.46,
+                "end": 41.64,
+                "text": "You",
+                "word_index": 96
+              },
+              {
+                "start": 41.64,
+                "end": 41.74,
+                "text": "can",
+                "word_index": 97
+              },
+              {
+                "start": 41.74,
+                "end": 41.92,
+                "text": "turn",
+                "word_index": 98
+              },
+              {
+                "start": 41.92,
+                "end": 42.16,
+                "text": "invisible",
+                "word_index": 99
+              },
+              {
+                "start": 42.16,
+                "end": 42.56,
+                "text": "whenever",
+                "word_index": 100
+              },
+              {
+                "start": 42.56,
+                "end": 42.92,
+                "text": "you",
+                "word_index": 101
+              },
+              {
+                "start": 42.92,
+                "end": 43.14,
+                "text": "want,",
+                "word_index": 102
+              }
+            ]
+          },
+          {
+            "start": 43.44,
+            "end": 44.84,
+            "text": "but every hour you're invisible,",
+            "words": [
+              {
+                "start": 43.44,
+                "end": 43.62,
+                "text": "but",
+                "word_index": 103
+              },
+              {
+                "start": 43.62,
+                "end": 43.84,
+                "text": "every",
+                "word_index": 104
+              },
+              {
+                "start": 43.84,
+                "end": 44.22,
+                "text": "hour",
+                "word_index": 105
+              },
+              {
+                "start": 44.22,
+                "end": 44.48,
+                "text": "you're",
+                "word_index": 106
+              },
+              {
+                "start": 44.48,
+                "end": 44.84,
+                "text": "invisible,",
+                "word_index": 107
+              }
+            ]
+          },
+          {
+            "start": 45.14,
+            "end": 46.68,
+            "text": "someone you know forgets you exist.",
+            "words": [
+              {
+                "start": 45.14,
+                "end": 45.46,
+                "text": "someone",
+                "word_index": 108
+              },
+              {
+                "start": 45.46,
+                "end": 45.68,
+                "text": "you",
+                "word_index": 109
+              },
+              {
+                "start": 45.68,
+                "end": 45.86,
+                "text": "know",
+                "word_index": 110
+              },
+              {
+                "start": 45.86,
+                "end": 46.36,
+                "text": "forgets",
+                "word_index": 111
+              },
+              {
+                "start": 46.36,
+                "end": 46.5,
+                "text": "you",
+                "word_index": 112
+              },
+              {
+                "start": 46.5,
+                "end": 46.68,
+                "text": "exist.",
+                "word_index": 113
+              }
+            ]
+          },
+          {
+            "start": 47.97,
+            "end": 48.91,
+            "text": "The resurrection drink.",
+            "words": [
+              {
+                "start": 47.97,
+                "end": 48.07,
+                "text": "The",
+                "word_index": 114
+              },
+              {
+                "start": 48.07,
+                "end": 48.37,
+                "text": "resurrection",
+                "word_index": 115
+              },
+              {
+                "start": 48.37,
+                "end": 48.91,
+                "text": "drink.",
+                "word_index": 116
+              }
+            ]
+          },
+          {
+            "start": 49.49,
+            "end": 51.19,
+            "text": "You can bring anyone back to life,",
+            "words": [
+              {
+                "start": 49.49,
+                "end": 49.73,
+                "text": "You",
+                "word_index": 117
+              },
+              {
+                "start": 49.73,
+                "end": 49.85,
+                "text": "can",
+                "word_index": 118
+              },
+              {
+                "start": 49.85,
+                "end": 50.01,
+                "text": "bring",
+                "word_index": 119
+              },
+              {
+                "start": 50.01,
+                "end": 50.41,
+                "text": "anyone",
+                "word_index": 120
+              },
+              {
+                "start": 50.41,
+                "end": 50.79,
+                "text": "back",
+                "word_index": 121
+              },
+              {
+                "start": 50.79,
+                "end": 50.97,
+                "text": "to",
+                "word_index": 122
+              },
+              {
+                "start": 50.97,
+                "end": 51.19,
+                "text": "life,",
+                "word_index": 123
+              }
+            ]
+          },
+          {
+            "start": 51.59,
+            "end": 53.75,
+            "text": "but someone else you love takes their place.",
+            "words": [
+              {
+                "start": 51.59,
+                "end": 51.77,
+                "text": "but",
+                "word_index": 124
+              },
+              {
+                "start": 51.77,
+                "end": 52.03,
+                "text": "someone",
+                "word_index": 125
+              },
+              {
+                "start": 52.03,
+                "end": 52.27,
+                "text": "else",
+                "word_index": 126
+              },
+              {
+                "start": 52.27,
+                "end": 52.47,
+                "text": "you",
+                "word_index": 127
+              },
+              {
+                "start": 52.47,
+                "end": 52.75,
+                "text": "love",
+                "word_index": 128
+              },
+              {
+                "start": 52.75,
+                "end": 53.13,
+                "text": "takes",
+                "word_index": 129
+              },
+              {
+                "start": 53.13,
+                "end": 53.41,
+                "text": "their",
+                "word_index": 130
+              },
+              {
+                "start": 53.41,
+                "end": 53.75,
+                "text": "place.",
+                "word_index": 131
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "Cached source speech mapped to current timeline; captions/ASR can drift. No new inference."
+  },
+  "captions": [
+    {
+      "start": 1.6,
+      "end": 2.4,
+      "text": "okay"
+    },
+    {
+      "start": 5.433333,
+      "end": 6.4,
+      "text": "oh"
+    },
+    {
+      "start": 7.333333,
+      "end": 8.433333,
+      "text": "let's see"
+    },
+    {
+      "start": 9.6,
+      "end": 10.4,
+      "text": "okay"
+    },
+    {
+      "start": 14.766666,
+      "end": 16.533333,
+      "text": "oh yeah that's not worth it"
+    },
+    {
+      "start": 17.6,
+      "end": 18.733333,
+      "text": "okay I don't die"
+    },
+    {
+      "start": 20.566666,
+      "end": 21.433333,
+      "text": "immortal"
+    },
+    {
+      "start": 22.366666,
+      "end": 23.966666,
+      "text": "that's bad I nah"
+    },
+    {
+      "start": 23.966666,
+      "end": 24.9,
+      "text": "definitely not"
+    },
+    {
+      "start": 25.533333,
+      "end": 26.4,
+      "text": "50 mil"
+    },
+    {
+      "start": 27.833333,
+      "end": 28.633333,
+      "text": "okay"
+    },
+    {
+      "start": 30.533333,
+      "end": 33.1,
+      "text": "so what's the point I mm hmm"
+    },
+    {
+      "start": 35.966666,
+      "end": 36.766666,
+      "text": "okay"
+    },
+    {
+      "start": 38.5,
+      "end": 40.5,
+      "text": "I need mistakes you need mistakes"
+    },
+    {
+      "start": 43.333333,
+      "end": 44.133333,
+      "text": "okay"
+    },
+    {
+      "start": 46.966666,
+      "end": 48.8,
+      "text": "I'll do that but only 30 minutes"
+    },
+    {
+      "start": 51.033333,
+      "end": 52.266666,
+      "text": "what the"
+    },
+    {
+      "start": 53.933333,
+      "end": 55.466666,
+      "text": "oh yeah nah"
+    }
+  ],
+  "sfx": [],
+  "layout": [
+    {
+      "role": "video_track_1",
+      "track_id": "B53F459D-75B7-4047-A843-541B88E797B2",
+      "segments": [
+        {
+          "id": "B3BC559C-4517-4427-B759-0978F9FD0B54",
+          "start": 0.0,
+          "end": 55.666666,
+          "clip": {
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.0,
+              "y": 0.7421052631578946
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "track_id": "E149AE68-523D-4dd4-834B-FFC7B6468C21",
+      "segments": [
+        {
+          "id": "470E8643-747D-4ffc-93FC-40892DDF426B",
+          "start": 0.0,
+          "end": 55.666666,
+          "clip": {
+            "scale": {
+              "x": 1.405508474576271,
+              "y": 1.405508474576271
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.0,
+              "y": -0.512280701754386
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "zoom_style": {
+    "version": 5,
+    "references": [
+      {
+        "project": "test 1",
+        "timeline": "Day 7.3",
+        "timeline_id": "1CE7DCEA-0AEC-4a69-9736-315CEF5F4EAA",
+        "source_hash": "ae05a3b6ff5bb1b0decf18d9f2d5f650a01321ad54bd102a2c5497d7aaacf428",
+        "analysis_job_id": "a1c942f5b10f472c",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 14.933333,
+            "end": 16.966666,
+            "scale": 1.3843644067796608,
+            "scale_y": 1.3843644067796608,
+            "dx": 0.04049844236760114,
+            "dy": -0.0350877192982455,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Y 'all would love me if I was a principal, bro."
+              },
+              {
+                "role": "video_track_2",
+                "text": "the rules. School is canceled. Everybody go home. My reflection does everything for"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 25.7,
+            "end": 26.566666,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "and I'd be nice. What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "me too? My bed can teleport anywhere for 24 hours. Bro, I could literally go on vacation without"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 29.033333,
+            "end": 30.2,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.0,
+            "dy": -0.08596491228070169,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm doing that, I"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, I could literally go on vacation without getting up. Take me to the beach. Nah, this is actually crazy."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 39.166666,
+            "end": 41.3,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.03426791277258556,
+            "dy": -0.033333333333333215,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, yo, that's bad."
+              },
+              {
+                "role": "video_track_2",
+                "text": "of all, your cooking is terrible. Excuse me? Everything I touch turns into solid gold"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 45.1,
+            "end": 46.566666,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Okay, but you gotta remove. Yeah, you're cooked,"
+              },
+              {
+                "role": "video_track_2",
+                "text": "hours. Bro, I'm about to be rich. Wait, how am I supposed to use my phone?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.666666,
+            "end": 53.966666,
+            "scale": 1.5112288135593217,
+            "scale_y": 1.5112288135593217,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "wait a minute. Well, I'm taking that, I'm"
+              },
+              {
+                "role": "video_track_2",
+                "text": "hours. Bro, I'm about to pull out a whole car. Oh, wait, that actually"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.4",
+        "timeline_id": "B973C167-669F-4851-8237-D7935D9F13C2",
+        "source_hash": "9cb651a1048dd0ab78302c6f514fe54332ec5efafafab17c09695cb352b497ef",
+        "analysis_job_id": "7f054b42880d4633",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.433333,
+            "end": 13.833333,
+            "scale": 1.2748728813559318,
+            "scale_y": 1.2748728813559318,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What if that actually happens though?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "people faint. Bro, you can't even take your shoes off in public. Nah, you gotta keep those shoes on"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 18.966666,
+            "end": 20.8,
+            "scale": 1.1729237288135592,
+            "scale_y": 1.1729237288135592,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro, what the... Oh, heck nah."
+              },
+              {
+                "role": "video_track_2",
+                "text": "imagine waking up next to these giant eggs. Nah, you're gonna have to fight the mama"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866666,
+            "end": 30.433333,
+            "scale": 1.4900847457627115,
+            "scale_y": 1.4900847457627115,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Ew. That might not be bad. I don't cry."
+              },
+              {
+                "role": "video_track_2",
+                "text": "of tears. Bro, imagine crying at a movie and smelling like pickles. Nah. Yeah, that's actually disgusting."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 38.866666,
+            "end": 39.966666,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Heck nah. Free eggs though."
+              },
+              {
+                "role": "video_track_2",
+                "text": "spring. Whoo, nah, you're gonna have a whole carton by lunchtime. The rumor is that your hair is actually"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.3,
+            "end": 48.333333,
+            "scale": 1.2325847457627117,
+            "scale_y": 1.2325847457627117,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, you're cooked."
+              },
+              {
+                "role": "video_track_2",
+                "text": "your hair at lunchtime. Imagine trying to get a haircut with this. The rumor is that you secretly have 100"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.033333,
+            "end": 51.933333,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, What was that? That's good."
+              },
+              {
+                "role": "video_track_2",
+                "text": "that you secretly have 100 garden gnomes living in your backyard. Bro, that's not a family, that's a whole village."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.5",
+        "timeline_id": "E4825149-C909-4e70-A8D9-F28F6320CD52",
+        "source_hash": "dc929e1c7cd9c12df4419b1c5c1f450bb649bf13dda64a03cc1d7b302e463c68",
+        "analysis_job_id": "965e2fa694c24212",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 15.166666,
+            "end": 17.133333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.11526479750778817,
+            "dy": -0.08947368421052626,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "If I read that. Oh, yeah. Nah. I'm good."
+              },
+              {
+                "role": "video_track_2",
+                "text": "What if it tells you when you're gonna die? This locker has a secret doorway to"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 19.4,
+            "end": 20.733333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.04672897196261683,
+            "dy": -0.06140350877192979,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I listen to Wonderland?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "a secret doorway to another world! Bro!"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.933333,
+            "end": 30.1,
+            "scale": 1.2748728813559318,
+            "scale_y": 1.2748728813559318,
+            "dx": 0.18068535825545162,
+            "dy": -0.07192982456140351,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, I'm doing a backpack."
+              },
+              {
+                "role": "video_track_2",
+                "text": "need. Imagine never having to buy anything again. Wait. What else is in here?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 42.0,
+            "end": 43.966666,
+            "scale": 1.2997881355932202,
+            "scale_y": 1.2997881355932202,
+            "dx": 0.11838006230529585,
+            "dy": -0.04385964912280693,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "phone, okay? It bro. What ew?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "This locker is filled with thousands of human teeth. Nah, why"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 54.466666,
+            "end": 56.466666,
+            "scale": 1.2325847457627117,
+            "scale_y": 1.2325847457627117,
+            "dx": 0.04672897196261683,
+            "dy": -0.10701754385964901,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's a scary movie. Heck no."
+              },
+              {
+                "role": "video_track_2",
+                "text": "everything happening at home. Wait, who is that in your house? This locker has a mysterious egg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.6",
+        "timeline_id": "5DDF7CDC-3171-4d42-A608-BBCD4E1F11E1",
+        "source_hash": "1a29ca3cbee7bebb783cf09c4dc17162b272c75ca4846fbc636de822b38880ca",
+        "analysis_job_id": "1ae7d2f210584a20",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.6,
+            "end": 13.7,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What why did you get the best one? She"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Honestly, you got lucky. Yeah, your breath is gonna smell amazing."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 15.2,
+            "end": 16.7,
+            "scale": 1.296016949152542,
+            "scale_y": 1.296016949152542,
+            "dx": 0.0,
+            "dy": -0.012280701754385892,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "you get the best one? She brushed her lips"
+              },
+              {
+                "role": "video_track_2",
+                "text": "your breath is gonna smell amazing. February, you gotta brush your teeth with"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.0,
+            "end": 25.1,
+            "scale": 1.211440677966101,
+            "scale_y": 1.211440677966101,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I would enjoy that I drink my toothpaste."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, this feels so wrong. Arch, you get charcoal toothpaste."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 29.533333,
+            "end": 30.933333,
+            "scale": 1.3843644067796608,
+            "scale_y": 1.3843644067796608,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's not but She didn't brush your teeth. Oh heck no"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, Bro, why do your teeth look like that? April,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 37.8,
+            "end": 38.833333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": -0.14018691588785048,
+            "dy": -0.029824561403508754,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "April you might got the best one."
+              },
+              {
+                "role": "video_track_2",
+                "text": "dessert. Nah, you got pie stuck in your teeth now. Hey, you"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.166666,
+            "end": 53.466666,
+            "scale": 1.4900847457627115,
+            "scale_y": 1.4900847457627115,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I That's the best stuff, that has to be racist, that's the best stuff."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, are you a giraffe? Nah, you're gonna have a whole salad in your mouth."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 68.766666,
+            "end": 70.5,
+            "scale": 1.296016949152542,
+            "scale_y": 1.296016949152542,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "you're cooked, you're cooked."
+              },
+              {
+                "role": "video_track_2",
+                "text": "your mouth is gonna be on fire. Nah, I'm not surviving this."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 79.4,
+            "end": 80.766666,
+            "scale": 1.4017372881355927,
+            "scale_y": 1.4017372881355927,
+            "dx": -0.09657320872274144,
+            "dy": -0.0368421052631579,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "September got the best one."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Yeah, you definitely got lucky. October, you gotta brush your teeth with mashed potatoes."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 97.766666,
+            "end": 99.3,
+            "scale": 1.6380932203389833,
+            "scale_y": 1.6380932203389833,
+            "dx": -0.12149532710280377,
+            "dy": -0.01754385964912275,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What? What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "this. December, you get diamond toothpaste. Bro, this stuff costs $10 ,000 a tube."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.3",
+        "timeline_id": "6AD56B5A-504F-41d9-8433-1FEF7DC26622",
+        "source_hash": "cc3c2f34697029c8568558699457489622b382e4646ecc50ec74080ed057a876",
+        "analysis_job_id": "de75ea7cac714aa9",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 5.333333,
+            "end": 6.633333,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro! I need the job! Alright, let's see."
+              },
+              {
+                "role": "video_track_2",
+                "text": "punishments, or you're fired from your job. Which punishment are you choosing?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 17.1,
+            "end": 18.333333,
+            "scale": 1.2997881355932202,
+            "scale_y": 1.2997881355932202,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Don't want for work?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "already burning. Sleep on a bed of nails. Bro, imagine trying to get comfortable on"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.1,
+            "end": 24.9,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.0020740000000000203,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, I'm not sleeping on those."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, I'd rather sleep on the floor. Clean 100 public toilets."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.033333,
+            "end": 29.1,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, I'm cooked. Yeah, no."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, imagine being late for work, and now you gotta scrub all these. Nah, I should have just"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 34.3,
+            "end": 35.466666,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.00987400000000005,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "not getting fired. This is torture!"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Sit in a room full of mosquitoes for 24 hours. Bro, you're gonna be itching all day."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 41.766666,
+            "end": 42.766666,
+            "scale": 1.422881355932203,
+            "scale_y": 1.422881355932203,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "that has to be illegal. 12 o - I'm"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Get buried in freezing snow for 12 hours. Bro, you're gonna turn into a human popsicle."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.233333,
+            "end": 48.7,
+            "scale": 1.4,
+            "scale_y": 1.4,
+            "dx": 0.0,
+            "dy": -0.012473999999999985,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "not gonna work if I'm not alive."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, I can't even feel my toes anymore. Spent 24 hours in a dumpster full"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 50.9,
+            "end": 52.033333,
+            "scale": 1.3,
+            "scale_y": 1.3,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro, no. Help."
+              },
+              {
+                "role": "video_track_2",
+                "text": "24 hours in a dumpster full of rotten garbage. Bro, this smells like something died in here."
+              }
+            ]
+          }
+        ],
+        "video_signature": "d6c179f4b0a74352759f2f6ed3e5e4f7ab970e78fd5aebb933d80aa8886c9966",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 2,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 3,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 6,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 7,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            1,
+            5
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 6,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 5.333333,
+            "end": 6.633333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": 0,
+            "dialogue": "I need the job",
+            "reason": "Dry pleading after the fired-from-job threat; a restrained reaction punch-in, not a zoom on the intro.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 5.34,
+              "word_index": 3,
+              "text": "I"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.1,
+            "end": 24.9,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.002074,
+            "dialogue": "Yeah I am not sleeping on those",
+            "reason": "Hold the explicit nail-bed refusal through those, then reset before the next toilet option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 23.11,
+              "word_index": 20,
+              "text": "Yeah,"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.033333,
+            "end": 29.1,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": 0,
+            "dialogue": "Yeah I am cooked",
+            "reason": "Short self-directed cooked punchline after the public-toilet punishment; return before the quieter yeah no.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 28.04,
+              "word_index": 26,
+              "text": "Yeah,"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 34.3,
+            "end": 35.466667,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.009874,
+            "dialogue": "This is torture",
+            "reason": "Emphatic personal reaction to the 24-hour mosquito room; the actor expression carries the beat.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 34.3,
+              "word_index": 35,
+              "text": "This"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.233333,
+            "end": 48.7,
+            "scale": 1.4,
+            "dx": 0,
+            "dy": -0.012474,
+            "dialogue": "Not gonna work if I am not alive",
+            "reason": "Comic conclusion of the freezing-snow punishment; zoom on the active punchline, not the preceding ASR silence.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 47.25,
+              "word_index": 49,
+              "text": "gonna"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 50.9,
+            "end": 52.033333,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": 0,
+            "dialogue": "Bro no",
+            "reason": "Brief disgust/refusal at rotten garbage; reset before help so the closeups remain distinct.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 50.9,
+              "word_index": 56,
+              "text": "no."
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.4",
+        "timeline_id": "E620A509-F4A4-4674-9DA5-4216CE94812C",
+        "source_hash": "bfdb2395096d5042017224b609f5c10b21e98098057e63b71cc704885c966ead",
+        "analysis_job_id": "7bd393afde57469e",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.833333,
+            "end": 13.9,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.09999999999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I eat my blanket. Yo."
+              },
+              {
+                "role": "video_track_2",
+                "text": "this actually looks comfortable. Yeah! You're gonna wake up as a whole burrito."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 16.6,
+            "end": 17.666666,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": -0.04034199999999999,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yo. Hey, yo, grass Right now"
+              },
+              {
+                "role": "video_track_2",
+                "text": "up as a whole burrito. The grass blanket. Hopefully there ain't no bugs or crickets in here."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 22.933333,
+            "end": 24.2,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.09999999999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I look comfortable Which even what the oh heck not? Spider"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, I literally just said that. The spiderweb blanket."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866666,
+            "end": 29.833333,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.044242000000000004,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I freak out. Yeah,"
+              },
+              {
+                "role": "video_track_2",
+                "text": "imagine waking up with spiders crawling on you. Nah, get this thing off me. the"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 36.933333,
+            "end": 38.0,
+            "scale": 1.49,
+            "scale_y": 1.49,
+            "dx": 0.0,
+            "dy": -0.12,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's what I'm saying. I eat the whole blanket"
+              },
+              {
+                "role": "video_track_2",
+                "text": "up and eating your own blanket yeah you're gonna wake up smelling like pepperoni the"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 43.633333,
+            "end": 44.9,
+            "scale": 1.3383050847457623,
+            "scale_y": 1.3383050847457623,
+            "dx": 0.0,
+            "dy": -0.08947368421052637,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "said pick it up."
+              },
+              {
+                "role": "video_track_2",
+                "text": "bro this is gonna scratch your whole body up nah you're gonna wake up"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.933333,
+            "end": 52.933333,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": -0.04034199999999999,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh Bro what? Yeah"
+              },
+              {
+                "role": "video_track_2",
+                "text": "bro you're gonna be popping bubbles all night nah you're You're never getting any sleep with this."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 54.366666,
+            "end": 56.0,
+            "scale": 1.2574999999999998,
+            "scale_y": 1.2574999999999998,
+            "dx": 0.0,
+            "dy": -0.03333333333333344,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro what? Yeah you might be cut."
+              },
+              {
+                "role": "video_track_2",
+                "text": "nah you're You're never getting any sleep with this."
+              }
+            ]
+          }
+        ],
+        "video_signature": "ea8f7f565c23dbe87b4299050ad49d0bd05a38aa1094dbdbe75512199803840a",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 1,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 2,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 3,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 6,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            5,
+            7
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 6,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 12.833333,
+            "end": 13.9,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.1,
+            "dialogue": "I eat my blanket",
+            "reason": "Funny personal admission about the tortilla blanket; emphasize eat through blanket and release.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 12.82,
+              "word_index": 8,
+              "text": "eat"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 16.6,
+            "end": 17.666667,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.040342,
+            "dialogue": "Grass",
+            "reason": "Brief confused recognition of the grass blanket, then reset before evaluating comfort.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 16.59,
+              "word_index": 14,
+              "text": "grass"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 22.933333,
+            "end": 24.2,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.1,
+            "dialogue": "What the oh heck nah",
+            "reason": "Grass-and-insect objection builds into an expressive refusal before the spiderweb reveal.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 22.94,
+              "word_index": 27,
+              "text": "what"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866667,
+            "end": 29.833333,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.044242,
+            "dialogue": "I freak out",
+            "reason": "Short stated fear of spiders crawling on the actor; do not hold across the pizza option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 28.86,
+              "word_index": 35,
+              "text": "freak"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 36.933333,
+            "end": 38.0,
+            "scale": 1.49,
+            "dx": 0,
+            "dy": -0.12,
+            "dialogue": "I eat the whole blanket",
+            "reason": "Strong comic payoff repeats the edible-blanket idea with whole blanket, matching the references stronger punch-ins.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 36.92,
+              "word_index": 48,
+              "text": "eat"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.933333,
+            "end": 52.933333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.040342,
+            "dialogue": "Bro what",
+            "reason": "Dry incredulous bubble-wrap reaction, followed by a reset before the final you might be cooked line.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 51.94,
+              "word_index": 64,
+              "text": "what?"
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.5",
+        "timeline_id": "26AED1E3-C262-4305-8167-BED7F8650865",
+        "source_hash": "617d94250931215f93a392b4fac70bacc1dd4c4d5b54d1c6a38344d347da24d9",
+        "analysis_job_id": "f9d86591573b4c82",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 10.766666,
+            "end": 11.733333,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": -0.007711000000000023,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "battery. What if I need battery? Whoo."
+              },
+              {
+                "role": "video_track_2",
+                "text": "currency, you gotta pay for everything with batteries. Bro, imagine your TV remote dying and you"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 26.033333,
+            "end": 27.666666,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.01681100000000002,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's not bad See, how do you get them?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Teeth currency, you gotta pay for everything with teeth. Don't"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 31.733333,
+            "end": 33.033333,
+            "scale": 1.3,
+            "scale_y": 1.3,
+            "dx": 0.0,
+            "dy": -0.014210999999999974,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, I had to not know no"
+              },
+              {
+                "role": "video_track_2",
+                "text": "got these from or who I got them from. Rubber duck currency. You gotta pay for everything with"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 43.033333,
+            "end": 43.966666,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.02461100000000005,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Tony else. I gotta save up my nails. What the"
+              },
+              {
+                "role": "video_track_2",
+                "text": "currency, you gotta pay for everything with your toenails. Bro, imagine being broke"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 46.8,
+            "end": 48.3,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.01681100000000002,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What the eel chicken?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, imagine being broke because you just clipped your toenails yesterday. Chicken nugget currency. You gotta"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 56.933333,
+            "end": 58.133333,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.011611000000000038,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "do that. I can't lie. Oh, heck nah. What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Underwear currency. You gotta pay for everything with men's underwear. Bro,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 62.966666,
+            "end": 64.0,
+            "scale": 1.1940677966101696,
+            "scale_y": 1.1940677966101696,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Don't know."
+              },
+              {
+                "role": "video_track_2",
+                "text": "somebody asking you for change and you gotta hand them your boxers."
+              }
+            ]
+          }
+        ],
+        "video_signature": "5e2835a484d64e58746c10cde34bcbd5bf08bb5e6ddd649e2cccf32974ea2557",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 1,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 2,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 3,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 5,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            6
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 6,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 10.766667,
+            "end": 11.733333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.007711,
+            "dialogue": "What if I need battery",
+            "reason": "Practical battery objection gets a restrained reaction closeup; the narrator example remains visible.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 10.77,
+              "word_index": 9,
+              "text": "if"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 26.033333,
+            "end": 27.666667,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.016811,
+            "dialogue": "How do you get them",
+            "reason": "Suspicious teeth-acquisition question: actor reaction, not the whole long Among Us bed.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 26.04,
+              "word_index": 26,
+              "text": "how"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 31.733333,
+            "end": 33.033333,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.014211,
+            "dialogue": "No no",
+            "reason": "Complete horrified refusal after where/who the teeth came from; reset before duck-currency commentary.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 31.72,
+              "word_index": 36,
+              "text": "know"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 43.033333,
+            "end": 43.966667,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.024611,
+            "dialogue": "Save up my nails",
+            "reason": "Comical self-directed nail-saving payoff; hold on the distinctive final phrase.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 43.04,
+              "word_index": 45,
+              "text": "up"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 46.8,
+            "end": 48.3,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.016811,
+            "dialogue": "Eww",
+            "reason": "Actual revised disgust beat just before chicken currency; ASR renders this vocalization as eel, so retain the manual ewww cue as supporting context.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 46.76,
+              "word_index": 50,
+              "text": "eel"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 56.933333,
+            "end": 58.133333,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.011611,
+            "dialogue": "Oh heck nah",
+            "reason": "Immediate underwear-currency refusal; release before later narrator jokes rather than zooming the entire option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 56.95,
+              "word_index": 64,
+              "text": "heck"
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.6",
+        "timeline_id": "0B5F1D36-7A3D-4125-A0BF-239497868970",
+        "source_hash": "bee6b53582fcf921236cf3ea48da39d627da07276cf4d804fc4f99603ffbaa2a",
+        "analysis_job_id": "94bc2d878df64d54",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 17.7,
+            "end": 19.0,
+            "scale": 1.35,
+            "scale_y": 1.35,
+            "dx": 0.0,
+            "dy": -0.06281599999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's fire. Let's see what I get. Don't, what?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "anything. February, you get the farting pill. Every time you laugh, you fart."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.466666,
+            "end": 24.666666,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.053715999999999986,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm cooking. I left all the time. Okay."
+              },
+              {
+                "role": "video_track_2",
+                "text": "You can't even laugh in public anymore. March, you get the animal translator pill."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 39.1,
+            "end": 40.2,
+            "scale": 1.1940677966101696,
+            "scale_y": 1.1940677966101696,
+            "dx": 0.0,
+            "dy": -0.07192982456140351,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Okay. April, that's fire."
+              },
+              {
+                "role": "video_track_2",
+                "text": "ha ha. Wait, how do you get back down? May, you get the instant hairstyle"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 44.533333,
+            "end": 45.7,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.053715999999999986,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's low -key tough."
+              },
+              {
+                "role": "video_track_2",
+                "text": "pill. You can change your hair whenever you want. Ha ha. Bro, you're never paying for"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 55.533333,
+            "end": 56.8,
+            "scale": 1.3,
+            "scale_y": 1.3,
+            "dx": 0.0,
+            "dy": -0.05631600000000003,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I wouldn't take that pill"
+              },
+              {
+                "role": "video_track_2",
+                "text": "even chocolate cake tastes like pickles. July, you get the teleportation pill."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 59.933333,
+            "end": 61.533333,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.066716,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "that's fire yo that's"
+              },
+              {
+                "role": "video_track_2",
+                "text": "pill. You can go anywhere instantly. I didn't leave. Bro, you never got"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 66.533333,
+            "end": 67.733333,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.05891599999999997,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "fire what the"
+              },
+              {
+                "role": "video_track_2",
+                "text": "August, you get the giant hands pill. Your hands can grow 10 times bigger. Bro,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 76.266666,
+            "end": 77.933333,
+            "scale": 1.4,
+            "scale_y": 1.4,
+            "dx": 0.0,
+            "dy": -0.06931600000000004,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "yo September"
+              },
+              {
+                "role": "video_track_2",
+                "text": "freeze pill. You can stop time whenever you want. Bro, imagine how much stuff you could get done."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 85.8,
+            "end": 87.266666,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.05891599999999997,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "trade with me please Straight from February!"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, you can stretch your arms anywhere. Nah, you don't even got to get off the couch. November,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 90.4,
+            "end": 91.3,
+            "scale": 1.49,
+            "scale_y": 1.49,
+            "dx": 0.0,
+            "dy": -0.08101599999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "February! What?!"
+              },
+              {
+                "role": "video_track_2",
+                "text": "November, you get the food duplication pill. You can make unlimited copies of any food,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 95.466666,
+            "end": 96.733333,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.066716,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm opening a restaurant."
+              },
+              {
+                "role": "video_track_2",
+                "text": "bro. You're never going hungry again. December, you get the dream control pill."
+              }
+            ]
+          }
+        ],
+        "video_signature": "4b3266ff8675244534a7ff7750d65b2798c322c3ad4430afae10cc84f587f973",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 1,
+              "delta": {
+                "start": -1e-06,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 3,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 5,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 6,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 6,
+              "manual_index": 7,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 7,
+              "manual_index": 8,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 8,
+              "manual_index": 9,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 9,
+              "manual_index": 10,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            2
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 10,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 17.7,
+            "end": 19.0,
+            "scale": 1.35,
+            "dx": 0,
+            "dy": -0.062816,
+            "dialogue": "What",
+            "reason": "Disbelief at the farting-pill reveal, before the quieter public-laughing consequence.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 17.67,
+              "word_index": 14,
+              "text": "Don't,"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.466667,
+            "end": 24.666667,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.053716,
+            "dialogue": "I laugh all the time",
+            "reason": "Personal comic confession about laughing constantly; one reaction closeup for the complete punchline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 23.46,
+              "word_index": 18,
+              "text": "cooking."
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 44.533333,
+            "end": 45.7,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.053716,
+            "dialogue": "Low key tough",
+            "reason": "Dry appraisal of instant hairstyle; preserve awkward delivery instead of treating every positive word as enthusiasm.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 44.54,
+              "word_index": 39,
+              "text": "low"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 55.533333,
+            "end": 56.8,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.056316,
+            "dialogue": "I would not take that pill",
+            "reason": "Decisive pickle-pill refusal; no full-length zoom matching the longer doom-bell tail.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 55.54,
+              "word_index": 54,
+              "text": "wouldn't"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 59.933333,
+            "end": 61.533333,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.066716,
+            "dialogue": "That is fire yo",
+            "reason": "Teleportation enthusiasm gets one expressive closeup; the repeated later fire remains at baseline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 59.94,
+              "word_index": 59,
+              "text": "fire"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 66.533333,
+            "end": 67.733333,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.058916,
+            "dialogue": "What the",
+            "reason": "Short giant-hands disbelief; reset before the basketball explanation.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 66.54,
+              "word_index": 64,
+              "text": "the"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 76.266667,
+            "end": 77.933333,
+            "scale": 1.4,
+            "dx": 0,
+            "dy": -0.069316,
+            "dialogue": "September",
+            "reason": "Impressed time-freeze response and lucky-month address; leave the full anime-wow tail unzoomed.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 76.28,
+              "word_index": 70,
+              "text": "September"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 85.8,
+            "end": 87.266667,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.058916,
+            "dialogue": "Trade with me please",
+            "reason": "Personal Luffy/stretching trade plea rather than an automatic zoom on every month label.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 85.8,
+              "word_index": 75,
+              "text": "with"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 90.4,
+            "end": 91.3,
+            "scale": 1.49,
+            "dx": 0,
+            "dy": -0.081016,
+            "dialogue": "What",
+            "reason": "Strong instant food-duplication surprise; a short high-emphasis punch-in with immediate baseline reset.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 90.4,
+              "word_index": 81,
+              "text": "What?!"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 95.466667,
+            "end": 96.733333,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.066716,
+            "dialogue": "Opening a restaurant",
+            "reason": "Food-duplication business punchline is distinct from the previous surprise and gets its own short reaction.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 95.46,
+              "word_index": 83,
+              "text": "opening"
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      }
+    ],
+    "statistics": {
+      "events": 60,
+      "median_scale": 1.3,
+      "scale_range": [
+        1.1729237288135592,
+        1.6380932203389833
+      ],
+      "median_duration": 1.2666669999999982,
+      "duration_range": [
+        0.8666660000000022,
+        2.133333999999998
+      ]
+    },
+    "policy": "Observed hard-cut reaction punch-ins then baseline reset. Select meaningful reaction phrases, not every SFX, option, keyword or fixed quota. Position for THIS face/layout. Reference offsets/times are examples, not target timestamps."
+  },
+  "analysis_reused": true
+}

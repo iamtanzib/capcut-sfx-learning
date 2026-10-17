@@ -1,0 +1,251 @@
+{
+  "job_id": "3d8743f8348c4db7",
+  "source_hash": "52af6c8db7418aaa243d694c4a066fec8dc3eea775a95b099c850111b2cb3ea1",
+  "style_version": 18,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 4.366667,
+      "end": 6.1,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "20 mil easy",
+      "reason": "Confident easy brush-off of the $20M fight, held through the grin.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 4.38,
+        "text": "40",
+        "word_index": 1
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 7.8,
+      "end": 10.1,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "what the yeah",
+      "reason": "Whole what-the reaction to the dinosaur opponent and its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 7.79,
+        "text": "what",
+        "word_index": 6
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 15.466667,
+      "end": 17.9,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "you cooked, what the chat",
+      "reason": "Cooked roast plus ChatGPT robot disbelief in one connected hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 15.47,
+        "text": "You",
+        "word_index": 22
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.433333,
+      "end": 32.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh March is done for yeah",
+      "reason": "Grinning March-is-done-for verdict held through yeah.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.43,
+        "text": "Oh",
+        "word_index": 29
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 33.533333,
+      "end": 35.0,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the",
+      "reason": "Surprised what-the at the friend's mom fighter, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 33.54,
+        "text": "What",
+        "word_index": 35
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 40.066667,
+      "end": 43.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "knock her out, I'm sorry, give her some money after",
+      "reason": "Complete knock-her-out apology joke in one smiling hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 40.06,
+        "text": "knock",
+        "word_index": 43
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 49.766667,
+      "end": 51.1,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "yeah heck no",
+      "reason": "Karate-instructor refusal held through heck no and settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 49.76,
+        "text": "Yeah,",
+        "word_index": 57
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.466667,
+      "end": 57.0,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "June's cooked",
+      "reason": "June-is-cooked roast before the sumo reveal, then reset.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.46,
+        "text": "junior",
+        "word_index": 62
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 57.966667,
+      "end": 59.3,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "what the",
+      "reason": "Strong disbelief at the 450-pound sumo wrestler, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 57.97,
+        "text": "What",
+        "word_index": 68
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 63.4,
+      "end": 65.0,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "yeah he's gonna sit on you",
+      "reason": "Whole sit-on-you roast held through you.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 63.4,
+        "text": "Yeah,",
+        "word_index": 70
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 74.066667,
+      "end": 75.4,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Easy",
+      "reason": "Smiling easy verdict on the smart kid before the 0.1% irony.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 74.08,
+        "text": "Easy.",
+        "word_index": 80
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 82.066667,
+      "end": 83.3,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "bro what",
+      "reason": "Bro-what reaction to the professional boxer, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 82.05,
+        "text": "About",
+        "word_index": 85
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 88.8,
+      "end": 91.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh. Plumber. That's a plumber?",
+      "reason": "Full amused plumber question with the big grin.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 88.8,
+        "text": "Oh.",
+        "word_index": 95
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 96.466667,
+      "end": 99.0,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "what the",
+      "reason": "Hold the drawn-out what-the at the 12-foot fighter through the open mouth.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 96.46,
+        "text": "What",
+        "word_index": 102
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

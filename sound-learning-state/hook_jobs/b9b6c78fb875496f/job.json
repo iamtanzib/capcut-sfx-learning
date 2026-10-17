@@ -1,0 +1,15 @@
+{
+  "job_id": "b9b6c78fb875496f",
+  "batch_id": "00b3918910b04a28",
+  "project": "test 1",
+  "timeline": "day 5.3",
+  "timeline_id": "29E4DB2E-027A-47c1-ABC2-6B239AFEE521",
+  "source_hash": "0115fc57b31b0c5a1b26f27eb3a6ae68064bc639835490adb7fd9931125ecd1c",
+  "analysis_job_id": "29c0492e86434c95",
+  "style_version": 8,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "YOUR BIRTH MONTH\nPICKS WHO RAISED YOU\nWHO DID YOU GET?",
+  "duration": 104.0,
+  "applied_at": 1791985929.5557895
+}

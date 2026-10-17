@@ -1,0 +1,24 @@
+{
+  "job_id": "10adf489d1ce4995",
+  "source_hash": "7cca8941d3a17020b7a9ec2001aa8e27d4e337240aab688c87643c0b911e3ee4",
+  "style_version": 12,
+  "hook": {
+    "text": "YOU CRASHED YOUR\nFRIEND'S $10M CAR\nHOW WILL YOU PAY?",
+    "highlight_phrases": [
+      "CRASHED"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Bro, you just crashed your friend's $10 million car."
+    },
+    "reason": "Keep the crashed $10 million car and the pay-him-back choice from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User authorized replacing the stale copied hook text on 2026-10-15."
+  }
+}

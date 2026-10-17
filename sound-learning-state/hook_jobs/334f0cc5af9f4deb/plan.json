@@ -1,0 +1,25 @@
+{
+  "job_id": "334f0cc5af9f4deb",
+  "source_hash": "c1d31e9ba2838cdcd0d99212162b5fddba3517b67a9ef77121cadc4d33069f75",
+  "style_version": 5,
+  "hook": {
+    "replace_existing": true,
+    "text": "PICK YOUR SECRET\nHEADQUARTERS\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "SECRET\nHEADQUARTERS"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You get your own secret headquarters. But you can only choose one. Which secret headquarters are you choosing?"
+    },
+    "reason": "The real intro asks for one secret headquarters. Replace copied word-game hook as explicitly approved and preserve the native title style.",
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly approved replacing all three filled ONLY ONE WORD hooks in this chat.",
+    "layout_notes": "Inspected all three native Rubik-Bold line/color previews; generated widths fit the calibrated native bar without font or geometry changes."
+  }
+}

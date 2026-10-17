@@ -1,0 +1,17 @@
+{
+  "name": "srijon-sfx",
+  "plugins": [
+    {
+      "name": "capcut-sfx-learning",
+      "source": {
+        "source": "local",
+        "path": "./plugins/capcut-sfx-learning"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

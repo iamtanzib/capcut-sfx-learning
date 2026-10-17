@@ -1,0 +1,24 @@
+{
+  "job_id": "757f4ef4240448e3",
+  "source_hash": "52af6c8db7418aaa243d694c4a066fec8dc3eea775a95b099c850111b2cb3ea1",
+  "style_version": 12,
+  "hook": {
+    "text": "YOUR BIRTH MONTH IS\nWHO YOU FIGHT FOR\n20 MILLION DOLLARS\nWHO DID YOU GET?",
+    "highlight_phrases": [
+      "20 MILLION DOLLARS"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Your birth month is who you have to fight for 20 million dollars, and you have to win!"
+    },
+    "reason": "Keep the birth-month opponent premise and the 20 million dollar prize from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User authorized replacing the stale copied hook text on 2026-10-15."
+  }
+}

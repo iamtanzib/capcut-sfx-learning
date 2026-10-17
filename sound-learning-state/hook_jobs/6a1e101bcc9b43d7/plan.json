@@ -1,0 +1,26 @@
+{
+  "job_id": "6a1e101bcc9b43d7",
+  "source_hash": "9ad8903e658abfaecf3dcb894e187ca250119cd992741b35d5225192ee902187",
+  "style_version": 5,
+  "hook": {
+    "replace_existing": true,
+    "text": "CAUGHT CHEATING\nIN MONOPOLY\nPICK YOUR PUNISHMENT",
+    "highlight_phrases": [
+      "MONOPOLY",
+      "PUNISHMENT"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You got caught cheating in Monopoly. Now you got to choose your punishment. Which one are you choosing?"
+    },
+    "reason": "Keep the actual Monopoly cheating and punishment-choice premise, replacing the copied word-game title as explicitly approved.",
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly approved replacing all three filled ONLY ONE WORD hooks in this chat.",
+    "layout_notes": "Inspected all three native Rubik-Bold line/color previews; generated widths fit the calibrated native bar without font or geometry changes."
+  }
+}

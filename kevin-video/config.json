@@ -1,0 +1,51 @@
+{
+  "draft_root": "C:/Users/srijon/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "reference_project": "0928",
+  "reference_timelines": [
+    "Timeline 06",
+    "Timeline 09",
+    "Timeline 11",
+    "Timeline 08"
+  ],
+  "additional_reference_sources": [
+    {
+      "project": "test 1",
+      "timeline": "Srijon version",
+      "caption_timeline": "Timeline 01",
+      "timeline_id": "690793E0-1738-4fcc-ACDA-FD9E7AB57557",
+      "caption_timeline_id": "38E44388-4CD1-47cc-9385-D82C9CCEEAD6",
+      "caption_snapshot": "C:\\Users\\srijon\\Documents\\ChatGPT\\Kevin Video\\outputs\\timeline-install-backup-1791454974816389900\\Timelines\\38E44388-4CD1-47cc-9385-D82C9CCEEAD6\\draft_content.json"
+    },
+    {
+      "project": "test 1",
+      "timeline": "test 2 - SFX v2",
+      "caption_timeline": "test 2",
+      "timeline_id": "BBEF8476-3DF5-4061-A311-7340EA2C60C1",
+      "caption_timeline_id": "A61E536C-4035-42b2-8F6D-4DC83D4824CF",
+      "caption_snapshot": "C:\\Users\\srijon\\Documents\\ChatGPT\\Kevin Video\\outputs\\test2\\source_snapshot.json"
+    },
+    {
+      "project": "test 1",
+      "timeline": "test 3",
+      "timeline_id": "3E3BC865-AD38-41d6-A1B5-2AF8670E372E",
+      "caption_snapshot": "C:\\Users\\srijon\\Documents\\ChatGPT\\Kevin Video\\outputs\\test3\\source_snapshot.json"
+    },
+    {
+      "project": "test 1",
+      "timeline": "test 4",
+      "timeline_id": "E74DBA56-D0BC-43f9-966A-3F38B4771749"
+    }
+  ],
+  "default_project": "0928",
+  "default_timeline": "Timeline 12",
+  "sidebar_settings": "C:/Users/srijon/AppData/Roaming/sound-effect-sidebar/settings.json",
+  "library": "C:/Users/srijon/Documents/Sound Effect Sidebar Library",
+  "model": "BAAI/bge-small-en-v1.5",
+  "threads": 2,
+  "minimum_gap": 2.0,
+  "speech_model": "base.en",
+  "speech_threads": 2,
+  "scene_proxy_width": 320,
+  "scene_decode": "keyframes",
+  "maximum_keyframes": 12
+}

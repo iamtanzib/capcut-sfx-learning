@@ -1,0 +1,7 @@
+{
+  "targets": [
+    {"project": "REPLACE_SAVED_PROJECT", "timeline": "REPLACE_STABLE_TIMELINE_ID"}
+  ],
+  "mode": "just_zoom",
+  "workers": 2
+}

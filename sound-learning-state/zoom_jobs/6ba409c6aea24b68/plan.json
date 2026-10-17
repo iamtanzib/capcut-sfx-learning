@@ -1,0 +1,117 @@
+{
+  "job_id": "6ba409c6aea24b68",
+  "source_hash": "4a5213420743c0171f6b28dd1f48912629b529d81c0c697aa753ba213cb73873",
+  "style_version": 1,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 10.766667,
+      "end": 11.733333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.007711,
+      "dialogue": "What if I need battery",
+      "reason": "Practical battery objection gets a restrained reaction closeup; the narrator example remains visible.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 10.77,
+        "word_index": 9,
+        "text": "if"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.033333,
+      "end": 27.666667,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.016811,
+      "dialogue": "How do you get them",
+      "reason": "Suspicious teeth-acquisition question: actor reaction, not the whole long Among Us bed.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.04,
+        "word_index": 26,
+        "text": "how"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.733333,
+      "end": 33.033333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.014211,
+      "dialogue": "No no",
+      "reason": "Complete horrified refusal after where/who the teeth came from; reset before duck-currency commentary.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.72,
+        "word_index": 36,
+        "text": "know"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 43.033333,
+      "end": 43.966667,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.024611,
+      "dialogue": "Save up my nails",
+      "reason": "Comical self-directed nail-saving payoff; hold on the distinctive final phrase.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 43.04,
+        "word_index": 45,
+        "text": "up"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.8,
+      "end": 48.3,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.016811,
+      "dialogue": "Eww",
+      "reason": "Actual revised disgust beat just before chicken currency; ASR renders this vocalization as eel, so retain the manual ewww cue as supporting context.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 46.76,
+        "word_index": 50,
+        "text": "eel"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 56.933333,
+      "end": 58.133333,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.011611,
+      "dialogue": "Oh heck nah",
+      "reason": "Immediate underwear-currency refusal; release before later narrator jokes rather than zooming the entire option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 56.95,
+        "word_index": 64,
+        "text": "heck"
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "policy": "Host reviewed both complete cached dialogue streams plus all native reference zooms. Meaningful actor reactions only; no SFX or month quota.",
+    "framing_review": "Inspected all baseline/onset/end sheets: face and eyes remain visible, actor reaction is emphasized, bottom stream stays unchanged. Day1.4 stronger punch-ins moved lower to preserve headroom. Native captions/effects rendering still requires CapCut review."
+  }
+}

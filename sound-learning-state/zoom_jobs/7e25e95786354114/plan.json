@@ -1,0 +1,185 @@
+{
+  "job_id": "7e25e95786354114",
+  "source_hash": "10a0a00030120b8078c1b1c4e3a0381db31ad207f57e3a81565a79ed083f42dc",
+  "style_version": 1,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 17.7,
+      "end": 19.0,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.062816,
+      "dialogue": "What",
+      "reason": "Disbelief at the farting-pill reveal, before the quieter public-laughing consequence.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 17.67,
+        "word_index": 14,
+        "text": "Don't,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 23.466667,
+      "end": 24.666667,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.053716,
+      "dialogue": "I laugh all the time",
+      "reason": "Personal comic confession about laughing constantly; one reaction closeup for the complete punchline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 23.46,
+        "word_index": 18,
+        "text": "cooking."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 44.533333,
+      "end": 45.7,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.053716,
+      "dialogue": "Low key tough",
+      "reason": "Dry appraisal of instant hairstyle; preserve awkward delivery instead of treating every positive word as enthusiasm.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 44.54,
+        "word_index": 39,
+        "text": "low"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.533333,
+      "end": 56.8,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.056316,
+      "dialogue": "I would not take that pill",
+      "reason": "Decisive pickle-pill refusal; no full-length zoom matching the longer doom-bell tail.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.54,
+        "word_index": 54,
+        "text": "wouldn't"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 59.933333,
+      "end": 61.533333,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.066716,
+      "dialogue": "That is fire yo",
+      "reason": "Teleportation enthusiasm gets one expressive closeup; the repeated later fire remains at baseline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 59.94,
+        "word_index": 59,
+        "text": "fire"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 66.533333,
+      "end": 67.733333,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.058916,
+      "dialogue": "What the",
+      "reason": "Short giant-hands disbelief; reset before the basketball explanation.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 66.54,
+        "word_index": 64,
+        "text": "the"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 76.266667,
+      "end": 77.933333,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.069316,
+      "dialogue": "September",
+      "reason": "Impressed time-freeze response and lucky-month address; leave the full anime-wow tail unzoomed.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 76.28,
+        "word_index": 70,
+        "text": "September"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 85.8,
+      "end": 87.266667,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.058916,
+      "dialogue": "Trade with me please",
+      "reason": "Personal Luffy/stretching trade plea rather than an automatic zoom on every month label.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 85.8,
+        "word_index": 75,
+        "text": "with"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 90.4,
+      "end": 91.3,
+      "scale": 1.49,
+      "dx": 0,
+      "dy": -0.081016,
+      "dialogue": "What",
+      "reason": "Strong instant food-duplication surprise; a short high-emphasis punch-in with immediate baseline reset.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 90.4,
+        "word_index": 81,
+        "text": "What?!"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 95.466667,
+      "end": 96.733333,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.066716,
+      "dialogue": "Opening a restaurant",
+      "reason": "Food-duplication business punchline is distinct from the previous surprise and gets its own short reaction.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 95.46,
+        "word_index": 83,
+        "text": "opening"
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "policy": "Host reviewed both complete cached dialogue streams plus all native reference zooms. Meaningful actor reactions only; no SFX or month quota.",
+    "framing_review": "Inspected all baseline/onset/end sheets: face and eyes remain visible, actor reaction is emphasized, bottom stream stays unchanged. Day1.4 stronger punch-ins moved lower to preserve headroom. Native captions/effects rendering still requires CapCut review."
+  }
+}

@@ -1,0 +1,2513 @@
+{
+  "job_id": "6ba409c6aea24b68",
+  "timeline": "Day 1.5",
+  "duration": 64.0,
+  "dialogue": {
+    "tracks": [
+      {
+        "role": "video_track_1",
+        "speech": [
+          {
+            "start": 1.84,
+            "end": 7.41,
+            "text": "For real? Okay. Let's see. Let's see",
+            "words": [
+              {
+                "start": 1.84,
+                "end": 2.32,
+                "text": "For",
+                "word_index": 0
+              },
+              {
+                "start": 2.32,
+                "end": 2.5,
+                "text": "real?",
+                "word_index": 1
+              },
+              {
+                "start": 4.95,
+                "end": 5.47,
+                "text": "Okay.",
+                "word_index": 2
+              },
+              {
+                "start": 6.45,
+                "end": 6.91,
+                "text": "Let's",
+                "word_index": 3
+              },
+              {
+                "start": 6.91,
+                "end": 7.01,
+                "text": "see.",
+                "word_index": 4
+              },
+              {
+                "start": 7.09,
+                "end": 7.27,
+                "text": "Let's",
+                "word_index": 5
+              },
+              {
+                "start": 7.27,
+                "end": 7.41,
+                "text": "see",
+                "word_index": 6
+              }
+            ]
+          },
+          {
+            "start": 8.44,
+            "end": 16.1,
+            "text": "battery. What if I need battery? Whoo. How are they supposed to?",
+            "words": [
+              {
+                "start": 8.44,
+                "end": 8.96,
+                "text": "battery.",
+                "word_index": 7
+              },
+              {
+                "start": 10.27,
+                "end": 10.77,
+                "text": "What",
+                "word_index": 8
+              },
+              {
+                "start": 10.77,
+                "end": 10.87,
+                "text": "if",
+                "word_index": 9
+              },
+              {
+                "start": 10.87,
+                "end": 10.95,
+                "text": "I",
+                "word_index": 10
+              },
+              {
+                "start": 10.95,
+                "end": 11.13,
+                "text": "need",
+                "word_index": 11
+              },
+              {
+                "start": 11.13,
+                "end": 11.39,
+                "text": "battery?",
+                "word_index": 12
+              },
+              {
+                "start": 11.81,
+                "end": 11.810001,
+                "text": "Whoo.",
+                "word_index": 13
+              },
+              {
+                "start": 15.42,
+                "end": 15.5,
+                "text": "How",
+                "word_index": 14
+              },
+              {
+                "start": 15.5,
+                "end": 15.6,
+                "text": "are",
+                "word_index": 15
+              },
+              {
+                "start": 15.6,
+                "end": 15.7,
+                "text": "they",
+                "word_index": 16
+              },
+              {
+                "start": 15.7,
+                "end": 15.8,
+                "text": "supposed",
+                "word_index": 17
+              },
+              {
+                "start": 15.8,
+                "end": 16.1,
+                "text": "to?",
+                "word_index": 18
+              }
+            ]
+          },
+          {
+            "start": 19.63,
+            "end": 20.59,
+            "text": "That's not bad",
+            "words": [
+              {
+                "start": 19.63,
+                "end": 20.15,
+                "text": "That's",
+                "word_index": 19
+              },
+              {
+                "start": 20.15,
+                "end": 20.29,
+                "text": "not",
+                "word_index": 20
+              },
+              {
+                "start": 20.29,
+                "end": 20.59,
+                "text": "bad",
+                "word_index": 21
+              }
+            ]
+          },
+          {
+            "start": 23.26,
+            "end": 24.16,
+            "text": "That's not bad",
+            "words": [
+              {
+                "start": 23.26,
+                "end": 23.78,
+                "text": "That's",
+                "word_index": 22
+              },
+              {
+                "start": 23.78,
+                "end": 23.88,
+                "text": "not",
+                "word_index": 23
+              },
+              {
+                "start": 23.88,
+                "end": 24.16,
+                "text": "bad",
+                "word_index": 24
+              }
+            ]
+          },
+          {
+            "start": 25.22,
+            "end": 32.9,
+            "text": "See, how do you get them? Oh, I had to not know no",
+            "words": [
+              {
+                "start": 25.22,
+                "end": 25.64,
+                "text": "See,",
+                "word_index": 25
+              },
+              {
+                "start": 26.04,
+                "end": 26.36,
+                "text": "how",
+                "word_index": 26
+              },
+              {
+                "start": 26.84,
+                "end": 26.94,
+                "text": "do",
+                "word_index": 27
+              },
+              {
+                "start": 26.94,
+                "end": 27.0,
+                "text": "you",
+                "word_index": 28
+              },
+              {
+                "start": 27.0,
+                "end": 27.18,
+                "text": "get",
+                "word_index": 29
+              },
+              {
+                "start": 27.18,
+                "end": 27.42,
+                "text": "them?",
+                "word_index": 30
+              },
+              {
+                "start": 30.88,
+                "end": 31.12,
+                "text": "Oh,",
+                "word_index": 31
+              },
+              {
+                "start": 31.18,
+                "end": 31.26,
+                "text": "I",
+                "word_index": 32
+              },
+              {
+                "start": 31.26,
+                "end": 31.42,
+                "text": "had",
+                "word_index": 33
+              },
+              {
+                "start": 31.42,
+                "end": 31.58,
+                "text": "to",
+                "word_index": 34
+              },
+              {
+                "start": 31.58,
+                "end": 31.72,
+                "text": "not",
+                "word_index": 35
+              },
+              {
+                "start": 31.72,
+                "end": 31.92,
+                "text": "know",
+                "word_index": 36
+              },
+              {
+                "start": 31.92,
+                "end": 32.9,
+                "text": "no",
+                "word_index": 37
+              }
+            ]
+          },
+          {
+            "start": 35.15,
+            "end": 39.87,
+            "text": "Not bad",
+            "words": [
+              {
+                "start": 35.15,
+                "end": 35.67,
+                "text": "Not",
+                "word_index": 38
+              },
+              {
+                "start": 39.35,
+                "end": 39.87,
+                "text": "bad",
+                "word_index": 39
+              }
+            ]
+          },
+          {
+            "start": 40.64,
+            "end": 49.2,
+            "text": "Tony else. I gotta save up my nails. What the eel chicken?",
+            "words": [
+              {
+                "start": 40.64,
+                "end": 41.06,
+                "text": "Tony",
+                "word_index": 40
+              },
+              {
+                "start": 41.06,
+                "end": 41.38,
+                "text": "else.",
+                "word_index": 41
+              },
+              {
+                "start": 42.2,
+                "end": 42.72,
+                "text": "I",
+                "word_index": 42
+              },
+              {
+                "start": 42.72,
+                "end": 42.82,
+                "text": "gotta",
+                "word_index": 43
+              },
+              {
+                "start": 42.82,
+                "end": 43.04,
+                "text": "save",
+                "word_index": 44
+              },
+              {
+                "start": 43.04,
+                "end": 43.18,
+                "text": "up",
+                "word_index": 45
+              },
+              {
+                "start": 43.18,
+                "end": 43.28,
+                "text": "my",
+                "word_index": 46
+              },
+              {
+                "start": 43.28,
+                "end": 43.5,
+                "text": "nails.",
+                "word_index": 47
+              },
+              {
+                "start": 43.92,
+                "end": 44.44,
+                "text": "What",
+                "word_index": 48
+              },
+              {
+                "start": 44.51,
+                "end": 44.71,
+                "text": "the",
+                "word_index": 49
+              },
+              {
+                "start": 46.76,
+                "end": 48.06,
+                "text": "eel",
+                "word_index": 50
+              },
+              {
+                "start": 48.06,
+                "end": 49.2,
+                "text": "chicken?",
+                "word_index": 51
+              }
+            ]
+          },
+          {
+            "start": 50.63,
+            "end": 51.53,
+            "text": "How's that possible?",
+            "words": [
+              {
+                "start": 50.63,
+                "end": 51.15,
+                "text": "How's",
+                "word_index": 52
+              },
+              {
+                "start": 51.15,
+                "end": 51.21,
+                "text": "that",
+                "word_index": 53
+              },
+              {
+                "start": 51.21,
+                "end": 51.53,
+                "text": "possible?",
+                "word_index": 54
+              }
+            ]
+          },
+          {
+            "start": 53.61,
+            "end": 63.72,
+            "text": "Yeah, I might do that. I can't lie. Oh, heck nah. What? Don't know.",
+            "words": [
+              {
+                "start": 53.61,
+                "end": 54.15,
+                "text": "Yeah,",
+                "word_index": 55
+              },
+              {
+                "start": 54.21,
+                "end": 54.25,
+                "text": "I",
+                "word_index": 56
+              },
+              {
+                "start": 54.25,
+                "end": 54.39,
+                "text": "might",
+                "word_index": 57
+              },
+              {
+                "start": 54.39,
+                "end": 54.53,
+                "text": "do",
+                "word_index": 58
+              },
+              {
+                "start": 54.53,
+                "end": 54.65,
+                "text": "that.",
+                "word_index": 59
+              },
+              {
+                "start": 54.77,
+                "end": 54.770001,
+                "text": "I",
+                "word_index": 60
+              },
+              {
+                "start": 54.77,
+                "end": 54.99,
+                "text": "can't",
+                "word_index": 61
+              },
+              {
+                "start": 54.99,
+                "end": 55.15,
+                "text": "lie.",
+                "word_index": 62
+              },
+              {
+                "start": 56.57,
+                "end": 56.85,
+                "text": "Oh,",
+                "word_index": 63
+              },
+              {
+                "start": 56.95,
+                "end": 57.37,
+                "text": "heck",
+                "word_index": 64
+              },
+              {
+                "start": 57.37,
+                "end": 57.75,
+                "text": "nah.",
+                "word_index": 65
+              },
+              {
+                "start": 58.89,
+                "end": 59.43,
+                "text": "What?",
+                "word_index": 66
+              },
+              {
+                "start": 62.98,
+                "end": 63.3,
+                "text": "Don't",
+                "word_index": 67
+              },
+              {
+                "start": 63.3,
+                "end": 63.72,
+                "text": "know.",
+                "word_index": 68
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "video_track_2",
+        "speech": [
+          {
+            "start": 0.0,
+            "end": 1.94,
+            "text": "The entire world is getting a new currency,",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.12,
+                "text": "The",
+                "word_index": 0
+              },
+              {
+                "start": 0.12,
+                "end": 0.3,
+                "text": "entire",
+                "word_index": 1
+              },
+              {
+                "start": 0.3,
+                "end": 1.0,
+                "text": "world",
+                "word_index": 2
+              },
+              {
+                "start": 1.0,
+                "end": 1.16,
+                "text": "is",
+                "word_index": 3
+              },
+              {
+                "start": 1.16,
+                "end": 1.32,
+                "text": "getting",
+                "word_index": 4
+              },
+              {
+                "start": 1.32,
+                "end": 1.52,
+                "text": "a",
+                "word_index": 5
+              },
+              {
+                "start": 1.52,
+                "end": 1.68,
+                "text": "new",
+                "word_index": 6
+              },
+              {
+                "start": 1.68,
+                "end": 1.94,
+                "text": "currency,",
+                "word_index": 7
+              }
+            ]
+          },
+          {
+            "start": 2.64,
+            "end": 5.28,
+            "text": "but you have to choose what everybody pays with.",
+            "words": [
+              {
+                "start": 2.64,
+                "end": 2.74,
+                "text": "but",
+                "word_index": 8
+              },
+              {
+                "start": 2.74,
+                "end": 3.04,
+                "text": "you",
+                "word_index": 9
+              },
+              {
+                "start": 3.04,
+                "end": 3.28,
+                "text": "have",
+                "word_index": 10
+              },
+              {
+                "start": 3.28,
+                "end": 3.44,
+                "text": "to",
+                "word_index": 11
+              },
+              {
+                "start": 3.44,
+                "end": 3.66,
+                "text": "choose",
+                "word_index": 12
+              },
+              {
+                "start": 3.66,
+                "end": 3.92,
+                "text": "what",
+                "word_index": 13
+              },
+              {
+                "start": 3.92,
+                "end": 4.42,
+                "text": "everybody",
+                "word_index": 14
+              },
+              {
+                "start": 4.42,
+                "end": 5.02,
+                "text": "pays",
+                "word_index": 15
+              },
+              {
+                "start": 5.02,
+                "end": 5.28,
+                "text": "with.",
+                "word_index": 16
+              }
+            ]
+          },
+          {
+            "start": 5.84,
+            "end": 6.7,
+            "text": "What are you picking?",
+            "words": [
+              {
+                "start": 5.84,
+                "end": 6.12,
+                "text": "What",
+                "word_index": 17
+              },
+              {
+                "start": 6.12,
+                "end": 6.28,
+                "text": "are",
+                "word_index": 18
+              },
+              {
+                "start": 6.28,
+                "end": 6.44,
+                "text": "you",
+                "word_index": 19
+              },
+              {
+                "start": 6.44,
+                "end": 6.7,
+                "text": "picking?",
+                "word_index": 20
+              }
+            ]
+          },
+          {
+            "start": 7.74,
+            "end": 10.3,
+            "text": "Battery currency, you gotta pay for everything with batteries.",
+            "words": [
+              {
+                "start": 7.74,
+                "end": 8.18,
+                "text": "Battery",
+                "word_index": 21
+              },
+              {
+                "start": 8.18,
+                "end": 8.46,
+                "text": "currency,",
+                "word_index": 22
+              },
+              {
+                "start": 8.9,
+                "end": 8.92,
+                "text": "you",
+                "word_index": 23
+              },
+              {
+                "start": 8.92,
+                "end": 9.02,
+                "text": "gotta",
+                "word_index": 24
+              },
+              {
+                "start": 9.02,
+                "end": 9.26,
+                "text": "pay",
+                "word_index": 25
+              },
+              {
+                "start": 9.26,
+                "end": 9.42,
+                "text": "for",
+                "word_index": 26
+              },
+              {
+                "start": 9.42,
+                "end": 9.8,
+                "text": "everything",
+                "word_index": 27
+              },
+              {
+                "start": 9.8,
+                "end": 10.1,
+                "text": "with",
+                "word_index": 28
+              },
+              {
+                "start": 10.1,
+                "end": 10.3,
+                "text": "batteries.",
+                "word_index": 29
+              }
+            ]
+          },
+          {
+            "start": 11.04,
+            "end": 12.9,
+            "text": "Bro, imagine your TV remote dying",
+            "words": [
+              {
+                "start": 11.04,
+                "end": 11.08,
+                "text": "Bro,",
+                "word_index": 30
+              },
+              {
+                "start": 11.38,
+                "end": 11.6,
+                "text": "imagine",
+                "word_index": 31
+              },
+              {
+                "start": 11.6,
+                "end": 11.92,
+                "text": "your",
+                "word_index": 32
+              },
+              {
+                "start": 11.92,
+                "end": 12.18,
+                "text": "TV",
+                "word_index": 33
+              },
+              {
+                "start": 12.18,
+                "end": 12.56,
+                "text": "remote",
+                "word_index": 34
+              },
+              {
+                "start": 12.56,
+                "end": 12.9,
+                "text": "dying",
+                "word_index": 35
+              }
+            ]
+          },
+          {
+            "start": 12.9,
+            "end": 15.12,
+            "text": "and you just spent all your batteries buying headphones.",
+            "words": [
+              {
+                "start": 12.9,
+                "end": 13.26,
+                "text": "and",
+                "word_index": 36
+              },
+              {
+                "start": 13.26,
+                "end": 13.36,
+                "text": "you",
+                "word_index": 37
+              },
+              {
+                "start": 13.36,
+                "end": 13.5,
+                "text": "just",
+                "word_index": 38
+              },
+              {
+                "start": 13.5,
+                "end": 13.66,
+                "text": "spent",
+                "word_index": 39
+              },
+              {
+                "start": 13.66,
+                "end": 13.96,
+                "text": "all",
+                "word_index": 40
+              },
+              {
+                "start": 13.96,
+                "end": 14.12,
+                "text": "your",
+                "word_index": 41
+              },
+              {
+                "start": 14.12,
+                "end": 14.46,
+                "text": "batteries",
+                "word_index": 42
+              },
+              {
+                "start": 14.46,
+                "end": 14.84,
+                "text": "buying",
+                "word_index": 43
+              },
+              {
+                "start": 14.84,
+                "end": 15.12,
+                "text": "headphones.",
+                "word_index": 44
+              }
+            ]
+          },
+          {
+            "start": 16.02,
+            "end": 18.58,
+            "text": "Chewed gum currency, you gotta pay for everything",
+            "words": [
+              {
+                "start": 16.02,
+                "end": 16.34,
+                "text": "Chewed",
+                "word_index": 45
+              },
+              {
+                "start": 16.34,
+                "end": 16.5,
+                "text": "gum",
+                "word_index": 46
+              },
+              {
+                "start": 16.5,
+                "end": 17.02,
+                "text": "currency,",
+                "word_index": 47
+              },
+              {
+                "start": 17.4,
+                "end": 17.52,
+                "text": "you",
+                "word_index": 48
+              },
+              {
+                "start": 17.52,
+                "end": 17.62,
+                "text": "gotta",
+                "word_index": 49
+              },
+              {
+                "start": 17.62,
+                "end": 17.86,
+                "text": "pay",
+                "word_index": 50
+              },
+              {
+                "start": 17.86,
+                "end": 18.02,
+                "text": "for",
+                "word_index": 51
+              },
+              {
+                "start": 18.02,
+                "end": 18.58,
+                "text": "everything",
+                "word_index": 52
+              }
+            ]
+          },
+          {
+            "start": 18.58,
+            "end": 20.04,
+            "text": "with gum you've already chewed.",
+            "words": [
+              {
+                "start": 18.58,
+                "end": 18.78,
+                "text": "with",
+                "word_index": 53
+              },
+              {
+                "start": 18.78,
+                "end": 19.02,
+                "text": "gum",
+                "word_index": 54
+              },
+              {
+                "start": 19.02,
+                "end": 19.3,
+                "text": "you've",
+                "word_index": 55
+              },
+              {
+                "start": 19.3,
+                "end": 19.48,
+                "text": "already",
+                "word_index": 56
+              },
+              {
+                "start": 19.48,
+                "end": 20.04,
+                "text": "chewed.",
+                "word_index": 57
+              }
+            ]
+          },
+          {
+            "start": 20.32,
+            "end": 23.3,
+            "text": "Bro, imagine somebody handing you their chewed gum as change.",
+            "words": [
+              {
+                "start": 20.32,
+                "end": 20.7,
+                "text": "Bro,",
+                "word_index": 58
+              },
+              {
+                "start": 20.92,
+                "end": 21.32,
+                "text": "imagine",
+                "word_index": 59
+              },
+              {
+                "start": 21.32,
+                "end": 21.54,
+                "text": "somebody",
+                "word_index": 60
+              },
+              {
+                "start": 21.54,
+                "end": 21.96,
+                "text": "handing",
+                "word_index": 61
+              },
+              {
+                "start": 21.96,
+                "end": 22.18,
+                "text": "you",
+                "word_index": 62
+              },
+              {
+                "start": 22.18,
+                "end": 22.32,
+                "text": "their",
+                "word_index": 63
+              },
+              {
+                "start": 22.32,
+                "end": 22.68,
+                "text": "chewed",
+                "word_index": 64
+              },
+              {
+                "start": 22.68,
+                "end": 22.86,
+                "text": "gum",
+                "word_index": 65
+              },
+              {
+                "start": 22.86,
+                "end": 23.04,
+                "text": "as",
+                "word_index": 66
+              },
+              {
+                "start": 23.04,
+                "end": 23.3,
+                "text": "change.",
+                "word_index": 67
+              }
+            ]
+          },
+          {
+            "start": 23.92,
+            "end": 26.82,
+            "text": "Teeth currency, you gotta pay for everything with teeth.",
+            "words": [
+              {
+                "start": 23.92,
+                "end": 24.18,
+                "text": "Teeth",
+                "word_index": 68
+              },
+              {
+                "start": 24.18,
+                "end": 24.38,
+                "text": "currency,",
+                "word_index": 69
+              },
+              {
+                "start": 25.18,
+                "end": 25.3,
+                "text": "you",
+                "word_index": 70
+              },
+              {
+                "start": 25.3,
+                "end": 25.42,
+                "text": "gotta",
+                "word_index": 71
+              },
+              {
+                "start": 25.42,
+                "end": 25.68,
+                "text": "pay",
+                "word_index": 72
+              },
+              {
+                "start": 25.68,
+                "end": 25.9,
+                "text": "for",
+                "word_index": 73
+              },
+              {
+                "start": 25.9,
+                "end": 26.32,
+                "text": "everything",
+                "word_index": 74
+              },
+              {
+                "start": 26.32,
+                "end": 26.62,
+                "text": "with",
+                "word_index": 75
+              },
+              {
+                "start": 26.62,
+                "end": 26.82,
+                "text": "teeth.",
+                "word_index": 76
+              }
+            ]
+          },
+          {
+            "start": 28.47,
+            "end": 29.83,
+            "text": "Don't ask me where I got these from",
+            "words": [
+              {
+                "start": 28.47,
+                "end": 28.59,
+                "text": "Don't",
+                "word_index": 77
+              },
+              {
+                "start": 28.59,
+                "end": 28.73,
+                "text": "ask",
+                "word_index": 78
+              },
+              {
+                "start": 28.73,
+                "end": 28.93,
+                "text": "me",
+                "word_index": 79
+              },
+              {
+                "start": 28.93,
+                "end": 29.09,
+                "text": "where",
+                "word_index": 80
+              },
+              {
+                "start": 29.09,
+                "end": 29.21,
+                "text": "I",
+                "word_index": 81
+              },
+              {
+                "start": 29.21,
+                "end": 29.35,
+                "text": "got",
+                "word_index": 82
+              },
+              {
+                "start": 29.35,
+                "end": 29.59,
+                "text": "these",
+                "word_index": 83
+              },
+              {
+                "start": 29.59,
+                "end": 29.83,
+                "text": "from",
+                "word_index": 84
+              }
+            ]
+          },
+          {
+            "start": 29.83,
+            "end": 31.27,
+            "text": "or who I got them from.",
+            "words": [
+              {
+                "start": 29.83,
+                "end": 29.830001,
+                "text": "or",
+                "word_index": 85
+              },
+              {
+                "start": 29.83,
+                "end": 30.51,
+                "text": "who",
+                "word_index": 86
+              },
+              {
+                "start": 30.51,
+                "end": 30.69,
+                "text": "I",
+                "word_index": 87
+              },
+              {
+                "start": 30.69,
+                "end": 30.85,
+                "text": "got",
+                "word_index": 88
+              },
+              {
+                "start": 30.85,
+                "end": 31.07,
+                "text": "them",
+                "word_index": 89
+              },
+              {
+                "start": 31.07,
+                "end": 31.27,
+                "text": "from.",
+                "word_index": 90
+              }
+            ]
+          },
+          {
+            "start": 31.79,
+            "end": 32.59,
+            "text": "Rubber duck currency.",
+            "words": [
+              {
+                "start": 31.79,
+                "end": 32.07,
+                "text": "Rubber",
+                "word_index": 91
+              },
+              {
+                "start": 32.07,
+                "end": 32.37,
+                "text": "duck",
+                "word_index": 92
+              },
+              {
+                "start": 32.37,
+                "end": 32.59,
+                "text": "currency.",
+                "word_index": 93
+              }
+            ]
+          },
+          {
+            "start": 33.23,
+            "end": 34.97,
+            "text": "You gotta pay for everything with rubber ducks.",
+            "words": [
+              {
+                "start": 33.23,
+                "end": 33.230001,
+                "text": "You",
+                "word_index": 94
+              },
+              {
+                "start": 33.23,
+                "end": 33.33,
+                "text": "gotta",
+                "word_index": 95
+              },
+              {
+                "start": 33.33,
+                "end": 33.55,
+                "text": "pay",
+                "word_index": 96
+              },
+              {
+                "start": 33.55,
+                "end": 33.71,
+                "text": "for",
+                "word_index": 97
+              },
+              {
+                "start": 33.71,
+                "end": 34.19,
+                "text": "everything",
+                "word_index": 98
+              },
+              {
+                "start": 34.19,
+                "end": 34.49,
+                "text": "with",
+                "word_index": 99
+              },
+              {
+                "start": 34.49,
+                "end": 34.63,
+                "text": "rubber",
+                "word_index": 100
+              },
+              {
+                "start": 34.63,
+                "end": 34.97,
+                "text": "ducks.",
+                "word_index": 101
+              }
+            ]
+          },
+          {
+            "start": 35.41,
+            "end": 39.37,
+            "text": "Bro, imagine buying a Lamborghini with 10,000 rubber ducks.",
+            "words": [
+              {
+                "start": 35.41,
+                "end": 35.63,
+                "text": "Bro,",
+                "word_index": 102
+              },
+              {
+                "start": 35.99,
+                "end": 36.39,
+                "text": "imagine",
+                "word_index": 103
+              },
+              {
+                "start": 36.39,
+                "end": 36.93,
+                "text": "buying",
+                "word_index": 104
+              },
+              {
+                "start": 36.93,
+                "end": 37.11,
+                "text": "a",
+                "word_index": 105
+              },
+              {
+                "start": 37.11,
+                "end": 37.67,
+                "text": "Lamborghini",
+                "word_index": 106
+              },
+              {
+                "start": 37.67,
+                "end": 37.89,
+                "text": "with",
+                "word_index": 107
+              },
+              {
+                "start": 37.89,
+                "end": 38.21,
+                "text": "10",
+                "word_index": 108
+              },
+              {
+                "start": 38.21,
+                "end": 38.79,
+                "text": ",000",
+                "word_index": 109
+              },
+              {
+                "start": 38.79,
+                "end": 38.97,
+                "text": "rubber",
+                "word_index": 110
+              },
+              {
+                "start": 38.97,
+                "end": 39.37,
+                "text": "ducks.",
+                "word_index": 111
+              }
+            ]
+          },
+          {
+            "start": 39.95,
+            "end": 42.83,
+            "text": "Toenail currency, you gotta pay for everything with your toenails.",
+            "words": [
+              {
+                "start": 39.95,
+                "end": 40.41,
+                "text": "Toenail",
+                "word_index": 112
+              },
+              {
+                "start": 40.41,
+                "end": 40.65,
+                "text": "currency,",
+                "word_index": 113
+              },
+              {
+                "start": 41.15,
+                "end": 41.29,
+                "text": "you",
+                "word_index": 114
+              },
+              {
+                "start": 41.29,
+                "end": 41.39,
+                "text": "gotta",
+                "word_index": 115
+              },
+              {
+                "start": 41.39,
+                "end": 41.61,
+                "text": "pay",
+                "word_index": 116
+              },
+              {
+                "start": 41.61,
+                "end": 41.77,
+                "text": "for",
+                "word_index": 117
+              },
+              {
+                "start": 41.77,
+                "end": 42.07,
+                "text": "everything",
+                "word_index": 118
+              },
+              {
+                "start": 42.07,
+                "end": 42.29,
+                "text": "with",
+                "word_index": 119
+              },
+              {
+                "start": 42.29,
+                "end": 42.39,
+                "text": "your",
+                "word_index": 120
+              },
+              {
+                "start": 42.39,
+                "end": 42.83,
+                "text": "toenails.",
+                "word_index": 121
+              }
+            ]
+          },
+          {
+            "start": 43.92,
+            "end": 47.2,
+            "text": "Bro, imagine being broke because you just clipped your toenails yesterday.",
+            "words": [
+              {
+                "start": 43.92,
+                "end": 44.44,
+                "text": "Bro,",
+                "word_index": 122
+              },
+              {
+                "start": 44.72,
+                "end": 45.06,
+                "text": "imagine",
+                "word_index": 123
+              },
+              {
+                "start": 45.06,
+                "end": 45.32,
+                "text": "being",
+                "word_index": 124
+              },
+              {
+                "start": 45.32,
+                "end": 45.6,
+                "text": "broke",
+                "word_index": 125
+              },
+              {
+                "start": 45.6,
+                "end": 45.92,
+                "text": "because",
+                "word_index": 126
+              },
+              {
+                "start": 45.92,
+                "end": 46.06,
+                "text": "you",
+                "word_index": 127
+              },
+              {
+                "start": 46.06,
+                "end": 46.2,
+                "text": "just",
+                "word_index": 128
+              },
+              {
+                "start": 46.2,
+                "end": 46.36,
+                "text": "clipped",
+                "word_index": 129
+              },
+              {
+                "start": 46.36,
+                "end": 46.54,
+                "text": "your",
+                "word_index": 130
+              },
+              {
+                "start": 46.54,
+                "end": 46.94,
+                "text": "toenails",
+                "word_index": 131
+              },
+              {
+                "start": 46.94,
+                "end": 47.2,
+                "text": "yesterday.",
+                "word_index": 132
+              }
+            ]
+          },
+          {
+            "start": 47.96,
+            "end": 48.7,
+            "text": "Chicken nugget currency.",
+            "words": [
+              {
+                "start": 47.96,
+                "end": 48.16,
+                "text": "Chicken",
+                "word_index": 133
+              },
+              {
+                "start": 48.16,
+                "end": 48.52,
+                "text": "nugget",
+                "word_index": 134
+              },
+              {
+                "start": 48.52,
+                "end": 48.7,
+                "text": "currency.",
+                "word_index": 135
+              }
+            ]
+          },
+          {
+            "start": 49.28,
+            "end": 50.96,
+            "text": "You gotta pay for everything with chicken nuggets.",
+            "words": [
+              {
+                "start": 49.28,
+                "end": 49.3,
+                "text": "You",
+                "word_index": 136
+              },
+              {
+                "start": 49.3,
+                "end": 49.4,
+                "text": "gotta",
+                "word_index": 137
+              },
+              {
+                "start": 49.4,
+                "end": 49.64,
+                "text": "pay",
+                "word_index": 138
+              },
+              {
+                "start": 49.64,
+                "end": 49.8,
+                "text": "for",
+                "word_index": 139
+              },
+              {
+                "start": 49.8,
+                "end": 50.18,
+                "text": "everything",
+                "word_index": 140
+              },
+              {
+                "start": 50.18,
+                "end": 50.44,
+                "text": "with",
+                "word_index": 141
+              },
+              {
+                "start": 50.44,
+                "end": 50.6,
+                "text": "chicken",
+                "word_index": 142
+              },
+              {
+                "start": 50.6,
+                "end": 50.96,
+                "text": "nuggets.",
+                "word_index": 143
+              }
+            ]
+          },
+          {
+            "start": 51.5,
+            "end": 54.08,
+            "text": "Bro, what if you get hungry and accidentally eat your life savings?",
+            "words": [
+              {
+                "start": 51.5,
+                "end": 51.68,
+                "text": "Bro,",
+                "word_index": 144
+              },
+              {
+                "start": 51.8,
+                "end": 51.9,
+                "text": "what",
+                "word_index": 145
+              },
+              {
+                "start": 51.9,
+                "end": 51.98,
+                "text": "if",
+                "word_index": 146
+              },
+              {
+                "start": 51.98,
+                "end": 52.08,
+                "text": "you",
+                "word_index": 147
+              },
+              {
+                "start": 52.08,
+                "end": 52.2,
+                "text": "get",
+                "word_index": 148
+              },
+              {
+                "start": 52.2,
+                "end": 52.5,
+                "text": "hungry",
+                "word_index": 149
+              },
+              {
+                "start": 52.5,
+                "end": 52.7,
+                "text": "and",
+                "word_index": 150
+              },
+              {
+                "start": 52.7,
+                "end": 53.08,
+                "text": "accidentally",
+                "word_index": 151
+              },
+              {
+                "start": 53.08,
+                "end": 53.42,
+                "text": "eat",
+                "word_index": 152
+              },
+              {
+                "start": 53.42,
+                "end": 53.56,
+                "text": "your",
+                "word_index": 153
+              },
+              {
+                "start": 53.56,
+                "end": 53.76,
+                "text": "life",
+                "word_index": 154
+              },
+              {
+                "start": 53.76,
+                "end": 54.08,
+                "text": "savings?",
+                "word_index": 155
+              }
+            ]
+          },
+          {
+            "start": 55.91,
+            "end": 56.69,
+            "text": "Underwear currency.",
+            "words": [
+              {
+                "start": 55.91,
+                "end": 56.43,
+                "text": "Underwear",
+                "word_index": 156
+              },
+              {
+                "start": 56.43,
+                "end": 56.69,
+                "text": "currency.",
+                "word_index": 157
+              }
+            ]
+          },
+          {
+            "start": 57.33,
+            "end": 59.13,
+            "text": "You gotta pay for everything with men's underwear.",
+            "words": [
+              {
+                "start": 57.33,
+                "end": 57.39,
+                "text": "You",
+                "word_index": 158
+              },
+              {
+                "start": 57.39,
+                "end": 57.49,
+                "text": "gotta",
+                "word_index": 159
+              },
+              {
+                "start": 57.49,
+                "end": 57.73,
+                "text": "pay",
+                "word_index": 160
+              },
+              {
+                "start": 57.73,
+                "end": 57.93,
+                "text": "for",
+                "word_index": 161
+              },
+              {
+                "start": 57.93,
+                "end": 58.33,
+                "text": "everything",
+                "word_index": 162
+              },
+              {
+                "start": 58.33,
+                "end": 58.63,
+                "text": "with",
+                "word_index": 163
+              },
+              {
+                "start": 58.63,
+                "end": 58.95,
+                "text": "men's",
+                "word_index": 164
+              },
+              {
+                "start": 58.95,
+                "end": 59.13,
+                "text": "underwear.",
+                "word_index": 165
+              }
+            ]
+          },
+          {
+            "start": 59.13,
+            "end": 63.55,
+            "text": "Bro, imagine somebody asking you for change and you gotta hand them your boxers.",
+            "words": [
+              {
+                "start": 59.13,
+                "end": 59.71,
+                "text": "Bro,",
+                "word_index": 166
+              },
+              {
+                "start": 60.05,
+                "end": 60.29,
+                "text": "imagine",
+                "word_index": 167
+              },
+              {
+                "start": 60.29,
+                "end": 60.71,
+                "text": "somebody",
+                "word_index": 168
+              },
+              {
+                "start": 60.71,
+                "end": 61.11,
+                "text": "asking",
+                "word_index": 169
+              },
+              {
+                "start": 61.11,
+                "end": 61.35,
+                "text": "you",
+                "word_index": 170
+              },
+              {
+                "start": 61.35,
+                "end": 61.49,
+                "text": "for",
+                "word_index": 171
+              },
+              {
+                "start": 61.49,
+                "end": 61.75,
+                "text": "change",
+                "word_index": 172
+              },
+              {
+                "start": 61.75,
+                "end": 62.27,
+                "text": "and",
+                "word_index": 173
+              },
+              {
+                "start": 62.27,
+                "end": 62.35,
+                "text": "you",
+                "word_index": 174
+              },
+              {
+                "start": 62.35,
+                "end": 62.45,
+                "text": "gotta",
+                "word_index": 175
+              },
+              {
+                "start": 62.45,
+                "end": 62.73,
+                "text": "hand",
+                "word_index": 176
+              },
+              {
+                "start": 62.73,
+                "end": 62.89,
+                "text": "them",
+                "word_index": 177
+              },
+              {
+                "start": 62.89,
+                "end": 62.99,
+                "text": "your",
+                "word_index": 178
+              },
+              {
+                "start": 62.99,
+                "end": 63.55,
+                "text": "boxers.",
+                "word_index": 179
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "Cached source speech mapped to current timeline; captions/ASR can drift. No new inference."
+  },
+  "captions": [
+    {
+      "start": 2.1,
+      "end": 2.933333,
+      "text": "for real"
+    },
+    {
+      "start": 5.2,
+      "end": 6.0,
+      "text": "okay"
+    },
+    {
+      "start": 6.5,
+      "end": 7.9,
+      "text": "let's see let's see"
+    },
+    {
+      "start": 8.666666,
+      "end": 9.5,
+      "text": "battery"
+    },
+    {
+      "start": 10.466666,
+      "end": 12.4,
+      "text": "what if I need battery what"
+    },
+    {
+      "start": 15.166666,
+      "end": 16.533333,
+      "text": "how are you supposed to"
+    },
+    {
+      "start": 19.766666,
+      "end": 21.266666,
+      "text": "that's not bad"
+    },
+    {
+      "start": 23.4,
+      "end": 24.7,
+      "text": "that's not bad"
+    },
+    {
+      "start": 26.566666,
+      "end": 28.0,
+      "text": "how do you get them"
+    },
+    {
+      "start": 30.866666,
+      "end": 32.566666,
+      "text": "oh heck no"
+    },
+    {
+      "start": 32.6,
+      "end": 33.566666,
+      "text": "no no"
+    },
+    {
+      "start": 35.266666,
+      "end": 36.066666,
+      "text": "oh"
+    },
+    {
+      "start": 39.0,
+      "end": 41.733333,
+      "text": "that's not bad toenails"
+    },
+    {
+      "start": 42.433333,
+      "end": 45.333333,
+      "text": "I gotta save up my nails what the"
+    },
+    {
+      "start": 47.466666,
+      "end": 48.4,
+      "text": "eww"
+    },
+    {
+      "start": 48.966666,
+      "end": 49.766666,
+      "text": "chicken"
+    },
+    {
+      "start": 50.833333,
+      "end": 51.933333,
+      "text": "how's that possible"
+    },
+    {
+      "start": 53.9,
+      "end": 55.6,
+      "text": "yeah I might do that I can't lie"
+    },
+    {
+      "start": 56.833333,
+      "end": 58.266666,
+      "text": "I don't know heck no"
+    },
+    {
+      "start": 59.066666,
+      "end": 60.166666,
+      "text": "what"
+    },
+    {
+      "start": 63.166666,
+      "end": 64.0,
+      "text": "dog no"
+    }
+  ],
+  "sfx": [
+    {
+      "start": 10.766666,
+      "end": 12.166666000000001,
+      "sound": "awkward-moment.mp3"
+    },
+    {
+      "start": 20.28,
+      "end": 21.28,
+      "sound": "MMMMMM.mp3"
+    },
+    {
+      "start": 25.766666,
+      "end": 30.4,
+      "sound": "among-us-role-reveal-sound.mp3"
+    },
+    {
+      "start": 30.533333,
+      "end": 31.9,
+      "sound": "sudden-suspense-sound-effect.mp3"
+    },
+    {
+      "start": 31.766666,
+      "end": 32.733333,
+      "sound": "error_CDOxCYm.mp3"
+    },
+    {
+      "start": 34.8,
+      "end": 35.9,
+      "sound": "ooooo.mp3"
+    },
+    {
+      "start": 39.32,
+      "end": 40.32,
+      "sound": "MMMMMM.mp3"
+    },
+    {
+      "start": 43.133333,
+      "end": 44.633333,
+      "sound": "fahhhh.mp3"
+    },
+    {
+      "start": 47.066666,
+      "end": 48.966666,
+      "sound": "ewww.mp3"
+    },
+    {
+      "start": 54.4,
+      "end": 55.4,
+      "sound": "MMMMMM.mp3"
+    },
+    {
+      "start": 57.0,
+      "end": 57.94,
+      "sound": "error_CDOxCYm.mp3"
+    },
+    {
+      "start": 62.98,
+      "end": 63.98,
+      "sound": "fahhhh.mp3"
+    }
+  ],
+  "layout": [
+    {
+      "role": "video_track_1",
+      "track_id": "8F00EB65-CF1B-468f-A9C8-517451A3592F",
+      "segments": [
+        {
+          "id": "7857F620-D9DD-4274-B572-2E0CAD125371",
+          "start": 0.0,
+          "end": 64.0,
+          "clip": {
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.0,
+              "y": 0.6736842105263158
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "track_id": "51E39431-250B-4805-B690-EC5FF9DEDFF5",
+      "segments": [
+        {
+          "id": "6B5EBA24-0649-4d75-B349-13055EED33D7",
+          "start": 0.0,
+          "end": 64.0,
+          "clip": {
+            "scale": {
+              "x": 1.37,
+              "y": 1.37
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": -0.04672897196261683,
+              "y": -0.5105263157894737
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "zoom_style": {
+    "version": 1,
+    "references": [
+      {
+        "project": "test 1",
+        "timeline": "Day 7.3",
+        "timeline_id": "1CE7DCEA-0AEC-4a69-9736-315CEF5F4EAA",
+        "source_hash": "ae05a3b6ff5bb1b0decf18d9f2d5f650a01321ad54bd102a2c5497d7aaacf428",
+        "analysis_job_id": "a1c942f5b10f472c",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 14.933333,
+            "end": 16.966666,
+            "scale": 1.3843644067796608,
+            "scale_y": 1.3843644067796608,
+            "dx": 0.04049844236760114,
+            "dy": -0.0350877192982455,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Y 'all would love me if I was a principal, bro."
+              },
+              {
+                "role": "video_track_2",
+                "text": "the rules. School is canceled. Everybody go home. My reflection does everything for"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 25.7,
+            "end": 26.566666,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "and I'd be nice. What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "me too? My bed can teleport anywhere for 24 hours. Bro, I could literally go on vacation without"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 29.033333,
+            "end": 30.2,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.0,
+            "dy": -0.08596491228070169,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm doing that, I"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, I could literally go on vacation without getting up. Take me to the beach. Nah, this is actually crazy."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 39.166666,
+            "end": 41.3,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.03426791277258556,
+            "dy": -0.033333333333333215,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, yo, that's bad."
+              },
+              {
+                "role": "video_track_2",
+                "text": "of all, your cooking is terrible. Excuse me? Everything I touch turns into solid gold"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 45.1,
+            "end": 46.566666,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Okay, but you gotta remove. Yeah, you're cooked,"
+              },
+              {
+                "role": "video_track_2",
+                "text": "hours. Bro, I'm about to be rich. Wait, how am I supposed to use my phone?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.666666,
+            "end": 53.966666,
+            "scale": 1.5112288135593217,
+            "scale_y": 1.5112288135593217,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "wait a minute. Well, I'm taking that, I'm"
+              },
+              {
+                "role": "video_track_2",
+                "text": "hours. Bro, I'm about to pull out a whole car. Oh, wait, that actually"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.4",
+        "timeline_id": "B973C167-669F-4851-8237-D7935D9F13C2",
+        "source_hash": "9cb651a1048dd0ab78302c6f514fe54332ec5efafafab17c09695cb352b497ef",
+        "analysis_job_id": "7f054b42880d4633",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.433333,
+            "end": 13.833333,
+            "scale": 1.2748728813559318,
+            "scale_y": 1.2748728813559318,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What if that actually happens though?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "people faint. Bro, you can't even take your shoes off in public. Nah, you gotta keep those shoes on"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 18.966666,
+            "end": 20.8,
+            "scale": 1.1729237288135592,
+            "scale_y": 1.1729237288135592,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro, what the... Oh, heck nah."
+              },
+              {
+                "role": "video_track_2",
+                "text": "imagine waking up next to these giant eggs. Nah, you're gonna have to fight the mama"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866666,
+            "end": 30.433333,
+            "scale": 1.4900847457627115,
+            "scale_y": 1.4900847457627115,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Ew. That might not be bad. I don't cry."
+              },
+              {
+                "role": "video_track_2",
+                "text": "of tears. Bro, imagine crying at a movie and smelling like pickles. Nah. Yeah, that's actually disgusting."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 38.866666,
+            "end": 39.966666,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Heck nah. Free eggs though."
+              },
+              {
+                "role": "video_track_2",
+                "text": "spring. Whoo, nah, you're gonna have a whole carton by lunchtime. The rumor is that your hair is actually"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.3,
+            "end": 48.333333,
+            "scale": 1.2325847457627117,
+            "scale_y": 1.2325847457627117,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, you're cooked."
+              },
+              {
+                "role": "video_track_2",
+                "text": "your hair at lunchtime. Imagine trying to get a haircut with this. The rumor is that you secretly have 100"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.033333,
+            "end": 51.933333,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, What was that? That's good."
+              },
+              {
+                "role": "video_track_2",
+                "text": "that you secretly have 100 garden gnomes living in your backyard. Bro, that's not a family, that's a whole village."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.5",
+        "timeline_id": "E4825149-C909-4e70-A8D9-F28F6320CD52",
+        "source_hash": "dc929e1c7cd9c12df4419b1c5c1f450bb649bf13dda64a03cc1d7b302e463c68",
+        "analysis_job_id": "965e2fa694c24212",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 15.166666,
+            "end": 17.133333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.11526479750778817,
+            "dy": -0.08947368421052626,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "If I read that. Oh, yeah. Nah. I'm good."
+              },
+              {
+                "role": "video_track_2",
+                "text": "What if it tells you when you're gonna die? This locker has a secret doorway to"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 19.4,
+            "end": 20.733333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.04672897196261683,
+            "dy": -0.06140350877192979,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I listen to Wonderland?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "a secret doorway to another world! Bro!"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.933333,
+            "end": 30.1,
+            "scale": 1.2748728813559318,
+            "scale_y": 1.2748728813559318,
+            "dx": 0.18068535825545162,
+            "dy": -0.07192982456140351,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, I'm doing a backpack."
+              },
+              {
+                "role": "video_track_2",
+                "text": "need. Imagine never having to buy anything again. Wait. What else is in here?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 42.0,
+            "end": 43.966666,
+            "scale": 1.2997881355932202,
+            "scale_y": 1.2997881355932202,
+            "dx": 0.11838006230529585,
+            "dy": -0.04385964912280693,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "phone, okay? It bro. What ew?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "This locker is filled with thousands of human teeth. Nah, why"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 54.466666,
+            "end": 56.466666,
+            "scale": 1.2325847457627117,
+            "scale_y": 1.2325847457627117,
+            "dx": 0.04672897196261683,
+            "dy": -0.10701754385964901,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's a scary movie. Heck no."
+              },
+              {
+                "role": "video_track_2",
+                "text": "everything happening at home. Wait, who is that in your house? This locker has a mysterious egg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.6",
+        "timeline_id": "5DDF7CDC-3171-4d42-A608-BBCD4E1F11E1",
+        "source_hash": "1a29ca3cbee7bebb783cf09c4dc17162b272c75ca4846fbc636de822b38880ca",
+        "analysis_job_id": "1ae7d2f210584a20",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.6,
+            "end": 13.7,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What why did you get the best one? She"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Honestly, you got lucky. Yeah, your breath is gonna smell amazing."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 15.2,
+            "end": 16.7,
+            "scale": 1.296016949152542,
+            "scale_y": 1.296016949152542,
+            "dx": 0.0,
+            "dy": -0.012280701754385892,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "you get the best one? She brushed her lips"
+              },
+              {
+                "role": "video_track_2",
+                "text": "your breath is gonna smell amazing. February, you gotta brush your teeth with"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.0,
+            "end": 25.1,
+            "scale": 1.211440677966101,
+            "scale_y": 1.211440677966101,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I would enjoy that I drink my toothpaste."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, this feels so wrong. Arch, you get charcoal toothpaste."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 29.533333,
+            "end": 30.933333,
+            "scale": 1.3843644067796608,
+            "scale_y": 1.3843644067796608,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's not but She didn't brush your teeth. Oh heck no"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, Bro, why do your teeth look like that? April,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 37.8,
+            "end": 38.833333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": -0.14018691588785048,
+            "dy": -0.029824561403508754,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "April you might got the best one."
+              },
+              {
+                "role": "video_track_2",
+                "text": "dessert. Nah, you got pie stuck in your teeth now. Hey, you"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.166666,
+            "end": 53.466666,
+            "scale": 1.4900847457627115,
+            "scale_y": 1.4900847457627115,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I That's the best stuff, that has to be racist, that's the best stuff."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, are you a giraffe? Nah, you're gonna have a whole salad in your mouth."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 68.766666,
+            "end": 70.5,
+            "scale": 1.296016949152542,
+            "scale_y": 1.296016949152542,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "you're cooked, you're cooked."
+              },
+              {
+                "role": "video_track_2",
+                "text": "your mouth is gonna be on fire. Nah, I'm not surviving this."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 79.4,
+            "end": 80.766666,
+            "scale": 1.4017372881355927,
+            "scale_y": 1.4017372881355927,
+            "dx": -0.09657320872274144,
+            "dy": -0.0368421052631579,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "September got the best one."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Yeah, you definitely got lucky. October, you gotta brush your teeth with mashed potatoes."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 97.766666,
+            "end": 99.3,
+            "scale": 1.6380932203389833,
+            "scale_y": 1.6380932203389833,
+            "dx": -0.12149532710280377,
+            "dy": -0.01754385964912275,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What? What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "this. December, you get diamond toothpaste. Bro, this stuff costs $10 ,000 a tube."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "statistics": {
+      "events": 26,
+      "median_scale": 1.287330508474576,
+      "scale_range": [
+        1.1729237288135592,
+        1.6380932203389833
+      ],
+      "median_duration": 1.4000000000000012,
+      "duration_range": [
+        0.8666660000000022,
+        2.133333999999998
+      ]
+    },
+    "policy": "Observed hard-cut reaction punch-ins then baseline reset. Select meaningful reaction phrases, not every SFX, option, keyword or fixed quota. Position for THIS face/layout. Reference offsets/times are examples, not target timestamps."
+  },
+  "analysis_reused": true
+}

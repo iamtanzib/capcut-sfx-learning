@@ -1,0 +1,71 @@
+{
+  "rows": [
+    {
+      "job_id": "a3796fcae33b4444",
+      "project": "0928",
+      "timeline": "Timeline 06",
+      "full_pretty_tokens": 11514,
+      "full_minified_tokens": 8230,
+      "compact_minified_tokens": 7229,
+      "exact_roundtrip": true,
+      "saving_vs_pretty_pct": 37.2,
+      "saving_vs_minified_pct": 12.2
+    },
+    {
+      "job_id": "07f84139d6a64752",
+      "project": "0928",
+      "timeline": "Timeline 09",
+      "full_pretty_tokens": 9837,
+      "full_minified_tokens": 7145,
+      "compact_minified_tokens": 6344,
+      "exact_roundtrip": true,
+      "saving_vs_pretty_pct": 35.5,
+      "saving_vs_minified_pct": 11.2
+    },
+    {
+      "job_id": "4dc6be2e970d46df",
+      "project": "0928",
+      "timeline": "Timeline 11",
+      "full_pretty_tokens": 10148,
+      "full_minified_tokens": 7375,
+      "compact_minified_tokens": 6554,
+      "exact_roundtrip": true,
+      "saving_vs_pretty_pct": 35.4,
+      "saving_vs_minified_pct": 11.1
+    },
+    {
+      "job_id": "df6d1f7b322a40af",
+      "project": "0928",
+      "timeline": "Timeline 08",
+      "full_pretty_tokens": 10211,
+      "full_minified_tokens": 7379,
+      "compact_minified_tokens": 6523,
+      "exact_roundtrip": true,
+      "saving_vs_pretty_pct": 36.1,
+      "saving_vs_minified_pct": 11.6
+    },
+    {
+      "job_id": "31b2d5839fd54046",
+      "project": "test 1",
+      "timeline": "test 3",
+      "full_pretty_tokens": 11288,
+      "full_minified_tokens": 8085,
+      "compact_minified_tokens": 7093,
+      "exact_roundtrip": true,
+      "saving_vs_pretty_pct": 37.2,
+      "saving_vs_minified_pct": 12.3
+    }
+  ],
+  "wall_seconds": 1185.04,
+  "targets": 5,
+  "project_files_unchanged": true,
+  "aggregate_pretty_tokens": 52998,
+  "aggregate_full_minified_tokens": 38214,
+  "aggregate_compact_tokens": 33743,
+  "token_note": "o200k_base payload estimate, not actual ChatGPT billing/total conversational usage. Compact text must be emitted minified; tool schemas, reasoning and context images add tokens.",
+  "quality_note": "All captions, both speech streams, style rules and negative evidence exactly round-trip. This does not prove creative accuracy across models.",
+  "shared_batch_tokens": 20439,
+  "saving_vs_pretty_pct": 61.4,
+  "saving_vs_full_minified_pct": 46.5,
+  "shared_roundtrip_all_5": true
+}

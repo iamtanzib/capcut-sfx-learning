@@ -1,0 +1,18 @@
+{
+  "batch_id": "90229f098e1643a9",
+  "mode": "full_combo",
+  "analysis_batch_id": "90229f098e1643a9",
+  "targets": [
+    {
+      "project": "test 1",
+      "timeline": "Day 4.6"
+    }
+  ],
+  "analysis_jobs": [
+    "637f338ea0c247fe"
+  ],
+  "hook_batch_id": "3dcf8bac98fa4b75",
+  "hook_jobs": [
+    "9f6af93efb254b33"
+  ]
+}

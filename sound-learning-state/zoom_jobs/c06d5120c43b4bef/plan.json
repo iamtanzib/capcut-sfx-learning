@@ -1,0 +1,183 @@
+{
+  "job_id": "c06d5120c43b4bef",
+  "source_hash": "2a560f6e11ace1102323e6aa4f65ff5231f29841823ce2683b03bef4c6260d56",
+  "style_version": 14,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 9.166667,
+      "end": 11.4,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "I'll tell you what the thing",
+      "reason": "Whole skeptical Cloudtopia reaction in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 9.16,
+        "text": "I'll",
+        "word_index": 5
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.333333,
+      "end": 15.8,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Oh, it's like a Brawlhalla map",
+      "reason": "Open-mouth Brawlhalla-map recognition held to the end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.33,
+        "text": "Oh,",
+        "word_index": 11
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 16.733333,
+      "end": 20.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Yo! I'm staying there.",
+      "reason": "Connected Yo and I'm-staying-there free-house choice in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 16.75,
+        "text": "Yo!",
+        "word_index": 18
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.533333,
+      "end": 24.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Never mind. Never mind.",
+      "reason": "Both never-minds after the sword-fight rule, then reset.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.53,
+        "text": "Never",
+        "word_index": 22
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 27.2,
+      "end": 28.4,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Oh, I'm staying there",
+      "reason": "Barbecue acceptance held while the squint settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 27.2,
+        "text": "Oh,",
+        "word_index": 28
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.466667,
+      "end": 32.1,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "I got one. That's easy. I'm doing there.",
+      "reason": "Mild hold on the confident cowboy-hat finger point.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.48,
+        "text": "I",
+        "word_index": 32
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 33.333333,
+      "end": 35.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Oh, I look like I belong there",
+      "reason": "Full jungle self-roast and its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 33.35,
+        "text": "Oh,",
+        "word_index": 40
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.233333,
+      "end": 41.0,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "heck no, no",
+      "reason": "Grimacing giant-spider refusal through both nos.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.24,
+        "text": "No.",
+        "word_index": 48
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.366667,
+      "end": 47.8,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "I'm not even gonna last an hour. I'm cooked.",
+      "reason": "Complete swim-three-hours confession through cooked.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.38,
+        "text": "See,",
+        "word_index": 51
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.666667,
+      "end": 56.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "That's not too bad",
+      "reason": "Smiling free-gold acceptance held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.68,
+        "text": "That's",
+        "word_index": 63
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

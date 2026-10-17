@@ -1,0 +1,13 @@
+{
+  "job_id": "fb5078f2c2e7447b",
+  "batch_id": "6a512fd579514aec",
+  "project": "test 1",
+  "timeline": "Day 4.3",
+  "timeline_id": "F7D57E7A-ECB0-43bd-AE55-427962E72119",
+  "source_hash": "9ad8903e658abfaecf3dcb894e187ca250119cd992741b35d5225192ee902187",
+  "analysis_job_id": "5807249f095f4529",
+  "style_version": 11,
+  "duration": 64.333333,
+  "status": "applied",
+  "applied_at": 1791886925.8126733
+}

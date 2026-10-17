@@ -1,0 +1,36 @@
+{
+  "batch_id": "6e083d072cd64493",
+  "mode": "full_combo",
+  "analysis_batch_id": "6e083d072cd64493",
+  "targets": [
+    {
+      "project": "test 1",
+      "timeline": "29E4DB2E-027A-47c1-ABC2-6B239AFEE521"
+    },
+    {
+      "project": "test 1",
+      "timeline": "10EEBF99-7EC2-4d24-9BA0-D6618CBA70A1"
+    },
+    {
+      "project": "test 1",
+      "timeline": "A33DEE2B-C665-488d-9BD1-4EBDE86863AF"
+    },
+    {
+      "project": "test 1",
+      "timeline": "2C656995-1C8B-4521-941F-19D1A47ECBAD"
+    }
+  ],
+  "analysis_jobs": [
+    "29c0492e86434c95",
+    "dad3dc5c701a4747",
+    "9244bea2779f497c",
+    "a975be7a7fd04c3b"
+  ],
+  "hook_batch_id": "00b3918910b04a28",
+  "hook_jobs": [
+    "b9b6c78fb875496f",
+    "4744b8ed56824f97",
+    "ad1e4f20bf824c57",
+    "503eb47cc5814f9e"
+  ]
+}

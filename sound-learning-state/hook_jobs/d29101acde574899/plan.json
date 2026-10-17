@@ -1,0 +1,24 @@
+{
+  "job_id": "d29101acde574899",
+  "source_hash": "389b800fb8691ca735619d572f91ff6e9c75f0a6f5cc5b84451ae04aeb8c040b",
+  "style_version": 16,
+  "hook": {
+    "text": "BIRTH MONTH IS YOUR\nHALLOWEEN COSTUME\nWHAT DID YOU GET?",
+    "highlight_phrases": [
+      "HALLOWEEN COSTUME"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Your birth month is your Halloween costume."
+    },
+    "reason": "Main intro: your birth month is your Halloween costume; asks what you got.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User asked to change the hook text for each of the 4 videos (existing text was a copied food-island hook)."
+  }
+}

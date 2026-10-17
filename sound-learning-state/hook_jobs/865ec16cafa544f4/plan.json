@@ -1,0 +1,24 @@
+{
+  "job_id": "865ec16cafa544f4",
+  "source_hash": "0b7cc4b571a7a13ddda1a5edc03b959187304c2c5f30ed6eec2005e7af94f32e",
+  "style_version": 1,
+  "hook": {
+    "text": "MOM TOOK YOUR GAMES\nPICK ONE GIFT\nWHICH ARE YOU PICKING?",
+    "highlight_phrases": [
+      "ONE GIFT"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "but she replaced everything with one gift. Which gift are you picking?"
+    },
+    "reason": "Replace the user-designated dummy title with the actual main intro, condition and choice question, retaining native font/geometry.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_review": "Native Rubik-Bold preview inspected for all lines, yellow highlights and width; geometry/font preserved."
+  }
+}

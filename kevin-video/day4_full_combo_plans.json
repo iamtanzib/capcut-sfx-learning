@@ -1,0 +1,1497 @@
+{
+  "batch_id": "0db216191b2e412b",
+  "installed": true,
+  "targets": [
+    {
+      "verification": {
+        "timeline": "Day 4.1",
+        "status": "applied",
+        "sfx_cues": 9,
+        "zooms": 8,
+        "hook": "YOU BECAME PRESIDENT\nPICK YOUR FIRST LAW\nWHICH WILL YOU PICK?",
+        "duration": 56.0,
+        "captions_and_other_tracks_preserved": true
+      },
+      "sfx": {
+        "project": "test 1",
+        "timeline": "BF23F8ED-87B6-44d4-81A9-5AF3AD94A660",
+        "source_hash": "e9ad854a6978442d43ee72a94d89c1c0a19d7e8f4f7b13f4642702c2eb3fd79e",
+        "duration": 56.0,
+        "style_profile_version": 25,
+        "effects": [
+          {
+            "sound": "patrick-star-yeah.mp3",
+            "start": 3.74,
+            "duration": 1.55,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Yes sir",
+            "function": "specific_positive_reaction",
+            "reason": "He celebrates the newly granted power to make the first law; a specific yes-sir cheer, grounded in the intro rather than an automatic opening sting.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 3.74,
+              "text": "Yes,",
+              "word_index": 2
+            },
+            "example_index": 31,
+            "volume": 0.49535349011421204,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "MMMMMM.mp3",
+            "start": 11.23,
+            "duration": 1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "emphasis",
+            "dialogue": "Easy",
+            "function": "approval",
+            "reason": "Immediate confident acceptance of universal $2000 monthly payments without working.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 11.23,
+              "text": "Easy.",
+              "word_index": 7
+            },
+            "evaluation_polarity": "positive",
+            "example_index": 6,
+            "volume": 0.1956680928179897,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "yeahoo.mp3",
+            "start": 15.96,
+            "duration": 0.95,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "That's a bet",
+            "function": "excited_positive_reaction",
+            "reason": "Expressive confirmation after the narrator explains free money every month; short celebratory lift.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 15.96,
+              "text": "That's",
+              "word_index": 8
+            },
+            "example_index": 254,
+            "volume": 0.15810814499855042,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "MMMMMM.mp3",
+            "start": 21.78,
+            "duration": 1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "That's not a bad deal, but 2K every month is better",
+            "function": "approval",
+            "reason": "The completed pizza appraisal accepts it as a decent deal while preferring the monthly cash. Exact 21.78 frame shows a smiling appraisal, not negative agreement.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 21.78,
+              "text": "deal,",
+              "word_index": 16
+            },
+            "evaluation_polarity": "positive",
+            "example_index": 6,
+            "volume": 0.1550423365884332,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "yeahoo.mp3",
+            "start": 26.93,
+            "duration": 0.95,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "Oh finally",
+            "function": "excited_positive_reaction",
+            "reason": "Relieved finally response to affordable college tuition; leave the later thoughtful help-a-lot-of-people sentence quiet.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 26.93,
+              "text": "finally,",
+              "word_index": 24
+            },
+            "example_index": 254,
+            "volume": 0.13664484024047852,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "vine-boom (20).mp3",
+            "start": 33.12,
+            "duration": 1.23,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "What? Everyone gets a free house",
+            "function": "impact_or_emphasis",
+            "reason": "Distinct startled what immediately after the free-house promise; the reveal and indexed actor word agree.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 33.12,
+              "text": "What?",
+              "word_index": 33
+            },
+            "example_index": 1,
+            "volume": 0.2758531868457794,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "anime-wow-sound-effect.mp3",
+            "start": 36.89,
+            "duration": 2.333,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "A free mansion, plus ooh that's kinda tempting",
+            "function": "visual_admiration",
+            "reason": "He admires the luxurious free-house/mansion option, smiling and rubbing his hands in the exact 38.9 frame. One admiration cue carries the connected temptation response.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 36.89,
+              "text": "mansion.",
+              "word_index": 36
+            },
+            "example_index": 41,
+            "volume": 0.23598334193229675,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "MMMMMM.mp3",
+            "start": 45.32,
+            "duration": 1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "That's low key not bad, if you get paid a lot it's not bad",
+            "function": "approval",
+            "reason": "Qualified acceptance of the five-day weekend option; completed not-bad appraisal is positive. Keep it softer than the initial easy cash response.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 45.32,
+              "text": "bad.",
+              "word_index": 46
+            },
+            "evaluation_polarity": "positive",
+            "example_index": 6,
+            "volume": 0.1550423365884332,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "ooooo.mp3",
+            "start": 49.65,
+            "duration": 1.1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Oh, nobody pays rent anymore",
+            "function": "anticipation",
+            "reason": "An isolated expressive oh at the no-rent reveal is a real reaction lift; the repeated final selection of the first law stays quiet.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 49.65,
+              "text": "Oh,",
+              "word_index": 53
+            },
+            "example_index": 55,
+            "volume": 0.1774466224476713,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          }
+        ],
+        "quality_notes": {
+          "whole_video_reviewed": true,
+          "silence_reviewed": true,
+          "unresolved": [],
+          "auditory_review": "Unverified: direct audio listening is unavailable. Both-stream indexed words, captions and inspected source frames reviewed; uncertain vocalizations omitted.",
+          "dialogue_balance": {
+            "video_track_1": 0.7943282,
+            "video_track_2": 0.59566218
+          },
+          "dialogue_balance_reason": "New clips were imported at gain 1 for both roles. Actual active-speech RMS places the actor near or below the narrator (-19.13/-19.01, -20.75/-19.91, -20.61/-18.68 dB across these recordings). Follow the recent saved Day3 foreground 0.794328 / narrator 0.595662 balance, preserving relative span gains, then audit sample peaks; this metric does not certify perceived loudness.",
+          "silence_decisions": [
+            "Neutral let's-see setup, ordinary pizza-name read, thoughtful helps-people statement, uncertain final yo and repeated final cash acceptance stay without SFX."
+          ]
+        },
+        "job_id": "4bba52416cb34246",
+        "master_gain": 1
+      },
+      "zoom": {
+        "job_id": "0d9d7631d5964995",
+        "source_hash": "e9ad854a6978442d43ee72a94d89c1c0a19d7e8f4f7b13f4642702c2eb3fd79e",
+        "style_version": 11,
+        "zooms": [
+          {
+            "role": "video_track_1",
+            "start": 3.733333,
+            "end": 4.933333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "Yes sir",
+            "reason": "Hold the complete yes-sir celebration and settling smile.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 3.74,
+              "text": "Yes,",
+              "word_index": 2
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 11.233333,
+            "end": 12.8,
+            "scale": 1.27,
+            "dx": 0,
+            "dy": -0.038,
+            "dialogue": "Easy",
+            "reason": "Hold the confident cash acceptance beyond its single word while the face settles.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 11.23,
+              "text": "Easy.",
+              "word_index": 7
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 21.433333,
+            "end": 23.9,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "That's not a bad deal, but 2K every month is better",
+            "reason": "One continuous closeup carries the pizza qualification and complete comparison; reset before tuition.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 21.42,
+              "text": "I'm",
+              "word_index": 12
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 26.933333,
+            "end": 28.066667,
+            "scale": 1.26,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "Finally",
+            "reason": "Cover the relief expression at affordable tuition, then leave the considered social-benefit statement at baseline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 26.93,
+              "text": "finally,",
+              "word_index": 24
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 33.133333,
+            "end": 34.666667,
+            "scale": 1.37,
+            "dx": 0,
+            "dy": -0.05,
+            "dialogue": "What?",
+            "reason": "Emphasize the completed free-house surprise and settling reaction.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 33.12,
+              "text": "What?",
+              "word_index": 33
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 36.6,
+            "end": 40.0,
+            "scale": 1.34,
+            "dx": 0,
+            "dy": -0.045,
+            "dialogue": "A free mansion plus, that's kinda tempting",
+            "reason": "Hold the full connected mansion admiration and hand-rubbing temptation, with no rapid reset between phrases.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 36.61,
+              "text": "A",
+              "word_index": 34
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 44.766667,
+            "end": 47.4,
+            "scale": 1.24,
+            "dx": 0,
+            "dy": -0.03,
+            "dialogue": "That's low key not bad, if you get paid a lot it's not bad",
+            "reason": "Mild framing covers the whole qualified weekend appraisal rather than a late bad syllable.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 44.76,
+              "text": "That's",
+              "word_index": 42
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.5,
+            "end": 54.1,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "I'm doing the first option",
+            "reason": "Show the complete final choice without adding another sound to the repeated cash acceptance.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 52.49,
+              "text": "I'm",
+              "word_index": 54
+            }
+          }
+        ],
+        "quality_notes": {
+          "whole_video_reviewed": true,
+          "silence_reviewed": true,
+          "framing_reviewed": true,
+          "unresolved": [],
+          "hold_policy": "Cover each complete meaningful reaction and settling expression; baseline reset before the next unrelated reaction. Holds are independent of SFX tails.",
+          "framing_notes": "Inspected baseline/onset/end sheet for every planned zoom. Hair and eyes stay visible, actor expressions and relevant gestures remain within the upper pane, lower footage stays unchanged, and baseline resets retain the complete reaction."
+        }
+      },
+      "hook": {
+        "job_id": "8c3728db22fb471b",
+        "source_hash": "e9ad854a6978442d43ee72a94d89c1c0a19d7e8f4f7b13f4642702c2eb3fd79e",
+        "style_version": 5,
+        "hook": {
+          "replace_existing": true,
+          "text": "YOU BECAME PRESIDENT\nPICK YOUR FIRST LAW\nWHICH WILL YOU PICK?",
+          "highlight_phrases": [
+            "PRESIDENT",
+            "FIRST LAW"
+          ],
+          "evidence": {
+            "role": "video_track_2",
+            "quote": "You accidentally became president. Now you get to make your first law. Which one are you choosing?"
+          },
+          "reason": "Replace copied word-game title with the actual president / first-law choice intro, as explicitly approved.",
+          "action": "fill_blank"
+        },
+        "quality_notes": {
+          "intro_reviewed": true,
+          "layout_reviewed": true,
+          "unresolved": [],
+          "authorization": "User explicitly approved replacing all three filled ONLY ONE WORD hooks in this chat.",
+          "layout_notes": "Inspected all three native Rubik-Bold line/color previews; generated widths fit the calibrated native bar without font or geometry changes."
+        }
+      }
+    },
+    {
+      "verification": {
+        "timeline": "Day 4.2",
+        "status": "applied",
+        "sfx_cues": 10,
+        "zooms": 9,
+        "hook": "PICK YOUR SECRET\nHEADQUARTERS\nWHICH WILL YOU PICK?",
+        "duration": 56.0,
+        "captions_and_other_tracks_preserved": true
+      },
+      "sfx": {
+        "project": "test 1",
+        "timeline": "8D8FF002-4594-4c3b-B362-C50B45942AB4",
+        "source_hash": "c1d31e9ba2838cdcd0d99212162b5fddba3517b67a9ef77121cadc4d33069f75",
+        "duration": 56.0,
+        "style_profile_version": 25,
+        "effects": [
+          {
+            "sound": "MMMMMM.mp3",
+            "start": 10.36,
+            "duration": 1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "emphasis",
+            "dialogue": "Oh yeah for sure",
+            "function": "approval",
+            "reason": "Explicitly accepts the concealed giant-mountain headquarters, with enthusiastic yeah-for-sure delivery.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 10.36,
+              "text": "yeah",
+              "word_index": 6
+            },
+            "evaluation_polarity": "explicit_affirmation",
+            "example_index": 6,
+            "volume": 0.1956680928179897,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "anime-wow-sound-effect.mp3",
+            "start": 13.81,
+            "duration": 2.333,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "And I get a jet, heck yeah bro, that's Avengers",
+            "function": "visual_admiration",
+            "reason": "A real aircraft and high-tech hangar prompt strong jet admiration and the Avengers comparison. Treat the connected reaction as one admiration cue.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 13.81,
+              "text": "jet.",
+              "word_index": 14
+            },
+            "example_index": 41,
+            "volume": 0.2828897370817059,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "ooooo.mp3",
+            "start": 17.34,
+            "duration": 1.1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "Oh that might be better",
+            "function": "anticipation",
+            "reason": "A new expressive lift at the waterfall headquarters reveal, distinct from the later completed speedboat appraisal.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 17.34,
+              "text": "Oh,",
+              "word_index": 20
+            },
+            "example_index": 55,
+            "volume": 0.16791592581046036,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "MMMMMM.mp3",
+            "start": 22.86,
+            "duration": 1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "That might be better",
+            "function": "approval",
+            "reason": "He accepts the waterfall headquarters after learning about the escape tunnel and speedboat; one cue on the completed first better, leaving its echo quiet.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 22.86,
+              "text": "better.",
+              "word_index": 30
+            },
+            "evaluation_polarity": "positive",
+            "example_index": 6,
+            "volume": 0.18881318293600646,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "ceeday-huh-sound-effect.mp3",
+            "start": 25.82,
+            "duration": 1.16,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "Dog what, underneath McDonald's or something?",
+            "function": "confusion_or_question",
+            "reason": "Genuine incredulity at an underground headquarters beneath a fast-food restaurant; the specific questioning what is aligned, despite ASR mangling McDonald's.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 25.82,
+              "text": "what",
+              "word_index": 36
+            },
+            "example_index": 182,
+            "volume": 0.626051664352417,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "patrick-star-yeah.mp3",
+            "start": 31.16,
+            "duration": 1.55,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Hey it's unlimited food in this",
+            "function": "specific_positive_reaction",
+            "reason": "He brightens and claps at unlimited nuggets/food. Specific excited celebration, supported by the source scene and hand gesture, rather than dry confusion.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 31.16,
+              "text": "Hey,",
+              "word_index": 42
+            },
+            "example_index": 31,
+            "volume": 0.49535349011421204,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "sudden-suspense-sound-effect.mp3",
+            "start": 42.67,
+            "duration": 1.4,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Own submarine, what the heck nah",
+            "function": "unexpected_or_tense",
+            "reason": "The underwater/private-island headquarters and submarine bring a tense realization before his too-scary refusal. Cue the clear narrated submarine detail; omit unsupported creepy/doom layers.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_2",
+              "at": 42.67,
+              "text": "submarine",
+              "word_index": 76
+            },
+            "example_index": 7,
+            "volume": 0.19222438666829217,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.000625,
+            "fade_out": 0.0125
+          },
+          {
+            "sound": "error_CDOxCYm.mp3",
+            "start": 45.98,
+            "duration": 0.94,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "That's too scary, I'm not doing that",
+            "function": "confusion_or_rejection",
+            "reason": "Completed personal refusal of the ocean/submarine option is rejection, with no evidence of a haunted or fatal scene.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 45.98,
+              "text": "scary.",
+              "word_index": 59
+            },
+            "example_index": 9,
+            "volume": 0.305481011827663,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "vine-boom (20).mp3",
+            "start": 50.04,
+            "duration": 1.23,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "What the, buried under the desert",
+            "function": "impact_or_emphasis",
+            "reason": "A distinct surprised burst at the next desert headquarters reveal; it is not the earlier ocean refusal.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 50.04,
+              "text": "What",
+              "word_index": 68
+            },
+            "example_index": 1,
+            "volume": 0.2758531868457794,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "MMMMMM.mp3",
+            "start": 55.39,
+            "duration": 0.61,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Okay that's fire",
+            "function": "approval",
+            "reason": "Final positive appraisal follows the unlimited secret-vehicle collection; trim the cue to the actual remaining video.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 55.39,
+              "text": "that's",
+              "word_index": 71
+            },
+            "evaluation_polarity": "positive",
+            "example_index": 6,
+            "volume": 0.18881318293600646,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          }
+        ],
+        "quality_notes": {
+          "whole_video_reviewed": true,
+          "silence_reviewed": true,
+          "unresolved": [],
+          "auditory_review": "Unverified: direct audio listening is unavailable. Both-stream indexed words, captions and inspected source frames reviewed; uncertain vocalizations omitted.",
+          "dialogue_balance": {
+            "video_track_1": 0.7943282,
+            "video_track_2": 0.59566218
+          },
+          "dialogue_balance_reason": "New clips were imported at gain 1 for both roles. Actual active-speech RMS places the actor near or below the narrator (-19.13/-19.01, -20.75/-19.91, -20.61/-18.68 dB across these recordings). Follow the recent saved Day3 foreground 0.794328 / narrator 0.595662 balance, preserving relative span gains, then audit sample peaks; this metric does not certify perceived loudness.",
+          "silence_decisions": [
+            "Neutral intro hmm/let's-see, repeated better echo, poorly aligned frozen ah and choice vocalizations, generic scene cuts remain without sound."
+          ],
+          "headroom_mode": "uniform_attenuation",
+          "headroom_reason": "The audited combined peak is 0.904039 versus the 0.891 preview ceiling, requiring only 0.9855765 master amplitude (-0.126 dB). Deliberately preserve every learned per-asset ratio and the foreground/narrator balance with this minimal final master adjustment instead of changing meaningful cue levels."
+        },
+        "job_id": "373100e5361a4787",
+        "master_gain": 0.9855765321946002
+      },
+      "zoom": {
+        "job_id": "7ad2d44f2c3f445a",
+        "source_hash": "c1d31e9ba2838cdcd0d99212162b5fddba3517b67a9ef77121cadc4d33069f75",
+        "style_version": 11,
+        "zooms": [
+          {
+            "role": "video_track_1",
+            "start": 9.933333,
+            "end": 11.533333,
+            "scale": 1.27,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "Oh yeah for sure, what",
+            "reason": "Hold the mountain acceptance and short attached surprise through its settling beat.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 9.92,
+              "text": "Oh,",
+              "word_index": 5
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 13.266667,
+            "end": 16.266667,
+            "scale": 1.34,
+            "dx": 0,
+            "dy": -0.045,
+            "dialogue": "And I get a jet, heck yeah bro, that's Avengers",
+            "reason": "One closeup covers the whole jet celebration and Avengers comparison, resetting before the waterfall response.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 13.27,
+              "text": "And",
+              "word_index": 10
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 22.566667,
+            "end": 24.3,
+            "scale": 1.26,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "That might be better, that might be better",
+            "reason": "Keep both connected speedboat appraisals in a single hold; leave the earlier waterfall oh at baseline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 22.56,
+              "text": "That",
+              "word_index": 27
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 25.833333,
+            "end": 27.666667,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "What, underneath McDonald's or something",
+            "reason": "Hold the complete fast-food-location question; no late noun-only punch-in.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 25.82,
+              "text": "what",
+              "word_index": 36
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 31.166667,
+            "end": 32.866667,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "Hey it's unlimited food",
+            "reason": "Cover the delighted food reaction and clap; reset before the frozen-garage explanation.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 31.16,
+              "text": "Hey,",
+              "word_index": 42
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 38.4,
+            "end": 40.266667,
+            "scale": 1.27,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "Ooh, ah no, I'm going waterfall",
+            "reason": "Exact 38.4 frame supports the expression despite unreliable ASR for the initial ooh and choice polarity. Use visual anchoring and no uncertain SFX attack.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 38.89,
+              "text": "I'm",
+              "word_index": 48,
+              "offset_reason": "Deliberately lead the cached I'm at 38.89 by 0.49s, starting on the exact inspected 38.4 expressive rounded-mouth frame. This is a verified visual hold start; no precise onset is claimed for the ASR-missed ooh."
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 41.533333,
+            "end": 43.9,
+            "scale": 1.34,
+            "dx": 0,
+            "dy": -0.045,
+            "dialogue": "What the heck nah",
+            "reason": "Hold the entire ocean-headquarters objection and face settling.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 41.55,
+              "text": "What",
+              "word_index": 53
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 45.533333,
+            "end": 47.933333,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "That's too scary, I'm not doing that, I'm good",
+            "reason": "Keep the complete connected personal refusal together; baseline reset for desert.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 45.54,
+              "text": "That's",
+              "word_index": 57
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 50.033333,
+            "end": 51.2,
+            "scale": 1.33,
+            "dx": 0,
+            "dy": -0.045,
+            "dialogue": "What the",
+            "reason": "Cover the discrete desert-reveal burst with a natural settling hold; final short fire appraisal remains at baseline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 50.04,
+              "text": "What",
+              "word_index": 68
+            }
+          }
+        ],
+        "quality_notes": {
+          "whole_video_reviewed": true,
+          "silence_reviewed": true,
+          "framing_reviewed": true,
+          "unresolved": [],
+          "hold_policy": "Cover each complete meaningful reaction and settling expression; baseline reset before the next unrelated reaction. Holds are independent of SFX tails.",
+          "framing_notes": "Inspected baseline/onset/end sheet for every planned zoom. Hair and eyes stay visible, actor expressions and relevant gestures remain within the upper pane, lower footage stays unchanged, and baseline resets retain the complete reaction."
+        }
+      },
+      "hook": {
+        "job_id": "334f0cc5af9f4deb",
+        "source_hash": "c1d31e9ba2838cdcd0d99212162b5fddba3517b67a9ef77121cadc4d33069f75",
+        "style_version": 5,
+        "hook": {
+          "replace_existing": true,
+          "text": "PICK YOUR SECRET\nHEADQUARTERS\nWHICH WILL YOU PICK?",
+          "highlight_phrases": [
+            "SECRET\nHEADQUARTERS"
+          ],
+          "evidence": {
+            "role": "video_track_2",
+            "quote": "You get your own secret headquarters. But you can only choose one. Which secret headquarters are you choosing?"
+          },
+          "reason": "The real intro asks for one secret headquarters. Replace copied word-game hook as explicitly approved and preserve the native title style.",
+          "action": "fill_blank"
+        },
+        "quality_notes": {
+          "intro_reviewed": true,
+          "layout_reviewed": true,
+          "unresolved": [],
+          "authorization": "User explicitly approved replacing all three filled ONLY ONE WORD hooks in this chat.",
+          "layout_notes": "Inspected all three native Rubik-Bold line/color previews; generated widths fit the calibrated native bar without font or geometry changes."
+        }
+      }
+    },
+    {
+      "verification": {
+        "timeline": "Day 4.3",
+        "status": "applied",
+        "sfx_cues": 12,
+        "zooms": 11,
+        "hook": "CAUGHT CHEATING\nIN MONOPOLY\nPICK YOUR PUNISHMENT",
+        "duration": 64.333333,
+        "captions_and_other_tracks_preserved": true
+      },
+      "sfx": {
+        "project": "test 1",
+        "timeline": "F7D57E7A-ECB0-43bd-AE55-427962E72119",
+        "source_hash": "9ad8903e658abfaecf3dcb894e187ca250119cd992741b35d5225192ee902187",
+        "duration": 64.333333,
+        "style_profile_version": 25,
+        "effects": [
+          {
+            "sound": "error_CDOxCYm.mp3",
+            "start": 11.62,
+            "duration": 0.94,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "24 hours in Monopoly jail, oh heck no",
+            "function": "confusion_or_rejection",
+            "reason": "The explicit jail detail lands during his refusal. Anchor the clear narrated jail reveal rather than inventing an onset for misaligned actor oh.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_2",
+              "at": 11.62,
+              "text": "jail.",
+              "word_index": 26
+            },
+            "example_index": 9,
+            "volume": 0.305481011827663,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "fahhhh.mp3",
+            "start": 12.88,
+            "duration": 1.5,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "I'm already injured bro no",
+            "function": "comic_line",
+            "reason": "A funny personal confession immediately after a board-game jail punishment; injury makes the disproportionate situation a comic payoff.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 12.88,
+              "text": "injured,",
+              "word_index": 13
+            },
+            "example_index": 2,
+            "volume": 0.28523438123333,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "vine-boom (20).mp3",
+            "start": 19.03,
+            "duration": 1.23,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "emphasis",
+            "dialogue": "What, one million in real money",
+            "function": "impact_or_emphasis",
+            "reason": "His sharp what follows the million-dollar real-bank demand; captions and exact indexed reaction agree.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 19.03,
+              "text": "What?",
+              "word_index": 19
+            },
+            "example_index": 1,
+            "volume": 0.31011688709259033,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "among-us-role-reveal-sound.mp3",
+            "start": 20.7,
+            "duration": 3.25,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "You cheated for $200 in Monopoly, generational debt",
+            "function": "dubious_or_ironic",
+            "reason": "The specific $1 million real debt for just $200 of pretend money is an absurdly unfair escalation, analogous to learned disproportionate-cost scenes. It is not selected merely because cheating was mentioned in the intro.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_2",
+              "at": 20.7,
+              "text": "Bro,",
+              "word_index": 45
+            },
+            "context_evidence": {
+              "kind": "spoken_context",
+              "strength": "high",
+              "cue": "Narrator: owe the bank $1 million in real money, then you cheated for $200 in Monopoly; actor rejects generational debt.",
+              "why_this_sound": "A quiet ironic texture holds the disproportionate real-life consequence, separately from the initial shocked what impact."
+            },
+            "example_index": 3,
+            "volume": 0.18671812117099762,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "fahhhh.mp3",
+            "start": 27.87,
+            "duration": 1.5,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "That's easy, I could do that, I could do that",
+            "function": "comic_line",
+            "reason": "Comic bravado about wearing a giant toilet for thirty days, followed by the narrator preferring jail. Funny acceptance calls for FAH rather than literal MMM.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 27.87,
+              "text": "easy.",
+              "word_index": 30
+            },
+            "example_index": 2,
+            "volume": 0.28523438123333,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "awkward-moment.mp3",
+            "start": 31.56,
+            "duration": 1.4,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "No you wouldn't bro",
+            "function": "dry_or_awkward",
+            "reason": "A dry direct contradiction of the narrator's rather-go-to-jail boast; one restrained skeptical beat, not a default sound on every question.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 31.56,
+              "text": "No,",
+              "word_index": 39
+            },
+            "example_index": 5,
+            "volume": 0.34893811439032,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "fahhhh.mp3",
+            "start": 36.34,
+            "duration": 1.5,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Oh I can't breathe in my, drowning in fake cash",
+            "function": "comic_line",
+            "reason": "He turns the fake-money burial into a personal can't-breathe punchline; preserve the separate suffocation context rather than treating the earlier oh as approval.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 36.34,
+              "text": "breathe",
+              "word_index": 48
+            },
+            "example_index": 2,
+            "volume": 0.28523438123333,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "sudden-suspense-sound-effect.mp3",
+            "start": 41.75,
+            "duration": 1.4,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "What the, fight a giant Monopoly man",
+            "function": "unexpected_or_tense",
+            "reason": "Exact 41.75 frames on both streams verify the intimidating giant fight reveal and actor disbelief; visual anchor avoids the drifting caption/ASR what onset.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "visual_reveal",
+              "role": "video_track_2",
+              "at": 41.75,
+              "text": "A towering angry Monopoly man looms over a boxer inside a ring; the actor frowns at the fight reveal."
+            },
+            "example_index": 7,
+            "volume": 0.19222438666829217,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.000625,
+            "fade_out": 0.0125
+          },
+          {
+            "sound": "error_CDOxCYm.mp3",
+            "start": 44.68,
+            "duration": 0.94,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "normal",
+            "dialogue": "Oh heck no",
+            "function": "confusion_or_rejection",
+            "reason": "Completed refusal of fighting the giant. The frozen ASR hack at 44.68 corresponds to caption heck at 44.7; retain this aligned syllable rather than fabricate the missing knock-me-out wording.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 44.68,
+              "text": "hack",
+              "word_index": 61
+            },
+            "example_index": 9,
+            "volume": 0.305481011827663,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          },
+          {
+            "sound": "among-us-role-reveal-sound.mp3",
+            "start": 51.4,
+            "duration": 3.8,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "Trapped inside a giant game board forever, there's no way out",
+            "function": "dubious_or_ironic",
+            "reason": "The permanent game-board imprisonment is an absurdly unfair board-game punishment, and the inspected 52.0 frame shows the open-mouth realization. Distinct from the debt cue and literal final crusher.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_2",
+              "at": 51.4,
+              "text": "forever.",
+              "word_index": 110
+            },
+            "context_evidence": {
+              "kind": "spoken_context",
+              "strength": "high",
+              "cue": "Narrator: trapped inside a giant game board forever; later literally no way out. Actor's 52.0 frame shows incredulous open mouth.",
+              "why_this_sound": "Quiet ironic/unfairness texture fits the permanent surreal punishment; keep the actual crusher's doom bell for its own later reveal."
+            },
+            "example_index": 3,
+            "volume": 0.18671812117099762,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.0,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "undertakers-bell_2UwFCIe.mp3",
+            "start": 59.28,
+            "duration": 2.1,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "emphasis",
+            "dialogue": "Getting crushed by a giant dice roller, that's death",
+            "function": "doom_or_danger",
+            "reason": "The actual giant dice crusher is visible at exact 59.28 and narration explicitly describes being crushed. A short doom attack with ducked body carries the literal fatal escalation.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_2",
+              "at": 59.28,
+              "text": "roller.",
+              "word_index": 126
+            },
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "duration": 0.333334,
+                "gain": 1
+              },
+              {
+                "offset": 0.333334,
+                "source_offset": 0.333334,
+                "duration": 1.766666,
+                "gain": 0.6347753075565369
+              }
+            ],
+            "context_evidence": {
+              "kind": "visual_context",
+              "strength": "high",
+              "cue": "Exact lower source frame at 59.28 shows the actor inside a giant dice crushing machine; narration says getting crushed.",
+              "why_this_sound": "A specific fatal crusher and death appraisal warrant the bell; not a generic cooked/negative-word mapping."
+            },
+            "example_index": 11,
+            "volume": 0.36251169443130493,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.00125,
+            "fade_out": 0.0
+          },
+          {
+            "sound": "error_CDOxCYm.mp3",
+            "start": 63.54,
+            "duration": 0.7,
+            "source_start": 0,
+            "speed": 1,
+            "gain_tier": "soft",
+            "dialogue": "Heck no",
+            "function": "confusion_or_rejection",
+            "reason": "Final complete refusal of the fatal punishment; truncate tail before the timeline end.",
+            "confidence": "high",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 63.54,
+              "text": "Heck",
+              "word_index": 77
+            },
+            "example_index": 9,
+            "volume": 0.2966412057793538,
+            "level_source": "manual_revision_reference",
+            "fade_in": 0.005,
+            "fade_out": 0.1
+          }
+        ],
+        "quality_notes": {
+          "whole_video_reviewed": true,
+          "silence_reviewed": true,
+          "unresolved": [],
+          "auditory_review": "Unverified: direct audio listening is unavailable. Both-stream indexed words, captions and inspected source frames reviewed; uncertain vocalizations omitted.",
+          "dialogue_balance": {
+            "video_track_1": 0.7943282,
+            "video_track_2": 0.59566218
+          },
+          "dialogue_balance_reason": "New clips were imported at gain 1 for both roles. Actual active-speech RMS places the actor near or below the narrator (-19.13/-19.01, -20.75/-19.91, -20.61/-18.68 dB across these recordings). Follow the recent saved Day3 foreground 0.794328 / narrator 0.595662 balance, preserving relative span gains, then audit sample peaks; this metric does not certify perceived loudness.",
+          "silence_decisions": [
+            "No automatic cheating/intro sting; unreliable take-the-money, not-free-now, hmm, knock-me-out and open-support ASR words receive no invented attacks."
+          ]
+        },
+        "job_id": "5807249f095f4529",
+        "master_gain": 1
+      },
+      "zoom": {
+        "job_id": "fb5078f2c2e7447b",
+        "source_hash": "9ad8903e658abfaecf3dcb894e187ca250119cd992741b35d5225192ee902187",
+        "style_version": 11,
+        "zooms": [
+          {
+            "role": "video_track_1",
+            "start": 12.666667,
+            "end": 14.466667,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "I'm already injured bro no",
+            "reason": "Hold the entire injured confession and completed no, avoiding the unreliable earlier oh onset.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 12.66,
+              "text": "I'm",
+              "word_index": 11
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 19.033333,
+            "end": 21.2,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.05,
+            "dialogue": "What, oh no",
+            "reason": "Full million-dollar shock and settling expression.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 19.03,
+              "text": "What?",
+              "word_index": 19
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.3,
+            "end": 25.133333,
+            "scale": 1.29,
+            "dx": 0,
+            "dy": -0.038,
+            "dialogue": "Definitely not, generational debt",
+            "reason": "One continuous closeup covers the refusal and debt phrase before the next costume explanation.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 23.3,
+              "text": "Definitely",
+              "word_index": 24
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 27.5,
+            "end": 29.8,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.035,
+            "dialogue": "That's easy, I could do that twice",
+            "reason": "Hold both connected toilet-costume bravado phrases; no repeated rapid cuts.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 27.51,
+              "text": "That's",
+              "word_index": 29
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 31.566667,
+            "end": 32.9,
+            "scale": 1.24,
+            "dx": 0,
+            "dy": -0.03,
+            "dialogue": "No you wouldn't bro",
+            "reason": "Show the whole dry contradiction and face settling.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 31.56,
+              "text": "No,",
+              "word_index": 39
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 35.866667,
+            "end": 37.6,
+            "scale": 1.34,
+            "dx": 0,
+            "dy": -0.045,
+            "dialogue": "Oh I can't breathe",
+            "reason": "Hold the full suffocation joke and expression, without an approval zoom on the preceding money oh.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 35.86,
+              "text": "Oh,",
+              "word_index": 45
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 41.733333,
+            "end": 45.466667,
+            "scale": 1.4,
+            "dx": 0,
+            "dy": -0.05,
+            "dialogue": "What the, he finna knock me out, heck no",
+            "reason": "One sustained closeup covers the entire fight disbelief, expected knockout and completed refusal; exact visual onset avoids caption drift.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 41.63,
+              "text": "What",
+              "word_index": 52
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.0,
+            "end": 54.133333,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "Forever, no",
+            "reason": "Start on the exact verified open-mouth realization, then hold the full refusal instead of using the unreliable tiny ASR forever span.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 52.3,
+              "text": "forever.",
+              "word_index": 68,
+              "offset_reason": "Start on the exact inspected 52.0 open-mouth realization, 0.3s before the tiny cached forever span. The visual start is deliberate; the short ASR forever is not certified as its vocal onset."
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 55.133333,
+            "end": 56.133333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.03,
+            "dialogue": "That's not a punishment",
+            "reason": "Keep the completed unfair-punishment appraisal intact, resetting during the next narrated option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 55.15,
+              "text": "That's",
+              "word_index": 71
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 59.266667,
+            "end": 61.6,
+            "scale": 1.44,
+            "dx": 0,
+            "dy": -0.055,
+            "dialogue": "That's death bro what",
+            "reason": "Cover the full final death/disbelief payoff on verified source frames, not ASR done mislabeled as a precise death word onset.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 59.49,
+              "text": "done!",
+              "word_index": 76,
+              "offset_reason": "Start at the exact inspected 59.28 frowning death appraisal while the crusher is shown, 0.21s before the cached done syllable. Caption calls this death; this documents a visual onset, not a claim that ASR done is a precisely verified death word."
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 63.533333,
+            "end": 64.333333,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.04,
+            "dialogue": "Heck no",
+            "reason": "Final refusal begins on the first word and holds through the actual video end.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 63.54,
+              "text": "Heck",
+              "word_index": 77
+            }
+          }
+        ],
+        "quality_notes": {
+          "whole_video_reviewed": true,
+          "silence_reviewed": true,
+          "framing_reviewed": true,
+          "unresolved": [],
+          "hold_policy": "Cover each complete meaningful reaction and settling expression; baseline reset before the next unrelated reaction. Holds are independent of SFX tails.",
+          "framing_notes": "Inspected baseline/onset/end sheet for every planned zoom. Hair and eyes stay visible, actor expressions and relevant gestures remain within the upper pane, lower footage stays unchanged, and baseline resets retain the complete reaction."
+        }
+      },
+      "hook": {
+        "job_id": "6a1e101bcc9b43d7",
+        "source_hash": "9ad8903e658abfaecf3dcb894e187ca250119cd992741b35d5225192ee902187",
+        "style_version": 5,
+        "hook": {
+          "replace_existing": true,
+          "text": "CAUGHT CHEATING\nIN MONOPOLY\nPICK YOUR PUNISHMENT",
+          "highlight_phrases": [
+            "MONOPOLY",
+            "PUNISHMENT"
+          ],
+          "evidence": {
+            "role": "video_track_2",
+            "quote": "You got caught cheating in Monopoly. Now you got to choose your punishment. Which one are you choosing?"
+          },
+          "reason": "Keep the actual Monopoly cheating and punishment-choice premise, replacing the copied word-game title as explicitly approved.",
+          "action": "fill_blank"
+        },
+        "quality_notes": {
+          "intro_reviewed": true,
+          "layout_reviewed": true,
+          "unresolved": [],
+          "authorization": "User explicitly approved replacing all three filled ONLY ONE WORD hooks in this chat.",
+          "layout_notes": "Inspected all three native Rubik-Bold line/color previews; generated widths fit the calibrated native bar without font or geometry changes."
+        }
+      }
+    }
+  ]
+}

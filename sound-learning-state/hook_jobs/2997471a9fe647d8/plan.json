@@ -1,0 +1,24 @@
+{
+  "job_id": "2997471a9fe647d8",
+  "source_hash": "f18790727eafcdc243c0dfece4597ff06c489502e4a10fcabc4996b48c8a48de",
+  "style_version": 16,
+  "hook": {
+    "text": "EARTH DISAPPEARS\nIN 24 HOURS\nPICK YOUR ESCAPE",
+    "highlight_phrases": [
+      "24 HOURS"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You have 24 hours before Earth disappears."
+    },
+    "reason": "Main intro: Earth disappears in 24 hours and you must choose an escape plan.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User asked to change the hook text for each of the 4 videos (existing text was a copied food-island hook)."
+  }
+}

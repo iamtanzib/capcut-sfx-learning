@@ -1,0 +1,5235 @@
+{
+  "job_id": "ae1c971cd87640e1",
+  "timeline": "day3.4",
+  "duration": 104.033333,
+  "dialogue": {
+    "tracks": [
+      {
+        "role": "video_track_1",
+        "speech": [
+          {
+            "start": 2.42,
+            "end": 7.62,
+            "text": "Okay, let's see.",
+            "words": [
+              {
+                "start": 2.42,
+                "end": 3.06,
+                "text": "Okay,",
+                "word_index": 0
+              },
+              {
+                "start": 6.6,
+                "end": 7.46,
+                "text": "let's",
+                "word_index": 1
+              },
+              {
+                "start": 7.46,
+                "end": 7.62,
+                "text": "see.",
+                "word_index": 2
+              }
+            ]
+          },
+          {
+            "start": 8.06,
+            "end": 10.82,
+            "text": "Oh, Hacknow.",
+            "words": [
+              {
+                "start": 8.06,
+                "end": 8.38,
+                "text": "Oh,",
+                "word_index": 3
+              },
+              {
+                "start": 10.54,
+                "end": 10.82,
+                "text": "Hacknow.",
+                "word_index": 4
+              }
+            ]
+          },
+          {
+            "start": 12.67,
+            "end": 14.11,
+            "text": "Hey, January pickles are good.",
+            "words": [
+              {
+                "start": 12.67,
+                "end": 12.99,
+                "text": "Hey,",
+                "word_index": 5
+              },
+              {
+                "start": 13.09,
+                "end": 13.55,
+                "text": "January",
+                "word_index": 6
+              },
+              {
+                "start": 13.55,
+                "end": 13.89,
+                "text": "pickles",
+                "word_index": 7
+              },
+              {
+                "start": 13.89,
+                "end": 13.99,
+                "text": "are",
+                "word_index": 8
+              },
+              {
+                "start": 13.99,
+                "end": 14.11,
+                "text": "good.",
+                "word_index": 9
+              }
+            ]
+          },
+          {
+            "start": 14.73,
+            "end": 15.15,
+            "text": "It's not bad.",
+            "words": [
+              {
+                "start": 14.73,
+                "end": 14.85,
+                "text": "It's",
+                "word_index": 10
+              },
+              {
+                "start": 14.85,
+                "end": 14.95,
+                "text": "not",
+                "word_index": 11
+              },
+              {
+                "start": 14.95,
+                "end": 15.15,
+                "text": "bad.",
+                "word_index": 12
+              }
+            ]
+          },
+          {
+            "start": 15.67,
+            "end": 16.15,
+            "text": "What'd I get?",
+            "words": [
+              {
+                "start": 15.67,
+                "end": 15.93,
+                "text": "What'd",
+                "word_index": 13
+              },
+              {
+                "start": 15.93,
+                "end": 16.01,
+                "text": "I",
+                "word_index": 14
+              },
+              {
+                "start": 16.01,
+                "end": 16.15,
+                "text": "get?",
+                "word_index": 15
+              }
+            ]
+          },
+          {
+            "start": 18.66,
+            "end": 19.580001,
+            "text": "Oh, yes, sir.",
+            "words": [
+              {
+                "start": 18.66,
+                "end": 19.18,
+                "text": "Oh,",
+                "word_index": 16
+              },
+              {
+                "start": 19.22,
+                "end": 19.34,
+                "text": "yes,",
+                "word_index": 17
+              },
+              {
+                "start": 19.58,
+                "end": 19.580001,
+                "text": "sir.",
+                "word_index": 18
+              }
+            ]
+          },
+          {
+            "start": 21.1,
+            "end": 22.18,
+            "text": "I love but that's easy.",
+            "words": [
+              {
+                "start": 21.1,
+                "end": 21.34,
+                "text": "I",
+                "word_index": 19
+              },
+              {
+                "start": 21.34,
+                "end": 21.5,
+                "text": "love",
+                "word_index": 20
+              },
+              {
+                "start": 21.5,
+                "end": 21.7,
+                "text": "but",
+                "word_index": 21
+              },
+              {
+                "start": 21.7,
+                "end": 22.02,
+                "text": "that's",
+                "word_index": 22
+              },
+              {
+                "start": 22.02,
+                "end": 22.18,
+                "text": "easy.",
+                "word_index": 23
+              }
+            ]
+          },
+          {
+            "start": 22.78,
+            "end": 23.46,
+            "text": "That's good.",
+            "words": [
+              {
+                "start": 22.78,
+                "end": 23.3,
+                "text": "That's",
+                "word_index": 24
+              },
+              {
+                "start": 23.3,
+                "end": 23.46,
+                "text": "good.",
+                "word_index": 25
+              }
+            ]
+          },
+          {
+            "start": 26.2,
+            "end": 26.82,
+            "text": "Oh, Hacknow.",
+            "words": [
+              {
+                "start": 26.2,
+                "end": 26.42,
+                "text": "Oh,",
+                "word_index": 26
+              },
+              {
+                "start": 26.54,
+                "end": 26.82,
+                "text": "Hacknow.",
+                "word_index": 27
+              }
+            ]
+          },
+          {
+            "start": 29.68,
+            "end": 30.34,
+            "text": "Yeah, March.",
+            "words": [
+              {
+                "start": 29.68,
+                "end": 30.14,
+                "text": "Yeah,",
+                "word_index": 28
+              },
+              {
+                "start": 30.26,
+                "end": 30.34,
+                "text": "March.",
+                "word_index": 29
+              }
+            ]
+          },
+          {
+            "start": 30.94,
+            "end": 31.38,
+            "text": "God bless you.",
+            "words": [
+              {
+                "start": 30.94,
+                "end": 30.98,
+                "text": "God",
+                "word_index": 30
+              },
+              {
+                "start": 30.98,
+                "end": 31.16,
+                "text": "bless",
+                "word_index": 31
+              },
+              {
+                "start": 31.16,
+                "end": 31.38,
+                "text": "you.",
+                "word_index": 32
+              }
+            ]
+          },
+          {
+            "start": 34.57,
+            "end": 35.13,
+            "text": "Ooh.",
+            "words": [
+              {
+                "start": 34.57,
+                "end": 35.13,
+                "text": "Ooh.",
+                "word_index": 33
+              }
+            ]
+          },
+          {
+            "start": 36.92,
+            "end": 37.94,
+            "text": "But I look so good.",
+            "words": [
+              {
+                "start": 36.92,
+                "end": 37.14,
+                "text": "But",
+                "word_index": 34
+              },
+              {
+                "start": 37.14,
+                "end": 37.26,
+                "text": "I",
+                "word_index": 35
+              },
+              {
+                "start": 37.26,
+                "end": 37.38,
+                "text": "look",
+                "word_index": 36
+              },
+              {
+                "start": 37.38,
+                "end": 37.66,
+                "text": "so",
+                "word_index": 37
+              },
+              {
+                "start": 37.66,
+                "end": 37.94,
+                "text": "good.",
+                "word_index": 38
+              }
+            ]
+          },
+          {
+            "start": 42.34,
+            "end": 42.64,
+            "text": "What?",
+            "words": [
+              {
+                "start": 42.34,
+                "end": 42.64,
+                "text": "What?",
+                "word_index": 39
+              }
+            ]
+          },
+          {
+            "start": 43.2,
+            "end": 45.84,
+            "text": "Let's just eat a calculator.",
+            "words": [
+              {
+                "start": 43.2,
+                "end": 43.4,
+                "text": "Let's",
+                "word_index": 40
+              },
+              {
+                "start": 45.04,
+                "end": 45.14,
+                "text": "just",
+                "word_index": 41
+              },
+              {
+                "start": 45.14,
+                "end": 45.38,
+                "text": "eat",
+                "word_index": 42
+              },
+              {
+                "start": 45.38,
+                "end": 45.52,
+                "text": "a",
+                "word_index": 43
+              },
+              {
+                "start": 45.52,
+                "end": 45.84,
+                "text": "calculator.",
+                "word_index": 44
+              }
+            ]
+          },
+          {
+            "start": 47.69,
+            "end": 47.95,
+            "text": "Mase cooked.",
+            "words": [
+              {
+                "start": 47.69,
+                "end": 47.77,
+                "text": "Mase",
+                "word_index": 45
+              },
+              {
+                "start": 47.77,
+                "end": 47.95,
+                "text": "cooked.",
+                "word_index": 46
+              }
+            ]
+          },
+          {
+            "start": 50.39,
+            "end": 53.93,
+            "text": "It's not bad.",
+            "words": [
+              {
+                "start": 50.39,
+                "end": 50.79,
+                "text": "It's",
+                "word_index": 47
+              },
+              {
+                "start": 50.79,
+                "end": 50.790001,
+                "text": "not",
+                "word_index": 48
+              },
+              {
+                "start": 52.87,
+                "end": 53.93,
+                "text": "bad.",
+                "word_index": 49
+              }
+            ]
+          },
+          {
+            "start": 58.62,
+            "end": 59.14,
+            "text": "Oh, okay.",
+            "words": [
+              {
+                "start": 58.62,
+                "end": 58.72,
+                "text": "Oh,",
+                "word_index": 50
+              },
+              {
+                "start": 58.88,
+                "end": 59.14,
+                "text": "okay.",
+                "word_index": 51
+              }
+            ]
+          },
+          {
+            "start": 61.44,
+            "end": 61.98,
+            "text": "That's good.",
+            "words": [
+              {
+                "start": 61.44,
+                "end": 61.76,
+                "text": "That's",
+                "word_index": 52
+              },
+              {
+                "start": 61.76,
+                "end": 61.98,
+                "text": "good.",
+                "word_index": 53
+              }
+            ]
+          },
+          {
+            "start": 66.29,
+            "end": 67.15,
+            "text": "Pro-auctioner cooked.",
+            "words": [
+              {
+                "start": 66.29,
+                "end": 66.51,
+                "text": "Pro",
+                "word_index": 54
+              },
+              {
+                "start": 66.51,
+                "end": 66.97,
+                "text": "-auctioner",
+                "word_index": 55
+              },
+              {
+                "start": 66.97,
+                "end": 67.15,
+                "text": "cooked.",
+                "word_index": 56
+              }
+            ]
+          },
+          {
+            "start": 67.15,
+            "end": 86.65,
+            "text": "just pray August what September trade with me trade please yeah be pissed I be",
+            "words": [
+              {
+                "start": 67.15,
+                "end": 68.19,
+                "text": "just",
+                "word_index": 57
+              },
+              {
+                "start": 69.41,
+                "end": 69.71,
+                "text": "pray",
+                "word_index": 58
+              },
+              {
+                "start": 69.71,
+                "end": 69.99,
+                "text": "August",
+                "word_index": 59
+              },
+              {
+                "start": 69.99,
+                "end": 70.99,
+                "text": "what",
+                "word_index": 60
+              },
+              {
+                "start": 72.94,
+                "end": 74.28,
+                "text": "September",
+                "word_index": 61
+              },
+              {
+                "start": 77.35,
+                "end": 77.65,
+                "text": "trade",
+                "word_index": 62
+              },
+              {
+                "start": 77.65,
+                "end": 77.79,
+                "text": "with",
+                "word_index": 63
+              },
+              {
+                "start": 77.79,
+                "end": 77.95,
+                "text": "me",
+                "word_index": 64
+              },
+              {
+                "start": 77.95,
+                "end": 78.21,
+                "text": "trade",
+                "word_index": 65
+              },
+              {
+                "start": 78.21,
+                "end": 79.45,
+                "text": "please",
+                "word_index": 66
+              },
+              {
+                "start": 79.45,
+                "end": 80.49,
+                "text": "yeah",
+                "word_index": 67
+              },
+              {
+                "start": 84.52,
+                "end": 84.74,
+                "text": "be",
+                "word_index": 68
+              },
+              {
+                "start": 84.74,
+                "end": 85.04,
+                "text": "pissed",
+                "word_index": 69
+              },
+              {
+                "start": 85.04,
+                "end": 86.06,
+                "text": "I",
+                "word_index": 70
+              },
+              {
+                "start": 86.51,
+                "end": 86.65,
+                "text": "be",
+                "word_index": 71
+              }
+            ]
+          },
+          {
+            "start": 86.65,
+            "end": 103.09,
+            "text": "mad ooh facts ice can cake or you're lucky",
+            "words": [
+              {
+                "start": 86.65,
+                "end": 86.97,
+                "text": "mad",
+                "word_index": 72
+              },
+              {
+                "start": 88.22,
+                "end": 89.44,
+                "text": "ooh",
+                "word_index": 73
+              },
+              {
+                "start": 89.44,
+                "end": 90.08,
+                "text": "facts",
+                "word_index": 74
+              },
+              {
+                "start": 93.76,
+                "end": 94.88,
+                "text": "ice",
+                "word_index": 75
+              },
+              {
+                "start": 100.61,
+                "end": 100.79,
+                "text": "can",
+                "word_index": 76
+              },
+              {
+                "start": 100.79,
+                "end": 101.05,
+                "text": "cake",
+                "word_index": 77
+              },
+              {
+                "start": 101.05,
+                "end": 102.07,
+                "text": "or",
+                "word_index": 78
+              },
+              {
+                "start": 102.61,
+                "end": 102.81,
+                "text": "you're",
+                "word_index": 79
+              },
+              {
+                "start": 102.81,
+                "end": 103.09,
+                "text": "lucky",
+                "word_index": 80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "video_track_2",
+        "speech": [
+          {
+            "start": 0.0,
+            "end": 2.96,
+            "text": "It's midnight, and your birth month is your midnight snack.",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.28,
+                "text": "It's",
+                "word_index": 0
+              },
+              {
+                "start": 0.28,
+                "end": 0.44,
+                "text": "midnight,",
+                "word_index": 1
+              },
+              {
+                "start": 0.66,
+                "end": 1.04,
+                "text": "and",
+                "word_index": 2
+              },
+              {
+                "start": 1.04,
+                "end": 1.2,
+                "text": "your",
+                "word_index": 3
+              },
+              {
+                "start": 1.2,
+                "end": 1.44,
+                "text": "birth",
+                "word_index": 4
+              },
+              {
+                "start": 1.44,
+                "end": 1.74,
+                "text": "month",
+                "word_index": 5
+              },
+              {
+                "start": 1.74,
+                "end": 2.04,
+                "text": "is",
+                "word_index": 6
+              },
+              {
+                "start": 2.04,
+                "end": 2.18,
+                "text": "your",
+                "word_index": 7
+              },
+              {
+                "start": 2.18,
+                "end": 2.46,
+                "text": "midnight",
+                "word_index": 8
+              },
+              {
+                "start": 2.46,
+                "end": 2.96,
+                "text": "snack.",
+                "word_index": 9
+              }
+            ]
+          },
+          {
+            "start": 3.44,
+            "end": 4.76,
+            "text": "Whatever month you were born in,",
+            "words": [
+              {
+                "start": 3.44,
+                "end": 3.62,
+                "text": "Whatever",
+                "word_index": 10
+              },
+              {
+                "start": 3.62,
+                "end": 4.04,
+                "text": "month",
+                "word_index": 11
+              },
+              {
+                "start": 4.04,
+                "end": 4.2,
+                "text": "you",
+                "word_index": 12
+              },
+              {
+                "start": 4.2,
+                "end": 4.3,
+                "text": "were",
+                "word_index": 13
+              },
+              {
+                "start": 4.3,
+                "end": 4.5,
+                "text": "born",
+                "word_index": 14
+              },
+              {
+                "start": 4.5,
+                "end": 4.76,
+                "text": "in,",
+                "word_index": 15
+              }
+            ]
+          },
+          {
+            "start": 5.0,
+            "end": 6.04,
+            "text": "that's what you gotta eat.",
+            "words": [
+              {
+                "start": 5.0,
+                "end": 5.4,
+                "text": "that's",
+                "word_index": 16
+              },
+              {
+                "start": 5.4,
+                "end": 5.5,
+                "text": "what",
+                "word_index": 17
+              },
+              {
+                "start": 5.5,
+                "end": 5.62,
+                "text": "you",
+                "word_index": 18
+              },
+              {
+                "start": 5.62,
+                "end": 5.74,
+                "text": "gotta",
+                "word_index": 19
+              },
+              {
+                "start": 5.74,
+                "end": 6.04,
+                "text": "eat.",
+                "word_index": 20
+              }
+            ]
+          },
+          {
+            "start": 6.42,
+            "end": 7.28,
+            "text": "What snack did you get?",
+            "words": [
+              {
+                "start": 6.42,
+                "end": 6.58,
+                "text": "What",
+                "word_index": 21
+              },
+              {
+                "start": 6.58,
+                "end": 6.78,
+                "text": "snack",
+                "word_index": 22
+              },
+              {
+                "start": 6.78,
+                "end": 7.0,
+                "text": "did",
+                "word_index": 23
+              },
+              {
+                "start": 7.0,
+                "end": 7.12,
+                "text": "you",
+                "word_index": 24
+              },
+              {
+                "start": 7.12,
+                "end": 7.28,
+                "text": "get?",
+                "word_index": 25
+              }
+            ]
+          },
+          {
+            "start": 7.8,
+            "end": 10.5,
+            "text": "January, your midnight snack is a whole jar of pickles.",
+            "words": [
+              {
+                "start": 7.8,
+                "end": 8.2,
+                "text": "January,",
+                "word_index": 26
+              },
+              {
+                "start": 8.52,
+                "end": 8.6,
+                "text": "your",
+                "word_index": 27
+              },
+              {
+                "start": 8.6,
+                "end": 8.8,
+                "text": "midnight",
+                "word_index": 28
+              },
+              {
+                "start": 8.8,
+                "end": 9.2,
+                "text": "snack",
+                "word_index": 29
+              },
+              {
+                "start": 9.2,
+                "end": 9.42,
+                "text": "is",
+                "word_index": 30
+              },
+              {
+                "start": 9.42,
+                "end": 9.5,
+                "text": "a",
+                "word_index": 31
+              },
+              {
+                "start": 9.5,
+                "end": 9.68,
+                "text": "whole",
+                "word_index": 32
+              },
+              {
+                "start": 9.68,
+                "end": 9.92,
+                "text": "jar",
+                "word_index": 33
+              },
+              {
+                "start": 9.92,
+                "end": 10.1,
+                "text": "of",
+                "word_index": 34
+              },
+              {
+                "start": 10.1,
+                "end": 10.5,
+                "text": "pickles.",
+                "word_index": 35
+              }
+            ]
+          },
+          {
+            "start": 10.74,
+            "end": 12.02,
+            "text": "Bro, you're gonna be drinking pickle juice",
+            "words": [
+              {
+                "start": 10.74,
+                "end": 10.78,
+                "text": "Bro,",
+                "word_index": 36
+              },
+              {
+                "start": 10.92,
+                "end": 11.0,
+                "text": "you're",
+                "word_index": 37
+              },
+              {
+                "start": 11.0,
+                "end": 11.12,
+                "text": "gonna",
+                "word_index": 38
+              },
+              {
+                "start": 11.12,
+                "end": 11.24,
+                "text": "be",
+                "word_index": 39
+              },
+              {
+                "start": 11.24,
+                "end": 11.44,
+                "text": "drinking",
+                "word_index": 40
+              },
+              {
+                "start": 11.44,
+                "end": 11.88,
+                "text": "pickle",
+                "word_index": 41
+              },
+              {
+                "start": 11.88,
+                "end": 12.02,
+                "text": "juice",
+                "word_index": 42
+              }
+            ]
+          },
+          {
+            "start": 12.02,
+            "end": 12.76,
+            "text": "at 12 in the morning.",
+            "words": [
+              {
+                "start": 12.02,
+                "end": 12.2,
+                "text": "at",
+                "word_index": 43
+              },
+              {
+                "start": 12.2,
+                "end": 12.36,
+                "text": "12",
+                "word_index": 44
+              },
+              {
+                "start": 12.36,
+                "end": 12.56,
+                "text": "in",
+                "word_index": 45
+              },
+              {
+                "start": 12.56,
+                "end": 12.58,
+                "text": "the",
+                "word_index": 46
+              },
+              {
+                "start": 12.58,
+                "end": 12.76,
+                "text": "morning.",
+                "word_index": 47
+              }
+            ]
+          },
+          {
+            "start": 13.22,
+            "end": 14.64,
+            "text": "Nah, that's sour.",
+            "words": [
+              {
+                "start": 13.22,
+                "end": 13.42,
+                "text": "Nah,",
+                "word_index": 48
+              },
+              {
+                "start": 14.06,
+                "end": 14.4,
+                "text": "that's",
+                "word_index": 49
+              },
+              {
+                "start": 14.4,
+                "end": 14.64,
+                "text": "sour.",
+                "word_index": 50
+              }
+            ]
+          },
+          {
+            "start": 16.28,
+            "end": 19.24,
+            "text": "February, your midnight snack is a giant chocolate chip muffin.",
+            "words": [
+              {
+                "start": 16.28,
+                "end": 16.280001,
+                "text": "February,",
+                "word_index": 51
+              },
+              {
+                "start": 16.48,
+                "end": 16.7,
+                "text": "your",
+                "word_index": 52
+              },
+              {
+                "start": 16.7,
+                "end": 16.94,
+                "text": "midnight",
+                "word_index": 53
+              },
+              {
+                "start": 16.94,
+                "end": 17.36,
+                "text": "snack",
+                "word_index": 54
+              },
+              {
+                "start": 17.36,
+                "end": 17.62,
+                "text": "is",
+                "word_index": 55
+              },
+              {
+                "start": 17.62,
+                "end": 17.74,
+                "text": "a",
+                "word_index": 56
+              },
+              {
+                "start": 17.74,
+                "end": 18.08,
+                "text": "giant",
+                "word_index": 57
+              },
+              {
+                "start": 18.08,
+                "end": 18.44,
+                "text": "chocolate",
+                "word_index": 58
+              },
+              {
+                "start": 18.44,
+                "end": 18.84,
+                "text": "chip",
+                "word_index": 59
+              },
+              {
+                "start": 18.84,
+                "end": 19.24,
+                "text": "muffin.",
+                "word_index": 60
+              }
+            ]
+          },
+          {
+            "start": 19.4,
+            "end": 20.62,
+            "text": "Bro, you actually got something good.",
+            "words": [
+              {
+                "start": 19.4,
+                "end": 19.52,
+                "text": "Bro,",
+                "word_index": 61
+              },
+              {
+                "start": 19.62,
+                "end": 19.72,
+                "text": "you",
+                "word_index": 62
+              },
+              {
+                "start": 19.72,
+                "end": 19.96,
+                "text": "actually",
+                "word_index": 63
+              },
+              {
+                "start": 19.96,
+                "end": 20.12,
+                "text": "got",
+                "word_index": 64
+              },
+              {
+                "start": 20.12,
+                "end": 20.32,
+                "text": "something",
+                "word_index": 65
+              },
+              {
+                "start": 20.32,
+                "end": 20.62,
+                "text": "good.",
+                "word_index": 66
+              }
+            ]
+          },
+          {
+            "start": 21.24,
+            "end": 23.12,
+            "text": "Nah, this is actually fire.",
+            "words": [
+              {
+                "start": 21.24,
+                "end": 21.68,
+                "text": "Nah,",
+                "word_index": 67
+              },
+              {
+                "start": 22.14,
+                "end": 22.52,
+                "text": "this",
+                "word_index": 68
+              },
+              {
+                "start": 22.52,
+                "end": 22.64,
+                "text": "is",
+                "word_index": 69
+              },
+              {
+                "start": 22.64,
+                "end": 22.9,
+                "text": "actually",
+                "word_index": 70
+              },
+              {
+                "start": 22.9,
+                "end": 23.12,
+                "text": "fire.",
+                "word_index": 71
+              }
+            ]
+          },
+          {
+            "start": 24.02,
+            "end": 26.32,
+            "text": "Arch, your midnight snack is sardines and tomato sauce.",
+            "words": [
+              {
+                "start": 24.02,
+                "end": 24.1,
+                "text": "Arch,",
+                "word_index": 72
+              },
+              {
+                "start": 24.4,
+                "end": 24.5,
+                "text": "your",
+                "word_index": 73
+              },
+              {
+                "start": 24.5,
+                "end": 24.64,
+                "text": "midnight",
+                "word_index": 74
+              },
+              {
+                "start": 24.64,
+                "end": 25.0,
+                "text": "snack",
+                "word_index": 75
+              },
+              {
+                "start": 25.0,
+                "end": 25.22,
+                "text": "is",
+                "word_index": 76
+              },
+              {
+                "start": 25.22,
+                "end": 25.64,
+                "text": "sardines",
+                "word_index": 77
+              },
+              {
+                "start": 25.64,
+                "end": 25.82,
+                "text": "and",
+                "word_index": 78
+              },
+              {
+                "start": 25.82,
+                "end": 26.1,
+                "text": "tomato",
+                "word_index": 79
+              },
+              {
+                "start": 26.1,
+                "end": 26.32,
+                "text": "sauce.",
+                "word_index": 80
+              }
+            ]
+          },
+          {
+            "start": 26.86,
+            "end": 28.5,
+            "text": "Bro, your whole room is about to smell like fish.",
+            "words": [
+              {
+                "start": 26.86,
+                "end": 27.02,
+                "text": "Bro,",
+                "word_index": 81
+              },
+              {
+                "start": 27.16,
+                "end": 27.22,
+                "text": "your",
+                "word_index": 82
+              },
+              {
+                "start": 27.22,
+                "end": 27.42,
+                "text": "whole",
+                "word_index": 83
+              },
+              {
+                "start": 27.42,
+                "end": 27.64,
+                "text": "room",
+                "word_index": 84
+              },
+              {
+                "start": 27.64,
+                "end": 27.76,
+                "text": "is",
+                "word_index": 85
+              },
+              {
+                "start": 27.76,
+                "end": 27.9,
+                "text": "about",
+                "word_index": 86
+              },
+              {
+                "start": 27.9,
+                "end": 28.0,
+                "text": "to",
+                "word_index": 87
+              },
+              {
+                "start": 28.0,
+                "end": 28.16,
+                "text": "smell",
+                "word_index": 88
+              },
+              {
+                "start": 28.16,
+                "end": 28.28,
+                "text": "like",
+                "word_index": 89
+              },
+              {
+                "start": 28.28,
+                "end": 28.5,
+                "text": "fish.",
+                "word_index": 90
+              }
+            ]
+          },
+          {
+            "start": 28.5,
+            "end": 31.1,
+            "text": "Fish, nah, I'm not eating this at midnight.",
+            "words": [
+              {
+                "start": 28.5,
+                "end": 28.7,
+                "text": "Fish,",
+                "word_index": 91
+              },
+              {
+                "start": 29.56,
+                "end": 29.8,
+                "text": "nah,",
+                "word_index": 92
+              },
+              {
+                "start": 30.18,
+                "end": 30.38,
+                "text": "I'm",
+                "word_index": 93
+              },
+              {
+                "start": 30.38,
+                "end": 30.5,
+                "text": "not",
+                "word_index": 94
+              },
+              {
+                "start": 30.5,
+                "end": 30.64,
+                "text": "eating",
+                "word_index": 95
+              },
+              {
+                "start": 30.64,
+                "end": 30.86,
+                "text": "this",
+                "word_index": 96
+              },
+              {
+                "start": 30.86,
+                "end": 30.96,
+                "text": "at",
+                "word_index": 97
+              },
+              {
+                "start": 30.96,
+                "end": 31.1,
+                "text": "midnight.",
+                "word_index": 98
+              }
+            ]
+          },
+          {
+            "start": 31.86,
+            "end": 34.38,
+            "text": "April, your midnight snack is chocolate covered fruit.",
+            "words": [
+              {
+                "start": 31.86,
+                "end": 32.3,
+                "text": "April,",
+                "word_index": 99
+              },
+              {
+                "start": 32.6,
+                "end": 32.62,
+                "text": "your",
+                "word_index": 100
+              },
+              {
+                "start": 32.62,
+                "end": 32.84,
+                "text": "midnight",
+                "word_index": 101
+              },
+              {
+                "start": 32.84,
+                "end": 33.22,
+                "text": "snack",
+                "word_index": 102
+              },
+              {
+                "start": 33.22,
+                "end": 33.5,
+                "text": "is",
+                "word_index": 103
+              },
+              {
+                "start": 33.5,
+                "end": 33.72,
+                "text": "chocolate",
+                "word_index": 104
+              },
+              {
+                "start": 33.72,
+                "end": 34.12,
+                "text": "covered",
+                "word_index": 105
+              },
+              {
+                "start": 34.12,
+                "end": 34.38,
+                "text": "fruit.",
+                "word_index": 106
+              }
+            ]
+          },
+          {
+            "start": 34.8,
+            "end": 36.5,
+            "text": "Bro, you got the best dessert in the whole house.",
+            "words": [
+              {
+                "start": 34.8,
+                "end": 34.9,
+                "text": "Bro,",
+                "word_index": 107
+              },
+              {
+                "start": 35.0,
+                "end": 35.08,
+                "text": "you",
+                "word_index": 108
+              },
+              {
+                "start": 35.08,
+                "end": 35.16,
+                "text": "got",
+                "word_index": 109
+              },
+              {
+                "start": 35.16,
+                "end": 35.3,
+                "text": "the",
+                "word_index": 110
+              },
+              {
+                "start": 35.3,
+                "end": 35.52,
+                "text": "best",
+                "word_index": 111
+              },
+              {
+                "start": 35.52,
+                "end": 35.84,
+                "text": "dessert",
+                "word_index": 112
+              },
+              {
+                "start": 35.84,
+                "end": 36.02,
+                "text": "in",
+                "word_index": 113
+              },
+              {
+                "start": 36.02,
+                "end": 36.1,
+                "text": "the",
+                "word_index": 114
+              },
+              {
+                "start": 36.1,
+                "end": 36.22,
+                "text": "whole",
+                "word_index": 115
+              },
+              {
+                "start": 36.22,
+                "end": 36.5,
+                "text": "house.",
+                "word_index": 116
+              }
+            ]
+          },
+          {
+            "start": 37.14,
+            "end": 39.22,
+            "text": "Nah, I'm eating this every night.",
+            "words": [
+              {
+                "start": 37.14,
+                "end": 37.58,
+                "text": "Nah,",
+                "word_index": 117
+              },
+              {
+                "start": 37.94,
+                "end": 38.38,
+                "text": "I'm",
+                "word_index": 118
+              },
+              {
+                "start": 38.38,
+                "end": 38.52,
+                "text": "eating",
+                "word_index": 119
+              },
+              {
+                "start": 38.52,
+                "end": 38.74,
+                "text": "this",
+                "word_index": 120
+              },
+              {
+                "start": 38.74,
+                "end": 38.96,
+                "text": "every",
+                "word_index": 121
+              },
+              {
+                "start": 38.96,
+                "end": 39.22,
+                "text": "night.",
+                "word_index": 122
+              }
+            ]
+          },
+          {
+            "start": 39.98,
+            "end": 41.98,
+            "text": "May, your midnight snack is a calculator.",
+            "words": [
+              {
+                "start": 39.98,
+                "end": 40.14,
+                "text": "May,",
+                "word_index": 123
+              },
+              {
+                "start": 40.48,
+                "end": 40.7,
+                "text": "your",
+                "word_index": 124
+              },
+              {
+                "start": 40.7,
+                "end": 40.9,
+                "text": "midnight",
+                "word_index": 125
+              },
+              {
+                "start": 40.9,
+                "end": 41.34,
+                "text": "snack",
+                "word_index": 126
+              },
+              {
+                "start": 41.34,
+                "end": 41.64,
+                "text": "is",
+                "word_index": 127
+              },
+              {
+                "start": 41.64,
+                "end": 41.74,
+                "text": "a",
+                "word_index": 128
+              },
+              {
+                "start": 41.74,
+                "end": 41.98,
+                "text": "calculator.",
+                "word_index": 129
+              }
+            ]
+          },
+          {
+            "start": 42.88,
+            "end": 44.38,
+            "text": "Bro, you're literally eating your homework.",
+            "words": [
+              {
+                "start": 42.88,
+                "end": 42.92,
+                "text": "Bro,",
+                "word_index": 130
+              },
+              {
+                "start": 43.1,
+                "end": 43.18,
+                "text": "you're",
+                "word_index": 131
+              },
+              {
+                "start": 43.18,
+                "end": 43.48,
+                "text": "literally",
+                "word_index": 132
+              },
+              {
+                "start": 43.48,
+                "end": 43.92,
+                "text": "eating",
+                "word_index": 133
+              },
+              {
+                "start": 43.92,
+                "end": 44.14,
+                "text": "your",
+                "word_index": 134
+              },
+              {
+                "start": 44.14,
+                "end": 44.38,
+                "text": "homework.",
+                "word_index": 135
+              }
+            ]
+          },
+          {
+            "start": 44.96,
+            "end": 47.2,
+            "text": "Nah, this thing tastes like math.",
+            "words": [
+              {
+                "start": 44.96,
+                "end": 45.4,
+                "text": "Nah,",
+                "word_index": 136
+              },
+              {
+                "start": 45.86,
+                "end": 46.28,
+                "text": "this",
+                "word_index": 137
+              },
+              {
+                "start": 46.28,
+                "end": 46.5,
+                "text": "thing",
+                "word_index": 138
+              },
+              {
+                "start": 46.5,
+                "end": 46.66,
+                "text": "tastes",
+                "word_index": 139
+              },
+              {
+                "start": 46.66,
+                "end": 46.96,
+                "text": "like",
+                "word_index": 140
+              },
+              {
+                "start": 46.96,
+                "end": 47.2,
+                "text": "math.",
+                "word_index": 141
+              }
+            ]
+          },
+          {
+            "start": 48.02,
+            "end": 50.34,
+            "text": "June, your midnight snack is a frozen waffle.",
+            "words": [
+              {
+                "start": 48.02,
+                "end": 48.14,
+                "text": "June,",
+                "word_index": 142
+              },
+              {
+                "start": 48.5,
+                "end": 48.64,
+                "text": "your",
+                "word_index": 143
+              },
+              {
+                "start": 48.64,
+                "end": 48.82,
+                "text": "midnight",
+                "word_index": 144
+              },
+              {
+                "start": 48.82,
+                "end": 49.26,
+                "text": "snack",
+                "word_index": 145
+              },
+              {
+                "start": 49.26,
+                "end": 49.48,
+                "text": "is",
+                "word_index": 146
+              },
+              {
+                "start": 49.48,
+                "end": 49.56,
+                "text": "a",
+                "word_index": 147
+              },
+              {
+                "start": 49.56,
+                "end": 49.88,
+                "text": "frozen",
+                "word_index": 148
+              },
+              {
+                "start": 49.88,
+                "end": 50.34,
+                "text": "waffle.",
+                "word_index": 149
+              }
+            ]
+          },
+          {
+            "start": 50.9,
+            "end": 52.12,
+            "text": "Bro, you don't even get to heat it up.",
+            "words": [
+              {
+                "start": 50.9,
+                "end": 50.94,
+                "text": "Bro,",
+                "word_index": 150
+              },
+              {
+                "start": 51.08,
+                "end": 51.14,
+                "text": "you",
+                "word_index": 151
+              },
+              {
+                "start": 51.14,
+                "end": 51.26,
+                "text": "don't",
+                "word_index": 152
+              },
+              {
+                "start": 51.26,
+                "end": 51.4,
+                "text": "even",
+                "word_index": 153
+              },
+              {
+                "start": 51.4,
+                "end": 51.52,
+                "text": "get",
+                "word_index": 154
+              },
+              {
+                "start": 51.52,
+                "end": 51.62,
+                "text": "to",
+                "word_index": 155
+              },
+              {
+                "start": 51.62,
+                "end": 51.8,
+                "text": "heat",
+                "word_index": 156
+              },
+              {
+                "start": 51.8,
+                "end": 51.94,
+                "text": "it",
+                "word_index": 157
+              },
+              {
+                "start": 51.94,
+                "end": 52.12,
+                "text": "up.",
+                "word_index": 158
+              }
+            ]
+          },
+          {
+            "start": 52.52,
+            "end": 54.78,
+            "text": "Nah, my teeth are freezing.",
+            "words": [
+              {
+                "start": 52.52,
+                "end": 52.7,
+                "text": "Nah,",
+                "word_index": 159
+              },
+              {
+                "start": 53.78,
+                "end": 54.12,
+                "text": "my",
+                "word_index": 160
+              },
+              {
+                "start": 54.12,
+                "end": 54.32,
+                "text": "teeth",
+                "word_index": 161
+              },
+              {
+                "start": 54.32,
+                "end": 54.5,
+                "text": "are",
+                "word_index": 162
+              },
+              {
+                "start": 54.5,
+                "end": 54.78,
+                "text": "freezing.",
+                "word_index": 163
+              }
+            ]
+          },
+          {
+            "start": 55.6,
+            "end": 58.62,
+            "text": "July, your midnight snack is canned cranberry sauce.",
+            "words": [
+              {
+                "start": 55.6,
+                "end": 56.08,
+                "text": "July,",
+                "word_index": 164
+              },
+              {
+                "start": 56.48,
+                "end": 56.62,
+                "text": "your",
+                "word_index": 165
+              },
+              {
+                "start": 56.62,
+                "end": 56.8,
+                "text": "midnight",
+                "word_index": 166
+              },
+              {
+                "start": 56.8,
+                "end": 57.18,
+                "text": "snack",
+                "word_index": 167
+              },
+              {
+                "start": 57.18,
+                "end": 57.52,
+                "text": "is",
+                "word_index": 168
+              },
+              {
+                "start": 57.52,
+                "end": 57.76,
+                "text": "canned",
+                "word_index": 169
+              },
+              {
+                "start": 57.76,
+                "end": 58.32,
+                "text": "cranberry",
+                "word_index": 170
+              },
+              {
+                "start": 58.32,
+                "end": 58.62,
+                "text": "sauce.",
+                "word_index": 171
+              }
+            ]
+          },
+          {
+            "start": 59.06,
+            "end": 61.38,
+            "text": "Bro, you're eating Thanksgiving leftovers at midnight.",
+            "words": [
+              {
+                "start": 59.06,
+                "end": 59.28,
+                "text": "Bro,",
+                "word_index": 172
+              },
+              {
+                "start": 59.5,
+                "end": 59.64,
+                "text": "you're",
+                "word_index": 173
+              },
+              {
+                "start": 59.64,
+                "end": 59.82,
+                "text": "eating",
+                "word_index": 174
+              },
+              {
+                "start": 59.82,
+                "end": 60.18,
+                "text": "Thanksgiving",
+                "word_index": 175
+              },
+              {
+                "start": 60.18,
+                "end": 61.02,
+                "text": "leftovers",
+                "word_index": 176
+              },
+              {
+                "start": 61.02,
+                "end": 61.2,
+                "text": "at",
+                "word_index": 177
+              },
+              {
+                "start": 61.2,
+                "end": 61.38,
+                "text": "midnight.",
+                "word_index": 178
+              }
+            ]
+          },
+          {
+            "start": 62.1,
+            "end": 63.42,
+            "text": "Why is this actually kind of good?",
+            "words": [
+              {
+                "start": 62.1,
+                "end": 62.38,
+                "text": "Why",
+                "word_index": 179
+              },
+              {
+                "start": 62.38,
+                "end": 62.54,
+                "text": "is",
+                "word_index": 180
+              },
+              {
+                "start": 62.54,
+                "end": 62.64,
+                "text": "this",
+                "word_index": 181
+              },
+              {
+                "start": 62.64,
+                "end": 62.94,
+                "text": "actually",
+                "word_index": 182
+              },
+              {
+                "start": 62.94,
+                "end": 63.12,
+                "text": "kind",
+                "word_index": 183
+              },
+              {
+                "start": 63.12,
+                "end": 63.22,
+                "text": "of",
+                "word_index": 184
+              },
+              {
+                "start": 63.22,
+                "end": 63.42,
+                "text": "good?",
+                "word_index": 185
+              }
+            ]
+          },
+          {
+            "start": 63.94,
+            "end": 66.2,
+            "text": "August, your midnight snack is packing peanuts.",
+            "words": [
+              {
+                "start": 63.94,
+                "end": 64.18,
+                "text": "August,",
+                "word_index": 186
+              },
+              {
+                "start": 64.58,
+                "end": 64.72,
+                "text": "your",
+                "word_index": 187
+              },
+              {
+                "start": 64.72,
+                "end": 64.92,
+                "text": "midnight",
+                "word_index": 188
+              },
+              {
+                "start": 64.92,
+                "end": 65.42,
+                "text": "snack",
+                "word_index": 189
+              },
+              {
+                "start": 65.42,
+                "end": 65.6,
+                "text": "is",
+                "word_index": 190
+              },
+              {
+                "start": 65.6,
+                "end": 65.9,
+                "text": "packing",
+                "word_index": 191
+              },
+              {
+                "start": 65.9,
+                "end": 66.2,
+                "text": "peanuts.",
+                "word_index": 192
+              }
+            ]
+          },
+          {
+            "start": 66.68,
+            "end": 69.2,
+            "text": "Bro, you're eating the stuff they put inside Amazon boxes.",
+            "words": [
+              {
+                "start": 66.68,
+                "end": 67.04,
+                "text": "Bro,",
+                "word_index": 193
+              },
+              {
+                "start": 67.12,
+                "end": 67.24,
+                "text": "you're",
+                "word_index": 194
+              },
+              {
+                "start": 67.24,
+                "end": 67.42,
+                "text": "eating",
+                "word_index": 195
+              },
+              {
+                "start": 67.42,
+                "end": 67.54,
+                "text": "the",
+                "word_index": 196
+              },
+              {
+                "start": 67.54,
+                "end": 67.72,
+                "text": "stuff",
+                "word_index": 197
+              },
+              {
+                "start": 67.72,
+                "end": 67.88,
+                "text": "they",
+                "word_index": 198
+              },
+              {
+                "start": 67.88,
+                "end": 68.02,
+                "text": "put",
+                "word_index": 199
+              },
+              {
+                "start": 68.02,
+                "end": 68.28,
+                "text": "inside",
+                "word_index": 200
+              },
+              {
+                "start": 68.28,
+                "end": 68.58,
+                "text": "Amazon",
+                "word_index": 201
+              },
+              {
+                "start": 68.58,
+                "end": 69.2,
+                "text": "boxes.",
+                "word_index": 202
+              }
+            ]
+          },
+          {
+            "start": 69.78,
+            "end": 71.48,
+            "text": "Nah, this ain't even real food.",
+            "words": [
+              {
+                "start": 69.78,
+                "end": 69.9,
+                "text": "Nah,",
+                "word_index": 203
+              },
+              {
+                "start": 70.34,
+                "end": 70.62,
+                "text": "this",
+                "word_index": 204
+              },
+              {
+                "start": 70.62,
+                "end": 70.78,
+                "text": "ain't",
+                "word_index": 205
+              },
+              {
+                "start": 70.78,
+                "end": 70.92,
+                "text": "even",
+                "word_index": 206
+              },
+              {
+                "start": 70.92,
+                "end": 71.1,
+                "text": "real",
+                "word_index": 207
+              },
+              {
+                "start": 71.1,
+                "end": 71.48,
+                "text": "food.",
+                "word_index": 208
+              }
+            ]
+          },
+          {
+            "start": 71.94,
+            "end": 74.72,
+            "text": "September, your midnight snack is a giant cinnamon roll.",
+            "words": [
+              {
+                "start": 71.94,
+                "end": 72.2,
+                "text": "September,",
+                "word_index": 209
+              },
+              {
+                "start": 72.62,
+                "end": 72.68,
+                "text": "your",
+                "word_index": 210
+              },
+              {
+                "start": 72.68,
+                "end": 72.86,
+                "text": "midnight",
+                "word_index": 211
+              },
+              {
+                "start": 72.86,
+                "end": 73.22,
+                "text": "snack",
+                "word_index": 212
+              },
+              {
+                "start": 73.22,
+                "end": 73.52,
+                "text": "is",
+                "word_index": 213
+              },
+              {
+                "start": 73.52,
+                "end": 73.62,
+                "text": "a",
+                "word_index": 214
+              },
+              {
+                "start": 73.62,
+                "end": 74.0,
+                "text": "giant",
+                "word_index": 215
+              },
+              {
+                "start": 74.0,
+                "end": 74.38,
+                "text": "cinnamon",
+                "word_index": 216
+              },
+              {
+                "start": 74.38,
+                "end": 74.72,
+                "text": "roll.",
+                "word_index": 217
+              }
+            ]
+          },
+          {
+            "start": 74.92,
+            "end": 76.56,
+            "text": "I'm definitely not sharing this with anybody.",
+            "words": [
+              {
+                "start": 74.92,
+                "end": 75.0,
+                "text": "I'm",
+                "word_index": 218
+              },
+              {
+                "start": 75.0,
+                "end": 75.22,
+                "text": "definitely",
+                "word_index": 219
+              },
+              {
+                "start": 75.22,
+                "end": 75.56,
+                "text": "not",
+                "word_index": 220
+              },
+              {
+                "start": 75.56,
+                "end": 75.82,
+                "text": "sharing",
+                "word_index": 221
+              },
+              {
+                "start": 75.82,
+                "end": 76.06,
+                "text": "this",
+                "word_index": 222
+              },
+              {
+                "start": 76.06,
+                "end": 76.18,
+                "text": "with",
+                "word_index": 223
+              },
+              {
+                "start": 76.18,
+                "end": 76.56,
+                "text": "anybody.",
+                "word_index": 224
+              }
+            ]
+          },
+          {
+            "start": 77.35,
+            "end": 79.17,
+            "text": "Bro, this is actually so good.",
+            "words": [
+              {
+                "start": 77.35,
+                "end": 77.83,
+                "text": "Bro,",
+                "word_index": 225
+              },
+              {
+                "start": 77.97,
+                "end": 78.05,
+                "text": "this",
+                "word_index": 226
+              },
+              {
+                "start": 78.05,
+                "end": 78.13,
+                "text": "is",
+                "word_index": 227
+              },
+              {
+                "start": 78.13,
+                "end": 78.37,
+                "text": "actually",
+                "word_index": 228
+              },
+              {
+                "start": 78.37,
+                "end": 78.85,
+                "text": "so",
+                "word_index": 229
+              },
+              {
+                "start": 78.85,
+                "end": 79.17,
+                "text": "good.",
+                "word_index": 230
+              }
+            ]
+          },
+          {
+            "start": 80.05,
+            "end": 82.01,
+            "text": "Tober, your midnight snack is a foam toy.",
+            "words": [
+              {
+                "start": 80.05,
+                "end": 80.39,
+                "text": "Tober,",
+                "word_index": 231
+              },
+              {
+                "start": 80.55,
+                "end": 80.61,
+                "text": "your",
+                "word_index": 232
+              },
+              {
+                "start": 80.61,
+                "end": 80.79,
+                "text": "midnight",
+                "word_index": 233
+              },
+              {
+                "start": 80.79,
+                "end": 81.17,
+                "text": "snack",
+                "word_index": 234
+              },
+              {
+                "start": 81.17,
+                "end": 81.41,
+                "text": "is",
+                "word_index": 235
+              },
+              {
+                "start": 81.41,
+                "end": 81.51,
+                "text": "a",
+                "word_index": 236
+              },
+              {
+                "start": 81.51,
+                "end": 81.73,
+                "text": "foam",
+                "word_index": 237
+              },
+              {
+                "start": 81.73,
+                "end": 82.01,
+                "text": "toy.",
+                "word_index": 238
+              }
+            ]
+          },
+          {
+            "start": 82.29,
+            "end": 84.53,
+            "text": "Bro, why does my midnight snack feel like a stress ball?",
+            "words": [
+              {
+                "start": 82.29,
+                "end": 82.39,
+                "text": "Bro,",
+                "word_index": 239
+              },
+              {
+                "start": 82.55,
+                "end": 82.69,
+                "text": "why",
+                "word_index": 240
+              },
+              {
+                "start": 82.69,
+                "end": 82.81,
+                "text": "does",
+                "word_index": 241
+              },
+              {
+                "start": 82.81,
+                "end": 82.93,
+                "text": "my",
+                "word_index": 242
+              },
+              {
+                "start": 82.93,
+                "end": 83.17,
+                "text": "midnight",
+                "word_index": 243
+              },
+              {
+                "start": 83.17,
+                "end": 83.51,
+                "text": "snack",
+                "word_index": 244
+              },
+              {
+                "start": 83.51,
+                "end": 83.73,
+                "text": "feel",
+                "word_index": 245
+              },
+              {
+                "start": 83.73,
+                "end": 83.85,
+                "text": "like",
+                "word_index": 246
+              },
+              {
+                "start": 83.85,
+                "end": 83.95,
+                "text": "a",
+                "word_index": 247
+              },
+              {
+                "start": 83.95,
+                "end": 84.21,
+                "text": "stress",
+                "word_index": 248
+              },
+              {
+                "start": 84.21,
+                "end": 84.53,
+                "text": "ball?",
+                "word_index": 249
+              }
+            ]
+          },
+          {
+            "start": 84.53,
+            "end": 86.15,
+            "text": "Bro, I'm literally eating a toy.",
+            "words": [
+              {
+                "start": 84.53,
+                "end": 85.03,
+                "text": "Bro,",
+                "word_index": 250
+              },
+              {
+                "start": 85.13,
+                "end": 85.23,
+                "text": "I'm",
+                "word_index": 251
+              },
+              {
+                "start": 85.23,
+                "end": 85.37,
+                "text": "literally",
+                "word_index": 252
+              },
+              {
+                "start": 85.37,
+                "end": 85.75,
+                "text": "eating",
+                "word_index": 253
+              },
+              {
+                "start": 85.75,
+                "end": 85.93,
+                "text": "a",
+                "word_index": 254
+              },
+              {
+                "start": 85.93,
+                "end": 86.15,
+                "text": "toy.",
+                "word_index": 255
+              }
+            ]
+          },
+          {
+            "start": 87.98,
+            "end": 90.8,
+            "text": "November, your midnight snack is a giant bowl of mac and cheese.",
+            "words": [
+              {
+                "start": 87.98,
+                "end": 88.2,
+                "text": "November,",
+                "word_index": 256
+              },
+              {
+                "start": 88.54,
+                "end": 88.62,
+                "text": "your",
+                "word_index": 257
+              },
+              {
+                "start": 88.62,
+                "end": 88.82,
+                "text": "midnight",
+                "word_index": 258
+              },
+              {
+                "start": 88.82,
+                "end": 89.2,
+                "text": "snack",
+                "word_index": 259
+              },
+              {
+                "start": 89.2,
+                "end": 89.46,
+                "text": "is",
+                "word_index": 260
+              },
+              {
+                "start": 89.46,
+                "end": 89.54,
+                "text": "a",
+                "word_index": 261
+              },
+              {
+                "start": 89.54,
+                "end": 89.76,
+                "text": "giant",
+                "word_index": 262
+              },
+              {
+                "start": 89.76,
+                "end": 90.14,
+                "text": "bowl",
+                "word_index": 263
+              },
+              {
+                "start": 90.14,
+                "end": 90.28,
+                "text": "of",
+                "word_index": 264
+              },
+              {
+                "start": 90.28,
+                "end": 90.42,
+                "text": "mac",
+                "word_index": 265
+              },
+              {
+                "start": 90.42,
+                "end": 90.6,
+                "text": "and",
+                "word_index": 266
+              },
+              {
+                "start": 90.6,
+                "end": 90.8,
+                "text": "cheese.",
+                "word_index": 267
+              }
+            ]
+          },
+          {
+            "start": 91.06,
+            "end": 93.4,
+            "text": "I don't care what time it is, mac and cheese always hits.",
+            "words": [
+              {
+                "start": 91.06,
+                "end": 91.060001,
+                "text": "I",
+                "word_index": 268
+              },
+              {
+                "start": 91.06,
+                "end": 91.16,
+                "text": "don't",
+                "word_index": 269
+              },
+              {
+                "start": 91.16,
+                "end": 91.3,
+                "text": "care",
+                "word_index": 270
+              },
+              {
+                "start": 91.3,
+                "end": 91.54,
+                "text": "what",
+                "word_index": 271
+              },
+              {
+                "start": 91.54,
+                "end": 91.8,
+                "text": "time",
+                "word_index": 272
+              },
+              {
+                "start": 91.8,
+                "end": 91.92,
+                "text": "it",
+                "word_index": 273
+              },
+              {
+                "start": 91.92,
+                "end": 92.1,
+                "text": "is,",
+                "word_index": 274
+              },
+              {
+                "start": 92.1,
+                "end": 92.32,
+                "text": "mac",
+                "word_index": 275
+              },
+              {
+                "start": 92.32,
+                "end": 92.48,
+                "text": "and",
+                "word_index": 276
+              },
+              {
+                "start": 92.48,
+                "end": 92.64,
+                "text": "cheese",
+                "word_index": 277
+              },
+              {
+                "start": 92.64,
+                "end": 92.96,
+                "text": "always",
+                "word_index": 278
+              },
+              {
+                "start": 92.96,
+                "end": 93.4,
+                "text": "hits.",
+                "word_index": 279
+              }
+            ]
+          },
+          {
+            "start": 93.9,
+            "end": 94.86,
+            "text": "Bro, this cheese is insane.",
+            "words": [
+              {
+                "start": 93.9,
+                "end": 93.94,
+                "text": "Bro,",
+                "word_index": 280
+              },
+              {
+                "start": 94.08,
+                "end": 94.12,
+                "text": "this",
+                "word_index": 281
+              },
+              {
+                "start": 94.12,
+                "end": 94.32,
+                "text": "cheese",
+                "word_index": 282
+              },
+              {
+                "start": 94.32,
+                "end": 94.5,
+                "text": "is",
+                "word_index": 283
+              },
+              {
+                "start": 94.5,
+                "end": 94.86,
+                "text": "insane.",
+                "word_index": 284
+              }
+            ]
+          },
+          {
+            "start": 95.96,
+            "end": 98.68,
+            "text": "December, your midnight snack is frozen chocolate ice cream cake.",
+            "words": [
+              {
+                "start": 95.96,
+                "end": 96.1,
+                "text": "December,",
+                "word_index": 285
+              },
+              {
+                "start": 96.44,
+                "end": 96.52,
+                "text": "your",
+                "word_index": 286
+              },
+              {
+                "start": 96.52,
+                "end": 96.66,
+                "text": "midnight",
+                "word_index": 287
+              },
+              {
+                "start": 96.66,
+                "end": 97.0,
+                "text": "snack",
+                "word_index": 288
+              },
+              {
+                "start": 97.0,
+                "end": 97.24,
+                "text": "is",
+                "word_index": 289
+              },
+              {
+                "start": 97.24,
+                "end": 97.5,
+                "text": "frozen",
+                "word_index": 290
+              },
+              {
+                "start": 97.5,
+                "end": 97.92,
+                "text": "chocolate",
+                "word_index": 291
+              },
+              {
+                "start": 97.92,
+                "end": 98.26,
+                "text": "ice",
+                "word_index": 292
+              },
+              {
+                "start": 98.26,
+                "end": 98.48,
+                "text": "cream",
+                "word_index": 293
+              },
+              {
+                "start": 98.48,
+                "end": 98.68,
+                "text": "cake.",
+                "word_index": 294
+              }
+            ]
+          },
+          {
+            "start": 98.86,
+            "end": 101.34,
+            "text": "Bro, I literally got a whole birthday cake for my midnight snack.",
+            "words": [
+              {
+                "start": 98.86,
+                "end": 98.94,
+                "text": "Bro,",
+                "word_index": 295
+              },
+              {
+                "start": 99.06,
+                "end": 99.16,
+                "text": "I",
+                "word_index": 296
+              },
+              {
+                "start": 99.16,
+                "end": 99.38,
+                "text": "literally",
+                "word_index": 297
+              },
+              {
+                "start": 99.38,
+                "end": 99.68,
+                "text": "got",
+                "word_index": 298
+              },
+              {
+                "start": 99.68,
+                "end": 99.8,
+                "text": "a",
+                "word_index": 299
+              },
+              {
+                "start": 99.8,
+                "end": 100.02,
+                "text": "whole",
+                "word_index": 300
+              },
+              {
+                "start": 100.02,
+                "end": 100.26,
+                "text": "birthday",
+                "word_index": 301
+              },
+              {
+                "start": 100.26,
+                "end": 100.6,
+                "text": "cake",
+                "word_index": 302
+              },
+              {
+                "start": 100.6,
+                "end": 100.74,
+                "text": "for",
+                "word_index": 303
+              },
+              {
+                "start": 100.74,
+                "end": 100.86,
+                "text": "my",
+                "word_index": 304
+              },
+              {
+                "start": 100.86,
+                "end": 101.02,
+                "text": "midnight",
+                "word_index": 305
+              },
+              {
+                "start": 101.02,
+                "end": 101.34,
+                "text": "snack.",
+                "word_index": 306
+              }
+            ]
+          },
+          {
+            "start": 101.64,
+            "end": 103.26,
+            "text": "Bro, this is the best midnight snack ever.",
+            "words": [
+              {
+                "start": 101.64,
+                "end": 101.68,
+                "text": "Bro,",
+                "word_index": 307
+              },
+              {
+                "start": 101.78,
+                "end": 101.88,
+                "text": "this",
+                "word_index": 308
+              },
+              {
+                "start": 101.88,
+                "end": 102.0,
+                "text": "is",
+                "word_index": 309
+              },
+              {
+                "start": 102.0,
+                "end": 102.1,
+                "text": "the",
+                "word_index": 310
+              },
+              {
+                "start": 102.1,
+                "end": 102.36,
+                "text": "best",
+                "word_index": 311
+              },
+              {
+                "start": 102.36,
+                "end": 102.58,
+                "text": "midnight",
+                "word_index": 312
+              },
+              {
+                "start": 102.58,
+                "end": 102.9,
+                "text": "snack",
+                "word_index": 313
+              },
+              {
+                "start": 102.9,
+                "end": 103.26,
+                "text": "ever.",
+                "word_index": 314
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "Cached source speech mapped to current timeline; captions/ASR can drift. No new inference."
+  },
+  "captions": [
+    {
+      "start": 2.833333,
+      "end": 3.633333,
+      "text": "okay"
+    },
+    {
+      "start": 7.0,
+      "end": 8.2,
+      "text": "let's see"
+    },
+    {
+      "start": 10.033333,
+      "end": 11.5,
+      "text": "oh heck no"
+    },
+    {
+      "start": 12.966666,
+      "end": 13.733333,
+      "text": "hey pick January"
+    },
+    {
+      "start": 13.733333,
+      "end": 16.7,
+      "text": "pickles are good that's not bad what I get"
+    },
+    {
+      "start": 18.9,
+      "end": 20.1,
+      "text": "oh yes sir"
+    },
+    {
+      "start": 20.966666,
+      "end": 24.066666,
+      "text": "I love my brother's easy that's good"
+    },
+    {
+      "start": 26.133333,
+      "end": 27.466666,
+      "text": "oh heck no"
+    },
+    {
+      "start": 29.933333,
+      "end": 31.933333,
+      "text": "yeah March God bless you"
+    },
+    {
+      "start": 34.333333,
+      "end": 35.533333,
+      "text": "oh"
+    },
+    {
+      "start": 36.966666,
+      "end": 38.5,
+      "text": "but I look so good"
+    },
+    {
+      "start": 42.3,
+      "end": 43.333333,
+      "text": "what"
+    },
+    {
+      "start": 44.6,
+      "end": 46.6,
+      "text": "how are you supposed to eat a calculator"
+    },
+    {
+      "start": 47.566666,
+      "end": 48.533333,
+      "text": "May's cooked"
+    },
+    {
+      "start": 50.3,
+      "end": 51.1,
+      "text": "it uh"
+    },
+    {
+      "start": 52.5,
+      "end": 54.633333,
+      "text": "I mean that's not bad"
+    },
+    {
+      "start": 58.4,
+      "end": 59.633333,
+      "text": "oh okay"
+    },
+    {
+      "start": 61.4,
+      "end": 62.6,
+      "text": "that's good"
+    },
+    {
+      "start": 66.366666,
+      "end": 67.633333,
+      "text": "bro August you're cooked"
+    },
+    {
+      "start": 69.233333,
+      "end": 70.5,
+      "text": "just pray August"
+    },
+    {
+      "start": 72.6,
+      "end": 73.633333,
+      "text": "what"
+    },
+    {
+      "start": 77.033333,
+      "end": 78.033333,
+      "text": "September trade with me"
+    },
+    {
+      "start": 78.033333,
+      "end": 80.0,
+      "text": "trade please"
+    },
+    {
+      "start": 84.2,
+      "end": 85.466666,
+      "text": "yeah I'd be pissed"
+    },
+    {
+      "start": 86.3,
+      "end": 87.466666,
+      "text": "I'd be mad"
+    },
+    {
+      "start": 89.0,
+      "end": 89.833333,
+      "text": "ooh ooh"
+    },
+    {
+      "start": 93.566666,
+      "end": 94.366666,
+      "text": "facts"
+    },
+    {
+      "start": 98.7,
+      "end": 99.5,
+      "text": "oh"
+    },
+    {
+      "start": 100.3,
+      "end": 101.5,
+      "text": "ice cream cake"
+    },
+    {
+      "start": 102.366666,
+      "end": 103.666666,
+      "text": "bro you're lucky"
+    }
+  ],
+  "sfx": [],
+  "layout": [
+    {
+      "role": "video_track_1",
+      "track_id": "07D6324E-3895-4e6c-8A5A-6B1F0A043B24",
+      "segments": [
+        {
+          "id": "CC131671-F015-4b91-BEE0-11AAE658DD95",
+          "start": 0.0,
+          "end": 104.033333,
+          "clip": {
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": -0.03738317757009346,
+              "y": 0.7087719298245615
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "track_id": "9B0B7C42-A764-4e8b-AFD2-C1EB3856E51E",
+      "segments": [
+        {
+          "id": "648FBAB4-672A-4eb1-AEF4-DFAC4DCF02E0",
+          "start": 0.0,
+          "end": 104.033333,
+          "clip": {
+            "scale": {
+              "x": 1.4266525423728813,
+              "y": 1.4266525423728813
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.0,
+              "y": -0.49298245614035086
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "zoom_style": {
+    "version": 7,
+    "references": [
+      {
+        "project": "test 1",
+        "timeline": "Day 7.3",
+        "timeline_id": "1CE7DCEA-0AEC-4a69-9736-315CEF5F4EAA",
+        "source_hash": "ae05a3b6ff5bb1b0decf18d9f2d5f650a01321ad54bd102a2c5497d7aaacf428",
+        "analysis_job_id": "a1c942f5b10f472c",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 14.933333,
+            "end": 16.966666,
+            "scale": 1.3843644067796608,
+            "scale_y": 1.3843644067796608,
+            "dx": 0.04049844236760114,
+            "dy": -0.0350877192982455,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Y 'all would love me if I was a principal, bro."
+              },
+              {
+                "role": "video_track_2",
+                "text": "the rules. School is canceled. Everybody go home. My reflection does everything for"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 25.7,
+            "end": 26.566666,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "and I'd be nice. What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "me too? My bed can teleport anywhere for 24 hours. Bro, I could literally go on vacation without"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 29.033333,
+            "end": 30.2,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.0,
+            "dy": -0.08596491228070169,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm doing that, I"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, I could literally go on vacation without getting up. Take me to the beach. Nah, this is actually crazy."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 39.166666,
+            "end": 41.3,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.03426791277258556,
+            "dy": -0.033333333333333215,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, yo, that's bad."
+              },
+              {
+                "role": "video_track_2",
+                "text": "of all, your cooking is terrible. Excuse me? Everything I touch turns into solid gold"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 45.1,
+            "end": 46.566666,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Okay, but you gotta remove. Yeah, you're cooked,"
+              },
+              {
+                "role": "video_track_2",
+                "text": "hours. Bro, I'm about to be rich. Wait, how am I supposed to use my phone?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.666666,
+            "end": 53.966666,
+            "scale": 1.5112288135593217,
+            "scale_y": 1.5112288135593217,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "wait a minute. Well, I'm taking that, I'm"
+              },
+              {
+                "role": "video_track_2",
+                "text": "hours. Bro, I'm about to pull out a whole car. Oh, wait, that actually"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.4",
+        "timeline_id": "B973C167-669F-4851-8237-D7935D9F13C2",
+        "source_hash": "9cb651a1048dd0ab78302c6f514fe54332ec5efafafab17c09695cb352b497ef",
+        "analysis_job_id": "7f054b42880d4633",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.433333,
+            "end": 13.833333,
+            "scale": 1.2748728813559318,
+            "scale_y": 1.2748728813559318,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What if that actually happens though?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "people faint. Bro, you can't even take your shoes off in public. Nah, you gotta keep those shoes on"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 18.966666,
+            "end": 20.8,
+            "scale": 1.1729237288135592,
+            "scale_y": 1.1729237288135592,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro, what the... Oh, heck nah."
+              },
+              {
+                "role": "video_track_2",
+                "text": "imagine waking up next to these giant eggs. Nah, you're gonna have to fight the mama"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866666,
+            "end": 30.433333,
+            "scale": 1.4900847457627115,
+            "scale_y": 1.4900847457627115,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Ew. That might not be bad. I don't cry."
+              },
+              {
+                "role": "video_track_2",
+                "text": "of tears. Bro, imagine crying at a movie and smelling like pickles. Nah. Yeah, that's actually disgusting."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 38.866666,
+            "end": 39.966666,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Heck nah. Free eggs though."
+              },
+              {
+                "role": "video_track_2",
+                "text": "spring. Whoo, nah, you're gonna have a whole carton by lunchtime. The rumor is that your hair is actually"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.3,
+            "end": 48.333333,
+            "scale": 1.2325847457627117,
+            "scale_y": 1.2325847457627117,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, you're cooked."
+              },
+              {
+                "role": "video_track_2",
+                "text": "your hair at lunchtime. Imagine trying to get a haircut with this. The rumor is that you secretly have 100"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.033333,
+            "end": 51.933333,
+            "scale": 1.2537288135593216,
+            "scale_y": 1.2537288135593216,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, What was that? That's good."
+              },
+              {
+                "role": "video_track_2",
+                "text": "that you secretly have 100 garden gnomes living in your backyard. Bro, that's not a family, that's a whole village."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.5",
+        "timeline_id": "E4825149-C909-4e70-A8D9-F28F6320CD52",
+        "source_hash": "dc929e1c7cd9c12df4419b1c5c1f450bb649bf13dda64a03cc1d7b302e463c68",
+        "analysis_job_id": "965e2fa694c24212",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 15.166666,
+            "end": 17.133333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.11526479750778817,
+            "dy": -0.08947368421052626,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "If I read that. Oh, yeah. Nah. I'm good."
+              },
+              {
+                "role": "video_track_2",
+                "text": "What if it tells you when you're gonna die? This locker has a secret doorway to"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 19.4,
+            "end": 20.733333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": 0.04672897196261683,
+            "dy": -0.06140350877192979,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I listen to Wonderland?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "a secret doorway to another world! Bro!"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.933333,
+            "end": 30.1,
+            "scale": 1.2748728813559318,
+            "scale_y": 1.2748728813559318,
+            "dx": 0.18068535825545162,
+            "dy": -0.07192982456140351,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, I'm doing a backpack."
+              },
+              {
+                "role": "video_track_2",
+                "text": "need. Imagine never having to buy anything again. Wait. What else is in here?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 42.0,
+            "end": 43.966666,
+            "scale": 1.2997881355932202,
+            "scale_y": 1.2997881355932202,
+            "dx": 0.11838006230529585,
+            "dy": -0.04385964912280693,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "phone, okay? It bro. What ew?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "This locker is filled with thousands of human teeth. Nah, why"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 54.466666,
+            "end": 56.466666,
+            "scale": 1.2325847457627117,
+            "scale_y": 1.2325847457627117,
+            "dx": 0.04672897196261683,
+            "dy": -0.10701754385964901,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's a scary movie. Heck no."
+              },
+              {
+                "role": "video_track_2",
+                "text": "everything happening at home. Wait, who is that in your house? This locker has a mysterious egg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 7.6",
+        "timeline_id": "5DDF7CDC-3171-4d42-A608-BBCD4E1F11E1",
+        "source_hash": "1a29ca3cbee7bebb783cf09c4dc17162b272c75ca4846fbc636de822b38880ca",
+        "analysis_job_id": "1ae7d2f210584a20",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.6,
+            "end": 13.7,
+            "scale": 1.3209322033898303,
+            "scale_y": 1.3209322033898303,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What why did you get the best one? She"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Honestly, you got lucky. Yeah, your breath is gonna smell amazing."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 15.2,
+            "end": 16.7,
+            "scale": 1.296016949152542,
+            "scale_y": 1.296016949152542,
+            "dx": 0.0,
+            "dy": -0.012280701754385892,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "you get the best one? She brushed her lips"
+              },
+              {
+                "role": "video_track_2",
+                "text": "your breath is gonna smell amazing. February, you gotta brush your teeth with"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.0,
+            "end": 25.1,
+            "scale": 1.211440677966101,
+            "scale_y": 1.211440677966101,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I would enjoy that I drink my toothpaste."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, this feels so wrong. Arch, you get charcoal toothpaste."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 29.533333,
+            "end": 30.933333,
+            "scale": 1.3843644067796608,
+            "scale_y": 1.3843644067796608,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's not but She didn't brush your teeth. Oh heck no"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, Bro, why do your teeth look like that? April,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 37.8,
+            "end": 38.833333,
+            "scale": 1.27864406779661,
+            "scale_y": 1.27864406779661,
+            "dx": -0.14018691588785048,
+            "dy": -0.029824561403508754,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "April you might got the best one."
+              },
+              {
+                "role": "video_track_2",
+                "text": "dessert. Nah, you got pie stuck in your teeth now. Hey, you"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 52.166666,
+            "end": 53.466666,
+            "scale": 1.4900847457627115,
+            "scale_y": 1.4900847457627115,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I That's the best stuff, that has to be racist, that's the best stuff."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, are you a giraffe? Nah, you're gonna have a whole salad in your mouth."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 68.766666,
+            "end": 70.5,
+            "scale": 1.296016949152542,
+            "scale_y": 1.296016949152542,
+            "dx": 0.0,
+            "dy": 0.0,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "you're cooked, you're cooked."
+              },
+              {
+                "role": "video_track_2",
+                "text": "your mouth is gonna be on fire. Nah, I'm not surviving this."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 79.4,
+            "end": 80.766666,
+            "scale": 1.4017372881355927,
+            "scale_y": 1.4017372881355927,
+            "dx": -0.09657320872274144,
+            "dy": -0.0368421052631579,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "September got the best one."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Yeah, you definitely got lucky. October, you gotta brush your teeth with mashed potatoes."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 97.766666,
+            "end": 99.3,
+            "scale": 1.6380932203389833,
+            "scale_y": 1.6380932203389833,
+            "dx": -0.12149532710280377,
+            "dy": -0.01754385964912275,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What? What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "this. December, you get diamond toothpaste. Bro, this stuff costs $10 ,000 a tube."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.3",
+        "timeline_id": "6AD56B5A-504F-41d9-8433-1FEF7DC26622",
+        "source_hash": "cc3c2f34697029c8568558699457489622b382e4646ecc50ec74080ed057a876",
+        "analysis_job_id": "de75ea7cac714aa9",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 5.333333,
+            "end": 6.633333,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro! I need the job! Alright, let's see."
+              },
+              {
+                "role": "video_track_2",
+                "text": "punishments, or you're fired from your job. Which punishment are you choosing?"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 17.1,
+            "end": 18.333333,
+            "scale": 1.2997881355932202,
+            "scale_y": 1.2997881355932202,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Don't want for work?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "already burning. Sleep on a bed of nails. Bro, imagine trying to get comfortable on"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.1,
+            "end": 24.9,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.0020740000000000203,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, I'm not sleeping on those."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, I'd rather sleep on the floor. Clean 100 public toilets."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.033333,
+            "end": 29.1,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yeah, I'm cooked. Yeah, no."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, imagine being late for work, and now you gotta scrub all these. Nah, I should have just"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 34.3,
+            "end": 35.466666,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.00987400000000005,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "not getting fired. This is torture!"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Sit in a room full of mosquitoes for 24 hours. Bro, you're gonna be itching all day."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 41.766666,
+            "end": 42.766666,
+            "scale": 1.422881355932203,
+            "scale_y": 1.422881355932203,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "that has to be illegal. 12 o - I'm"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Get buried in freezing snow for 12 hours. Bro, you're gonna turn into a human popsicle."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.233333,
+            "end": 48.7,
+            "scale": 1.4,
+            "scale_y": 1.4,
+            "dx": 0.0,
+            "dy": -0.012473999999999985,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "not gonna work if I'm not alive."
+              },
+              {
+                "role": "video_track_2",
+                "text": "Nah, I can't even feel my toes anymore. Spent 24 hours in a dumpster full"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 50.9,
+            "end": 52.033333,
+            "scale": 1.3,
+            "scale_y": 1.3,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro, no. Help."
+              },
+              {
+                "role": "video_track_2",
+                "text": "24 hours in a dumpster full of rotten garbage. Bro, this smells like something died in here."
+              }
+            ]
+          }
+        ],
+        "video_signature": "d6c179f4b0a74352759f2f6ed3e5e4f7ab970e78fd5aebb933d80aa8886c9966",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 2,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 3,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 6,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 7,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            1,
+            5
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 6,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 5.333333,
+            "end": 6.633333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": 0,
+            "dialogue": "I need the job",
+            "reason": "Dry pleading after the fired-from-job threat; a restrained reaction punch-in, not a zoom on the intro.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 5.34,
+              "word_index": 3,
+              "text": "I"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.1,
+            "end": 24.9,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.002074,
+            "dialogue": "Yeah I am not sleeping on those",
+            "reason": "Hold the explicit nail-bed refusal through those, then reset before the next toilet option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 23.11,
+              "word_index": 20,
+              "text": "Yeah,"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.033333,
+            "end": 29.1,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": 0,
+            "dialogue": "Yeah I am cooked",
+            "reason": "Short self-directed cooked punchline after the public-toilet punishment; return before the quieter yeah no.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 28.04,
+              "word_index": 26,
+              "text": "Yeah,"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 34.3,
+            "end": 35.466667,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.009874,
+            "dialogue": "This is torture",
+            "reason": "Emphatic personal reaction to the 24-hour mosquito room; the actor expression carries the beat.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 34.3,
+              "word_index": 35,
+              "text": "This"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 47.233333,
+            "end": 48.7,
+            "scale": 1.4,
+            "dx": 0,
+            "dy": -0.012474,
+            "dialogue": "Not gonna work if I am not alive",
+            "reason": "Comic conclusion of the freezing-snow punishment; zoom on the active punchline, not the preceding ASR silence.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 47.25,
+              "word_index": 49,
+              "text": "gonna"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 50.9,
+            "end": 52.033333,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": 0,
+            "dialogue": "Bro no",
+            "reason": "Brief disgust/refusal at rotten garbage; reset before help so the closeups remain distinct.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 50.9,
+              "word_index": 56,
+              "text": "no."
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.4",
+        "timeline_id": "E620A509-F4A4-4674-9DA5-4216CE94812C",
+        "source_hash": "bfdb2395096d5042017224b609f5c10b21e98098057e63b71cc704885c966ead",
+        "analysis_job_id": "7bd393afde57469e",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 12.833333,
+            "end": 13.9,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.09999999999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I eat my blanket. Yo."
+              },
+              {
+                "role": "video_track_2",
+                "text": "this actually looks comfortable. Yeah! You're gonna wake up as a whole burrito."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 16.6,
+            "end": 17.666666,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": -0.04034199999999999,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Yo. Hey, yo, grass Right now"
+              },
+              {
+                "role": "video_track_2",
+                "text": "up as a whole burrito. The grass blanket. Hopefully there ain't no bugs or crickets in here."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 22.933333,
+            "end": 24.2,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.09999999999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I look comfortable Which even what the oh heck not? Spider"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, I literally just said that. The spiderweb blanket."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866666,
+            "end": 29.833333,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.044242000000000004,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I freak out. Yeah,"
+              },
+              {
+                "role": "video_track_2",
+                "text": "imagine waking up with spiders crawling on you. Nah, get this thing off me. the"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 36.933333,
+            "end": 38.0,
+            "scale": 1.49,
+            "scale_y": 1.49,
+            "dx": 0.0,
+            "dy": -0.12,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's what I'm saying. I eat the whole blanket"
+              },
+              {
+                "role": "video_track_2",
+                "text": "up and eating your own blanket yeah you're gonna wake up smelling like pepperoni the"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 43.633333,
+            "end": 44.9,
+            "scale": 1.3383050847457623,
+            "scale_y": 1.3383050847457623,
+            "dx": 0.0,
+            "dy": -0.08947368421052637,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "said pick it up."
+              },
+              {
+                "role": "video_track_2",
+                "text": "bro this is gonna scratch your whole body up nah you're gonna wake up"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.933333,
+            "end": 52.933333,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": -0.04034199999999999,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh Bro what? Yeah"
+              },
+              {
+                "role": "video_track_2",
+                "text": "bro you're gonna be popping bubbles all night nah you're You're never getting any sleep with this."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 54.366666,
+            "end": 56.0,
+            "scale": 1.2574999999999998,
+            "scale_y": 1.2574999999999998,
+            "dx": 0.0,
+            "dy": -0.03333333333333344,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Bro what? Yeah you might be cut."
+              },
+              {
+                "role": "video_track_2",
+                "text": "nah you're You're never getting any sleep with this."
+              }
+            ]
+          }
+        ],
+        "video_signature": "ea8f7f565c23dbe87b4299050ad49d0bd05a38aa1094dbdbe75512199803840a",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 1,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 2,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 3,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 6,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            5,
+            7
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 6,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 12.833333,
+            "end": 13.9,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.1,
+            "dialogue": "I eat my blanket",
+            "reason": "Funny personal admission about the tortilla blanket; emphasize eat through blanket and release.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 12.82,
+              "word_index": 8,
+              "text": "eat"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 16.6,
+            "end": 17.666667,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.040342,
+            "dialogue": "Grass",
+            "reason": "Brief confused recognition of the grass blanket, then reset before evaluating comfort.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 16.59,
+              "word_index": 14,
+              "text": "grass"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 22.933333,
+            "end": 24.2,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.1,
+            "dialogue": "What the oh heck nah",
+            "reason": "Grass-and-insect objection builds into an expressive refusal before the spiderweb reveal.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 22.94,
+              "word_index": 27,
+              "text": "what"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 28.866667,
+            "end": 29.833333,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.044242,
+            "dialogue": "I freak out",
+            "reason": "Short stated fear of spiders crawling on the actor; do not hold across the pizza option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 28.86,
+              "word_index": 35,
+              "text": "freak"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 36.933333,
+            "end": 38.0,
+            "scale": 1.49,
+            "dx": 0,
+            "dy": -0.12,
+            "dialogue": "I eat the whole blanket",
+            "reason": "Strong comic payoff repeats the edible-blanket idea with whole blanket, matching the references stronger punch-ins.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 36.92,
+              "word_index": 48,
+              "text": "eat"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 51.933333,
+            "end": 52.933333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.040342,
+            "dialogue": "Bro what",
+            "reason": "Dry incredulous bubble-wrap reaction, followed by a reset before the final you might be cooked line.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 51.94,
+              "word_index": 64,
+              "text": "what?"
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.5",
+        "timeline_id": "26AED1E3-C262-4305-8167-BED7F8650865",
+        "source_hash": "617d94250931215f93a392b4fac70bacc1dd4c4d5b54d1c6a38344d347da24d9",
+        "analysis_job_id": "f9d86591573b4c82",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 10.766666,
+            "end": 11.733333,
+            "scale": 1.25,
+            "scale_y": 1.25,
+            "dx": 0.0,
+            "dy": -0.007711000000000023,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "battery. What if I need battery? Whoo."
+              },
+              {
+                "role": "video_track_2",
+                "text": "currency, you gotta pay for everything with batteries. Bro, imagine your TV remote dying and you"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 26.033333,
+            "end": 27.666666,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.01681100000000002,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's not bad See, how do you get them?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Teeth currency, you gotta pay for everything with teeth. Don't"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 31.733333,
+            "end": 33.033333,
+            "scale": 1.3,
+            "scale_y": 1.3,
+            "dx": 0.0,
+            "dy": -0.014210999999999974,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Oh, I had to not know no"
+              },
+              {
+                "role": "video_track_2",
+                "text": "got these from or who I got them from. Rubber duck currency. You gotta pay for everything with"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 43.033333,
+            "end": 43.966666,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.02461100000000005,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Tony else. I gotta save up my nails. What the"
+              },
+              {
+                "role": "video_track_2",
+                "text": "currency, you gotta pay for everything with your toenails. Bro, imagine being broke"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 46.8,
+            "end": 48.3,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.01681100000000002,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "What the eel chicken?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, imagine being broke because you just clipped your toenails yesterday. Chicken nugget currency. You gotta"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 56.933333,
+            "end": 58.133333,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.011611000000000038,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "do that. I can't lie. Oh, heck nah. What?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Underwear currency. You gotta pay for everything with men's underwear. Bro,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 62.966666,
+            "end": 64.0,
+            "scale": 1.1940677966101696,
+            "scale_y": 1.1940677966101696,
+            "dx": 0.0,
+            "dy": 0.0,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Don't know."
+              },
+              {
+                "role": "video_track_2",
+                "text": "somebody asking you for change and you gotta hand them your boxers."
+              }
+            ]
+          }
+        ],
+        "video_signature": "5e2835a484d64e58746c10cde34bcbd5bf08bb5e6ddd649e2cccf32974ea2557",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 1,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 2,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 3,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 5,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            6
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 6,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 10.766667,
+            "end": 11.733333,
+            "scale": 1.25,
+            "dx": 0,
+            "dy": -0.007711,
+            "dialogue": "What if I need battery",
+            "reason": "Practical battery objection gets a restrained reaction closeup; the narrator example remains visible.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 10.77,
+              "word_index": 9,
+              "text": "if"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 26.033333,
+            "end": 27.666667,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.016811,
+            "dialogue": "How do you get them",
+            "reason": "Suspicious teeth-acquisition question: actor reaction, not the whole long Among Us bed.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 26.04,
+              "word_index": 26,
+              "text": "how"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 31.733333,
+            "end": 33.033333,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.014211,
+            "dialogue": "No no",
+            "reason": "Complete horrified refusal after where/who the teeth came from; reset before duck-currency commentary.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 31.72,
+              "word_index": 36,
+              "text": "know"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 43.033333,
+            "end": 43.966667,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.024611,
+            "dialogue": "Save up my nails",
+            "reason": "Comical self-directed nail-saving payoff; hold on the distinctive final phrase.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 43.04,
+              "word_index": 45,
+              "text": "up"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 46.8,
+            "end": 48.3,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.016811,
+            "dialogue": "Eww",
+            "reason": "Actual revised disgust beat just before chicken currency; ASR renders this vocalization as eel, so retain the manual ewww cue as supporting context.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 46.76,
+              "word_index": 50,
+              "text": "eel"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 56.933333,
+            "end": 58.133333,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.011611,
+            "dialogue": "Oh heck nah",
+            "reason": "Immediate underwear-currency refusal; release before later narrator jokes rather than zooming the entire option.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 56.95,
+              "word_index": 64,
+              "text": "heck"
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      },
+      {
+        "project": "test 1",
+        "timeline": "Day 1.6",
+        "timeline_id": "0B5F1D36-7A3D-4125-A0BF-239497868970",
+        "source_hash": "bee6b53582fcf921236cf3ea48da39d627da07276cf4d804fc4f99603ffbaa2a",
+        "analysis_job_id": "94bc2d878df64d54",
+        "events": [
+          {
+            "role": "video_track_1",
+            "start": 17.7,
+            "end": 19.0,
+            "scale": 1.35,
+            "scale_y": 1.35,
+            "dx": 0.0,
+            "dy": -0.06281599999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's fire. Let's see what I get. Don't, what?"
+              },
+              {
+                "role": "video_track_2",
+                "text": "anything. February, you get the farting pill. Every time you laugh, you fart."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.466666,
+            "end": 24.666666,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.053715999999999986,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm cooking. I left all the time. Okay."
+              },
+              {
+                "role": "video_track_2",
+                "text": "You can't even laugh in public anymore. March, you get the animal translator pill."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 39.1,
+            "end": 40.2,
+            "scale": 1.1940677966101696,
+            "scale_y": 1.1940677966101696,
+            "dx": 0.0,
+            "dy": -0.07192982456140351,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "Okay. April, that's fire."
+              },
+              {
+                "role": "video_track_2",
+                "text": "ha ha. Wait, how do you get back down? May, you get the instant hairstyle"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 44.533333,
+            "end": 45.7,
+            "scale": 1.28,
+            "scale_y": 1.28,
+            "dx": 0.0,
+            "dy": -0.053715999999999986,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "That's low -key tough."
+              },
+              {
+                "role": "video_track_2",
+                "text": "pill. You can change your hair whenever you want. Ha ha. Bro, you're never paying for"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 55.533333,
+            "end": 56.8,
+            "scale": 1.3,
+            "scale_y": 1.3,
+            "dx": 0.0,
+            "dy": -0.05631600000000003,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I wouldn't take that pill"
+              },
+              {
+                "role": "video_track_2",
+                "text": "even chocolate cake tastes like pickles. July, you get the teleportation pill."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 59.933333,
+            "end": 61.533333,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.066716,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "that's fire yo that's"
+              },
+              {
+                "role": "video_track_2",
+                "text": "pill. You can go anywhere instantly. I didn't leave. Bro, you never got"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 66.533333,
+            "end": 67.733333,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.05891599999999997,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "fire what the"
+              },
+              {
+                "role": "video_track_2",
+                "text": "August, you get the giant hands pill. Your hands can grow 10 times bigger. Bro,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 76.266666,
+            "end": 77.933333,
+            "scale": 1.4,
+            "scale_y": 1.4,
+            "dx": 0.0,
+            "dy": -0.06931600000000004,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "yo September"
+              },
+              {
+                "role": "video_track_2",
+                "text": "freeze pill. You can stop time whenever you want. Bro, imagine how much stuff you could get done."
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 85.8,
+            "end": 87.266666,
+            "scale": 1.32,
+            "scale_y": 1.32,
+            "dx": 0.0,
+            "dy": -0.05891599999999997,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "trade with me please Straight from February!"
+              },
+              {
+                "role": "video_track_2",
+                "text": "Bro, you can stretch your arms anywhere. Nah, you don't even got to get off the couch. November,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 90.4,
+            "end": 91.3,
+            "scale": 1.49,
+            "scale_y": 1.49,
+            "dx": 0.0,
+            "dy": -0.08101599999999998,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "February! What?!"
+              },
+              {
+                "role": "video_track_2",
+                "text": "November, you get the food duplication pill. You can make unlimited copies of any food,"
+              }
+            ]
+          },
+          {
+            "role": "video_track_1",
+            "start": 95.466666,
+            "end": 96.733333,
+            "scale": 1.38,
+            "scale_y": 1.38,
+            "dx": 0.0,
+            "dy": -0.066716,
+            "animated": false,
+            "contexts": [
+              {
+                "role": "video_track_1",
+                "text": "I'm opening a restaurant."
+              },
+              {
+                "role": "video_track_2",
+                "text": "bro. You're never going hungry again. December, you get the dream control pill."
+              }
+            ]
+          }
+        ],
+        "video_signature": "4b3266ff8675244534a7ff7750d65b2798c322c3ad4430afae10cc84f587f973",
+        "revision_diff": {
+          "matches": [
+            {
+              "predicted_index": 0,
+              "manual_index": 0,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 1,
+              "manual_index": 1,
+              "delta": {
+                "start": -1e-06,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 2,
+              "manual_index": 3,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 3,
+              "manual_index": 4,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 4,
+              "manual_index": 5,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 5,
+              "manual_index": 6,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 6,
+              "manual_index": 7,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": -0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 7,
+              "manual_index": 8,
+              "delta": {
+                "start": 0.0,
+                "end": -1e-06,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 8,
+              "manual_index": 9,
+              "delta": {
+                "start": 0.0,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            },
+            {
+              "predicted_index": 9,
+              "manual_index": 10,
+              "delta": {
+                "start": -1e-06,
+                "end": 0.0,
+                "scale": 0.0,
+                "dx": 0.0,
+                "dy": 0.0
+              },
+              "retimed": false,
+              "reframed": false
+            }
+          ],
+          "added": [
+            2
+          ],
+          "removed_or_distant_move": [],
+          "retained_without_material_change": 10,
+          "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+        },
+        "predicted": [
+          {
+            "role": "video_track_1",
+            "start": 17.7,
+            "end": 19.0,
+            "scale": 1.35,
+            "dx": 0,
+            "dy": -0.062816,
+            "dialogue": "What",
+            "reason": "Disbelief at the farting-pill reveal, before the quieter public-laughing consequence.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 17.67,
+              "word_index": 14,
+              "text": "Don't,"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 23.466667,
+            "end": 24.666667,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.053716,
+            "dialogue": "I laugh all the time",
+            "reason": "Personal comic confession about laughing constantly; one reaction closeup for the complete punchline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 23.46,
+              "word_index": 18,
+              "text": "cooking."
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 44.533333,
+            "end": 45.7,
+            "scale": 1.28,
+            "dx": 0,
+            "dy": -0.053716,
+            "dialogue": "Low key tough",
+            "reason": "Dry appraisal of instant hairstyle; preserve awkward delivery instead of treating every positive word as enthusiasm.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 44.54,
+              "word_index": 39,
+              "text": "low"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 55.533333,
+            "end": 56.8,
+            "scale": 1.3,
+            "dx": 0,
+            "dy": -0.056316,
+            "dialogue": "I would not take that pill",
+            "reason": "Decisive pickle-pill refusal; no full-length zoom matching the longer doom-bell tail.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 55.54,
+              "word_index": 54,
+              "text": "wouldn't"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 59.933333,
+            "end": 61.533333,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.066716,
+            "dialogue": "That is fire yo",
+            "reason": "Teleportation enthusiasm gets one expressive closeup; the repeated later fire remains at baseline.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 59.94,
+              "word_index": 59,
+              "text": "fire"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 66.533333,
+            "end": 67.733333,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.058916,
+            "dialogue": "What the",
+            "reason": "Short giant-hands disbelief; reset before the basketball explanation.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 66.54,
+              "word_index": 64,
+              "text": "the"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 76.266667,
+            "end": 77.933333,
+            "scale": 1.4,
+            "dx": 0,
+            "dy": -0.069316,
+            "dialogue": "September",
+            "reason": "Impressed time-freeze response and lucky-month address; leave the full anime-wow tail unzoomed.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 76.28,
+              "word_index": 70,
+              "text": "September"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 85.8,
+            "end": 87.266667,
+            "scale": 1.32,
+            "dx": 0,
+            "dy": -0.058916,
+            "dialogue": "Trade with me please",
+            "reason": "Personal Luffy/stretching trade plea rather than an automatic zoom on every month label.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 85.8,
+              "word_index": 75,
+              "text": "with"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 90.4,
+            "end": 91.3,
+            "scale": 1.49,
+            "dx": 0,
+            "dy": -0.081016,
+            "dialogue": "What",
+            "reason": "Strong instant food-duplication surprise; a short high-emphasis punch-in with immediate baseline reset.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 90.4,
+              "word_index": 81,
+              "text": "What?!"
+            }
+          },
+          {
+            "role": "video_track_1",
+            "start": 95.466667,
+            "end": 96.733333,
+            "scale": 1.38,
+            "dx": 0,
+            "dy": -0.066716,
+            "dialogue": "Opening a restaurant",
+            "reason": "Food-duplication business punchline is distinct from the previous surprise and gets its own short reaction.",
+            "timing_anchor": {
+              "kind": "speech_word",
+              "role": "video_track_1",
+              "at": 95.46,
+              "word_index": 83,
+              "text": "opening"
+            }
+          }
+        ],
+        "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+      }
+    ],
+    "statistics": {
+      "events": 60,
+      "median_scale": 1.3,
+      "scale_range": [
+        1.1729237288135592,
+        1.6380932203389833
+      ],
+      "median_duration": 1.2666669999999982,
+      "duration_range": [
+        0.8666660000000022,
+        2.133333999999998
+      ]
+    },
+    "policy": "Observed hard-cut reaction punch-ins then baseline reset. Select meaningful reaction phrases, not every SFX, option, keyword or fixed quota. Position for THIS face/layout. Reference offsets/times are examples, not target timestamps. Latest explicit user correction (2026-10-11) overrides the old brief-duration examples: For future zooms, hold the complete meaningful reaction/punchline and its natural settling beat. Avoid a jarring brief punch-in that starts late on a final syllable and immediately returns. Choose the visual hold separately from the SFX length, without a fixed minimum/quota or extending across unrelated options. The user did not revise Day2 zoom timing; do not count the unchanged generated intervals as new manual approval. Observed Day2.3 framing-only revision strengthens the closing unfairness face from 1.19x to 1.5535x inside the existing zoom coverage. Learn the expressive scale in scene context; this is not approval of its unchanged duration. The explicit future longer-hold instruction still applies.",
+    "explicit_day2_duration_directive": "3dbe57c95826c005ed6508acc4e2327738d43806049ba7062366ded595c1a817",
+    "explicit_user_duration_preference": {
+      "rule": "For future zooms, hold the complete meaningful reaction/punchline and its natural settling beat. Avoid a jarring brief punch-in that starts late on a final syllable and immediately returns. Choose the visual hold separately from the SFX length, without a fixed minimum/quota or extending across unrelated options.",
+      "evidence": "On 2026-10-11 the user said the zooms were too short and looked awkward, then clarified: ami zoom er timing change kri nai next bar change krio eta blsi. This is a future preference, not manual approval of the unchanged Day2 zoom durations.",
+      "scope": "future_edits",
+      "authority": "explicit_user"
+    },
+    "framing_only_examples": [
+      {
+        "project": "test 1",
+        "timeline": "Day2.3",
+        "timeline_id": "D4FE3284-A3E2-4c77-8B33-4E6012AAFB52",
+        "revision_hash": "aafb53c1fb1769ed1371052b7adb1a69f02c2e0b139bda9d7e4f9c634147dfcc",
+        "analysis_job_id": "83d73ac1c55e492c",
+        "role": "video_track_1",
+        "previous_scale": 1.19,
+        "manual_scale": 1.5535169491525422,
+        "dx": 0.0,
+        "dy": 0.0,
+        "context": "Closing unfairness reaction after box five receives an immediate-rescue satellite radio; caption: thats not fair.",
+        "locator_time": 49.766666,
+        "duration_learning_authorized": false,
+        "scope": "Observed manual framing change in this scene only; locator time is not a recommended zoom duration or approval of unchanged timing."
+      }
+    ]
+  },
+  "analysis_reused": true
+}

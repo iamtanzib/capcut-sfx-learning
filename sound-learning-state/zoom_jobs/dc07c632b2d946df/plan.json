@@ -1,0 +1,116 @@
+{
+  "job_id": "dc07c632b2d946df",
+  "source_hash": "81a578393ffb56b0f05593d44e37f389f0da24568737045d841e25e617dfa4ab",
+  "style_version": 5,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 22.2,
+      "end": 23.466667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.012,
+      "dialogue": "I can't even fish",
+      "reason": "Personal inability following the chosen box's equipment reveal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.19,
+        "text": "can't",
+        "word_index": 19
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.033333,
+      "end": 26.966667,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "I'm cooked",
+      "reason": "A separate short payoff after the narrator hopes he can fish.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.02,
+        "text": "I'm",
+        "word_index": 22
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 34.666667,
+      "end": 35.8,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "scuba diving anyways",
+      "reason": "Restrained personal preference, held through the complete thought.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 34.68,
+        "text": "scuba",
+        "word_index": 31
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 37.8,
+      "end": 40.833333,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "Oh, box four you're cooked",
+      "reason": "One continuous reaction closeup through the surprise and one-sandwich roast.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 37.8,
+        "text": "Oh.",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 44.533333,
+      "end": 45.666667,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.025,
+      "dialogue": "What",
+      "reason": "Strong disbelief at the instant-rescue alternative.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 44.53,
+        "text": "What?",
+        "word_index": 40
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 48.0,
+      "end": 50.866667,
+      "scale": 1.19,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "That's; that's not fair",
+      "reason": "Mild closing hold from the indexed initial That's through the puzzled unfairness expression inspected at 49.9.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 48.01,
+        "text": "That's.",
+        "word_index": 41
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "review": "Every baseline/onset/end and the adjusted actor framing were visually inspected. Hair, eyes, mouth and relevant gestures remain readable; reset boundaries and distinct reaction timing reviewed. Native CapCut overlays/effects playback remains unverified."
+  }
+}

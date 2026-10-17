@@ -1,0 +1,184 @@
+{
+  "job_id": "0d7080741eea4149",
+  "source_hash": "9967b12771e8d17d5f84a264a06a3d9b25733f2bae8c9af4af56b9c67c6f7fec",
+  "style_version": 14,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 1.533333,
+      "end": 2.9,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Yes sir",
+      "reason": "Yes-sir lottery reaction held through sir.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 1.55,
+        "text": "Yes,",
+        "word_index": 0
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 9.333333,
+      "end": 10.8,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "50,000",
+      "reason": "Skeptical 50,000-chickens echo and settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 9.33,
+        "text": "50",
+        "word_index": 9
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.0,
+      "end": 15.9,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "I can sell eggs, open my own store",
+      "reason": "Whole animated egg-business joke in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.01,
+        "text": "can",
+        "word_index": 13
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 20.566667,
+      "end": 21.8,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "heck now",
+      "reason": "Head-back refusal of the broken car held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 20.57,
+        "text": "heck",
+        "word_index": 28
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.2,
+      "end": 23.7,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "she got all that money got me",
+      "reason": "Complete smiling grandma roast before the cockroach.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.21,
+        "text": "She",
+        "word_index": 30
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 25.866667,
+      "end": 27.1,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "what how",
+      "reason": "Squinting confusion at the giant pet cockroach.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 24.13,
+        "text": "Wow",
+        "word_index": 37,
+        "offset_reason": "ASR missed the what-how reaction; the zoom starts on caption 9 (25.867s) and frame 25.9s, 1.74s after the nearest cached word Wow."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.5,
+      "end": 32.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "No",
+      "reason": "Smirking no to the cockroach, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.51,
+        "text": "No",
+        "word_index": 38
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 35.066667,
+      "end": 37.5,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "that's not bad, that's not bad, that's not bad",
+      "reason": "Mild hold across all three connected not-bad repeats.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 35.08,
+        "text": "That's",
+        "word_index": 39
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 44.2,
+      "end": 45.5,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "I would like that",
+      "reason": "Lollipop acceptance line held to its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 44.21,
+        "text": "I",
+        "word_index": 48
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.333333,
+      "end": 55.7,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "bro what, how does she know",
+      "reason": "Final open-mouth diaper confession held to the end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.35,
+        "text": "What",
+        "word_index": 57
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

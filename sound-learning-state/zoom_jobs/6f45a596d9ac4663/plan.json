@@ -1,0 +1,117 @@
+{
+  "job_id": "6f45a596d9ac4663",
+  "source_hash": "940c57044c54f1a3b68390c10e46d60ff331c75cb67d205a552e7c3501a2bc8e",
+  "style_version": 1,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 12.833333,
+      "end": 13.9,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.1,
+      "dialogue": "I eat my blanket",
+      "reason": "Funny personal admission about the tortilla blanket; emphasize eat through blanket and release.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 12.82,
+        "word_index": 8,
+        "text": "eat"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 16.6,
+      "end": 17.666667,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.040342,
+      "dialogue": "Grass",
+      "reason": "Brief confused recognition of the grass blanket, then reset before evaluating comfort.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 16.59,
+        "word_index": 14,
+        "text": "grass"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.933333,
+      "end": 24.2,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.1,
+      "dialogue": "What the oh heck nah",
+      "reason": "Grass-and-insect objection builds into an expressive refusal before the spiderweb reveal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.94,
+        "word_index": 27,
+        "text": "what"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 28.866667,
+      "end": 29.833333,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.044242,
+      "dialogue": "I freak out",
+      "reason": "Short stated fear of spiders crawling on the actor; do not hold across the pizza option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 28.86,
+        "word_index": 35,
+        "text": "freak"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 36.933333,
+      "end": 38.0,
+      "scale": 1.49,
+      "dx": 0,
+      "dy": -0.12,
+      "dialogue": "I eat the whole blanket",
+      "reason": "Strong comic payoff repeats the edible-blanket idea with whole blanket, matching the references stronger punch-ins.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 36.92,
+        "word_index": 48,
+        "text": "eat"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 51.933333,
+      "end": 52.933333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.040342,
+      "dialogue": "Bro what",
+      "reason": "Dry incredulous bubble-wrap reaction, followed by a reset before the final you might be cooked line.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 51.94,
+        "word_index": 64,
+        "text": "what?"
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "policy": "Host reviewed both complete cached dialogue streams plus all native reference zooms. Meaningful actor reactions only; no SFX or month quota.",
+    "framing_review": "Inspected all baseline/onset/end sheets: face and eyes remain visible, actor reaction is emphasized, bottom stream stays unchanged. Day1.4 stronger punch-ins moved lower to preserve headroom. Native captions/effects rendering still requires CapCut review."
+  }
+}

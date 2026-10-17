@@ -1,0 +1,117 @@
+{
+  "job_id": "0c722b57ccad423c",
+  "source_hash": "dd2d8169ee8b0d806728614c017219768e11e1f395665c6677c892744707a123",
+  "style_version": 1,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 5.333333,
+      "end": 6.633333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "I need the job",
+      "reason": "Dry pleading after the fired-from-job threat; a restrained reaction punch-in, not a zoom on the intro.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 5.34,
+        "word_index": 3,
+        "text": "I"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 23.1,
+      "end": 24.9,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.002074,
+      "dialogue": "Yeah I am not sleeping on those",
+      "reason": "Hold the explicit nail-bed refusal through those, then reset before the next toilet option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 23.11,
+        "word_index": 20,
+        "text": "Yeah,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 28.033333,
+      "end": 29.1,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "Yeah I am cooked",
+      "reason": "Short self-directed cooked punchline after the public-toilet punishment; return before the quieter yeah no.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 28.04,
+        "word_index": 26,
+        "text": "Yeah,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 34.3,
+      "end": 35.466667,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.009874,
+      "dialogue": "This is torture",
+      "reason": "Emphatic personal reaction to the 24-hour mosquito room; the actor expression carries the beat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 34.3,
+        "word_index": 35,
+        "text": "This"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 47.233333,
+      "end": 48.7,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.012474,
+      "dialogue": "Not gonna work if I am not alive",
+      "reason": "Comic conclusion of the freezing-snow punishment; zoom on the active punchline, not the preceding ASR silence.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 47.25,
+        "word_index": 49,
+        "text": "gonna"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 50.9,
+      "end": 52.033333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": 0,
+      "dialogue": "Bro no",
+      "reason": "Brief disgust/refusal at rotten garbage; reset before help so the closeups remain distinct.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 50.9,
+        "word_index": 56,
+        "text": "no."
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "policy": "Host reviewed both complete cached dialogue streams plus all native reference zooms. Meaningful actor reactions only; no SFX or month quota.",
+    "framing_review": "Inspected all baseline/onset/end sheets: face and eyes remain visible, actor reaction is emphasized, bottom stream stays unchanged. Day1.4 stronger punch-ins moved lower to preserve headroom. Native captions/effects rendering still requires CapCut review."
+  }
+}

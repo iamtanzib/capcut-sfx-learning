@@ -1,0 +1,14 @@
+{
+  "job_id": "e39277c41742470f",
+  "batch_id": "13c1b20f4a7b4a1b",
+  "project": "test 1",
+  "timeline": "day 6.6",
+  "timeline_id": "32C79D19-80C0-4f85-8D2A-0EAD71174620",
+  "source_hash": "d2016ceba1051b5e31c5bfd90b7289ae4ed2bb3f71d2f4411345153e40e28440",
+  "analysis_job_id": "cdd788530b0041d3",
+  "style_version": 12,
+  "status": "staged",
+  "existing_field": true,
+  "existing_text": "GRANDMA WON THE\nLOTTERY PICK A GIFT\nWHICH WILL YOU PICK?",
+  "duration": 56.0
+}

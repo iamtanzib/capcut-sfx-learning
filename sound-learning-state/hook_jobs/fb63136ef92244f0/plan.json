@@ -1,0 +1,24 @@
+{
+  "job_id": "fb63136ef92244f0",
+  "source_hash": "0a34c7e3bbf1de25e96168e93c1b6ec6a638c7258fa2bfe85a343147d652184b",
+  "style_version": 16,
+  "hook": {
+    "text": "CHOOSE ONE FOOD\nDISPENSER FOR LIFE\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "DISPENSER"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You get to choose one of these food dispensers for the rest of your life."
+    },
+    "reason": "Main intro: choose one food dispenser for the rest of your life.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User asked to change the hook text for each of the 4 videos (existing text was a copied food-island hook)."
+  }
+}

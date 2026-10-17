@@ -1,0 +1,24 @@
+{
+  "job_id": "d1e1eae7a5b54d0a",
+  "source_hash": "af94da46e8392fc77d23e49bca525d236da60cbdb13ac2ae39c887f2f54798d5",
+  "style_version": 1,
+  "hook": {
+    "text": "YOUR BIRTH MONTH IS\nYOUR MIDNIGHT SNACK\nWHAT DID YOU GET?",
+    "highlight_phrases": [
+      "MIDNIGHT SNACK"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "your birth month is your midnight snack."
+    },
+    "reason": "Replace the user-designated dummy title with the actual main intro, condition and choice question, retaining native font/geometry.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_review": "Native Rubik-Bold preview inspected for all lines, yellow highlights and width; geometry/font preserved."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "job_id": "38e128d0b0914dbc",
+  "batch_id": "f50a35d159fe40b8",
+  "project": "test 1",
+  "timeline": "Day2.3",
+  "timeline_id": "D4FE3284-A3E2-4c77-8B33-4E6012AAFB52",
+  "source_hash": "81a578393ffb56b0f05593d44e37f389f0da24568737045d841e25e617dfa4ab",
+  "analysis_job_id": "83d73ac1c55e492c",
+  "style_version": 1,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "PICK A PUNISHMENT\nOR GET FIRED WHICH \nONE ARE YOU CHOOSING?",
+  "duration": 50.866666,
+  "applied_at": 1791695378.893825
+}

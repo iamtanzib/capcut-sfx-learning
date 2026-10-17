@@ -1,0 +1,24 @@
+{
+  "job_id": "8fbf3e3a5cad4374",
+  "source_hash": "3dac69585d6869197b30ec069dee828fed7d8b9d229fedfe93820ff2ec783af6",
+  "style_version": 12,
+  "hook": {
+    "text": "VACATION TO A\nFOOD ISLAND\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "FOOD ISLAND"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You're going on vacation to a food island."
+    },
+    "reason": "Keep the food-island vacation premise and island choice from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User authorized replacing the stale copied hook text on 2026-10-15."
+  }
+}

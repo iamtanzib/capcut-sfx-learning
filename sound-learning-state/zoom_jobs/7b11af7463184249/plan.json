@@ -1,0 +1,168 @@
+{
+  "job_id": "7b11af7463184249",
+  "source_hash": "9f548263519b6b6067261fc0eb73ead8c65591380318b37ba672050050918055",
+  "style_version": 7,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 11.733333,
+      "end": 13.466667,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "That's not bad, I would need that",
+      "reason": "Hold the charger acceptance across the full sentence; omit misaligned early what-the timing.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 11.74,
+        "text": "not",
+        "word_index": 7
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 20.766667,
+      "end": 22.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Ooh that'll be good",
+      "reason": "Cover the expressive air-conditioning approval and natural smile.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 20.76,
+        "text": "Ooh,",
+        "word_index": 19
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.666667,
+      "end": 32.7,
+      "scale": 1.22,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "That's not bad either, I don't know",
+      "reason": "Use a mild hold for the Wi-Fi appraisal and qualification.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.68,
+        "text": "That's",
+        "word_index": 27
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 35.9,
+      "end": 39.9,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.055,
+      "dialogue": "Why would you need that, that's useless",
+      "reason": "Keep the question and completed dismissal together instead of two rapid punch-ins.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 35.89,
+        "text": "Why",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 40.866667,
+      "end": 42.4,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Oh what",
+      "reason": "Hold the initial food-dispenser surprise through its expression.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 40.86,
+        "text": "Oh",
+        "word_index": 41
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.7,
+      "end": 48.0,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.065,
+      "dialogue": "I'm doing that for sure, that's easy",
+      "reason": "One longer closeup includes the complete choice and easy payoff.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.71,
+        "text": "I'm",
+        "word_index": 45
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 51.6,
+      "end": 53.466667,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "So arm purse",
+      "reason": "Hold the comparison and its settling beat; reset for the narrator's next statement.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 51.6,
+        "text": "So",
+        "word_index": 52
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 57.866667,
+      "end": 59.466667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Yo",
+      "reason": "The expressive projector response stays visible beyond the short spoken syllable.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 57.86,
+        "text": "Yo",
+        "word_index": 59
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 63.066667,
+      "end": 64.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Heck nah",
+      "reason": "The final refusal is held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 63.06,
+        "text": "heck",
+        "word_index": 60
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "hold_policy": "Complete phrases plus natural settling; duration chosen separately from SFX tails. Misaligned early words omitted.",
+    "framing_review": "Every baseline/onset/end preview inspected; hair, eyes, expressive gestures and split boundary remain legible. Complete phrase holds and baseline resets reviewed."
+  }
+}

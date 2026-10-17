@@ -1,0 +1,166 @@
+{
+  "job_id": "38e3e0816eb94da0",
+  "source_hash": "7cca8941d3a17020b7a9ec2001aa8e27d4e337240aab688c87643c0b911e3ee4",
+  "style_version": 18,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 3.233333,
+      "end": 4.5,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "What",
+      "reason": "Skeptical what at the crashed $10M car, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 3.22,
+        "text": "What",
+        "word_index": 0
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 10.966667,
+      "end": 12.4,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'm not gonna be alive",
+      "reason": "Open-mouth not-alive objection to 500 years held through.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 10.98,
+        "text": "I'm",
+        "word_index": 5
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.833333,
+      "end": 16.8,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "So just work at nine to five. What?",
+      "reason": "Dry nine-to-five line and the rubber-duck what together.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.82,
+        "text": "So",
+        "word_index": 11
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.8,
+      "end": 26.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'd take it my five years maybe, heck no",
+      "reason": "Five-years estimate through the gorilla heck-no in one connected hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.8,
+        "text": "I",
+        "word_index": 25
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 27.633333,
+      "end": 31.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'm not fighting the gorilla, it's like fighting me bro",
+      "reason": "Whole gorilla refusal and self-roast without a rapid reset.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 27.64,
+        "text": "I'm",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 38.866667,
+      "end": 41.2,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'm not rubbing no man's feet, I'm good",
+      "reason": "Smirking foot-massage refusal held through I'm good.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 38.86,
+        "text": "I'm",
+        "word_index": 55
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 42.833333,
+      "end": 44.0,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What?",
+      "reason": "Squinting what at the personal ATM option, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 42.84,
+        "text": "What?",
+        "word_index": 65
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 50.633333,
+      "end": 52.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "For life",
+      "reason": "Displeased for-life echo of the lifelong chef sentence.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 50.62,
+        "text": "life",
+        "word_index": 67
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.433333,
+      "end": 56.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "heck no",
+      "reason": "Final laughing refusal held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.44,
+        "text": "no!",
+        "word_index": 69
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

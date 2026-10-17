@@ -1,0 +1,166 @@
+{
+  "job_id": "17ebb0cb06be45ac",
+  "source_hash": "cefdfe48cb667ee49bb41e377d3799367bdced98c5a82fb1cd982b40e370b7c8",
+  "style_version": 14,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 8.6,
+      "end": 10.1,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Oh, pack of wolves",
+      "reason": "Hold the complete startled first-option reaction and its settling face before the Twilight line.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 8.6,
+        "text": "Oh",
+        "word_index": 8
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 18.833333,
+      "end": 20.2,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Yes, sir",
+      "reason": "Keep the complete approving response and settling expression after the billionaire reveal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 18.84,
+        "text": "Yes,",
+        "word_index": 24
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.0,
+      "end": 28.5,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "See invisible? What the?",
+      "reason": "Hold the whole confused question through its final 'what the?' beat, then reset before the next option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26,
+        "text": "See",
+        "word_index": 29
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.733333,
+      "end": 41.866667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "You always gonna get fat",
+      "reason": "Hold the full Grandma roast through the punchline and natural settling beat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.74,
+        "text": "you",
+        "word_index": 43
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 50.466667,
+      "end": 51.766667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "What the heck?",
+      "reason": "Start at the first word of the alien-reveal reaction and hold through the question's settling beat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 50.46,
+        "text": "What",
+        "word_index": 57
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 57.766667,
+      "end": 60.1,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Oh, that's fire. Okay.",
+      "reason": "Keep the complete pirate approval and attached 'okay' in one closeup, then reset for the next month.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 57.78,
+        "text": "Oh,",
+        "word_index": 64
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 81.666667,
+      "end": 84.4,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Oh, heck no. Mm-mm.",
+      "reason": "Hold the full vampire refusal and quiet follow-through without stretching into the robot option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 81.67,
+        "text": "Oh,",
+        "word_index": 89
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 90.6,
+      "end": 94.833333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Hey, I'll take it over. That's bad.",
+      "reason": "One sustained closeup covers the complete robot exchange and the final negative appraisal; no rapid reset between connected lines.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 90.59,
+        "text": "Hey,",
+        "word_index": 107
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 101.3,
+      "end": 103.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "That's so fire",
+      "reason": "Hold the closing approval and face settling through the end of the final month.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 101.29,
+        "text": "that's",
+        "word_index": 115
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

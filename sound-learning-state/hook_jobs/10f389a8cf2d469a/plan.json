@@ -1,0 +1,25 @@
+{
+  "job_id": "10f389a8cf2d469a",
+  "source_hash": "7b616d0f4fe0aae28f94091a518ad0b66026b1ae6a20218ac223c2841d93f9c5",
+  "style_version": 1,
+  "hook": {
+    "text": "PICK A MAGIC DRINK\nPOWER + A SIDE EFFECT\nWHICH WILL YOU DRINK?",
+    "highlight_phrases": [
+      "MAGIC DRINK"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Choose one of these magic drinks. Each drink gives you an insane power, but comes with a terrible side effect. Which one are you drinking?"
+    },
+    "reason": "Preserve the magic-drink choice, a power and the side-effect tradeoff in the main narration. Replace the copied punishment title under the user's explicit approval. Reword the long lines to fit the calibrated native width without changing font or geometry.",
+    "action": "replace_existing",
+    "replace_existing": true
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly replied: হ্যাঁ, চারটার title বদলে দাও",
+    "review": "Native Rubik-Bold text preview inspected for all lines/colors; wording is grounded in main intro and fits the calibrated width. Original typography, placement and timing preserved."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "targets": [
+    {"project": "REPLACE_SAVED_PROJECT_A", "timeline": "REPLACE_STABLE_TIMELINE_ID_A"},
+    {"project": "REPLACE_SAVED_PROJECT_B", "timeline": "REPLACE_STABLE_TIMELINE_ID_B"}
+  ],
+  "mode": "full_combo",
+  "workers": 2
+}

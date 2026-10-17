@@ -1,0 +1,201 @@
+{
+  "job_id": "7ebeb2c81d8d40a1",
+  "source_hash": "4d56c6c44f38af932dc0176c062bdd883db3f124088a2bbcecd38d1232f26ca7",
+  "style_version": 14,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 1.766667,
+      "end": 3.2,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "I know",
+      "reason": "Deadpan I-know admission held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 1.78,
+        "text": "I",
+        "word_index": 0
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 3.566667,
+      "end": 4.9,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Dang",
+      "reason": "Dang reaction to mom seeing the Fs, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 3.56,
+        "text": "Dang.",
+        "word_index": 2
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 11.466667,
+      "end": 12.9,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "she finna find it bro",
+      "reason": "Complete deadpan cactus dismissal through bro.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 11.45,
+        "text": "She",
+        "word_index": 3
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 20.066667,
+      "end": 21.9,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Yeah, sure. She's definitely finding that.",
+      "reason": "Whole sarcastic under-the-bed response in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 20.05,
+        "text": "Yeah,",
+        "word_index": 15
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.9,
+      "end": 24.1,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "what?",
+      "reason": "Strong squint on what before the crocodile reveal.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.91,
+        "text": "what?",
+        "word_index": 25
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.533333,
+      "end": 27.7,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "That's perfect",
+      "reason": "Big-grin crocodile approval held to its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.54,
+        "text": "That's",
+        "word_index": 26
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 29.9,
+      "end": 32.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "But she might knock out that crocodile and take the report",
+      "reason": "Entire knock-out-the-crocodile joke in one closeup.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 29.9,
+        "text": "But",
+        "word_index": 28
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 33.233333,
+      "end": 34.5,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "Ooh, okay, okay",
+      "reason": "Beehive ooh-okay reaction held through both okays.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 33.22,
+        "text": "Ooh,",
+        "word_index": 42
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 42.466667,
+      "end": 43.6,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "She go to what?",
+      "reason": "Squinting microwave disbelief held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 42.45,
+        "text": "She",
+        "word_index": 47
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.566667,
+      "end": 48.6,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "dog bro that makes no sense",
+      "reason": "Whole makes-no-sense complaint about the cooked-Fs pun.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 47.36,
+        "text": "Bro,",
+        "word_index": 51,
+        "offset_reason": "Start on caption 13 (46.567s) where the dog-bro complaint begins; ASR only catches the later Bro at 47.36s, 0.79s after the visible reaction onset."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 50.8,
+      "end": 51.9,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "a teapot",
+      "reason": "Incredulous teapot echo held to its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 50.79,
+        "text": "teapot.",
+        "word_index": 57
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true
+  }
+}

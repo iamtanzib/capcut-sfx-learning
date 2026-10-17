@@ -1,0 +1,24 @@
+{
+  "job_id": "427a5e641da94276",
+  "source_hash": "896f2f050d594dc2d897e576466cec909b3d013c1865ae212792c0b6fab8c479",
+  "style_version": 16,
+  "hook": {
+    "text": "YOUR LATE EXCUSE\nBECOMES REAL\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "BECOMES REAL"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "But whatever excuse you choose becomes real."
+    },
+    "reason": "Main intro: you're late and whatever excuse you choose becomes real; ends with the choice question.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User asked to change the hook text for each of the 4 videos (existing text was a copied food-island hook)."
+  }
+}

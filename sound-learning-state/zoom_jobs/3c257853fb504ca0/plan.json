@@ -1,0 +1,218 @@
+{
+  "job_id": "3c257853fb504ca0",
+  "source_hash": "d65937e3b18e2ab5626e1e922620bddbe6f74067ecbc3d04ef2144bb13d98618",
+  "style_version": 5,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 8.433333,
+      "end": 9.7,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.075,
+      "dialogue": "What the",
+      "reason": "Immediate frozen-patch disbelief.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 8.43,
+        "text": "What",
+        "word_index": 4
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 25.933333,
+      "end": 27.133333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the, March",
+      "reason": "Giants reaction anchored on the reliable later the syllable; keep it separate from the quiet approval.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 25.95,
+        "text": "the",
+        "word_index": 20
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 36.9,
+      "end": 38.633333,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.1,
+      "dialogue": "eat all the pumpkins",
+      "reason": "The expressive personal candy-eating punchline deserves a stronger closeup.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 36.91,
+        "text": "eat",
+        "word_index": 27
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.133333,
+      "end": 46.066667,
+      "scale": 1.22,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "God bless you",
+      "reason": "Restrained dry aside for the rotten patch.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.12,
+        "text": "blessing.",
+        "word_index": 37
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 48.166667,
+      "end": 49.2,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the",
+      "reason": "Immediate underwater-patch surprise.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 48.16,
+        "text": "What",
+        "word_index": 39
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 62.133333,
+      "end": 62.8,
+      "scale": 1.2,
+      "dx": 0,
+      "dy": -0.03,
+      "dialogue": "that's fire",
+      "reason": "Mild closeup on completed neon-patch acceptance.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 62.13,
+        "text": "fire.",
+        "word_index": 46
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 71.066667,
+      "end": 72.966667,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.075,
+      "dialogue": "turn into a pumpkin",
+      "reason": "Comic desert-heat consequence; release before the haunted option's commentary.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 71.06,
+        "text": "turn",
+        "word_index": 52
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 76.366667,
+      "end": 77.733333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "yeah heck no",
+      "reason": "Completed first haunted-patch refusal, shorter than the spooky audio bed.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 76.38,
+        "text": "Yeah,",
+        "word_index": 62
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 79.8,
+      "end": 80.6,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.075,
+      "dialogue": "heck no",
+      "reason": "A distinct follow-up refusal after the narrator asks if the pumpkin moved.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 79.79,
+        "text": "heck",
+        "word_index": 66
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 84.866667,
+      "end": 86.133333,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.055,
+      "dialogue": "that's not fair",
+      "reason": "Jealous mystery-gift reaction; the repeat stays at baseline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 84.88,
+        "text": "that's",
+        "word_index": 69
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 94.133333,
+      "end": 96.333333,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.075,
+      "dialogue": "everything",
+      "reason": "One closeup covers the repeated emphatic pumpkin-pie claim.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 94.12,
+        "text": "everything.",
+        "word_index": 79
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 101.533333,
+      "end": 102.266667,
+      "scale": 1.2,
+      "dx": 0,
+      "dy": -0.03,
+      "dialogue": "that looks fire",
+      "reason": "Mild final approval, preserving a baseline reset before the narrator's closing line.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 101.55,
+        "text": "fire",
+        "word_index": 86
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "review": "Every baseline/onset/end and the adjusted actor framing were visually inspected. Hair, eyes, mouth and relevant gestures remain readable; reset boundaries and distinct reaction timing reviewed. Native CapCut overlays/effects playback remains unverified."
+  }
+}

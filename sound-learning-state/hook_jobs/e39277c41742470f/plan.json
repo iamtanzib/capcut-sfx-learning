@@ -1,0 +1,24 @@
+{
+  "job_id": "e39277c41742470f",
+  "source_hash": "d2016ceba1051b5e31c5bfd90b7289ae4ed2bb3f71d2f4411345153e40e28440",
+  "style_version": 12,
+  "hook": {
+    "text": "ONE BUTTON TO UNDO\nANY MOMENT IN LIFE\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "UNDO"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "If you get one button to undo any moment in your life, what type of button would it be?"
+    },
+    "reason": "Keep the one-undo-button premise and button choice from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User authorized replacing the stale copied hook text on 2026-10-15."
+  }
+}

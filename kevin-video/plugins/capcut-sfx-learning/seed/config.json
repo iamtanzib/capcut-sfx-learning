@@ -1,0 +1,16 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "threads": 2,
+  "minimum_gap": 2.0,
+  "speech_model": "base.en",
+  "speech_threads": 2,
+  "scene_proxy_width": 320,
+  "scene_decode": "keyframes",
+  "maximum_keyframes": 12,
+  "draft_root": "",
+  "library": "",
+  "sidebar_settings": "",
+  "reference_project": "",
+  "reference_timelines": [],
+  "additional_reference_sources": []
+}

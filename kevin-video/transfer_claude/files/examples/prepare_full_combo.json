@@ -1,0 +1,7 @@
+{
+  "targets": [
+    {"project": "REPLACE_SAVED_PROJECT", "timeline": "REPLACE_STABLE_TIMELINE_ID"}
+  ],
+  "mode": "full_combo",
+  "workers": 2
+}

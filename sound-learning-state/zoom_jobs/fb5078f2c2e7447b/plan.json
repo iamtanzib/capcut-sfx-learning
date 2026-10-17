@@ -1,0 +1,204 @@
+{
+  "job_id": "fb5078f2c2e7447b",
+  "source_hash": "9ad8903e658abfaecf3dcb894e187ca250119cd992741b35d5225192ee902187",
+  "style_version": 11,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 12.666667,
+      "end": 14.466667,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "I'm already injured bro no",
+      "reason": "Hold the entire injured confession and completed no, avoiding the unreliable earlier oh onset.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 12.66,
+        "text": "I'm",
+        "word_index": 11
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 19.033333,
+      "end": 21.2,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "What, oh no",
+      "reason": "Full million-dollar shock and settling expression.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 19.03,
+        "text": "What?",
+        "word_index": 19
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 23.3,
+      "end": 25.133333,
+      "scale": 1.29,
+      "dx": 0,
+      "dy": -0.038,
+      "dialogue": "Definitely not, generational debt",
+      "reason": "One continuous closeup covers the refusal and debt phrase before the next costume explanation.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 23.3,
+        "text": "Definitely",
+        "word_index": 24
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 27.5,
+      "end": 29.8,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "That's easy, I could do that twice",
+      "reason": "Hold both connected toilet-costume bravado phrases; no repeated rapid cuts.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 27.51,
+        "text": "That's",
+        "word_index": 29
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.566667,
+      "end": 32.9,
+      "scale": 1.24,
+      "dx": 0,
+      "dy": -0.03,
+      "dialogue": "No you wouldn't bro",
+      "reason": "Show the whole dry contradiction and face settling.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.56,
+        "text": "No,",
+        "word_index": 39
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 35.866667,
+      "end": 37.6,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "Oh I can't breathe",
+      "reason": "Hold the full suffocation joke and expression, without an approval zoom on the preceding money oh.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 35.86,
+        "text": "Oh,",
+        "word_index": 45
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 41.733333,
+      "end": 45.466667,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "What the, he finna knock me out, heck no",
+      "reason": "One sustained closeup covers the entire fight disbelief, expected knockout and completed refusal; exact visual onset avoids caption drift.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 41.63,
+        "text": "What",
+        "word_index": 52
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 52.0,
+      "end": 54.133333,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Forever, no",
+      "reason": "Start on the exact verified open-mouth realization, then hold the full refusal instead of using the unreliable tiny ASR forever span.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 52.3,
+        "text": "forever.",
+        "word_index": 68,
+        "offset_reason": "Start on the exact inspected 52.0 open-mouth realization, 0.3s before the tiny cached forever span. The visual start is deliberate; the short ASR forever is not certified as its vocal onset."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.133333,
+      "end": 56.133333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.03,
+      "dialogue": "That's not a punishment",
+      "reason": "Keep the completed unfair-punishment appraisal intact, resetting during the next narrated option.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.15,
+        "text": "That's",
+        "word_index": 71
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 59.266667,
+      "end": 61.6,
+      "scale": 1.44,
+      "dx": 0,
+      "dy": -0.055,
+      "dialogue": "That's death bro what",
+      "reason": "Cover the full final death/disbelief payoff on verified source frames, not ASR done mislabeled as a precise death word onset.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 59.49,
+        "text": "done!",
+        "word_index": 76,
+        "offset_reason": "Start at the exact inspected 59.28 frowning death appraisal while the crusher is shown, 0.21s before the cached done syllable. Caption calls this death; this documents a visual onset, not a claim that ASR done is a precisely verified death word."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 63.533333,
+      "end": 64.333333,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "Heck no",
+      "reason": "Final refusal begins on the first word and holds through the actual video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 63.54,
+        "text": "Heck",
+        "word_index": 77
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "framing_reviewed": true,
+    "unresolved": [],
+    "hold_policy": "Cover each complete meaningful reaction and settling expression; baseline reset before the next unrelated reaction. Holds are independent of SFX tails.",
+    "framing_notes": "Inspected baseline/onset/end sheet for every planned zoom. Hair and eyes stay visible, actor expressions and relevant gestures remain within the upper pane, lower footage stays unchanged, and baseline resets retain the complete reaction."
+  }
+}

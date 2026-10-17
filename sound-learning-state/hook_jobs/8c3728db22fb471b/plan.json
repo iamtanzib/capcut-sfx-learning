@@ -1,0 +1,26 @@
+{
+  "job_id": "8c3728db22fb471b",
+  "source_hash": "e9ad854a6978442d43ee72a94d89c1c0a19d7e8f4f7b13f4642702c2eb3fd79e",
+  "style_version": 5,
+  "hook": {
+    "replace_existing": true,
+    "text": "YOU BECAME PRESIDENT\nPICK YOUR FIRST LAW\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "PRESIDENT",
+      "FIRST LAW"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You accidentally became president. Now you get to make your first law. Which one are you choosing?"
+    },
+    "reason": "Replace copied word-game title with the actual president / first-law choice intro, as explicitly approved.",
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly approved replacing all three filled ONLY ONE WORD hooks in this chat.",
+    "layout_notes": "Inspected all three native Rubik-Bold line/color previews; generated widths fit the calibrated native bar without font or geometry changes."
+  }
+}

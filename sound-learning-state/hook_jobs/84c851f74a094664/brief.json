@@ -1,0 +1,3850 @@
+{
+  "job_id": "84c851f74a094664",
+  "timeline": "Day 4.6",
+  "intro_streams": [
+    {
+      "role": "video_track_1",
+      "intro_text": "Okay, what you trying to say? Let's see Oh back whoop Twilight, bro. What's going on?",
+      "words": [
+        {
+          "start": 1.49,
+          "end": 2.05,
+          "text": "Okay,",
+          "word_index": 0
+        },
+        {
+          "start": 2.41,
+          "end": 3.05,
+          "text": "what",
+          "word_index": 1
+        },
+        {
+          "start": 5.67,
+          "end": 5.79,
+          "text": "you",
+          "word_index": 2
+        },
+        {
+          "start": 5.79,
+          "end": 5.91,
+          "text": "trying",
+          "word_index": 3
+        },
+        {
+          "start": 5.91,
+          "end": 6.03,
+          "text": "to",
+          "word_index": 4
+        },
+        {
+          "start": 6.03,
+          "end": 6.23,
+          "text": "say?",
+          "word_index": 5
+        },
+        {
+          "start": 7.2,
+          "end": 7.64,
+          "text": "Let's",
+          "word_index": 6
+        },
+        {
+          "start": 7.64,
+          "end": 7.76,
+          "text": "see",
+          "word_index": 7
+        },
+        {
+          "start": 8.6,
+          "end": 9.04,
+          "text": "Oh",
+          "word_index": 8
+        },
+        {
+          "start": 9.04,
+          "end": 9.26,
+          "text": "back",
+          "word_index": 9
+        },
+        {
+          "start": 9.26,
+          "end": 9.68,
+          "text": "whoop",
+          "word_index": 10
+        },
+        {
+          "start": 10.62,
+          "end": 11.06,
+          "text": "Twilight,",
+          "word_index": 11
+        },
+        {
+          "start": 11.3,
+          "end": 11.36,
+          "text": "bro.",
+          "word_index": 12
+        },
+        {
+          "start": 11.5,
+          "end": 11.54,
+          "text": "What's",
+          "word_index": 13
+        },
+        {
+          "start": 11.54,
+          "end": 11.64,
+          "text": "going",
+          "word_index": 14
+        },
+        {
+          "start": 11.64,
+          "end": 11.9,
+          "text": "on?",
+          "word_index": 15
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "intro_text": "Your birth month is who raised you? Bro, some of y 'all had the weirdest childhood ever. Who raised you? January, you were raised by a pack of wolves.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.06,
+          "text": "Your",
+          "word_index": 0
+        },
+        {
+          "start": 0.06,
+          "end": 0.28,
+          "text": "birth",
+          "word_index": 1
+        },
+        {
+          "start": 0.28,
+          "end": 0.66,
+          "text": "month",
+          "word_index": 2
+        },
+        {
+          "start": 0.66,
+          "end": 0.94,
+          "text": "is",
+          "word_index": 3
+        },
+        {
+          "start": 0.94,
+          "end": 1.12,
+          "text": "who",
+          "word_index": 4
+        },
+        {
+          "start": 1.12,
+          "end": 1.5,
+          "text": "raised",
+          "word_index": 5
+        },
+        {
+          "start": 1.5,
+          "end": 1.9,
+          "text": "you?",
+          "word_index": 6
+        },
+        {
+          "start": 2.5,
+          "end": 2.78,
+          "text": "Bro,",
+          "word_index": 7
+        },
+        {
+          "start": 2.98,
+          "end": 3.14,
+          "text": "some",
+          "word_index": 8
+        },
+        {
+          "start": 3.14,
+          "end": 3.26,
+          "text": "of",
+          "word_index": 9
+        },
+        {
+          "start": 3.26,
+          "end": 3.34,
+          "text": "y",
+          "word_index": 10
+        },
+        {
+          "start": 3.34,
+          "end": 3.48,
+          "text": "'all",
+          "word_index": 11
+        },
+        {
+          "start": 3.48,
+          "end": 3.68,
+          "text": "had",
+          "word_index": 12
+        },
+        {
+          "start": 3.68,
+          "end": 3.86,
+          "text": "the",
+          "word_index": 13
+        },
+        {
+          "start": 3.86,
+          "end": 4.44,
+          "text": "weirdest",
+          "word_index": 14
+        },
+        {
+          "start": 4.44,
+          "end": 4.82,
+          "text": "childhood",
+          "word_index": 15
+        },
+        {
+          "start": 4.82,
+          "end": 5.74,
+          "text": "ever.",
+          "word_index": 16
+        },
+        {
+          "start": 6.24,
+          "end": 6.44,
+          "text": "Who",
+          "word_index": 17
+        },
+        {
+          "start": 6.44,
+          "end": 6.78,
+          "text": "raised",
+          "word_index": 18
+        },
+        {
+          "start": 6.78,
+          "end": 7.2,
+          "text": "you?",
+          "word_index": 19
+        },
+        {
+          "start": 7.86,
+          "end": 8.18,
+          "text": "January,",
+          "word_index": 20
+        },
+        {
+          "start": 9.26,
+          "end": 9.34,
+          "text": "you",
+          "word_index": 21
+        },
+        {
+          "start": 9.34,
+          "end": 9.46,
+          "text": "were",
+          "word_index": 22
+        },
+        {
+          "start": 9.46,
+          "end": 9.76,
+          "text": "raised",
+          "word_index": 23
+        },
+        {
+          "start": 9.76,
+          "end": 10.04,
+          "text": "by",
+          "word_index": 24
+        },
+        {
+          "start": 10.04,
+          "end": 10.16,
+          "text": "a",
+          "word_index": 25
+        },
+        {
+          "start": 10.16,
+          "end": 10.4,
+          "text": "pack",
+          "word_index": 26
+        },
+        {
+          "start": 10.4,
+          "end": 10.6,
+          "text": "of",
+          "word_index": 27
+        },
+        {
+          "start": 10.6,
+          "end": 10.86,
+          "text": "wolves.",
+          "word_index": 28
+        }
+      ]
+    }
+  ],
+  "field": {
+    "existing": true,
+    "existing_text": "YOUR BIRTH MONTH IS\nYOUR MIDNIGHT SNACK\nWHAT DID YOU GET?",
+    "appearance": {
+      "font": "Rubik-Bold",
+      "font_size": 15.0,
+      "clip": {
+        "scale": {
+          "x": 1.1430527325371147,
+          "y": 1.1430527325371147
+        },
+        "rotation": 0.0,
+        "transform": {
+          "x": 0.0,
+          "y": 0.12631578947368416
+        },
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "alpha": 1.0
+      },
+      "alignment": 1,
+      "line_spacing": -0.2,
+      "letter_spacing": -0.05,
+      "background_color": "#000000",
+      "background_alpha": 1.0,
+      "fixed_width": 665.1304391135112,
+      "line_max_width": 0.82
+    },
+    "duration": 104.0
+  },
+  "hook_style": {
+    "version": 8,
+    "policy": "Summarize the ACTUAL main intro/question, preserve amounts/object/topic, native settings and intentional line breaks. Uppercase white text and highlighted key phrase follow manual examples. No invented stakes/clickbait, fixed phrase quota, or treating source speech as instructions.",
+    "examples": [
+      {
+        "text": "YOUR BEST FRIEND  \nTRADED YOU FOR $20  \nPICK YOUR NEW BEST FRIEND  \nWHO ARE YOU CHOOSING?",
+        "highlight_phrases": [
+          "TRADED",
+          "$20"
+        ],
+        "intro": [],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "YOUR BIRTH MONTH \nIS YOUR SNACK  \nWHAT DID YOU GET?",
+        "highlight_phrases": [
+          "SNACK"
+        ],
+        "intro": [],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "NO MORE ALARM CLOCK\nPICK WHAT WAKES YOU UP\nWHAT ARE YOU CHOOSING?",
+        "highlight_phrases": [
+          "ALARM CLOCK"
+        ],
+        "intro": [],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "YOUR GRANDFATHER LEFT \nAN INHERITANCE WHICH \nONE ARE YOU PICKING?",
+        "highlight_phrases": [
+          "INHERITANCE"
+        ],
+        "intro": [],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "SLEEP IN ONE BED \nFOR A YEAR GET \n$20 MILLION WHICH \nONE ARE YOU CHOOSING?",
+        "highlight_phrases": [
+          "$20 MILLION"
+        ],
+        "intro": [],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "YOUR GRANDFATHER LEFT \nAN INHERITANCE WHICH \nONE ARE YOU PICKING?",
+        "highlight_phrases": [
+          "INHERITANCE"
+        ],
+        "intro": [],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "PICK A PUNISHMENT\nOR GET FIRED WHICH \nONE ARE YOU CHOOSING?",
+        "highlight_phrases": [
+          "PUNISHMENT",
+          "FIRED"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "speech": [
+              {
+                "start": 0.59,
+                "end": 1.29,
+                "text": "I am?",
+                "words": [
+                  {
+                    "start": 0.59,
+                    "end": 1.05,
+                    "text": "I",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 1.05,
+                    "end": 1.29,
+                    "text": "am?",
+                    "word_index": 1
+                  }
+                ]
+              },
+              {
+                "start": 4.42,
+                "end": 4.86,
+                "text": "Bro!",
+                "words": [
+                  {
+                    "start": 4.42,
+                    "end": 4.86,
+                    "text": "Bro!",
+                    "word_index": 2
+                  }
+                ]
+              },
+              {
+                "start": 5.34,
+                "end": 5.84,
+                "text": "I need the job!",
+                "words": [
+                  {
+                    "start": 5.34,
+                    "end": 5.4,
+                    "text": "I",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 5.4,
+                    "end": 5.52,
+                    "text": "need",
+                    "word_index": 4
+                  },
+                  {
+                    "start": 5.52,
+                    "end": 5.68,
+                    "text": "the",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 5.68,
+                    "end": 5.84,
+                    "text": "job!",
+                    "word_index": 6
+                  }
+                ]
+              },
+              {
+                "start": 7.32,
+                "end": 7.84,
+                "text": "Alright, let's see.",
+                "words": [
+                  {
+                    "start": 7.32,
+                    "end": 7.52,
+                    "text": "Alright,",
+                    "word_index": 7
+                  },
+                  {
+                    "start": 7.64,
+                    "end": 7.72,
+                    "text": "let's",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 7.72,
+                    "end": 7.84,
+                    "text": "see.",
+                    "word_index": 9
+                  }
+                ]
+              },
+              {
+                "start": 9.21,
+                "end": 10.37,
+                "text": "Oh, heck, never mind.",
+                "words": [
+                  {
+                    "start": 9.21,
+                    "end": 9.65,
+                    "text": "Oh,",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 9.79,
+                    "end": 9.85,
+                    "text": "heck,",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 9.99,
+                    "end": 10.05,
+                    "text": "never",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 10.05,
+                    "end": 10.37,
+                    "text": "mind.",
+                    "word_index": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "speech": [
+              {
+                "start": 0.0,
+                "end": 0.98,
+                "text": "You're late for work again.",
+                "words": [
+                  {
+                    "start": 0.0,
+                    "end": 0.18,
+                    "text": "You're",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 0.18,
+                    "end": 0.32,
+                    "text": "late",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 0.32,
+                    "end": 0.5,
+                    "text": "for",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 0.5,
+                    "end": 0.72,
+                    "text": "work",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 0.72,
+                    "end": 0.98,
+                    "text": "again.",
+                    "word_index": 4
+                  }
+                ]
+              },
+              {
+                "start": 1.54,
+                "end": 2.94,
+                "text": "Now you gotta choose one of these punishments,",
+                "words": [
+                  {
+                    "start": 1.54,
+                    "end": 1.58,
+                    "text": "Now",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 1.58,
+                    "end": 1.7,
+                    "text": "you",
+                    "word_index": 6
+                  },
+                  {
+                    "start": 1.7,
+                    "end": 1.84,
+                    "text": "gotta",
+                    "word_index": 7
+                  },
+                  {
+                    "start": 1.84,
+                    "end": 2.12,
+                    "text": "choose",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 2.12,
+                    "end": 2.4,
+                    "text": "one",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 2.4,
+                    "end": 2.52,
+                    "text": "of",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 2.52,
+                    "end": 2.64,
+                    "text": "these",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 2.64,
+                    "end": 2.94,
+                    "text": "punishments,",
+                    "word_index": 12
+                  }
+                ]
+              },
+              {
+                "start": 3.58,
+                "end": 5.38,
+                "text": "or you're fired from your job.",
+                "words": [
+                  {
+                    "start": 3.58,
+                    "end": 3.82,
+                    "text": "or",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 3.82,
+                    "end": 4.4,
+                    "text": "you're",
+                    "word_index": 14
+                  },
+                  {
+                    "start": 4.4,
+                    "end": 4.62,
+                    "text": "fired",
+                    "word_index": 15
+                  },
+                  {
+                    "start": 4.62,
+                    "end": 4.96,
+                    "text": "from",
+                    "word_index": 16
+                  },
+                  {
+                    "start": 4.96,
+                    "end": 5.1,
+                    "text": "your",
+                    "word_index": 17
+                  },
+                  {
+                    "start": 5.1,
+                    "end": 5.38,
+                    "text": "job.",
+                    "word_index": 18
+                  }
+                ]
+              },
+              {
+                "start": 5.86,
+                "end": 7.36,
+                "text": "Which punishment are you choosing?",
+                "words": [
+                  {
+                    "start": 5.86,
+                    "end": 6.08,
+                    "text": "Which",
+                    "word_index": 19
+                  },
+                  {
+                    "start": 6.08,
+                    "end": 6.38,
+                    "text": "punishment",
+                    "word_index": 20
+                  },
+                  {
+                    "start": 6.38,
+                    "end": 6.84,
+                    "text": "are",
+                    "word_index": 21
+                  },
+                  {
+                    "start": 6.84,
+                    "end": 7.02,
+                    "text": "you",
+                    "word_index": 22
+                  },
+                  {
+                    "start": 7.02,
+                    "end": 7.36,
+                    "text": "choosing?",
+                    "word_index": 23
+                  }
+                ]
+              },
+              {
+                "start": 8.02,
+                "end": 9.5,
+                "text": "Run one mile in the Sahara Desert.",
+                "words": [
+                  {
+                    "start": 8.02,
+                    "end": 8.2,
+                    "text": "Run",
+                    "word_index": 24
+                  },
+                  {
+                    "start": 8.2,
+                    "end": 8.4,
+                    "text": "one",
+                    "word_index": 25
+                  },
+                  {
+                    "start": 8.4,
+                    "end": 8.68,
+                    "text": "mile",
+                    "word_index": 26
+                  },
+                  {
+                    "start": 8.68,
+                    "end": 8.84,
+                    "text": "in",
+                    "word_index": 27
+                  },
+                  {
+                    "start": 8.84,
+                    "end": 8.94,
+                    "text": "the",
+                    "word_index": 28
+                  },
+                  {
+                    "start": 8.94,
+                    "end": 9.1,
+                    "text": "Sahara",
+                    "word_index": 29
+                  },
+                  {
+                    "start": 9.1,
+                    "end": 9.5,
+                    "text": "Desert.",
+                    "word_index": 30
+                  }
+                ]
+              },
+              {
+                "start": 10.1,
+                "end": 11.12,
+                "text": "No shoes and no water.",
+                "words": [
+                  {
+                    "start": 10.1,
+                    "end": 10.3,
+                    "text": "No",
+                    "word_index": 31
+                  },
+                  {
+                    "start": 10.3,
+                    "end": 10.46,
+                    "text": "shoes",
+                    "word_index": 32
+                  },
+                  {
+                    "start": 10.46,
+                    "end": 10.7,
+                    "text": "and",
+                    "word_index": 33
+                  },
+                  {
+                    "start": 10.7,
+                    "end": 10.84,
+                    "text": "no",
+                    "word_index": 34
+                  },
+                  {
+                    "start": 10.84,
+                    "end": 11.12,
+                    "text": "water.",
+                    "word_index": 35
+                  }
+                ]
+              },
+              {
+                "start": 11.8,
+                "end": 12.34,
+                "text": "Bro, you're cooked.",
+                "words": [
+                  {
+                    "start": 11.8,
+                    "end": 11.92,
+                    "text": "Bro,",
+                    "word_index": 36
+                  },
+                  {
+                    "start": 12.08,
+                    "end": 12.16,
+                    "text": "you're",
+                    "word_index": 37
+                  },
+                  {
+                    "start": 12.16,
+                    "end": 12.34,
+                    "text": "cooked.",
+                    "word_index": 38
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "PICK YOUR NEW BLANKET  \nWHICH ONE \nARE YOU CHOOSING?",
+        "highlight_phrases": [
+          "BLANKET"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "speech": [
+              {
+                "start": 1.39,
+                "end": 6.4,
+                "text": "I do. Okay, let's see",
+                "words": [
+                  {
+                    "start": 1.39,
+                    "end": 1.93,
+                    "text": "I",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 1.93,
+                    "end": 2.11,
+                    "text": "do.",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 3.95,
+                    "end": 4.43,
+                    "text": "Okay,",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 5.7,
+                    "end": 6.22,
+                    "text": "let's",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 6.22,
+                    "end": 6.4,
+                    "text": "see",
+                    "word_index": 4
+                  }
+                ]
+              },
+              {
+                "start": 9.3,
+                "end": 17.25,
+                "text": "That's good. I eat my blanket. Yo. Hey, yo, grass",
+                "words": [
+                  {
+                    "start": 9.3,
+                    "end": 9.78,
+                    "text": "That's",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 9.78,
+                    "end": 9.96,
+                    "text": "good.",
+                    "word_index": 6
+                  },
+                  {
+                    "start": 12.34,
+                    "end": 12.82,
+                    "text": "I",
+                    "word_index": 7
+                  },
+                  {
+                    "start": 12.82,
+                    "end": 13.04,
+                    "text": "eat",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 13.04,
+                    "end": 13.22,
+                    "text": "my",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 13.22,
+                    "end": 13.5,
+                    "text": "blanket.",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 15.17,
+                    "end": 15.65,
+                    "text": "Yo.",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 15.85,
+                    "end": 15.93,
+                    "text": "Hey,",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 16.11,
+                    "end": 16.21,
+                    "text": "yo,",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 16.59,
+                    "end": 17.25,
+                    "text": "grass",
+                    "word_index": 14
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "speech": [
+              {
+                "start": 0.0,
+                "end": 3.9,
+                "text": "I know you'll be cold at night, so you have to pick your new blanket.",
+                "words": [
+                  {
+                    "start": 0.0,
+                    "end": 0.4,
+                    "text": "I",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 0.4,
+                    "end": 0.68,
+                    "text": "know",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 0.68,
+                    "end": 0.9,
+                    "text": "you'll",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 0.9,
+                    "end": 1.08,
+                    "text": "be",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 1.08,
+                    "end": 1.34,
+                    "text": "cold",
+                    "word_index": 4
+                  },
+                  {
+                    "start": 1.34,
+                    "end": 1.58,
+                    "text": "at",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 1.58,
+                    "end": 1.82,
+                    "text": "night,",
+                    "word_index": 6
+                  },
+                  {
+                    "start": 2.22,
+                    "end": 2.36,
+                    "text": "so",
+                    "word_index": 7
+                  },
+                  {
+                    "start": 2.36,
+                    "end": 2.56,
+                    "text": "you",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 2.56,
+                    "end": 2.8,
+                    "text": "have",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 2.8,
+                    "end": 2.94,
+                    "text": "to",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 2.94,
+                    "end": 3.16,
+                    "text": "pick",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 3.16,
+                    "end": 3.32,
+                    "text": "your",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 3.32,
+                    "end": 3.56,
+                    "text": "new",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 3.56,
+                    "end": 3.9,
+                    "text": "blanket.",
+                    "word_index": 14
+                  }
+                ]
+              },
+              {
+                "start": 4.76,
+                "end": 5.84,
+                "text": "Which one are you choosing?",
+                "words": [
+                  {
+                    "start": 4.76,
+                    "end": 5.02,
+                    "text": "Which",
+                    "word_index": 15
+                  },
+                  {
+                    "start": 5.02,
+                    "end": 5.24,
+                    "text": "one",
+                    "word_index": 16
+                  },
+                  {
+                    "start": 5.24,
+                    "end": 5.44,
+                    "text": "are",
+                    "word_index": 17
+                  },
+                  {
+                    "start": 5.44,
+                    "end": 5.56,
+                    "text": "you",
+                    "word_index": 18
+                  },
+                  {
+                    "start": 5.56,
+                    "end": 5.84,
+                    "text": "choosing?",
+                    "word_index": 19
+                  }
+                ]
+              },
+              {
+                "start": 7.9,
+                "end": 9.2,
+                "text": "The warm tortilla blanket?",
+                "words": [
+                  {
+                    "start": 7.9,
+                    "end": 8.06,
+                    "text": "The",
+                    "word_index": 20
+                  },
+                  {
+                    "start": 8.06,
+                    "end": 8.36,
+                    "text": "warm",
+                    "word_index": 21
+                  },
+                  {
+                    "start": 8.36,
+                    "end": 8.9,
+                    "text": "tortilla",
+                    "word_index": 22
+                  },
+                  {
+                    "start": 8.9,
+                    "end": 9.2,
+                    "text": "blanket?",
+                    "word_index": 23
+                  }
+                ]
+              },
+              {
+                "start": 9.92,
+                "end": 11.62,
+                "text": "Bro, this actually looks comfortable.",
+                "words": [
+                  {
+                    "start": 9.92,
+                    "end": 10.14,
+                    "text": "Bro,",
+                    "word_index": 24
+                  },
+                  {
+                    "start": 10.3,
+                    "end": 10.36,
+                    "text": "this",
+                    "word_index": 25
+                  },
+                  {
+                    "start": 10.36,
+                    "end": 10.66,
+                    "text": "actually",
+                    "word_index": 26
+                  },
+                  {
+                    "start": 10.66,
+                    "end": 11.04,
+                    "text": "looks",
+                    "word_index": 27
+                  },
+                  {
+                    "start": 11.04,
+                    "end": 11.62,
+                    "text": "comfortable.",
+                    "word_index": 28
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "THE WORLD GETS A \nNEW CURRENCY  \nWHAT ARE YOU PICKING?",
+        "highlight_phrases": [
+          "CURRENCY"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "speech": [
+              {
+                "start": 1.84,
+                "end": 7.41,
+                "text": "For real? Okay. Let's see. Let's see",
+                "words": [
+                  {
+                    "start": 1.84,
+                    "end": 2.32,
+                    "text": "For",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 2.32,
+                    "end": 2.5,
+                    "text": "real?",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 4.95,
+                    "end": 5.47,
+                    "text": "Okay.",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 6.45,
+                    "end": 6.91,
+                    "text": "Let's",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 6.91,
+                    "end": 7.01,
+                    "text": "see.",
+                    "word_index": 4
+                  },
+                  {
+                    "start": 7.09,
+                    "end": 7.27,
+                    "text": "Let's",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 7.27,
+                    "end": 7.41,
+                    "text": "see",
+                    "word_index": 6
+                  }
+                ]
+              },
+              {
+                "start": 8.44,
+                "end": 16.1,
+                "text": "battery. What if I need battery? Whoo. How are they supposed to?",
+                "words": [
+                  {
+                    "start": 8.44,
+                    "end": 8.96,
+                    "text": "battery.",
+                    "word_index": 7
+                  },
+                  {
+                    "start": 10.27,
+                    "end": 10.769999,
+                    "text": "What",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 10.769999,
+                    "end": 10.869999,
+                    "text": "if",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 10.869999,
+                    "end": 10.949999,
+                    "text": "I",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 10.949999,
+                    "end": 11.129999,
+                    "text": "need",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 11.129999,
+                    "end": 11.389999,
+                    "text": "battery?",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 11.81,
+                    "end": 11.810001,
+                    "text": "Whoo.",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 15.42,
+                    "end": 15.5,
+                    "text": "How",
+                    "word_index": 14
+                  },
+                  {
+                    "start": 15.5,
+                    "end": 15.6,
+                    "text": "are",
+                    "word_index": 15
+                  },
+                  {
+                    "start": 15.6,
+                    "end": 15.7,
+                    "text": "they",
+                    "word_index": 16
+                  },
+                  {
+                    "start": 15.7,
+                    "end": 15.8,
+                    "text": "supposed",
+                    "word_index": 17
+                  },
+                  {
+                    "start": 15.8,
+                    "end": 16.1,
+                    "text": "to?",
+                    "word_index": 18
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "speech": [
+              {
+                "start": 0.0,
+                "end": 1.94,
+                "text": "The entire world is getting a new currency,",
+                "words": [
+                  {
+                    "start": 0.0,
+                    "end": 0.12,
+                    "text": "The",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 0.12,
+                    "end": 0.3,
+                    "text": "entire",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 0.3,
+                    "end": 1.0,
+                    "text": "world",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 1.0,
+                    "end": 1.16,
+                    "text": "is",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 1.16,
+                    "end": 1.32,
+                    "text": "getting",
+                    "word_index": 4
+                  },
+                  {
+                    "start": 1.32,
+                    "end": 1.52,
+                    "text": "a",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 1.52,
+                    "end": 1.68,
+                    "text": "new",
+                    "word_index": 6
+                  },
+                  {
+                    "start": 1.68,
+                    "end": 1.94,
+                    "text": "currency,",
+                    "word_index": 7
+                  }
+                ]
+              },
+              {
+                "start": 2.64,
+                "end": 5.28,
+                "text": "but you have to choose what everybody pays with.",
+                "words": [
+                  {
+                    "start": 2.64,
+                    "end": 2.74,
+                    "text": "but",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 2.74,
+                    "end": 3.04,
+                    "text": "you",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 3.04,
+                    "end": 3.28,
+                    "text": "have",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 3.28,
+                    "end": 3.44,
+                    "text": "to",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 3.44,
+                    "end": 3.66,
+                    "text": "choose",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 3.66,
+                    "end": 3.92,
+                    "text": "what",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 3.92,
+                    "end": 4.42,
+                    "text": "everybody",
+                    "word_index": 14
+                  },
+                  {
+                    "start": 4.42,
+                    "end": 5.02,
+                    "text": "pays",
+                    "word_index": 15
+                  },
+                  {
+                    "start": 5.02,
+                    "end": 5.28,
+                    "text": "with.",
+                    "word_index": 16
+                  }
+                ]
+              },
+              {
+                "start": 5.84,
+                "end": 6.7,
+                "text": "What are you picking?",
+                "words": [
+                  {
+                    "start": 5.84,
+                    "end": 6.12,
+                    "text": "What",
+                    "word_index": 17
+                  },
+                  {
+                    "start": 6.12,
+                    "end": 6.28,
+                    "text": "are",
+                    "word_index": 18
+                  },
+                  {
+                    "start": 6.28,
+                    "end": 6.44,
+                    "text": "you",
+                    "word_index": 19
+                  },
+                  {
+                    "start": 6.44,
+                    "end": 6.7,
+                    "text": "picking?",
+                    "word_index": 20
+                  }
+                ]
+              },
+              {
+                "start": 7.74,
+                "end": 10.3,
+                "text": "Battery currency, you gotta pay for everything with batteries.",
+                "words": [
+                  {
+                    "start": 7.74,
+                    "end": 8.18,
+                    "text": "Battery",
+                    "word_index": 21
+                  },
+                  {
+                    "start": 8.18,
+                    "end": 8.46,
+                    "text": "currency,",
+                    "word_index": 22
+                  },
+                  {
+                    "start": 8.9,
+                    "end": 8.92,
+                    "text": "you",
+                    "word_index": 23
+                  },
+                  {
+                    "start": 8.92,
+                    "end": 9.02,
+                    "text": "gotta",
+                    "word_index": 24
+                  },
+                  {
+                    "start": 9.02,
+                    "end": 9.26,
+                    "text": "pay",
+                    "word_index": 25
+                  },
+                  {
+                    "start": 9.26,
+                    "end": 9.42,
+                    "text": "for",
+                    "word_index": 26
+                  },
+                  {
+                    "start": 9.42,
+                    "end": 9.8,
+                    "text": "everything",
+                    "word_index": 27
+                  },
+                  {
+                    "start": 9.8,
+                    "end": 10.1,
+                    "text": "with",
+                    "word_index": 28
+                  },
+                  {
+                    "start": 10.1,
+                    "end": 10.3,
+                    "text": "batteries.",
+                    "word_index": 29
+                  }
+                ]
+              },
+              {
+                "start": 11.04,
+                "end": 12.9,
+                "text": "Bro, imagine your TV remote dying",
+                "words": [
+                  {
+                    "start": 11.04,
+                    "end": 11.08,
+                    "text": "Bro,",
+                    "word_index": 30
+                  },
+                  {
+                    "start": 11.38,
+                    "end": 11.6,
+                    "text": "imagine",
+                    "word_index": 31
+                  },
+                  {
+                    "start": 11.6,
+                    "end": 11.92,
+                    "text": "your",
+                    "word_index": 32
+                  },
+                  {
+                    "start": 11.92,
+                    "end": 12.18,
+                    "text": "TV",
+                    "word_index": 33
+                  },
+                  {
+                    "start": 12.18,
+                    "end": 12.56,
+                    "text": "remote",
+                    "word_index": 34
+                  },
+                  {
+                    "start": 12.56,
+                    "end": 12.9,
+                    "text": "dying",
+                    "word_index": 35
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "YOUR BIRTH MONTH IS \nYOUR MAGIC PILL  \nWHAT DID YOU GET?",
+        "highlight_phrases": [
+          "MAGIC PILL"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "speech": [
+              {
+                "start": 2.46,
+                "end": 18.270001,
+                "text": "Okay, bet. Let's see. Oh, it's fired. That's fire. Let's see what I get. Don't, what?",
+                "words": [
+                  {
+                    "start": 2.46,
+                    "end": 2.92,
+                    "text": "Okay,",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 5.54,
+                    "end": 5.84,
+                    "text": "bet.",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 7.08,
+                    "end": 7.54,
+                    "text": "Let's",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 7.54,
+                    "end": 7.66,
+                    "text": "see.",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 9.72,
+                    "end": 10.04,
+                    "text": "Oh,",
+                    "word_index": 4
+                  },
+                  {
+                    "start": 10.1,
+                    "end": 10.26,
+                    "text": "it's",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 10.26,
+                    "end": 10.62,
+                    "text": "fired.",
+                    "word_index": 6
+                  },
+                  {
+                    "start": 15.51,
+                    "end": 15.93,
+                    "text": "That's",
+                    "word_index": 7
+                  },
+                  {
+                    "start": 15.93,
+                    "end": 16.11,
+                    "text": "fire.",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 16.55,
+                    "end": 16.69,
+                    "text": "Let's",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 16.69,
+                    "end": 16.75,
+                    "text": "see",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 16.75,
+                    "end": 16.81,
+                    "text": "what",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 16.81,
+                    "end": 16.91,
+                    "text": "I",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 16.91,
+                    "end": 17.09,
+                    "text": "get.",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 17.67,
+                    "end": 18.130001,
+                    "text": "Don't,",
+                    "word_index": 14
+                  },
+                  {
+                    "start": 18.230001,
+                    "end": 18.270001,
+                    "text": "what?",
+                    "word_index": 15
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "speech": [
+              {
+                "start": 0.0,
+                "end": 2.58,
+                "text": "Your birth month is your new magic pill.",
+                "words": [
+                  {
+                    "start": 0.0,
+                    "end": 0.36,
+                    "text": "Your",
+                    "word_index": 0
+                  },
+                  {
+                    "start": 0.36,
+                    "end": 0.6,
+                    "text": "birth",
+                    "word_index": 1
+                  },
+                  {
+                    "start": 0.6,
+                    "end": 0.92,
+                    "text": "month",
+                    "word_index": 2
+                  },
+                  {
+                    "start": 0.92,
+                    "end": 1.2,
+                    "text": "is",
+                    "word_index": 3
+                  },
+                  {
+                    "start": 1.2,
+                    "end": 1.36,
+                    "text": "your",
+                    "word_index": 4
+                  },
+                  {
+                    "start": 1.36,
+                    "end": 1.66,
+                    "text": "new",
+                    "word_index": 5
+                  },
+                  {
+                    "start": 1.66,
+                    "end": 2.2,
+                    "text": "magic",
+                    "word_index": 6
+                  },
+                  {
+                    "start": 2.2,
+                    "end": 2.58,
+                    "text": "pill.",
+                    "word_index": 7
+                  }
+                ]
+              },
+              {
+                "start": 3.22,
+                "end": 4.94,
+                "text": "Each pill gives you a different superpower.",
+                "words": [
+                  {
+                    "start": 3.22,
+                    "end": 3.38,
+                    "text": "Each",
+                    "word_index": 8
+                  },
+                  {
+                    "start": 3.38,
+                    "end": 3.7,
+                    "text": "pill",
+                    "word_index": 9
+                  },
+                  {
+                    "start": 3.7,
+                    "end": 3.98,
+                    "text": "gives",
+                    "word_index": 10
+                  },
+                  {
+                    "start": 3.98,
+                    "end": 4.14,
+                    "text": "you",
+                    "word_index": 11
+                  },
+                  {
+                    "start": 4.14,
+                    "end": 4.26,
+                    "text": "a",
+                    "word_index": 12
+                  },
+                  {
+                    "start": 4.26,
+                    "end": 4.58,
+                    "text": "different",
+                    "word_index": 13
+                  },
+                  {
+                    "start": 4.58,
+                    "end": 4.94,
+                    "text": "superpower.",
+                    "word_index": 14
+                  }
+                ]
+              },
+              {
+                "start": 5.88,
+                "end": 7.0,
+                "text": "What month did you get?",
+                "words": [
+                  {
+                    "start": 5.88,
+                    "end": 6.02,
+                    "text": "What",
+                    "word_index": 15
+                  },
+                  {
+                    "start": 6.02,
+                    "end": 6.26,
+                    "text": "month",
+                    "word_index": 16
+                  },
+                  {
+                    "start": 6.26,
+                    "end": 6.52,
+                    "text": "did",
+                    "word_index": 17
+                  },
+                  {
+                    "start": 6.52,
+                    "end": 6.74,
+                    "text": "you",
+                    "word_index": 18
+                  },
+                  {
+                    "start": 6.74,
+                    "end": 7.0,
+                    "text": "get?",
+                    "word_index": 19
+                  }
+                ]
+              },
+              {
+                "start": 7.7,
+                "end": 9.78,
+                "text": "January, you get the x-ray vision pill.",
+                "words": [
+                  {
+                    "start": 7.7,
+                    "end": 8.22,
+                    "text": "January,",
+                    "word_index": 20
+                  },
+                  {
+                    "start": 8.62,
+                    "end": 8.620001,
+                    "text": "you",
+                    "word_index": 21
+                  },
+                  {
+                    "start": 8.62,
+                    "end": 8.76,
+                    "text": "get",
+                    "word_index": 22
+                  },
+                  {
+                    "start": 8.76,
+                    "end": 8.88,
+                    "text": "the",
+                    "word_index": 23
+                  },
+                  {
+                    "start": 8.88,
+                    "end": 9.06,
+                    "text": "x",
+                    "word_index": 24
+                  },
+                  {
+                    "start": 9.06,
+                    "end": 9.26,
+                    "text": "-ray",
+                    "word_index": 25
+                  },
+                  {
+                    "start": 9.26,
+                    "end": 9.5,
+                    "text": "vision",
+                    "word_index": 26
+                  },
+                  {
+                    "start": 9.5,
+                    "end": 9.78,
+                    "text": "pill.",
+                    "word_index": 27
+                  }
+                ]
+              },
+              {
+                "start": 10.28,
+                "end": 11.84,
+                "text": "You can see straight through walls.",
+                "words": [
+                  {
+                    "start": 10.28,
+                    "end": 10.38,
+                    "text": "You",
+                    "word_index": 28
+                  },
+                  {
+                    "start": 10.38,
+                    "end": 10.5,
+                    "text": "can",
+                    "word_index": 29
+                  },
+                  {
+                    "start": 10.5,
+                    "end": 10.68,
+                    "text": "see",
+                    "word_index": 30
+                  },
+                  {
+                    "start": 10.68,
+                    "end": 11.08,
+                    "text": "straight",
+                    "word_index": 31
+                  },
+                  {
+                    "start": 11.08,
+                    "end": 11.4,
+                    "text": "through",
+                    "word_index": 32
+                  },
+                  {
+                    "start": 11.4,
+                    "end": 11.84,
+                    "text": "walls.",
+                    "word_index": 33
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "scope": "Observed manual text/settings. Intro meaning verified only when cached source dialogue is present."
+      },
+      {
+        "text": "ONLY ONE WORD\nFOR 24 HOURS\nWHICH WILL YOU PICK?",
+        "highlight_phrases": [
+          "24 HOURS"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "Okay. Bad. Let's see. Pookie. I call nobody Pookie.",
+            "words": [
+              {
+                "start": 1.97,
+                "end": 2.61,
+                "text": "Okay.",
+                "word_index": 0
+              },
+              {
+                "start": 5.96,
+                "end": 6.24,
+                "text": "Bad.",
+                "word_index": 1
+              },
+              {
+                "start": 7.52,
+                "end": 7.72,
+                "text": "Let's",
+                "word_index": 2
+              },
+              {
+                "start": 7.72,
+                "end": 7.8,
+                "text": "see.",
+                "word_index": 3
+              },
+              {
+                "start": 8.42,
+                "end": 8.72,
+                "text": "Pookie.",
+                "word_index": 4
+              },
+              {
+                "start": 9.28,
+                "end": 9.5,
+                "text": "I",
+                "word_index": 5
+              },
+              {
+                "start": 10.78,
+                "end": 10.98,
+                "text": "call",
+                "word_index": 6
+              },
+              {
+                "start": 10.98,
+                "end": 11.16,
+                "text": "nobody",
+                "word_index": 7
+              },
+              {
+                "start": 11.16,
+                "end": 11.52,
+                "text": "Pookie.",
+                "word_index": 8
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "Choose the only word you can say for 24 hours. No matter what anybody asks you, that's the only word you're allowed to say. Which one are you choosing? Pookie, that's the only word you can say for 24 hours. Why were you late to work today?",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.22,
+                "text": "Choose",
+                "word_index": 0
+              },
+              {
+                "start": 0.22,
+                "end": 0.38,
+                "text": "the",
+                "word_index": 1
+              },
+              {
+                "start": 0.38,
+                "end": 0.62,
+                "text": "only",
+                "word_index": 2
+              },
+              {
+                "start": 0.62,
+                "end": 0.94,
+                "text": "word",
+                "word_index": 3
+              },
+              {
+                "start": 0.94,
+                "end": 1.1,
+                "text": "you",
+                "word_index": 4
+              },
+              {
+                "start": 1.1,
+                "end": 1.22,
+                "text": "can",
+                "word_index": 5
+              },
+              {
+                "start": 1.22,
+                "end": 1.44,
+                "text": "say",
+                "word_index": 6
+              },
+              {
+                "start": 1.44,
+                "end": 1.6,
+                "text": "for",
+                "word_index": 7
+              },
+              {
+                "start": 1.6,
+                "end": 1.94,
+                "text": "24",
+                "word_index": 8
+              },
+              {
+                "start": 1.94,
+                "end": 2.4,
+                "text": "hours.",
+                "word_index": 9
+              },
+              {
+                "start": 2.64,
+                "end": 2.7,
+                "text": "No",
+                "word_index": 10
+              },
+              {
+                "start": 2.7,
+                "end": 2.88,
+                "text": "matter",
+                "word_index": 11
+              },
+              {
+                "start": 2.88,
+                "end": 3.1,
+                "text": "what",
+                "word_index": 12
+              },
+              {
+                "start": 3.1,
+                "end": 3.44,
+                "text": "anybody",
+                "word_index": 13
+              },
+              {
+                "start": 3.44,
+                "end": 3.96,
+                "text": "asks",
+                "word_index": 14
+              },
+              {
+                "start": 3.96,
+                "end": 4.24,
+                "text": "you,",
+                "word_index": 15
+              },
+              {
+                "start": 4.24,
+                "end": 4.52,
+                "text": "that's",
+                "word_index": 16
+              },
+              {
+                "start": 4.52,
+                "end": 4.64,
+                "text": "the",
+                "word_index": 17
+              },
+              {
+                "start": 4.64,
+                "end": 4.9,
+                "text": "only",
+                "word_index": 18
+              },
+              {
+                "start": 4.9,
+                "end": 5.28,
+                "text": "word",
+                "word_index": 19
+              },
+              {
+                "start": 5.28,
+                "end": 5.280001,
+                "text": "you're",
+                "word_index": 20
+              },
+              {
+                "start": 5.28,
+                "end": 5.66,
+                "text": "allowed",
+                "word_index": 21
+              },
+              {
+                "start": 5.66,
+                "end": 5.84,
+                "text": "to",
+                "word_index": 22
+              },
+              {
+                "start": 5.84,
+                "end": 6.06,
+                "text": "say.",
+                "word_index": 23
+              },
+              {
+                "start": 6.38,
+                "end": 6.58,
+                "text": "Which",
+                "word_index": 24
+              },
+              {
+                "start": 6.58,
+                "end": 6.82,
+                "text": "one",
+                "word_index": 25
+              },
+              {
+                "start": 6.82,
+                "end": 6.96,
+                "text": "are",
+                "word_index": 26
+              },
+              {
+                "start": 6.96,
+                "end": 7.08,
+                "text": "you",
+                "word_index": 27
+              },
+              {
+                "start": 7.08,
+                "end": 7.34,
+                "text": "choosing?",
+                "word_index": 28
+              },
+              {
+                "start": 7.72,
+                "end": 8.12,
+                "text": "Pookie,",
+                "word_index": 29
+              },
+              {
+                "start": 8.58,
+                "end": 8.9,
+                "text": "that's",
+                "word_index": 30
+              },
+              {
+                "start": 8.9,
+                "end": 9.0,
+                "text": "the",
+                "word_index": 31
+              },
+              {
+                "start": 9.0,
+                "end": 9.18,
+                "text": "only",
+                "word_index": 32
+              },
+              {
+                "start": 9.18,
+                "end": 9.48,
+                "text": "word",
+                "word_index": 33
+              },
+              {
+                "start": 9.48,
+                "end": 9.62,
+                "text": "you",
+                "word_index": 34
+              },
+              {
+                "start": 9.62,
+                "end": 9.72,
+                "text": "can",
+                "word_index": 35
+              },
+              {
+                "start": 9.72,
+                "end": 9.9,
+                "text": "say",
+                "word_index": 36
+              },
+              {
+                "start": 9.9,
+                "end": 10.02,
+                "text": "for",
+                "word_index": 37
+              },
+              {
+                "start": 10.02,
+                "end": 10.28,
+                "text": "24",
+                "word_index": 38
+              },
+              {
+                "start": 10.28,
+                "end": 10.74,
+                "text": "hours.",
+                "word_index": 39
+              },
+              {
+                "start": 10.98,
+                "end": 11.16,
+                "text": "Why",
+                "word_index": 40
+              },
+              {
+                "start": 11.16,
+                "end": 11.3,
+                "text": "were",
+                "word_index": 41
+              },
+              {
+                "start": 11.3,
+                "end": 11.42,
+                "text": "you",
+                "word_index": 42
+              },
+              {
+                "start": 11.42,
+                "end": 11.56,
+                "text": "late",
+                "word_index": 43
+              },
+              {
+                "start": 11.56,
+                "end": 11.74,
+                "text": "to",
+                "word_index": 44
+              },
+              {
+                "start": 11.74,
+                "end": 11.86,
+                "text": "work",
+                "word_index": 45
+              },
+              {
+                "start": 11.86,
+                "end": 12.08,
+                "text": "today?",
+                "word_index": 46
+              }
+            ]
+          }
+        ],
+        "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule."
+      },
+      {
+        "text": "CHOOSE YOUR BODY'S\nSECRET FEATURE\nWHAT WILL YOU PICK?",
+        "highlight_phrases": [
+          "SECRET FEATURE"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "Okay, well, let's see what the that's not bad.",
+            "words": [
+              {
+                "start": 1.14,
+                "end": 1.72,
+                "text": "Okay,",
+                "word_index": 0
+              },
+              {
+                "start": 2.24,
+                "end": 2.5,
+                "text": "well,",
+                "word_index": 1
+              },
+              {
+                "start": 5.22,
+                "end": 5.48,
+                "text": "let's",
+                "word_index": 2
+              },
+              {
+                "start": 5.48,
+                "end": 5.72,
+                "text": "see",
+                "word_index": 3
+              },
+              {
+                "start": 5.72,
+                "end": 6.66,
+                "text": "what",
+                "word_index": 4
+              },
+              {
+                "start": 9.31,
+                "end": 9.51,
+                "text": "the",
+                "word_index": 5
+              },
+              {
+                "start": 9.51,
+                "end": 10.59,
+                "text": "that's",
+                "word_index": 6
+              },
+              {
+                "start": 11.74,
+                "end": 11.86,
+                "text": "not",
+                "word_index": 7
+              },
+              {
+                "start": 11.86,
+                "end": 12.04,
+                "text": "bad.",
+                "word_index": 8
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "Choose your body's secret feature. You can have one crazy upgrade built right into your body. Which one are you choosing? The built -in phone charger. You can charge any phone just by touching it.",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.2,
+                "text": "Choose",
+                "word_index": 0
+              },
+              {
+                "start": 0.2,
+                "end": 0.5,
+                "text": "your",
+                "word_index": 1
+              },
+              {
+                "start": 0.5,
+                "end": 0.96,
+                "text": "body's",
+                "word_index": 2
+              },
+              {
+                "start": 0.96,
+                "end": 1.22,
+                "text": "secret",
+                "word_index": 3
+              },
+              {
+                "start": 1.22,
+                "end": 1.5,
+                "text": "feature.",
+                "word_index": 4
+              },
+              {
+                "start": 2.06,
+                "end": 2.16,
+                "text": "You",
+                "word_index": 5
+              },
+              {
+                "start": 2.16,
+                "end": 2.28,
+                "text": "can",
+                "word_index": 6
+              },
+              {
+                "start": 2.28,
+                "end": 2.5,
+                "text": "have",
+                "word_index": 7
+              },
+              {
+                "start": 2.5,
+                "end": 2.9,
+                "text": "one",
+                "word_index": 8
+              },
+              {
+                "start": 2.9,
+                "end": 3.36,
+                "text": "crazy",
+                "word_index": 9
+              },
+              {
+                "start": 3.36,
+                "end": 3.9,
+                "text": "upgrade",
+                "word_index": 10
+              },
+              {
+                "start": 3.9,
+                "end": 4.42,
+                "text": "built",
+                "word_index": 11
+              },
+              {
+                "start": 4.42,
+                "end": 4.86,
+                "text": "right",
+                "word_index": 12
+              },
+              {
+                "start": 4.86,
+                "end": 5.16,
+                "text": "into",
+                "word_index": 13
+              },
+              {
+                "start": 5.16,
+                "end": 5.32,
+                "text": "your",
+                "word_index": 14
+              },
+              {
+                "start": 5.32,
+                "end": 5.56,
+                "text": "body.",
+                "word_index": 15
+              },
+              {
+                "start": 6.04,
+                "end": 6.3,
+                "text": "Which",
+                "word_index": 16
+              },
+              {
+                "start": 6.3,
+                "end": 6.58,
+                "text": "one",
+                "word_index": 17
+              },
+              {
+                "start": 6.58,
+                "end": 6.88,
+                "text": "are",
+                "word_index": 18
+              },
+              {
+                "start": 6.88,
+                "end": 7.04,
+                "text": "you",
+                "word_index": 19
+              },
+              {
+                "start": 7.04,
+                "end": 7.34,
+                "text": "choosing?",
+                "word_index": 20
+              },
+              {
+                "start": 8.02,
+                "end": 8.08,
+                "text": "The",
+                "word_index": 21
+              },
+              {
+                "start": 8.08,
+                "end": 8.3,
+                "text": "built",
+                "word_index": 22
+              },
+              {
+                "start": 8.3,
+                "end": 8.62,
+                "text": "-in",
+                "word_index": 23
+              },
+              {
+                "start": 8.62,
+                "end": 8.8,
+                "text": "phone",
+                "word_index": 24
+              },
+              {
+                "start": 8.8,
+                "end": 9.14,
+                "text": "charger.",
+                "word_index": 25
+              },
+              {
+                "start": 9.44,
+                "end": 9.440001,
+                "text": "You",
+                "word_index": 26
+              },
+              {
+                "start": 9.44,
+                "end": 9.56,
+                "text": "can",
+                "word_index": 27
+              },
+              {
+                "start": 9.56,
+                "end": 9.74,
+                "text": "charge",
+                "word_index": 28
+              },
+              {
+                "start": 9.74,
+                "end": 10.1,
+                "text": "any",
+                "word_index": 29
+              },
+              {
+                "start": 10.1,
+                "end": 10.48,
+                "text": "phone",
+                "word_index": 30
+              },
+              {
+                "start": 10.48,
+                "end": 10.8,
+                "text": "just",
+                "word_index": 31
+              },
+              {
+                "start": 10.8,
+                "end": 11.02,
+                "text": "by",
+                "word_index": 32
+              },
+              {
+                "start": 11.02,
+                "end": 11.36,
+                "text": "touching",
+                "word_index": 33
+              },
+              {
+                "start": 11.36,
+                "end": 11.6,
+                "text": "it.",
+                "word_index": 34
+              }
+            ]
+          }
+        ],
+        "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule."
+      },
+      {
+        "text": "MOM TOOK YOUR GAMES\nPICK ONE GIFT\nWHICH ARE YOU PICKING?",
+        "highlight_phrases": [
+          "ONE GIFT"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "What oh? Okay, let's see Dog what?",
+            "words": [
+              {
+                "start": 0.56,
+                "end": 1.12,
+                "text": "What",
+                "word_index": 0
+              },
+              {
+                "start": 1.12,
+                "end": 2.28,
+                "text": "oh?",
+                "word_index": 1
+              },
+              {
+                "start": 6.03,
+                "end": 6.37,
+                "text": "Okay,",
+                "word_index": 2
+              },
+              {
+                "start": 6.37,
+                "end": 7.47,
+                "text": "let's",
+                "word_index": 3
+              },
+              {
+                "start": 7.47,
+                "end": 7.59,
+                "text": "see",
+                "word_index": 4
+              },
+              {
+                "start": 7.59,
+                "end": 8.81,
+                "text": "Dog",
+                "word_index": 5
+              },
+              {
+                "start": 11.08,
+                "end": 12.32,
+                "text": "what?",
+                "word_index": 6
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "Your mom took all your gaming systems, your PlayStation, Xbox, Nintendo Switch, PC, even your phone, but she replaced everything with one gift. Which gift are you picking? The brand new gaming PC, but the only thing it can run is a calculator.",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.08,
+                "text": "Your",
+                "word_index": 0
+              },
+              {
+                "start": 0.08,
+                "end": 0.22,
+                "text": "mom",
+                "word_index": 1
+              },
+              {
+                "start": 0.22,
+                "end": 0.42,
+                "text": "took",
+                "word_index": 2
+              },
+              {
+                "start": 0.42,
+                "end": 0.7,
+                "text": "all",
+                "word_index": 3
+              },
+              {
+                "start": 0.7,
+                "end": 0.84,
+                "text": "your",
+                "word_index": 4
+              },
+              {
+                "start": 0.84,
+                "end": 1.04,
+                "text": "gaming",
+                "word_index": 5
+              },
+              {
+                "start": 1.04,
+                "end": 1.42,
+                "text": "systems,",
+                "word_index": 6
+              },
+              {
+                "start": 1.6,
+                "end": 1.64,
+                "text": "your",
+                "word_index": 7
+              },
+              {
+                "start": 1.64,
+                "end": 1.86,
+                "text": "PlayStation,",
+                "word_index": 8
+              },
+              {
+                "start": 2.3,
+                "end": 2.48,
+                "text": "Xbox,",
+                "word_index": 9
+              },
+              {
+                "start": 2.76,
+                "end": 2.92,
+                "text": "Nintendo",
+                "word_index": 10
+              },
+              {
+                "start": 2.92,
+                "end": 3.24,
+                "text": "Switch,",
+                "word_index": 11
+              },
+              {
+                "start": 3.48,
+                "end": 3.54,
+                "text": "PC,",
+                "word_index": 12
+              },
+              {
+                "start": 4.12,
+                "end": 4.120001,
+                "text": "even",
+                "word_index": 13
+              },
+              {
+                "start": 4.12,
+                "end": 4.24,
+                "text": "your",
+                "word_index": 14
+              },
+              {
+                "start": 4.24,
+                "end": 4.52,
+                "text": "phone,",
+                "word_index": 15
+              },
+              {
+                "start": 4.92,
+                "end": 5.0,
+                "text": "but",
+                "word_index": 16
+              },
+              {
+                "start": 5.0,
+                "end": 5.1,
+                "text": "she",
+                "word_index": 17
+              },
+              {
+                "start": 5.1,
+                "end": 5.24,
+                "text": "replaced",
+                "word_index": 18
+              },
+              {
+                "start": 5.24,
+                "end": 5.74,
+                "text": "everything",
+                "word_index": 19
+              },
+              {
+                "start": 5.74,
+                "end": 6.06,
+                "text": "with",
+                "word_index": 20
+              },
+              {
+                "start": 6.06,
+                "end": 6.28,
+                "text": "one",
+                "word_index": 21
+              },
+              {
+                "start": 6.28,
+                "end": 6.56,
+                "text": "gift.",
+                "word_index": 22
+              },
+              {
+                "start": 6.8,
+                "end": 7.0,
+                "text": "Which",
+                "word_index": 23
+              },
+              {
+                "start": 7.0,
+                "end": 7.2,
+                "text": "gift",
+                "word_index": 24
+              },
+              {
+                "start": 7.2,
+                "end": 7.36,
+                "text": "are",
+                "word_index": 25
+              },
+              {
+                "start": 7.36,
+                "end": 7.46,
+                "text": "you",
+                "word_index": 26
+              },
+              {
+                "start": 7.46,
+                "end": 7.62,
+                "text": "picking?",
+                "word_index": 27
+              },
+              {
+                "start": 7.94,
+                "end": 8.06,
+                "text": "The",
+                "word_index": 28
+              },
+              {
+                "start": 8.06,
+                "end": 8.26,
+                "text": "brand",
+                "word_index": 29
+              },
+              {
+                "start": 8.26,
+                "end": 8.56,
+                "text": "new",
+                "word_index": 30
+              },
+              {
+                "start": 8.56,
+                "end": 8.86,
+                "text": "gaming",
+                "word_index": 31
+              },
+              {
+                "start": 8.86,
+                "end": 9.22,
+                "text": "PC,",
+                "word_index": 32
+              },
+              {
+                "start": 9.75,
+                "end": 10.0,
+                "text": "but",
+                "word_index": 33
+              },
+              {
+                "start": 10.0,
+                "end": 10.12,
+                "text": "the",
+                "word_index": 34
+              },
+              {
+                "start": 10.12,
+                "end": 10.3,
+                "text": "only",
+                "word_index": 35
+              },
+              {
+                "start": 10.3,
+                "end": 10.58,
+                "text": "thing",
+                "word_index": 36
+              },
+              {
+                "start": 10.58,
+                "end": 10.7,
+                "text": "it",
+                "word_index": 37
+              },
+              {
+                "start": 10.7,
+                "end": 10.82,
+                "text": "can",
+                "word_index": 38
+              },
+              {
+                "start": 10.82,
+                "end": 11.08,
+                "text": "run",
+                "word_index": 39
+              },
+              {
+                "start": 11.08,
+                "end": 11.5,
+                "text": "is",
+                "word_index": 40
+              },
+              {
+                "start": 11.5,
+                "end": 11.6,
+                "text": "a",
+                "word_index": 41
+              },
+              {
+                "start": 11.6,
+                "end": 11.92,
+                "text": "calculator.",
+                "word_index": 42
+              }
+            ]
+          }
+        ],
+        "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule."
+      },
+      {
+        "text": "YOUR BIRTH MONTH IS\nYOUR MIDNIGHT SNACK\nWHAT DID YOU GET?",
+        "highlight_phrases": [
+          "MIDNIGHT SNACK"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "Okay, let's see. Oh, Hacknow.",
+            "words": [
+              {
+                "start": 2.42,
+                "end": 3.06,
+                "text": "Okay,",
+                "word_index": 0
+              },
+              {
+                "start": 6.6,
+                "end": 7.46,
+                "text": "let's",
+                "word_index": 1
+              },
+              {
+                "start": 7.46,
+                "end": 7.62,
+                "text": "see.",
+                "word_index": 2
+              },
+              {
+                "start": 8.06,
+                "end": 8.38,
+                "text": "Oh,",
+                "word_index": 3
+              },
+              {
+                "start": 10.54,
+                "end": 10.82,
+                "text": "Hacknow.",
+                "word_index": 4
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "It's midnight, and your birth month is your midnight snack. Whatever month you were born in, that's what you gotta eat. What snack did you get? January, your midnight snack is a whole jar of pickles. Bro, you're gonna be drinking pickle juice",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.28,
+                "text": "It's",
+                "word_index": 0
+              },
+              {
+                "start": 0.28,
+                "end": 0.44,
+                "text": "midnight,",
+                "word_index": 1
+              },
+              {
+                "start": 0.66,
+                "end": 1.04,
+                "text": "and",
+                "word_index": 2
+              },
+              {
+                "start": 1.04,
+                "end": 1.2,
+                "text": "your",
+                "word_index": 3
+              },
+              {
+                "start": 1.2,
+                "end": 1.44,
+                "text": "birth",
+                "word_index": 4
+              },
+              {
+                "start": 1.44,
+                "end": 1.74,
+                "text": "month",
+                "word_index": 5
+              },
+              {
+                "start": 1.74,
+                "end": 2.04,
+                "text": "is",
+                "word_index": 6
+              },
+              {
+                "start": 2.04,
+                "end": 2.18,
+                "text": "your",
+                "word_index": 7
+              },
+              {
+                "start": 2.18,
+                "end": 2.46,
+                "text": "midnight",
+                "word_index": 8
+              },
+              {
+                "start": 2.46,
+                "end": 2.96,
+                "text": "snack.",
+                "word_index": 9
+              },
+              {
+                "start": 3.44,
+                "end": 3.62,
+                "text": "Whatever",
+                "word_index": 10
+              },
+              {
+                "start": 3.62,
+                "end": 4.04,
+                "text": "month",
+                "word_index": 11
+              },
+              {
+                "start": 4.04,
+                "end": 4.2,
+                "text": "you",
+                "word_index": 12
+              },
+              {
+                "start": 4.2,
+                "end": 4.3,
+                "text": "were",
+                "word_index": 13
+              },
+              {
+                "start": 4.3,
+                "end": 4.5,
+                "text": "born",
+                "word_index": 14
+              },
+              {
+                "start": 4.5,
+                "end": 4.76,
+                "text": "in,",
+                "word_index": 15
+              },
+              {
+                "start": 5.0,
+                "end": 5.4,
+                "text": "that's",
+                "word_index": 16
+              },
+              {
+                "start": 5.4,
+                "end": 5.5,
+                "text": "what",
+                "word_index": 17
+              },
+              {
+                "start": 5.5,
+                "end": 5.62,
+                "text": "you",
+                "word_index": 18
+              },
+              {
+                "start": 5.62,
+                "end": 5.74,
+                "text": "gotta",
+                "word_index": 19
+              },
+              {
+                "start": 5.74,
+                "end": 6.04,
+                "text": "eat.",
+                "word_index": 20
+              },
+              {
+                "start": 6.42,
+                "end": 6.58,
+                "text": "What",
+                "word_index": 21
+              },
+              {
+                "start": 6.58,
+                "end": 6.78,
+                "text": "snack",
+                "word_index": 22
+              },
+              {
+                "start": 6.78,
+                "end": 7.0,
+                "text": "did",
+                "word_index": 23
+              },
+              {
+                "start": 7.0,
+                "end": 7.12,
+                "text": "you",
+                "word_index": 24
+              },
+              {
+                "start": 7.12,
+                "end": 7.28,
+                "text": "get?",
+                "word_index": 25
+              },
+              {
+                "start": 7.8,
+                "end": 8.2,
+                "text": "January,",
+                "word_index": 26
+              },
+              {
+                "start": 8.52,
+                "end": 8.6,
+                "text": "your",
+                "word_index": 27
+              },
+              {
+                "start": 8.6,
+                "end": 8.8,
+                "text": "midnight",
+                "word_index": 28
+              },
+              {
+                "start": 8.8,
+                "end": 9.2,
+                "text": "snack",
+                "word_index": 29
+              },
+              {
+                "start": 9.2,
+                "end": 9.42,
+                "text": "is",
+                "word_index": 30
+              },
+              {
+                "start": 9.42,
+                "end": 9.5,
+                "text": "a",
+                "word_index": 31
+              },
+              {
+                "start": 9.5,
+                "end": 9.68,
+                "text": "whole",
+                "word_index": 32
+              },
+              {
+                "start": 9.68,
+                "end": 9.92,
+                "text": "jar",
+                "word_index": 33
+              },
+              {
+                "start": 9.92,
+                "end": 10.1,
+                "text": "of",
+                "word_index": 34
+              },
+              {
+                "start": 10.1,
+                "end": 10.5,
+                "text": "pickles.",
+                "word_index": 35
+              },
+              {
+                "start": 10.74,
+                "end": 10.78,
+                "text": "Bro,",
+                "word_index": 36
+              },
+              {
+                "start": 10.92,
+                "end": 11.0,
+                "text": "you're",
+                "word_index": 37
+              },
+              {
+                "start": 11.0,
+                "end": 11.12,
+                "text": "gonna",
+                "word_index": 38
+              },
+              {
+                "start": 11.12,
+                "end": 11.24,
+                "text": "be",
+                "word_index": 39
+              },
+              {
+                "start": 11.24,
+                "end": 11.44,
+                "text": "drinking",
+                "word_index": 40
+              },
+              {
+                "start": 11.44,
+                "end": 11.88,
+                "text": "pickle",
+                "word_index": 41
+              },
+              {
+                "start": 11.88,
+                "end": 12.02,
+                "text": "juice",
+                "word_index": 42
+              }
+            ]
+          }
+        ],
+        "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule."
+      },
+      {
+        "text": "YOU BECAME PRESIDENT\nPICK YOUR FIRST LAW\nWHICH WILL YOU PICK?",
+        "highlight_phrases": [
+          "PRESIDENT",
+          "FIRST LAW"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "I did? Yes, sir. Okay, let's see. Easy.",
+            "words": [
+              {
+                "start": 1.46,
+                "end": 1.88,
+                "text": "I",
+                "word_index": 0
+              },
+              {
+                "start": 1.88,
+                "end": 2.06,
+                "text": "did?",
+                "word_index": 1
+              },
+              {
+                "start": 3.74,
+                "end": 4.06,
+                "text": "Yes,",
+                "word_index": 2
+              },
+              {
+                "start": 4.28,
+                "end": 4.38,
+                "text": "sir.",
+                "word_index": 3
+              },
+              {
+                "start": 5.83,
+                "end": 6.15,
+                "text": "Okay,",
+                "word_index": 4
+              },
+              {
+                "start": 6.25,
+                "end": 6.39,
+                "text": "let's",
+                "word_index": 5
+              },
+              {
+                "start": 6.39,
+                "end": 6.55,
+                "text": "see.",
+                "word_index": 6
+              },
+              {
+                "start": 11.23,
+                "end": 11.59,
+                "text": "Easy.",
+                "word_index": 7
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "You accidentally became president. Now you get to make your first law. Which one are you choosing? Everyone gets $2 ,000 every month without working.",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.32,
+                "text": "You",
+                "word_index": 0
+              },
+              {
+                "start": 0.32,
+                "end": 0.7,
+                "text": "accidentally",
+                "word_index": 1
+              },
+              {
+                "start": 0.7,
+                "end": 1.26,
+                "text": "became",
+                "word_index": 2
+              },
+              {
+                "start": 1.26,
+                "end": 1.68,
+                "text": "president.",
+                "word_index": 3
+              },
+              {
+                "start": 2.36,
+                "end": 2.42,
+                "text": "Now",
+                "word_index": 4
+              },
+              {
+                "start": 2.42,
+                "end": 2.64,
+                "text": "you",
+                "word_index": 5
+              },
+              {
+                "start": 2.64,
+                "end": 2.76,
+                "text": "get",
+                "word_index": 6
+              },
+              {
+                "start": 2.76,
+                "end": 2.88,
+                "text": "to",
+                "word_index": 7
+              },
+              {
+                "start": 2.88,
+                "end": 3.02,
+                "text": "make",
+                "word_index": 8
+              },
+              {
+                "start": 3.02,
+                "end": 3.22,
+                "text": "your",
+                "word_index": 9
+              },
+              {
+                "start": 3.22,
+                "end": 3.52,
+                "text": "first",
+                "word_index": 10
+              },
+              {
+                "start": 3.52,
+                "end": 3.9,
+                "text": "law.",
+                "word_index": 11
+              },
+              {
+                "start": 4.4,
+                "end": 4.54,
+                "text": "Which",
+                "word_index": 12
+              },
+              {
+                "start": 4.54,
+                "end": 4.9,
+                "text": "one",
+                "word_index": 13
+              },
+              {
+                "start": 4.9,
+                "end": 5.38,
+                "text": "are",
+                "word_index": 14
+              },
+              {
+                "start": 5.38,
+                "end": 5.56,
+                "text": "you",
+                "word_index": 15
+              },
+              {
+                "start": 5.56,
+                "end": 5.98,
+                "text": "choosing?",
+                "word_index": 16
+              },
+              {
+                "start": 7.88,
+                "end": 8.2,
+                "text": "Everyone",
+                "word_index": 17
+              },
+              {
+                "start": 8.2,
+                "end": 8.54,
+                "text": "gets",
+                "word_index": 18
+              },
+              {
+                "start": 8.54,
+                "end": 8.94,
+                "text": "$2",
+                "word_index": 19
+              },
+              {
+                "start": 8.94,
+                "end": 9.34,
+                "text": ",000",
+                "word_index": 20
+              },
+              {
+                "start": 9.34,
+                "end": 10.06,
+                "text": "every",
+                "word_index": 21
+              },
+              {
+                "start": 10.06,
+                "end": 10.42,
+                "text": "month",
+                "word_index": 22
+              },
+              {
+                "start": 10.42,
+                "end": 10.66,
+                "text": "without",
+                "word_index": 23
+              },
+              {
+                "start": 10.66,
+                "end": 11.46,
+                "text": "working.",
+                "word_index": 24
+              }
+            ]
+          }
+        ],
+        "scope": "Saved unchanged generated hook wording/layout/highlights; not a new manual timing correction or an independent creative-quality approval."
+      },
+      {
+        "text": "PICK YOUR SECRET\nHEADQUARTERS\nWHICH WILL YOU PICK?",
+        "highlight_phrases": [
+          "SECRET\nHEADQUARTERS"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "I do. Mmm. Let's see. Oh, yeah for sure. What?",
+            "words": [
+              {
+                "start": 1.26,
+                "end": 1.74,
+                "text": "I",
+                "word_index": 0
+              },
+              {
+                "start": 1.74,
+                "end": 1.9,
+                "text": "do.",
+                "word_index": 1
+              },
+              {
+                "start": 4.46,
+                "end": 4.82,
+                "text": "Mmm.",
+                "word_index": 2
+              },
+              {
+                "start": 6.79,
+                "end": 7.11,
+                "text": "Let's",
+                "word_index": 3
+              },
+              {
+                "start": 7.11,
+                "end": 7.21,
+                "text": "see.",
+                "word_index": 4
+              },
+              {
+                "start": 9.92,
+                "end": 10.28,
+                "text": "Oh,",
+                "word_index": 5
+              },
+              {
+                "start": 10.36,
+                "end": 10.46,
+                "text": "yeah",
+                "word_index": 6
+              },
+              {
+                "start": 10.46,
+                "end": 10.68,
+                "text": "for",
+                "word_index": 7
+              },
+              {
+                "start": 10.68,
+                "end": 10.82,
+                "text": "sure.",
+                "word_index": 8
+              },
+              {
+                "start": 10.96,
+                "end": 11.06,
+                "text": "What?",
+                "word_index": 9
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "You get your own secret headquarters. But you can only choose one. Which secret headquarters are you choosing? Inside a giant mountain. Bro, nobody's finding",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.32,
+                "text": "You",
+                "word_index": 0
+              },
+              {
+                "start": 0.32,
+                "end": 0.48,
+                "text": "get",
+                "word_index": 1
+              },
+              {
+                "start": 0.48,
+                "end": 0.62,
+                "text": "your",
+                "word_index": 2
+              },
+              {
+                "start": 0.62,
+                "end": 0.92,
+                "text": "own",
+                "word_index": 3
+              },
+              {
+                "start": 0.92,
+                "end": 1.34,
+                "text": "secret",
+                "word_index": 4
+              },
+              {
+                "start": 1.34,
+                "end": 1.62,
+                "text": "headquarters.",
+                "word_index": 5
+              },
+              {
+                "start": 2.5,
+                "end": 2.74,
+                "text": "But",
+                "word_index": 6
+              },
+              {
+                "start": 2.74,
+                "end": 3.02,
+                "text": "you",
+                "word_index": 7
+              },
+              {
+                "start": 3.02,
+                "end": 3.14,
+                "text": "can",
+                "word_index": 8
+              },
+              {
+                "start": 3.14,
+                "end": 3.4,
+                "text": "only",
+                "word_index": 9
+              },
+              {
+                "start": 3.4,
+                "end": 3.64,
+                "text": "choose",
+                "word_index": 10
+              },
+              {
+                "start": 3.64,
+                "end": 4.08,
+                "text": "one.",
+                "word_index": 11
+              },
+              {
+                "start": 5.08,
+                "end": 5.3,
+                "text": "Which",
+                "word_index": 12
+              },
+              {
+                "start": 5.3,
+                "end": 5.6,
+                "text": "secret",
+                "word_index": 13
+              },
+              {
+                "start": 5.6,
+                "end": 5.9,
+                "text": "headquarters",
+                "word_index": 14
+              },
+              {
+                "start": 5.9,
+                "end": 6.42,
+                "text": "are",
+                "word_index": 15
+              },
+              {
+                "start": 6.42,
+                "end": 6.64,
+                "text": "you",
+                "word_index": 16
+              },
+              {
+                "start": 6.64,
+                "end": 7.0,
+                "text": "choosing?",
+                "word_index": 17
+              },
+              {
+                "start": 8.26,
+                "end": 8.76,
+                "text": "Inside",
+                "word_index": 18
+              },
+              {
+                "start": 8.76,
+                "end": 9.02,
+                "text": "a",
+                "word_index": 19
+              },
+              {
+                "start": 9.02,
+                "end": 9.32,
+                "text": "giant",
+                "word_index": 20
+              },
+              {
+                "start": 9.32,
+                "end": 9.78,
+                "text": "mountain.",
+                "word_index": 21
+              },
+              {
+                "start": 10.4,
+                "end": 10.76,
+                "text": "Bro,",
+                "word_index": 22
+              },
+              {
+                "start": 11.68,
+                "end": 11.86,
+                "text": "nobody's",
+                "word_index": 23
+              },
+              {
+                "start": 11.86,
+                "end": 12.16,
+                "text": "finding",
+                "word_index": 24
+              }
+            ]
+          }
+        ],
+        "scope": "Saved unchanged generated hook wording/layout/highlights; not a new manual timing correction or an independent creative-quality approval."
+      },
+      {
+        "text": "CAUGHT CHEATING\nIN MONOPOLY\nPICK YOUR PUNISHMENT",
+        "highlight_phrases": [
+          "MONOPOLY",
+          "PUNISHMENT"
+        ],
+        "intro": [
+          {
+            "role": "video_track_1",
+            "intro_text": "Again? Let's see. Did I take the one? A hack",
+            "words": [
+              {
+                "start": 1.2,
+                "end": 1.86,
+                "text": "Again?",
+                "word_index": 0
+              },
+              {
+                "start": 5.06,
+                "end": 5.46,
+                "text": "Let's",
+                "word_index": 1
+              },
+              {
+                "start": 5.46,
+                "end": 5.56,
+                "text": "see.",
+                "word_index": 2
+              },
+              {
+                "start": 7.29,
+                "end": 7.69,
+                "text": "Did",
+                "word_index": 3
+              },
+              {
+                "start": 7.69,
+                "end": 7.77,
+                "text": "I",
+                "word_index": 4
+              },
+              {
+                "start": 7.77,
+                "end": 7.91,
+                "text": "take",
+                "word_index": 5
+              },
+              {
+                "start": 7.91,
+                "end": 8.01,
+                "text": "the",
+                "word_index": 6
+              },
+              {
+                "start": 8.01,
+                "end": 8.09,
+                "text": "one?",
+                "word_index": 7
+              },
+              {
+                "start": 8.45,
+                "end": 8.65,
+                "text": "A",
+                "word_index": 8
+              },
+              {
+                "start": 11.98,
+                "end": 12.2,
+                "text": "hack",
+                "word_index": 9
+              }
+            ]
+          },
+          {
+            "role": "video_track_2",
+            "intro_text": "You got caught cheating in Monopoly. Now you got to choose your punishment. Which one are you choosing? Punishment one, you're spending 24 hours in Monopoly jail.",
+            "words": [
+              {
+                "start": 0.0,
+                "end": 0.22,
+                "text": "You",
+                "word_index": 0
+              },
+              {
+                "start": 0.22,
+                "end": 0.4,
+                "text": "got",
+                "word_index": 1
+              },
+              {
+                "start": 0.4,
+                "end": 0.66,
+                "text": "caught",
+                "word_index": 2
+              },
+              {
+                "start": 0.66,
+                "end": 1.04,
+                "text": "cheating",
+                "word_index": 3
+              },
+              {
+                "start": 1.04,
+                "end": 1.22,
+                "text": "in",
+                "word_index": 4
+              },
+              {
+                "start": 1.22,
+                "end": 1.7,
+                "text": "Monopoly.",
+                "word_index": 5
+              },
+              {
+                "start": 2.28,
+                "end": 2.4,
+                "text": "Now",
+                "word_index": 6
+              },
+              {
+                "start": 2.4,
+                "end": 2.56,
+                "text": "you",
+                "word_index": 7
+              },
+              {
+                "start": 2.56,
+                "end": 2.7,
+                "text": "got",
+                "word_index": 8
+              },
+              {
+                "start": 2.7,
+                "end": 2.82,
+                "text": "to",
+                "word_index": 9
+              },
+              {
+                "start": 2.82,
+                "end": 3.1,
+                "text": "choose",
+                "word_index": 10
+              },
+              {
+                "start": 3.1,
+                "end": 3.26,
+                "text": "your",
+                "word_index": 11
+              },
+              {
+                "start": 3.26,
+                "end": 3.56,
+                "text": "punishment.",
+                "word_index": 12
+              },
+              {
+                "start": 4.16,
+                "end": 4.32,
+                "text": "Which",
+                "word_index": 13
+              },
+              {
+                "start": 4.32,
+                "end": 4.64,
+                "text": "one",
+                "word_index": 14
+              },
+              {
+                "start": 4.64,
+                "end": 4.8,
+                "text": "are",
+                "word_index": 15
+              },
+              {
+                "start": 4.8,
+                "end": 4.94,
+                "text": "you",
+                "word_index": 16
+              },
+              {
+                "start": 4.94,
+                "end": 5.28,
+                "text": "choosing?",
+                "word_index": 17
+              },
+              {
+                "start": 7.96,
+                "end": 8.42,
+                "text": "Punishment",
+                "word_index": 18
+              },
+              {
+                "start": 8.42,
+                "end": 8.84,
+                "text": "one,",
+                "word_index": 19
+              },
+              {
+                "start": 9.26,
+                "end": 9.46,
+                "text": "you're",
+                "word_index": 20
+              },
+              {
+                "start": 9.46,
+                "end": 9.8,
+                "text": "spending",
+                "word_index": 21
+              },
+              {
+                "start": 9.8,
+                "end": 10.18,
+                "text": "24",
+                "word_index": 22
+              },
+              {
+                "start": 10.18,
+                "end": 10.88,
+                "text": "hours",
+                "word_index": 23
+              },
+              {
+                "start": 10.88,
+                "end": 11.08,
+                "text": "in",
+                "word_index": 24
+              },
+              {
+                "start": 11.08,
+                "end": 11.62,
+                "text": "Monopoly",
+                "word_index": 25
+              },
+              {
+                "start": 11.62,
+                "end": 12.0,
+                "text": "jail.",
+                "word_index": 26
+              }
+            ]
+          }
+        ],
+        "scope": "Saved unchanged generated hook wording/layout/highlights; not a new manual timing correction or an independent creative-quality approval."
+      }
+    ]
+  },
+  "analysis_reused": true,
+  "analysis_expires_at": 1792516039.9835374
+}

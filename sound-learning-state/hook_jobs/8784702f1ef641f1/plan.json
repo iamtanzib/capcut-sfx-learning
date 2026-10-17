@@ -1,0 +1,24 @@
+{
+  "job_id": "8784702f1ef641f1",
+  "source_hash": "e9d7a7c5146aa1664b8bc3d40b72ae99e1b4ea2e119235af16a853cfaeeccf3a",
+  "style_version": 1,
+  "hook": {
+    "text": "ONLY ONE WORD\nFOR 24 HOURS\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "24 HOURS"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Choose the only word you can say for 24 hours."
+    },
+    "reason": "Keep the actual only-one-word restriction for 24 hours and ask the viewer to pick that word; replace the dummy title with the user's authorization.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_review": "Native Rubik-Bold preview inspected for all lines, yellow highlights and width; geometry/font preserved."
+  }
+}

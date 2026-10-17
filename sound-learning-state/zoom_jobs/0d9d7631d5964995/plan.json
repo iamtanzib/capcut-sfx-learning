@@ -1,0 +1,151 @@
+{
+  "job_id": "0d9d7631d5964995",
+  "source_hash": "e9ad854a6978442d43ee72a94d89c1c0a19d7e8f4f7b13f4642702c2eb3fd79e",
+  "style_version": 11,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 3.733333,
+      "end": 4.933333,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "Yes sir",
+      "reason": "Hold the complete yes-sir celebration and settling smile.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 3.74,
+        "text": "Yes,",
+        "word_index": 2
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 11.233333,
+      "end": 12.8,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.038,
+      "dialogue": "Easy",
+      "reason": "Hold the confident cash acceptance beyond its single word while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 11.23,
+        "text": "Easy.",
+        "word_index": 7
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 21.433333,
+      "end": 23.9,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "That's not a bad deal, but 2K every month is better",
+      "reason": "One continuous closeup carries the pizza qualification and complete comparison; reset before tuition.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 21.42,
+        "text": "I'm",
+        "word_index": 12
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.933333,
+      "end": 28.066667,
+      "scale": 1.26,
+      "dx": 0,
+      "dy": -0.035,
+      "dialogue": "Finally",
+      "reason": "Cover the relief expression at affordable tuition, then leave the considered social-benefit statement at baseline.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.93,
+        "text": "finally,",
+        "word_index": 24
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 33.133333,
+      "end": 34.666667,
+      "scale": 1.37,
+      "dx": 0,
+      "dy": -0.05,
+      "dialogue": "What?",
+      "reason": "Emphasize the completed free-house surprise and settling reaction.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 33.12,
+        "text": "What?",
+        "word_index": 33
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 36.6,
+      "end": 40.0,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.045,
+      "dialogue": "A free mansion plus, that's kinda tempting",
+      "reason": "Hold the full connected mansion admiration and hand-rubbing temptation, with no rapid reset between phrases.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 36.61,
+        "text": "A",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 44.766667,
+      "end": 47.4,
+      "scale": 1.24,
+      "dx": 0,
+      "dy": -0.03,
+      "dialogue": "That's low key not bad, if you get paid a lot it's not bad",
+      "reason": "Mild framing covers the whole qualified weekend appraisal rather than a late bad syllable.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 44.76,
+        "text": "That's",
+        "word_index": 42
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 52.5,
+      "end": 54.1,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.04,
+      "dialogue": "I'm doing the first option",
+      "reason": "Show the complete final choice without adding another sound to the repeated cash acceptance.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 52.49,
+        "text": "I'm",
+        "word_index": 54
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "framing_reviewed": true,
+    "unresolved": [],
+    "hold_policy": "Cover each complete meaningful reaction and settling expression; baseline reset before the next unrelated reaction. Holds are independent of SFX tails.",
+    "framing_notes": "Inspected baseline/onset/end sheet for every planned zoom. Hair and eyes stay visible, actor expressions and relevant gestures remain within the upper pane, lower footage stays unchanged, and baseline resets retain the complete reaction."
+  }
+}

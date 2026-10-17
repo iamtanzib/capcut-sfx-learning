@@ -1,0 +1,9 @@
+{
+  "name": "capcut-sfx-learning",
+  "version": "0.1.15",
+  "description": "CapCut SFX, zoom and text hooks with seven-day cached analysis and revision learning.",
+  "author": {"name": "Srijon"},
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {"displayName": "CapCut SFX Learning", "shortDescription": "SFX, zoom and text hooks", "developerName": "Srijon", "category": "Productivity", "capabilities": ["Interactive"]}
+}

@@ -1,0 +1,25 @@
+{
+  "job_id": "38e128d0b0914dbc",
+  "source_hash": "81a578393ffb56b0f05593d44e37f389f0da24568737045d841e25e617dfa4ab",
+  "style_version": 1,
+  "hook": {
+    "text": "STRANDED ON A BOAT\nPICK A BOX IN 3 SECONDS\nWHICH ARE YOU PICKING?",
+    "highlight_phrases": [
+      "STRANDED"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You're stranded on a boat. Pick one of these boxes to help you survive. You got three seconds. Which one are you picking?"
+    },
+    "reason": "Preserve the boat-survival setup, box choice, three-second condition and question. Shorten only redundant question wording to fit the unchanged font. User approved replacement.",
+    "action": "replace_existing",
+    "replace_existing": true
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "layout_reviewed": true,
+    "unresolved": [],
+    "authorization": "User explicitly replied: হ্যাঁ, চারটার title বদলে দাও",
+    "review": "Native Rubik-Bold text preview inspected for all lines/colors; wording is grounded in main intro and fits the calibrated width. Original typography, placement and timing preserved."
+  }
+}

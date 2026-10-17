@@ -1,0 +1,18 @@
+{
+  "batch_id": "f0c8a55ea1e64a58",
+  "mode": "full_combo",
+  "analysis_batch_id": "f0c8a55ea1e64a58",
+  "targets": [
+    {
+      "project": "test 1",
+      "timeline": "46654AA4-629A-41ec-BDCA-AF89F8B2C74A"
+    }
+  ],
+  "analysis_jobs": [
+    "209a978635f04b55"
+  ],
+  "hook_batch_id": "3b4d59c4f28a489d",
+  "hook_jobs": [
+    "84c851f74a094664"
+  ]
+}

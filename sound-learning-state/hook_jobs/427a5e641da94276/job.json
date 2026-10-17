@@ -1,0 +1,15 @@
+{
+  "job_id": "427a5e641da94276",
+  "batch_id": "570c5406dd314ede",
+  "project": "test 1",
+  "timeline": "Day 7.3",
+  "timeline_id": "E18A3193-E52C-438a-9DCE-DF7930297A57",
+  "source_hash": "896f2f050d594dc2d897e576466cec909b3d013c1865ae212792c0b6fab8c479",
+  "analysis_job_id": "009035527eb347cf",
+  "style_version": 16,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "VACATION TO A\nFOOD ISLAND\nWHICH WILL YOU PICK?",
+  "duration": 56.0,
+  "applied_at": 1792160502.7818267
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "8ebdff827b214c76",
+  "source_hash": "9f548263519b6b6067261fc0eb73ead8c65591380318b37ba672050050918055",
+  "style_version": 1,
+  "hook": {
+    "text": "CHOOSE YOUR BODY'S\nSECRET FEATURE\nWHAT WILL YOU PICK?",
+    "highlight_phrases": [
+      "SECRET FEATURE"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Choose your body's secret feature."
+    },
+    "reason": "Replace the user-designated dummy title with the actual main intro, condition and choice question, retaining native font/geometry.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_review": "Native Rubik-Bold preview inspected for all lines, yellow highlights and width; geometry/font preserved."
+  }
+}
