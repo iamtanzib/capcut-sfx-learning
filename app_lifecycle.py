@@ -1,0 +1,64 @@
+"""Graceful CapCut closure only; never terminate it or answer save dialogs."""
+import json,os,subprocess,time
+
+CLOSE_SCRIPT=r'''
+$ErrorActionPreference = 'Stop'
+$skipHandles = @()
+$items = @()
+foreach ($appProcess in [System.Diagnostics.Process]::GetProcessesByName('CapCut')) {
+    try {
+        $appProcess.Refresh()
+        if ($appProcess.HasExited) { continue }
+        if ($appProcess.ProcessName -ine 'CapCut') { throw 'Process identity changed' }
+        $windowHandle = $appProcess.MainWindowHandle.ToInt64()
+        if ($windowHandle -eq 0 -or $skipHandles -contains $windowHandle) { continue }
+        $accepted = $appProcess.CloseMainWindow()
+        $items += @{ process_id=$appProcess.Id; window_handle=$windowHandle; close_requested=$accepted }
+    } catch [System.InvalidOperationException] {
+        if (-not $appProcess.HasExited) { throw }
+    } finally { $appProcess.Dispose() }
+}
+ConvertTo-Json -InputObject @($items) -Compress
+'''
+
+def request_close(seen_handles=()):
+    if os.name!='nt':raise ValueError('Auto-close supports Windows only. Quit CapCut manually before applying.')
+    # Only validated integer HWNDs enter the fixed script. A dialog on an already
+    # requested window is never dismissed by repeatedly sending close messages.
+    if any(type(v)!=int or v<0 for v in seen_handles):raise ValueError('Invalid window identity.')
+    script=CLOSE_SCRIPT.replace('$skipHandles = @()','$skipHandles = @('+','.join(str(v) for v in seen_handles)+')')
+    result=subprocess.run(['powershell.exe','-NoProfile','-NonInteractive','-Command',script],
+        capture_output=True,text=True,encoding='utf-8',errors='replace',timeout=12,creationflags=0x08000000)
+    if result.returncode:raise ValueError('Normal CapCut close request failed. Quit CapCut manually; no files were written.')
+    records=json.loads(result.stdout.strip() or '[]')
+    if not isinstance(records,list) or any(not isinstance(r,dict) for r in records):raise ValueError('Could not verify the CapCut close request; no files were written.')
+    return records
+
+def ensure_closed(is_running,auto_close=True,timeout=25):
+    if not isinstance(auto_close,bool):raise ValueError('auto_close must be true or false.')
+    if not 0<timeout<=45:raise ValueError('Close timeout must be within 45 seconds.')
+    if not is_running():return {'closed':True,'auto_close_requested':False,'already_closed':True}
+    if not auto_close:raise ValueError('Quit CapCut before applying, or enable auto_close. No files were written.')
+    began=time.monotonic()
+    try:records=request_close()
+    except (OSError,subprocess.TimeoutExpired,ValueError) as exc:
+        raise ValueError('CapCut could not close normally. Quit CapCut manually; no files were written.') from exc
+    seen={r['window_handle'] for r in records if 'window_handle' in r};last_request=time.monotonic()
+    while time.monotonic()-began<timeout:
+        if not is_running():
+            # A disappearing editor window alone is insufficient; all CapCut.exe
+            # processes must remain absent before frozen-source revalidation.
+            time.sleep(.3)
+            if not is_running():return {'closed':True,'auto_close_requested':True,'already_closed':False,
+                'close_requests':sum(bool(r.get('close_requested')) for r in records),'forced':False}
+        # Closing an editor may expose CapCut's separate home window. Request
+        # normal closure of newly seen main windows, never spam the old one.
+        now=time.monotonic()
+        if now-last_request>=2:
+            try:next_records=request_close(sorted(seen))
+            except (OSError,subprocess.TimeoutExpired,ValueError) as exc:
+                raise ValueError('CapCut still needs manual Quit; no files were written.') from exc
+            records.extend(next_records);seen.update(r['window_handle'] for r in next_records if 'window_handle' in r);last_request=now
+        time.sleep(.25)
+    raise ValueError('CapCut is still running after a normal close request. It may have a save/export dialog or be in the tray. '
+        'Finish/cancel that operation and use Menu > Quit CapCut, then retry. No processes were forced and no files were written.')

@@ -1,0 +1,6 @@
+interface:
+  display_name: "CapCut SFX Learning"
+  short_description: "Personal SFX and revision learning"
+  default_prompt: "Use $capcut-sfx-learning to design my CapCut timelines with my learned SFX style and learn from my revisions."
+policy:
+  allow_implicit_invocation: true

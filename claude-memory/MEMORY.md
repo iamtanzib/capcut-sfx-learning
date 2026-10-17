@@ -1,0 +1,4 @@
+- [CapCut token slimming](capcut-token-slimming.md) — 2026-10-14 compact reader + slim transport, backups for rollback
+- [CapCut batch pitfalls](capcut-batch-pitfalls.md) — close CapCut before prepare; zoom float-equality bug fixed 2026-10-15
+- [CapCut speed patch](capcut-speed-patch.md) — 2026-10-14 live bundle path (outputs/v0.1.15), set_mix, all-errors staging, backups
+- [CapCut SFX density](capcut-sfx-density.md) — 2026-10-15 planner too sparse (13.7 vs 11.4 SFX/min); density calibration + slim brief

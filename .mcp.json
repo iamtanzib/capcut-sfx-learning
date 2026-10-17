@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "capcut-sfx-learning": {
+      "type": "stdio",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${CLAUDE_PLUGIN_ROOT}/launch.ps1"
+      ]
+    }
+  }
+}
