@@ -24,3 +24,7 @@ Not included: source videos, sound-effect MP3 library, model weights, CapCut pro
 - `setup.py` and `launch.ps1` are Windows-oriented. Mac support has not been tested.
 - Apply/write steps use Windows CapCut draft paths and a Windows .NET window-close helper. CapCut on macOS is not supported by these writers yet. Analysis and planning may work; applying edits to CapCut on Mac does not.
 - Paths inside memory/skill notes reference Windows paths (`C:\Users\srijon\...`); edit them for your machine.
+
+## SFX library
+
+`sfx-library/` holds the local Sound Effect Sidebar Library (72 files, ~51 MB). Copy it to your Mac, e.g. `~/Documents/Sound Effect Sidebar Library`, then point setup at it (`--library`). Some files are music or video clips rather than pure SFX; check names before reuse.
