@@ -11,6 +11,20 @@ Contents:
 
 Not included: source videos, sound-effect MP3 library, model weights, CapCut project files, credentials. Set those up locally.
 
+## Backup and restore (Mac, updated 2026-10-23)
+
+This private repo is the full backup. `sound-learning-state/` is a copy of `~/SoundPilotLearning`, holding the learned style, revision history, batches and frozen jobs. Model weights, locks and re-creatable media (wav/mp4/npy) are left out. On the Mac, batches, apply and revision learning have run since 2026-10-20 (see `MAC_SETUP.md` and `claude-memory/`).
+
+Restore after a clone:
+
+```bash
+cp -R sound-learning-state/. ~/SoundPilotLearning/
+cp -R claude-skill/. ~/.claude/skills/capcut-sfx-learning/
+mkdir -p ~/.claude/projects/-Volumes-128-gb-Capcutauto/memory && cp claude-memory/*.md ~/.claude/projects/-Volumes-128-gb-Capcutauto/memory/
+```
+
+Then download `base.en` again (setup does this) and restart the MCP server. To refresh the backup, rsync `~/SoundPilotLearning` into `sound-learning-state/` with the same excludes, then commit and push.
+
 ## Install on macOS (Claude Code)
 
 1. Install Python 3.12 and FFmpeg (`brew install python@3.12 ffmpeg`).
