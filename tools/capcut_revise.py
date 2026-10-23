@@ -4,8 +4,8 @@ Usage: python capcut_revise.py [batch_id] [--rule "text" --evidence "user said .
 Without batch_id the newest edit batch is used. A --rule is stored as explicit_user on every job.
 """
 import argparse, glob, json, os, sys
-BUNDLE=r'C:\Users\srijon\Documents\ChatGPT\Kevin Video\outputs\CapCut-SFX-Learning-Claude-Code-FULL-2026-10-13-v0.1.15\plugins\capcut-sfx-learning'
-STATE=os.path.join(os.environ.get('LOCALAPPDATA',''),'SoundPilotLearning')
+BUNDLE=os.environ.get('SOUNDPILOT_BUNDLE') or (os.path.dirname(os.path.dirname(os.path.abspath(__file__))) if os.name!='nt' else r'C:\Users\srijon\Documents\ChatGPT\Kevin Video\outputs\CapCut-SFX-Learning-Claude-Code-FULL-2026-10-13-v0.1.15\plugins\capcut-sfx-learning')
+STATE=os.environ.get('SOUNDPILOT_STATE') or os.path.join(os.environ.get('LOCALAPPDATA',os.path.expanduser('~')),'SoundPilotLearning')
 sys.path.insert(0,BUNDLE)
 import service as a
 

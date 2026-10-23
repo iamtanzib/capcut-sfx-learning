@@ -1,0 +1,383 @@
+{
+  "name": "Ranking Funniest Ice Cream Moments 😂.mp4",
+  "path": "/Volumes/128 gb/Kevin/Example/Ranking Funniest Ice Cream Moments 😂.mp4",
+  "size": 20043484,
+  "duration": 44.7,
+  "segments": [
+    [
+      "R",
+      0.0,
+      4.0
+    ],
+    [
+      "K",
+      4.0,
+      6.5
+    ],
+    [
+      "B",
+      6.5,
+      8.6
+    ],
+    [
+      "R",
+      8.6,
+      11.9
+    ],
+    [
+      "K",
+      11.9,
+      13.4
+    ],
+    [
+      "B",
+      13.4,
+      14.6
+    ],
+    [
+      "R",
+      14.6,
+      17.8
+    ],
+    [
+      "K",
+      17.8,
+      18.8
+    ],
+    [
+      "B",
+      18.8,
+      20.1
+    ],
+    [
+      "K",
+      20.1,
+      21.2
+    ],
+    [
+      "R",
+      21.2,
+      25.9
+    ],
+    [
+      "K",
+      25.9,
+      30.6
+    ],
+    [
+      "B",
+      30.6,
+      32.0
+    ],
+    [
+      "R",
+      32.0,
+      35.0
+    ],
+    [
+      "K",
+      35.0,
+      38.4
+    ],
+    [
+      "R",
+      38.4,
+      41.0
+    ],
+    [
+      "K",
+      41.0,
+      44.7
+    ]
+  ],
+  "items": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "duration": 4.0
+    },
+    {
+      "start": 8.6,
+      "end": 11.9,
+      "duration": 3.3
+    },
+    {
+      "start": 14.6,
+      "end": 17.8,
+      "duration": 3.2
+    },
+    {
+      "start": 21.2,
+      "end": 25.9,
+      "duration": 4.7
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "duration": 3.0
+    },
+    {
+      "start": 38.4,
+      "end": 41.0,
+      "duration": 2.6
+    }
+  ],
+  "reactions": [
+    {
+      "item": 0,
+      "start": 4.0,
+      "end": 8.6,
+      "duration": 4.6,
+      "words": "better not eat that again",
+      "first_word_offset": 0.26,
+      "bw": {
+        "start": 6.5,
+        "end": 8.6,
+        "duration": 2.1,
+        "face_before": 2.5,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.84,
+        "source_end_offset_from_item_end": 0.0,
+        "words": ""
+      },
+      "sfx": [
+        {
+          "sound": "error_CDOxCYm.mp3",
+          "family": "error_CDOxCYm.mp3",
+          "start": 5.502,
+          "score": 0.905,
+          "gain": 0.9805,
+          "offset": 1.5,
+          "bw_offset": -1.0,
+          "near_word": "again"
+        },
+        {
+          "sound": "fahhhh.mp3",
+          "family": "fah",
+          "start": 6.968,
+          "score": 0.872,
+          "gain": 0.9456,
+          "offset": 2.97,
+          "bw_offset": 0.47,
+          "near_word": "again"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "start": 11.9,
+      "end": 14.6,
+      "duration": 2.7,
+      "words": "Spongebob away from the drugs. Oh my",
+      "first_word_offset": -0.17,
+      "bw": {
+        "start": 13.4,
+        "end": 14.6,
+        "duration": 1.2,
+        "face_before": 1.5,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.98,
+        "source_end_offset_from_item_end": 0.0,
+        "words": "Oh my"
+      },
+      "sfx": [
+        {
+          "sound": "mac-quack.mp3",
+          "family": "mac-quack.mp3",
+          "start": 13.302,
+          "score": 0.757,
+          "gain": 0.8573,
+          "offset": 1.4,
+          "bw_offset": -0.1,
+          "near_word": "drugs."
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "start": 17.8,
+      "end": 21.2,
+      "duration": 3.4,
+      "words": "exactly like my",
+      "first_word_offset": 0.43,
+      "bw": {
+        "start": 18.8,
+        "end": 20.1,
+        "duration": 1.3,
+        "face_before": 1.0,
+        "position": "middle",
+        "zoom": 1.1,
+        "match_score": 0.98,
+        "source_end_offset_from_item_end": -0.9,
+        "words": "my"
+      },
+      "sfx": [
+        {
+          "sound": "fahhhh.mp3",
+          "family": "fah",
+          "start": 18.968,
+          "score": 0.738,
+          "gain": 0.9796,
+          "offset": 1.17,
+          "bw_offset": 0.17,
+          "near_word": "my"
+        },
+        {
+          "sound": "dry-fart (1).mp3",
+          "family": "dry-fart (1).mp3",
+          "start": 19.536,
+          "score": 0.668,
+          "gain": 1.0015,
+          "offset": 1.74,
+          "bw_offset": 0.74,
+          "near_word": "my"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "start": 25.9,
+      "end": 32.0,
+      "duration": 6.1,
+      "words": "",
+      "first_word_offset": 9.62,
+      "bw": {
+        "start": 30.6,
+        "end": 32.0,
+        "duration": 1.4,
+        "face_before": 4.7,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.97,
+        "source_end_offset_from_item_end": 0.0,
+        "words": ""
+      },
+      "sfx": [
+        {
+          "sound": "rizz-sound-effect (19).mp3",
+          "family": "rizz-sound-effect (19).mp3",
+          "start": 26.07,
+          "score": 0.908,
+          "gain": 0.8185,
+          "offset": 0.17,
+          "bw_offset": -4.53,
+          "near_word": "my"
+        },
+        {
+          "sound": "undertakers-bell_2UwFCIe.mp3",
+          "family": "undertakers-bell_2UwFCIe.mp3",
+          "start": 27.868,
+          "score": 0.795,
+          "gain": 0.9779,
+          "offset": 1.97,
+          "bw_offset": -2.73,
+          "near_word": "I"
+        },
+        {
+          "sound": "fahhhh.mp3",
+          "family": "fah",
+          "start": 29.935,
+          "score": 0.811,
+          "gain": 0.9607,
+          "offset": 4.04,
+          "bw_offset": -0.67,
+          "near_word": "I"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "start": 35.0,
+      "end": 38.4,
+      "duration": 3.4,
+      "words": "I know those people be trolling Activated something in them bro.",
+      "first_word_offset": 0.52,
+      "sfx": [
+        {
+          "sound": "error_CDOxCYm.mp3",
+          "family": "error_CDOxCYm.mp3",
+          "start": 36.502,
+          "score": 0.956,
+          "gain": 0.9631,
+          "offset": 1.5,
+          "bw_offset": null,
+          "near_word": "those"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "start": 41.0,
+      "end": 44.7,
+      "duration": 3.7,
+      "words": "Anybody else's heart just jump onto the chest How was you holding that frog captain?",
+      "first_word_offset": 0.0,
+      "sfx": []
+    }
+  ],
+  "whoosh": [
+    {
+      "start": 8.235,
+      "cut": 8.6,
+      "offset": -0.37
+    },
+    {
+      "start": 14.268,
+      "cut": 14.6,
+      "offset": -0.33
+    },
+    {
+      "start": 20.868,
+      "cut": 21.2,
+      "offset": -0.33
+    },
+    {
+      "start": 31.635,
+      "cut": 32.0,
+      "offset": -0.36
+    },
+    {
+      "start": 38.135,
+      "cut": 38.4,
+      "offset": -0.27
+    }
+  ],
+  "item_sfx": [
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 11.031,
+      "score": 0.905,
+      "gain": 0.4028
+    },
+    {
+      "sound": "dry-fart (1).mp3",
+      "family": "dry-fart (1).mp3",
+      "start": 15.425,
+      "score": 0.876,
+      "gain": 0.8585
+    },
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 22.569,
+      "score": 0.937,
+      "gain": 0.4603
+    },
+    {
+      "sound": "among-us-role-reveal-sound.mp3",
+      "family": "among us",
+      "start": 40.103,
+      "score": 0.815,
+      "gain": 0.9604
+    }
+  ],
+  "levels_db": {
+    "item": -14.6,
+    "kevin": -14.2,
+    "bw": -17.4
+  },
+  "work": "/Users/tanzibsrijon/SoundPilotLearning/ranking_references/003b7819f5adda3b"
+}

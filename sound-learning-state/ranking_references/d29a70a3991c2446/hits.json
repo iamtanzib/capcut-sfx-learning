@@ -1,0 +1,107 @@
+[
+  {
+    "sound": "movie_1.mp3",
+    "family": "movie_1.mp3",
+    "start": 3.657,
+    "score": 0.923,
+    "gain": 0.43
+  },
+  {
+    "sound": "error_CDOxCYm.mp3",
+    "family": "error_CDOxCYm.mp3",
+    "start": 4.869,
+    "score": 0.8,
+    "gain": 0.8545
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 6.869,
+    "score": 0.959,
+    "gain": 2.029
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 8.169,
+    "score": 0.927,
+    "gain": 0.4695
+  },
+  {
+    "sound": "among-us-role-reveal-sound.mp3",
+    "family": "among us",
+    "start": 12.47,
+    "score": 0.88,
+    "gain": 1.3037
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 14.469,
+    "score": 0.945,
+    "gain": 1.8771
+  },
+  {
+    "sound": "fahhhh.mp3",
+    "family": "fah",
+    "start": 19.702,
+    "score": 0.584,
+    "gain": 0.9261
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 21.035,
+    "score": 0.962,
+    "gain": 2.0517
+  },
+  {
+    "sound": "shocked-sound-effect.mp3",
+    "family": "vine boom",
+    "start": 21.157,
+    "score": 0.856,
+    "gain": 0.4947
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 25.468,
+    "score": 0.932,
+    "gain": 0.7235
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 26.435,
+    "score": 0.919,
+    "gain": 1.8299
+  },
+  {
+    "sound": "mac-quack.mp3",
+    "family": "mac-quack.mp3",
+    "start": 31.268,
+    "score": 0.677,
+    "gain": 0.9177
+  },
+  {
+    "sound": "fahhhh.mp3",
+    "family": "fah",
+    "start": 32.368,
+    "score": 0.618,
+    "gain": 0.9646
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 33.735,
+    "score": 0.964,
+    "gain": 2.1194
+  },
+  {
+    "sound": "error_CDOxCYm.mp3",
+    "family": "error_CDOxCYm.mp3",
+    "start": 38.135,
+    "score": 0.697,
+    "gain": 0.8367
+  }
+]

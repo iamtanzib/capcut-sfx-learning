@@ -1,0 +1,754 @@
+{
+  "project": "1022",
+  "timeline": "585D5231-489B-4CE1-84F5-3E4365F30D2A",
+  "model": "base.en",
+  "cache_key": "b62842dbec1599459aaf",
+  "cache_folder": "/Users/tanzibsrijon/SoundPilotLearning/data/context/b62842dbec1599459aaf-fresh-1792754064968940000",
+  "seconds": 5.98,
+  "tracks": [
+    {
+      "role": "video_track_1",
+      "speech": [
+        {
+          "start": 0.0,
+          "end": 0.84,
+          "text": "My god this",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.42,
+              "text": "My"
+            },
+            {
+              "start": 0.42,
+              "end": 0.64,
+              "text": "god"
+            },
+            {
+              "start": 0.64,
+              "end": 0.84,
+              "text": "this"
+            }
+          ]
+        },
+        {
+          "start": 4.93,
+          "end": 8.93,
+          "text": "That's literally a gold mine. I'm going to the beach every day a thousand dollars",
+          "words": [
+            {
+              "start": 4.93,
+              "end": 5.33,
+              "text": "That's"
+            },
+            {
+              "start": 5.33,
+              "end": 5.49,
+              "text": "literally"
+            },
+            {
+              "start": 5.49,
+              "end": 5.73,
+              "text": "a"
+            },
+            {
+              "start": 5.73,
+              "end": 5.99,
+              "text": "gold"
+            },
+            {
+              "start": 5.99,
+              "end": 6.27,
+              "text": "mine."
+            },
+            {
+              "start": 6.27,
+              "end": 6.45,
+              "text": "I'm"
+            },
+            {
+              "start": 6.45,
+              "end": 6.55,
+              "text": "going"
+            },
+            {
+              "start": 6.55,
+              "end": 6.71,
+              "text": "to"
+            },
+            {
+              "start": 6.71,
+              "end": 6.79,
+              "text": "the"
+            },
+            {
+              "start": 6.79,
+              "end": 7.01,
+              "text": "beach"
+            },
+            {
+              "start": 7.01,
+              "end": 7.21,
+              "text": "every"
+            },
+            {
+              "start": 7.21,
+              "end": 7.63,
+              "text": "day"
+            },
+            {
+              "start": 7.63,
+              "end": 8.21,
+              "text": "a"
+            },
+            {
+              "start": 8.21,
+              "end": 8.61,
+              "text": "thousand"
+            },
+            {
+              "start": 8.61,
+              "end": 8.93,
+              "text": "dollars"
+            }
+          ]
+        },
+        {
+          "start": 13.1,
+          "end": 20.17,
+          "text": "Oh damn, what is he crazy? Why did he start shaking a grenade? Well, he wouldn't take everyone out. I got to find him a scoop",
+          "words": [
+            {
+              "start": 13.1,
+              "end": 13.5,
+              "text": "Oh"
+            },
+            {
+              "start": 13.5,
+              "end": 13.74,
+              "text": "damn,"
+            },
+            {
+              "start": 13.9,
+              "end": 14.2,
+              "text": "what"
+            },
+            {
+              "start": 14.97,
+              "end": 15.53,
+              "text": "is"
+            },
+            {
+              "start": 15.53,
+              "end": 15.67,
+              "text": "he"
+            },
+            {
+              "start": 15.67,
+              "end": 15.91,
+              "text": "crazy?"
+            },
+            {
+              "start": 16.19,
+              "end": 16.23,
+              "text": "Why"
+            },
+            {
+              "start": 16.23,
+              "end": 16.31,
+              "text": "did"
+            },
+            {
+              "start": 16.31,
+              "end": 16.43,
+              "text": "he"
+            },
+            {
+              "start": 16.43,
+              "end": 16.59,
+              "text": "start"
+            },
+            {
+              "start": 16.59,
+              "end": 16.97,
+              "text": "shaking"
+            },
+            {
+              "start": 16.97,
+              "end": 17.13,
+              "text": "a"
+            },
+            {
+              "start": 17.13,
+              "end": 17.31,
+              "text": "grenade?"
+            },
+            {
+              "start": 17.81,
+              "end": 17.85,
+              "text": "Well,"
+            },
+            {
+              "start": 17.97,
+              "end": 17.99,
+              "text": "he"
+            },
+            {
+              "start": 17.99,
+              "end": 18.17,
+              "text": "wouldn't"
+            },
+            {
+              "start": 18.17,
+              "end": 18.29,
+              "text": "take"
+            },
+            {
+              "start": 18.29,
+              "end": 18.59,
+              "text": "everyone"
+            },
+            {
+              "start": 18.59,
+              "end": 19.01,
+              "text": "out."
+            },
+            {
+              "start": 19.01,
+              "end": 19.25,
+              "text": "I"
+            },
+            {
+              "start": 19.25,
+              "end": 19.35,
+              "text": "got"
+            },
+            {
+              "start": 19.35,
+              "end": 19.35,
+              "text": "to"
+            },
+            {
+              "start": 19.35,
+              "end": 19.57,
+              "text": "find"
+            },
+            {
+              "start": 19.57,
+              "end": 19.71,
+              "text": "him"
+            },
+            {
+              "start": 19.71,
+              "end": 19.87,
+              "text": "a"
+            },
+            {
+              "start": 19.87,
+              "end": 20.17,
+              "text": "scoop"
+            }
+          ]
+        },
+        {
+          "start": 20.17,
+          "end": 22.71,
+          "text": "Look at that. I got a gold ring",
+          "words": [
+            {
+              "start": 20.17,
+              "end": 20.61,
+              "text": "Look"
+            },
+            {
+              "start": 20.61,
+              "end": 20.81,
+              "text": "at"
+            },
+            {
+              "start": 20.81,
+              "end": 21.15,
+              "text": "that."
+            },
+            {
+              "start": 21.57,
+              "end": 21.97,
+              "text": "I"
+            },
+            {
+              "start": 21.97,
+              "end": 22.07,
+              "text": "got"
+            },
+            {
+              "start": 22.07,
+              "end": 22.19,
+              "text": "a"
+            },
+            {
+              "start": 22.19,
+              "end": 22.39,
+              "text": "gold"
+            },
+            {
+              "start": 22.39,
+              "end": 22.71,
+              "text": "ring"
+            }
+          ]
+        },
+        {
+          "start": 23.27,
+          "end": 26.53,
+          "text": "Got a diamond ring. Why can't this be my luck, bro?",
+          "words": [
+            {
+              "start": 23.27,
+              "end": 23.67,
+              "text": "Got"
+            },
+            {
+              "start": 23.67,
+              "end": 23.81,
+              "text": "a"
+            },
+            {
+              "start": 23.81,
+              "end": 24.61,
+              "text": "diamond"
+            },
+            {
+              "start": 24.61,
+              "end": 24.97,
+              "text": "ring."
+            },
+            {
+              "start": 25.07,
+              "end": 25.23,
+              "text": "Why"
+            },
+            {
+              "start": 25.23,
+              "end": 25.49,
+              "text": "can't"
+            },
+            {
+              "start": 25.49,
+              "end": 25.55,
+              "text": "this"
+            },
+            {
+              "start": 25.55,
+              "end": 25.75,
+              "text": "be"
+            },
+            {
+              "start": 25.75,
+              "end": 25.93,
+              "text": "my"
+            },
+            {
+              "start": 25.93,
+              "end": 26.23,
+              "text": "luck,"
+            },
+            {
+              "start": 26.37,
+              "end": 26.53,
+              "text": "bro?"
+            }
+          ]
+        },
+        {
+          "start": 26.97,
+          "end": 27.95,
+          "text": "Yeah, why?",
+          "words": [
+            {
+              "start": 26.97,
+              "end": 27.19,
+              "text": "Yeah,"
+            },
+            {
+              "start": 27.51,
+              "end": 27.95,
+              "text": "why?"
+            }
+          ]
+        },
+        {
+          "start": 31.56,
+          "end": 37.62,
+          "text": "First of all, how do you even think to making contraption like that? You got like five maggots on a stick on a broom, bro",
+          "words": [
+            {
+              "start": 31.56,
+              "end": 31.96,
+              "text": "First"
+            },
+            {
+              "start": 31.96,
+              "end": 32.16,
+              "text": "of"
+            },
+            {
+              "start": 32.16,
+              "end": 32.28,
+              "text": "all,"
+            },
+            {
+              "start": 32.44,
+              "end": 32.48,
+              "text": "how"
+            },
+            {
+              "start": 32.48,
+              "end": 32.54,
+              "text": "do"
+            },
+            {
+              "start": 32.54,
+              "end": 32.62,
+              "text": "you"
+            },
+            {
+              "start": 32.62,
+              "end": 32.78,
+              "text": "even"
+            },
+            {
+              "start": 32.78,
+              "end": 33.04,
+              "text": "think"
+            },
+            {
+              "start": 33.04,
+              "end": 33.22,
+              "text": "to"
+            },
+            {
+              "start": 33.22,
+              "end": 33.4,
+              "text": "making"
+            },
+            {
+              "start": 33.4,
+              "end": 34.02,
+              "text": "contraption"
+            },
+            {
+              "start": 34.02,
+              "end": 34.22,
+              "text": "like"
+            },
+            {
+              "start": 34.22,
+              "end": 34.44,
+              "text": "that?"
+            },
+            {
+              "start": 34.82,
+              "end": 34.9,
+              "text": "You"
+            },
+            {
+              "start": 34.9,
+              "end": 35.02,
+              "text": "got"
+            },
+            {
+              "start": 35.02,
+              "end": 35.12,
+              "text": "like"
+            },
+            {
+              "start": 35.12,
+              "end": 35.46,
+              "text": "five"
+            },
+            {
+              "start": 35.46,
+              "end": 35.86,
+              "text": "maggots"
+            },
+            {
+              "start": 35.86,
+              "end": 35.98,
+              "text": "on"
+            },
+            {
+              "start": 35.98,
+              "end": 36.1,
+              "text": "a"
+            },
+            {
+              "start": 36.1,
+              "end": 36.3,
+              "text": "stick"
+            },
+            {
+              "start": 36.3,
+              "end": 36.9,
+              "text": "on"
+            },
+            {
+              "start": 36.9,
+              "end": 37.0,
+              "text": "a"
+            },
+            {
+              "start": 37.0,
+              "end": 37.28,
+              "text": "broom,"
+            },
+            {
+              "start": 37.5,
+              "end": 37.62,
+              "text": "bro"
+            }
+          ]
+        },
+        {
+          "start": 44.64,
+          "end": 49.16,
+          "text": "No, bro. That's crazy, bro. You weren't supposed to find that that has something on it too that big",
+          "words": [
+            {
+              "start": 44.64,
+              "end": 44.96,
+              "text": "No,"
+            },
+            {
+              "start": 45.1,
+              "end": 45.26,
+              "text": "bro."
+            },
+            {
+              "start": 45.38,
+              "end": 45.5,
+              "text": "That's"
+            },
+            {
+              "start": 45.5,
+              "end": 45.66,
+              "text": "crazy,"
+            },
+            {
+              "start": 45.8,
+              "end": 46.02,
+              "text": "bro."
+            },
+            {
+              "start": 46.14,
+              "end": 46.16,
+              "text": "You"
+            },
+            {
+              "start": 46.16,
+              "end": 46.38,
+              "text": "weren't"
+            },
+            {
+              "start": 46.38,
+              "end": 46.44,
+              "text": "supposed"
+            },
+            {
+              "start": 46.44,
+              "end": 46.7,
+              "text": "to"
+            },
+            {
+              "start": 46.7,
+              "end": 46.94,
+              "text": "find"
+            },
+            {
+              "start": 46.94,
+              "end": 47.18,
+              "text": "that"
+            },
+            {
+              "start": 47.18,
+              "end": 47.78,
+              "text": "that"
+            },
+            {
+              "start": 47.78,
+              "end": 48.02,
+              "text": "has"
+            },
+            {
+              "start": 48.02,
+              "end": 48.26,
+              "text": "something"
+            },
+            {
+              "start": 48.26,
+              "end": 48.56,
+              "text": "on"
+            },
+            {
+              "start": 48.56,
+              "end": 48.72,
+              "text": "it"
+            },
+            {
+              "start": 48.72,
+              "end": 48.86,
+              "text": "too"
+            },
+            {
+              "start": 48.86,
+              "end": 49.0,
+              "text": "that"
+            },
+            {
+              "start": 49.0,
+              "end": 49.16,
+              "text": "big"
+            }
+          ]
+        },
+        {
+          "start": 49.16,
+          "end": 50.08,
+          "text": "I don't trust that",
+          "words": [
+            {
+              "start": 49.16,
+              "end": 49.38,
+              "text": "I"
+            },
+            {
+              "start": 49.38,
+              "end": 49.62,
+              "text": "don't"
+            },
+            {
+              "start": 49.62,
+              "end": 49.78,
+              "text": "trust"
+            },
+            {
+              "start": 49.78,
+              "end": 50.08,
+              "text": "that"
+            }
+          ]
+        }
+      ],
+      "transcription_seconds": 2.25,
+      "cached": false,
+      "loud_moments": [
+        0.3,
+        1.2,
+        2.1,
+        3.0,
+        4.9,
+        5.9,
+        6.9,
+        13.1,
+        15.6,
+        17.5,
+        18.5,
+        20.6,
+        22.3,
+        23.6,
+        24.4,
+        25.7,
+        26.5,
+        31.9,
+        35.4,
+        37.6,
+        44.8,
+        45.6,
+        47.8
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "speech": [],
+      "transcription_seconds": 0.2,
+      "cached": false,
+      "loud_moments": []
+    }
+  ],
+  "scenes": [
+    {
+      "role": "video_track_1",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 1.0
+        },
+        {
+          "start": 1.0,
+          "end": 4.0
+        },
+        {
+          "start": 4.0,
+          "end": 5.25
+        },
+        {
+          "start": 5.25,
+          "end": 9.0
+        },
+        {
+          "start": 9.0,
+          "end": 14.125
+        },
+        {
+          "start": 14.125,
+          "end": 19.25
+        },
+        {
+          "start": 19.25,
+          "end": 23.875
+        },
+        {
+          "start": 23.875,
+          "end": 26.75
+        },
+        {
+          "start": 26.75,
+          "end": 31.75
+        },
+        {
+          "start": 31.75,
+          "end": 37.875
+        },
+        {
+          "start": 37.875,
+          "end": 44.75
+        },
+        {
+          "start": 44.75,
+          "end": 50.25
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 37.875
+        }
+      ]
+    }
+  ],
+  "keyframes": [
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/b62842dbec1599459aaf-fresh-1792754064968940000/keyframes-keyframes-1.jpg",
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/b62842dbec1599459aaf-fresh-1792754064968940000/keyframes-keyframes-2.jpg"
+  ],
+  "brief": "/Users/tanzibsrijon/SoundPilotLearning/jobs/ab98cd6ceebe4804/enhanced_brief.json",
+  "scene_decode": "keyframes",
+  "brief_characters": 27073,
+  "old_sfx_used_as_input": false,
+  "excluded_style_timelines": [],
+  "quality_note": "Preprocessing validated. This does not establish sound-selection accuracy or a 90% score.",
+  "analysis_created_at": 1792754070.949636,
+  "analysis_reused": false,
+  "transcription_runs": 2
+}

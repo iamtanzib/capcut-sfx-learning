@@ -6,26 +6,20 @@ Use the local helper below. It never summarizes evidence and never writes CapCut
 
 Current Python:
 
-`C:\Users\srijon\Documents\ChatGPT\Kevin Video\.venv\Scripts\python.exe`
+- Windows: `C:\Users\srijon\Documents\ChatGPT\Kevin Video\.venv\Scripts\python.exe`
+- macOS: `~/.local/share/capcut-sfx-learning/.venv/bin/python`
 
 Helper:
 
-`C:\Users\srijon\Documents\ChatGPT\Kevin Video\outputs\claude-code-installed\read_complete_context.py`
+- Windows: `C:\Users\srijon\Documents\ChatGPT\Kevin Video\outputs\claude-code-installed\read_complete_context.py`
+- macOS: `/Volumes/128 gb/Capcutauto/capcut-sfx-learning/tools/read_parts.py <saved result or state json> [--chars 45000]`. It prints `manifest`, `part_count` and `parts`. Read every part in one message (parallel Read calls); each part is 18k tokens or less, and each line 1,500 characters or less. Newlines are inserted only between JSON tokens, so the concatenated parts are the same JSON, and the script asserts that. If `breaks_inside_strings` is not 0, join those lines without a separator. Output goes to `~/SoundPilotLearning/readable/`. Live state on macOS is `~/SoundPilotLearning` (`$SOUNDPILOT_STATE`).
 
-PowerShell example for live hook memory:
+PowerShell example for live hook memory (Windows):
 
 ```powershell
 & 'C:\Users\srijon\Documents\ChatGPT\Kevin Video\.venv\Scripts\python.exe' `
   'C:\Users\srijon\Documents\ChatGPT\Kevin Video\outputs\claude-code-installed\read_complete_context.py' `
   --input 'C:\Users\srijon\AppData\Local\SoundPilotLearning\data\hook_style.json'
-```
-
-Claude Code Bash example for the same file:
-
-```bash
-'C:/Users/srijon/Documents/ChatGPT/Kevin Video/.venv/Scripts/python.exe' \
-  'C:/Users/srijon/Documents/ChatGPT/Kevin Video/outputs/claude-code-installed/read_complete_context.py' \
-  --input 'C:/Users/srijon/AppData/Local/SoundPilotLearning/data/hook_style.json'
 ```
 
 For a saved MCP result, replace only the `--input` path with the complete actual path returned by Claude's MCP tool. Do not guess the session/result filename. For live zoom memory, change the final filename to `zoom_style.json`. The helper has no configurable output path.

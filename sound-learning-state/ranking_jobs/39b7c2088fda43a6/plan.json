@@ -1,0 +1,280 @@
+{
+  "job_id": "39b7c2088fda43a6",
+  "project": "1022",
+  "timeline": "C502E438-4C42-4B55-8EE4-BA82F5B31234",
+  "source_hash": "5dd7b64c1e6d4510c4095b3f74bbbbed39388dd37d349ff544120f5c3cb75805",
+  "style_version": 5,
+  "items": [
+    {
+      "start": 0.0,
+      "end": 3.483,
+      "rank": 6,
+      "label": "LVL 1",
+      "reason": "title hook, paper towel blade crumples on the potato"
+    },
+    {
+      "start": 3.593,
+      "end": 9.17,
+      "rank": 5,
+      "label": "LVL 2",
+      "reason": "newspaper blade leaves a small mark, potato inspection"
+    },
+    {
+      "start": 9.28,
+      "end": 14.63,
+      "rank": 4,
+      "label": "LVL 3",
+      "reason": "styrofoam blade shreds, potato inspection"
+    },
+    {
+      "start": 14.74,
+      "end": 19.477,
+      "rank": 3,
+      "label": "LVL 4",
+      "reason": "A4 paper blade, potato inspection"
+    },
+    {
+      "start": 19.587,
+      "end": 28.11,
+      "rank": 1,
+      "label": "LVL 5-6",
+      "reason": "cardboard blade cuts into the potato, top labels reveal"
+    }
+  ],
+  "reactions": [
+    {
+      "item": 0,
+      "about": "paper towel blade",
+      "pieces": [
+        {
+          "from_word": 2,
+          "to_word": 12,
+          "start": 2.94,
+          "end": 5.37,
+          "text": "what do we think was gonna happen? That's too like flimsy."
+        }
+      ],
+      "tighten": true
+    },
+    {
+      "item": 1,
+      "about": "newspaper blade mark",
+      "pieces": [
+        {
+          "from_word": 15,
+          "to_word": 26,
+          "start": 7.25,
+          "end": 9.7,
+          "text": "it's more paper. At least it left a little mark, I guess."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 18,
+        "until_end": true,
+        "tail_end": 9.13,
+        "reason": "at least it left a little mark points at the potato mark"
+      }
+    },
+    {
+      "item": 2,
+      "about": "styrofoam blade",
+      "pieces": [
+        {
+          "from_word": 27,
+          "to_word": 40,
+          "start": 11.58,
+          "end": 14.65,
+          "text": "This is how you get styrofoam poison and you're cooked if you eat that."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 34,
+        "until_end": true,
+        "tail_end": 14.59,
+        "reason": "you're cooked if you eat that refers to the styrofoam bits"
+      }
+    },
+    {
+      "item": 3,
+      "about": "A4 paper blade",
+      "pieces": [
+        {
+          "from_word": 41,
+          "to_word": 46,
+          "start": 16.07,
+          "end": 17.66,
+          "text": "Why are we still doing paper?"
+        },
+        {
+          "from_word": 47,
+          "to_word": 50,
+          "start": 17.75,
+          "end": 19.06,
+          "text": "It's no different result."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 47,
+        "until_end": true,
+        "tail_end": 19.437,
+        "reason": "no different result points back at the paper cut"
+      }
+    },
+    {
+      "item": 4,
+      "about": "cardboard blade cutting the potato",
+      "pieces": [
+        {
+          "from_word": 52,
+          "to_word": 59,
+          "start": 21.13,
+          "end": 23.66,
+          "text": "now that's satisfying. I can't lie. That's fire."
+        },
+        {
+          "from_word": 60,
+          "to_word": 65,
+          "start": 24.03,
+          "end": 25.8,
+          "text": "Cardboard potatoes. That's a good meal."
+        }
+      ],
+      "tighten": true
+    }
+  ],
+  "segments": [
+    {
+      "role": "ranking",
+      "index": 0,
+      "source_start": 0.0,
+      "frames": 104,
+      "target_frame": 0
+    },
+    {
+      "role": "kevin",
+      "index": 0,
+      "source_start": 2.94,
+      "frames": 73,
+      "target_frame": 104
+    },
+    {
+      "role": "ranking",
+      "index": 1,
+      "source_start": 3.593,
+      "frames": 167,
+      "target_frame": 177
+    },
+    {
+      "role": "kevin",
+      "index": 1,
+      "source_start": 7.25,
+      "frames": 73,
+      "target_frame": 344
+    },
+    {
+      "role": "ranking",
+      "index": 2,
+      "source_start": 9.28,
+      "frames": 160,
+      "target_frame": 417
+    },
+    {
+      "role": "kevin",
+      "index": 2,
+      "source_start": 11.58,
+      "frames": 92,
+      "target_frame": 577
+    },
+    {
+      "role": "ranking",
+      "index": 3,
+      "source_start": 14.74,
+      "frames": 142,
+      "target_frame": 669
+    },
+    {
+      "role": "kevin",
+      "index": 3,
+      "source_start": 16.07,
+      "frames": 48,
+      "target_frame": 811
+    },
+    {
+      "role": "kevin",
+      "index": 3,
+      "source_start": 17.75,
+      "frames": 39,
+      "target_frame": 859
+    },
+    {
+      "role": "ranking",
+      "index": 4,
+      "source_start": 19.587,
+      "frames": 255,
+      "target_frame": 898
+    },
+    {
+      "role": "kevin",
+      "index": 4,
+      "source_start": 21.13,
+      "frames": 76,
+      "target_frame": 1153
+    },
+    {
+      "role": "kevin",
+      "index": 4,
+      "source_start": 24.03,
+      "frames": 53,
+      "target_frame": 1229
+    }
+  ],
+  "overlays": [
+    {
+      "reaction": 1,
+      "target_frame": 370,
+      "frames": 47,
+      "source_start": 7.563,
+      "zoom": 1.1,
+      "reason": "at least it left a little mark points at the potato mark",
+      "under_words": "At least it left a little mark, I guess."
+    },
+    {
+      "reaction": 2,
+      "target_frame": 628,
+      "frames": 41,
+      "source_start": 13.223,
+      "zoom": 1.1,
+      "reason": "you're cooked if you eat that refers to the styrofoam bits",
+      "under_words": "poison and you're cooked if you eat that."
+    },
+    {
+      "reaction": 3,
+      "target_frame": 859,
+      "frames": 39,
+      "source_start": 18.137,
+      "zoom": 1.1,
+      "reason": "no different result points back at the paper cut",
+      "under_words": "no different result."
+    }
+  ],
+  "volumes": {
+    "kevin": 0.63,
+    "ranking": 0.5
+  },
+  "total_frames": 1282,
+  "whoosh_cues": [
+    5.57,
+    13.57,
+    21.97,
+    29.603
+  ],
+  "quality_notes": {
+    "item_boundaries_checked_on_frames": true,
+    "reaction_mapping_reviewed": true,
+    "dropped_speech_reviewed": true,
+    "notes": "Dropped 'I mean,' lead-ins and 'Okay,'. B&W tails end 0.05s before each cut (next item's label flashed in first preview)."
+  }
+}

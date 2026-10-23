@@ -1,0 +1,38 @@
+Preparing video_track_1 (cached results are reused)...
+Decoding video_track_1: IMG_7669.MOV
+Decoding video_track_1: copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov
+Transcribing video_track_1, base.en, CPU int8...
+video_track_1: speech read through 7.7s
+video_track_1: speech read through 16.1s
+video_track_1: speech read through 24.2s
+video_track_1: speech read through 26.7s
+video_track_1: speech read through 30.9s
+video_track_1: speech read through 40.9s
+video_track_1: speech read through 48.7s
+Preparing small frame proxy for video_track_1...
+Detecting scene changes in video_track_1.proxy-keyframes...
+Preparing video_track_2 (cached results are reused)...
+Decoding video_track_2: bw_01_59bd8387c1.mp4
+No usable audio in bw_01_59bd8387c1.mp4: [out#0/f32le @ 0x1326170f0] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Decoding video_track_2: bw_02_85dd9e8606.mp4
+No usable audio in bw_02_85dd9e8606.mp4: [out#0/f32le @ 0x12d004a70] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Decoding video_track_2: bw_03_e8e89eb263.mp4
+No usable audio in bw_03_e8e89eb263.mp4: [out#0/f32le @ 0x135e16b20] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Decoding video_track_2: bw_04_5d515ad7ba.mp4
+No usable audio in bw_04_5d515ad7ba.mp4: [out#0/f32le @ 0x142004930] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Transcribing video_track_2, base.en, CPU int8...
+Preparing small frame proxy for video_track_2...
+Detecting scene changes in video_track_2.proxy-keyframes...
+Context ready: 6.53s; 2 video tracks; 7 speech segments.

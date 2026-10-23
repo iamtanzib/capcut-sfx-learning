@@ -1,0 +1,1267 @@
+{
+  "job_id": "f85f6868b80a4f52",
+  "project": "1022",
+  "timeline": "Day6.3",
+  "timeline_id": "5CB7A401-A950-49FC-8830-2CE86E7B49C8",
+  "kevin": {
+    "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+    "duration": 34.651667,
+    "width": 2160,
+    "height": 3840,
+    "fps": 59.997,
+    "has_audio": true,
+    "size": 237715806,
+    "mtime": 1792591164000000000
+  },
+  "ranking": {
+    "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_269E558A-08B9-421B-B358-90FD94E98D19.mov",
+    "duration": 37.406665,
+    "width": 2160,
+    "height": 3840,
+    "fps": 30.075,
+    "has_audio": true,
+    "size": 140030231,
+    "mtime": 1792590110000000000
+  },
+  "kevin_words": {
+    "$columns": [
+      "i",
+      "start",
+      "end",
+      "text"
+    ],
+    "$rows": [
+      [
+        0,
+        0.64,
+        1.04,
+        "One"
+      ],
+      [
+        1,
+        1.04,
+        1.16,
+        "of"
+      ],
+      [
+        2,
+        1.16,
+        1.26,
+        "the"
+      ],
+      [
+        3,
+        1.26,
+        1.42,
+        "ranking"
+      ],
+      [
+        4,
+        1.42,
+        1.88,
+        "videos"
+      ],
+      [
+        5,
+        1.88,
+        2.26,
+        "the"
+      ],
+      [
+        6,
+        2.26,
+        2.98,
+        "back"
+      ],
+      [
+        7,
+        2.98,
+        3.22,
+        "rooms"
+      ],
+      [
+        8,
+        3.22,
+        3.5,
+        "one"
+      ],
+      [
+        9,
+        3.5,
+        4.62,
+        "if"
+      ],
+      [
+        10,
+        4.62,
+        4.76,
+        "I"
+      ],
+      [
+        11,
+        4.76,
+        5.04,
+        "fall"
+      ],
+      [
+        12,
+        5.04,
+        5.32,
+        "down"
+      ],
+      [
+        13,
+        5.32,
+        5.56,
+        "there."
+      ],
+      [
+        14,
+        5.58,
+        5.86,
+        "I'm"
+      ],
+      [
+        15,
+        5.86,
+        6.06,
+        "never"
+      ],
+      [
+        16,
+        6.06,
+        6.4,
+        "coming"
+      ],
+      [
+        17,
+        6.4,
+        6.72,
+        "back."
+      ],
+      [
+        18,
+        7.95,
+        8.35,
+        "I"
+      ],
+      [
+        19,
+        8.35,
+        8.55,
+        "don't"
+      ],
+      [
+        20,
+        8.55,
+        8.69,
+        "care"
+      ],
+      [
+        21,
+        8.69,
+        8.89,
+        "if"
+      ],
+      [
+        22,
+        8.89,
+        9.07,
+        "it's"
+      ],
+      [
+        23,
+        9.07,
+        9.17,
+        "a"
+      ],
+      [
+        24,
+        9.17,
+        9.83,
+        "But"
+      ],
+      [
+        25,
+        9.83,
+        11.03,
+        "I"
+      ],
+      [
+        26,
+        11.03,
+        11.19,
+        "don't"
+      ],
+      [
+        27,
+        11.19,
+        11.35,
+        "care"
+      ],
+      [
+        28,
+        11.35,
+        11.53,
+        "if"
+      ],
+      [
+        29,
+        11.53,
+        11.65,
+        "it's"
+      ],
+      [
+        30,
+        11.65,
+        11.69,
+        "a"
+      ],
+      [
+        31,
+        11.69,
+        11.91,
+        "back"
+      ],
+      [
+        32,
+        11.91,
+        12.19,
+        "room."
+      ],
+      [
+        33,
+        12.33,
+        12.41,
+        "Well,"
+      ],
+      [
+        34,
+        12.55,
+        12.61,
+        "that's"
+      ],
+      [
+        35,
+        12.61,
+        12.69,
+        "a"
+      ],
+      [
+        36,
+        12.69,
+        12.87,
+        "free"
+      ],
+      [
+        37,
+        12.87,
+        13.19,
+        "house"
+      ],
+      [
+        38,
+        13.19,
+        13.43,
+        "and"
+      ],
+      [
+        39,
+        13.43,
+        13.53,
+        "this"
+      ],
+      [
+        40,
+        13.53,
+        13.85,
+        "economy."
+      ],
+      [
+        41,
+        14.17,
+        14.19,
+        "I'm"
+      ],
+      [
+        42,
+        14.19,
+        14.47,
+        "taking"
+      ],
+      [
+        43,
+        14.47,
+        14.75,
+        "it."
+      ],
+      [
+        44,
+        15.53,
+        15.93,
+        "What's"
+      ],
+      [
+        45,
+        16.16,
+        16.54,
+        "Back"
+      ],
+      [
+        46,
+        16.54,
+        16.68,
+        "on"
+      ],
+      [
+        47,
+        16.68,
+        16.86,
+        "why"
+      ],
+      [
+        48,
+        16.86,
+        17.04,
+        "if"
+      ],
+      [
+        49,
+        17.04,
+        17.2,
+        "I'm"
+      ],
+      [
+        50,
+        17.2,
+        17.36,
+        "him?"
+      ],
+      [
+        51,
+        17.78,
+        17.82,
+        "I'm"
+      ],
+      [
+        52,
+        17.82,
+        17.98,
+        "throwing"
+      ],
+      [
+        53,
+        17.98,
+        18.16,
+        "a"
+      ],
+      [
+        54,
+        18.16,
+        18.36,
+        "sticker"
+      ],
+      [
+        55,
+        18.36,
+        18.68,
+        "down"
+      ],
+      [
+        56,
+        18.68,
+        18.82,
+        "to"
+      ],
+      [
+        57,
+        18.82,
+        18.94,
+        "my"
+      ],
+      [
+        58,
+        18.94,
+        19.12,
+        "in"
+      ],
+      [
+        59,
+        19.12,
+        19.32,
+        "there"
+      ],
+      [
+        60,
+        19.32,
+        19.46,
+        "and"
+      ],
+      [
+        61,
+        19.46,
+        19.72,
+        "moving"
+      ],
+      [
+        62,
+        19.72,
+        19.96,
+        "out"
+      ],
+      [
+        63,
+        19.96,
+        20.3,
+        "immediately"
+      ],
+      [
+        64,
+        20.3,
+        20.96,
+        "heck"
+      ],
+      [
+        65,
+        20.96,
+        21.44,
+        "nah"
+      ],
+      [
+        66,
+        22.68,
+        23.08,
+        "This"
+      ],
+      [
+        67,
+        23.08,
+        23.28,
+        "looks"
+      ],
+      [
+        68,
+        23.28,
+        23.54,
+        "exactly"
+      ],
+      [
+        69,
+        23.54,
+        24.1,
+        "like"
+      ],
+      [
+        70,
+        24.1,
+        24.24,
+        "my"
+      ],
+      [
+        71,
+        24.24,
+        24.56,
+        "nightmares"
+      ],
+      [
+        72,
+        24.56,
+        24.82,
+        "as"
+      ],
+      [
+        73,
+        24.82,
+        24.98,
+        "a"
+      ],
+      [
+        74,
+        24.98,
+        25.18,
+        "kid."
+      ],
+      [
+        75,
+        25.4,
+        25.5,
+        "There's"
+      ],
+      [
+        76,
+        25.5,
+        25.84,
+        "definitely"
+      ],
+      [
+        77,
+        25.84,
+        26.04,
+        "a"
+      ],
+      [
+        78,
+        26.04,
+        26.44,
+        "monster"
+      ],
+      [
+        79,
+        26.44,
+        27.32,
+        "I"
+      ],
+      [
+        80,
+        28.53,
+        28.67,
+        "have"
+      ],
+      [
+        81,
+        28.67,
+        28.75,
+        "the"
+      ],
+      [
+        82,
+        28.75,
+        29.07,
+        "survival"
+      ],
+      [
+        83,
+        29.07,
+        29.51,
+        "instincts"
+      ],
+      [
+        84,
+        29.51,
+        29.79,
+        "of"
+      ],
+      [
+        85,
+        29.79,
+        29.89,
+        "a"
+      ],
+      [
+        86,
+        29.89,
+        30.13,
+        "5"
+      ],
+      [
+        87,
+        30.13,
+        30.43,
+        "year"
+      ],
+      [
+        88,
+        30.43,
+        30.59,
+        "old"
+      ],
+      [
+        89,
+        30.59,
+        30.75,
+        "bro,"
+      ],
+      [
+        90,
+        30.91,
+        30.93,
+        "what"
+      ],
+      [
+        91,
+        30.93,
+        31.05,
+        "are"
+      ],
+      [
+        92,
+        31.05,
+        31.15,
+        "you"
+      ],
+      [
+        93,
+        31.15,
+        31.57,
+        "doing?"
+      ],
+      [
+        94,
+        32.21,
+        32.35,
+        "I'm"
+      ],
+      [
+        95,
+        32.35,
+        32.69,
+        "outta"
+      ],
+      [
+        96,
+        32.69,
+        32.99,
+        "there!"
+      ]
+    ]
+  },
+  "kevin_phrases": [
+    {
+      "from_word": 0,
+      "to_word": 17,
+      "start": 0.64,
+      "end": 6.72,
+      "gap_before": 0.64,
+      "text": "One of the ranking videos the back rooms one if I fall down there. I'm never coming back."
+    },
+    {
+      "from_word": 18,
+      "to_word": 43,
+      "start": 7.95,
+      "end": 14.75,
+      "gap_before": 1.23,
+      "text": "I don't care if it's a But I don't care if it's a back room. Well, that's a free house and this economy. I'm taking it."
+    },
+    {
+      "from_word": 44,
+      "to_word": 65,
+      "start": 15.53,
+      "end": 21.44,
+      "gap_before": 0.78,
+      "text": "What's Back on why if I'm him? I'm throwing a sticker down to my in there and moving out immediately heck nah"
+    },
+    {
+      "from_word": 66,
+      "to_word": 79,
+      "start": 22.68,
+      "end": 27.32,
+      "gap_before": 1.24,
+      "text": "This looks exactly like my nightmares as a kid. There's definitely a monster I"
+    },
+    {
+      "from_word": 80,
+      "to_word": 93,
+      "start": 28.53,
+      "end": 31.57,
+      "gap_before": 1.21,
+      "text": "have the survival instincts of a 5 year old bro, what are you doing?"
+    },
+    {
+      "from_word": 94,
+      "to_word": 96,
+      "start": 32.21,
+      "end": 32.99,
+      "gap_before": 0.64,
+      "text": "I'm outta there!"
+    }
+  ],
+  "ranking_analysis": {
+    "scene_cuts": [
+      5.387,
+      10.993,
+      17.9,
+      24.273,
+      27.507
+    ],
+    "label_onsets": [
+      {
+        "at": 5.4,
+        "pixels": 259
+      },
+      {
+        "at": 11.2,
+        "pixels": 64
+      },
+      {
+        "at": 18.2,
+        "pixels": 54
+      },
+      {
+        "at": 24.2,
+        "pixels": 48
+      },
+      {
+        "at": 37.0,
+        "pixels": 126
+      }
+    ],
+    "builtin_sfx": [],
+    "contact_sheets": [
+      "/Users/tanzibsrijon/SoundPilotLearning/ranking_jobs/f85f6868b80a4f52/ranking_sheet_1.jpg",
+      "/Users/tanzibsrijon/SoundPilotLearning/ranking_jobs/f85f6868b80a4f52/ranking_sheet_2.jpg"
+    ],
+    "sheet_fps": 2
+  },
+  "proposal": {
+    "note": "Automatic draft only. Verify every item boundary on frames and every reaction mapping by content.",
+    "items": [
+      {
+        "start": 0.0,
+        "end": 5.387
+      },
+      {
+        "start": 5.387,
+        "end": 10.993
+      },
+      {
+        "start": 10.993,
+        "end": 17.9
+      },
+      {
+        "start": 17.9,
+        "end": 24.273
+      },
+      {
+        "start": 24.273,
+        "end": 37.0
+      },
+      {
+        "start": 37.0,
+        "end": 37.407
+      }
+    ],
+    "reactions": [
+      {
+        "from_word": 18,
+        "to_word": 43,
+        "text": "I don't care if it's a But I don't care if it's a back room. Well, that's a free house and this economy. I'm taking it."
+      },
+      {
+        "from_word": 44,
+        "to_word": 65,
+        "text": "What's Back on why if I'm him? I'm throwing a sticker down to my in there and moving out immediately heck nah"
+      },
+      {
+        "from_word": 66,
+        "to_word": 79,
+        "text": "This looks exactly like my nightmares as a kid. There's definitely a monster I"
+      },
+      {
+        "from_word": 80,
+        "to_word": 93,
+        "text": "have the survival instincts of a 5 year old bro, what are you doing?"
+      },
+      {
+        "from_word": 94,
+        "to_word": 96,
+        "text": "I'm outta there!"
+      }
+    ]
+  },
+  "style": {
+    "version": 1,
+    "rules": [
+      "Open directly on ranked item #1 of the source (its baked title and rank list are the hook). Never use Kevin's slate (\"one of the ranking videos...\", \"best sea lion moments\").",
+      "Strictly alternate: ranked item -> Kevin's reaction to that item -> next item. Every reference ends on Kevin's reaction to the final item.",
+      "Items play in source order, each from its first frame through its payoff and rank-label/price reveal; trim only dead frames. Never cut the payoff or the source's own punch SFX.",
+      "Kevin records the reactions in item order in one take. Map each reaction to the item it talks about by content, not by counting pauses.",
+      "Reactions are tight jump cuts: start on the first word, end right after the last word, no dead air. Drop slates, retakes, stumbles and repeated lines.",
+      "B&W replay: when a reaction runs long and Kevin points back at the clip (\"that\", \"them\", \"in there\", \"like that\", naming the object/event), cover the later part of the reaction with the LAST part of that same item replayed in black and white at 1x, zoomed about 1.1x, muted; Kevin's voice continues underneath.",
+      "Show Kevin's face first (at least about 1s, median 1.6s) before the B&W. The B&W lasts about 0.9-2.1s (median 1.4s) and usually runs to the cut into the next item; sometimes the face returns for a short final exclamation (\"Oh my god\").",
+      "Each reference used B&W on 4 of 6 reactions. Opinion/hypothetical reactions and usually the final reaction stay on Kevin's face. The count is calibration, not a quota.",
+      "SFX go on Kevin only: 1-3 per reaction, first usually 0.7-1.5s in on the punch word. Error is the most common (disbelief), FAH often lands right at the B&W start, plus vine boom, among us, mac-quack, ceeday-huh, undertaker bell, rizz, movie_1.",
+      "Ranked items already carry the source creator's SFX (vine boom, ding, correct, roblox death). Never add SFX over item clips.",
+      "Transition whoosh: core-sound-effect.mp3 starts about 0.33s before every reaction -> next-item cut (20/20 in references); none at item -> reaction cuts.",
+      "The user adds CapCut transitions, music and captions. Keep all cuts on the main track so default transitions can be placed between them.",
+      "Kevin sits about 4-5 dB above the item clips in the references."
+    ],
+    "defaults": {
+      "kevin_volume": 0.63,
+      "ranking_volume": 0.5,
+      "bw_zoom": 1.1,
+      "bw_face_first": 0.6,
+      "gap_split": 0.45,
+      "whoosh_lead": 0.33,
+      "start_pad": 0.04,
+      "end_pad": 0.06
+    },
+    "stats": {
+      "videos": 4,
+      "items_per_video": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "item_seconds": {
+        "median": 3.8,
+        "min": 1.9,
+        "max": 8.5
+      },
+      "reaction_seconds": {
+        "median": 3.35,
+        "min": 1.9,
+        "max": 6.1
+      },
+      "bw_per_video": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "bw_seconds": {
+        "median": 1.4,
+        "min": 0.9,
+        "max": 2.1
+      },
+      "face_before_bw": {
+        "median": 1.8,
+        "min": 1.0
+      },
+      "bw_zoom_median": 1.1,
+      "bw_position": {
+        "end": 13,
+        "middle": 3
+      },
+      "bw_source_end_offset_median": 0.0,
+      "final_reaction_has_bw": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "kevin_sfx_per_reaction": 1.0,
+      "kevin_sfx_families": {
+        "error_CDOxCYm.mp3": 8,
+        "fah": 8,
+        "mac-quack.mp3": 2,
+        "undertakers-bell_2UwFCIe.mp3": 2,
+        "vine boom": 2,
+        "among us": 2,
+        "dry-fart (1).mp3": 1,
+        "rizz-sound-effect (19).mp3": 1,
+        "ceeday-huh-sound-effect.mp3": 1
+      },
+      "first_sfx_offset_median": 1.17,
+      "fah_offset_from_bw_start": [
+        0.47,
+        0.17,
+        -0.67,
+        -0.43,
+        0.13,
+        -0.6,
+        0.17
+      ],
+      "whoosh": {
+        "cuts": 20,
+        "with_whoosh": 20,
+        "lead_median": 0.33
+      },
+      "level_gap_db_kevin_minus_item": 4.65,
+      "first_word_offset_median": -0.1
+    },
+    "learned_adjustments": {},
+    "recent_revisions": [],
+    "reference_reactions": [
+      {
+        "video": "Ranking Funniest Ice Cream Moments 😂.mp4",
+        "reactions": [
+          {
+            "words": "better not eat that again",
+            "duration": 4.6,
+            "bw": {
+              "face_before": 2.5,
+              "duration": 2.1,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.5,
+                "again"
+              ],
+              [
+                "fahhhh.mp3",
+                2.97,
+                "again"
+              ]
+            ]
+          },
+          {
+            "words": "Spongebob away from the drugs. Oh my",
+            "duration": 2.7,
+            "bw": {
+              "face_before": 1.5,
+              "duration": 1.2,
+              "position": "end",
+              "words": "Oh my"
+            },
+            "sfx": [
+              [
+                "mac-quack.mp3",
+                1.4,
+                "drugs."
+              ]
+            ]
+          },
+          {
+            "words": "exactly like my",
+            "duration": 3.4,
+            "bw": {
+              "face_before": 1.0,
+              "duration": 1.3,
+              "position": "middle",
+              "words": "my"
+            },
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.17,
+                "my"
+              ],
+              [
+                "dry-fart (1).mp3",
+                1.74,
+                "my"
+              ]
+            ]
+          },
+          {
+            "words": "",
+            "duration": 6.1,
+            "bw": {
+              "face_before": 4.7,
+              "duration": 1.4,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": [
+              [
+                "rizz-sound-effect (19).mp3",
+                0.17,
+                "my"
+              ],
+              [
+                "undertakers-bell_2UwFCIe.mp3",
+                1.97,
+                "I"
+              ],
+              [
+                "fahhhh.mp3",
+                4.04,
+                "I"
+              ]
+            ]
+          },
+          {
+            "words": "I know those people be trolling Activated something in them bro.",
+            "duration": 3.4,
+            "bw": null,
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.5,
+                "those"
+              ]
+            ]
+          },
+          {
+            "words": "Anybody else's heart just jump onto the chest How was you holding that frog captain?",
+            "duration": 3.7,
+            "bw": null,
+            "sfx": []
+          }
+        ]
+      },
+      {
+        "video": "Ranking The Best Aiming Moments 😭 #shorts #funny #relatable.mp4",
+        "reactions": [
+          {
+            "words": "will be excited too. How did you do that on the first try?",
+            "duration": 2.8,
+            "bw": {
+              "face_before": 1.6,
+              "duration": 1.2,
+              "position": "end",
+              "words": "that on the first try?"
+            },
+            "sfx": []
+          },
+          {
+            "words": "doesn't even look right. Oh, hack now",
+            "duration": 2.1,
+            "bw": null,
+            "sfx": []
+          },
+          {
+            "words": "Humiliation ritual. I will not let somebody shoot at me like that",
+            "duration": 3.8,
+            "bw": {
+              "face_before": 2.1,
+              "duration": 1.7,
+              "position": "end",
+              "words": "will not let somebody shoot at me like that"
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.87,
+                "I"
+              ]
+            ]
+          },
+          {
+            "words": "Evil they definitely targeted him. Oh, hack now",
+            "duration": 2.5,
+            "bw": {
+              "face_before": 1.5,
+              "duration": 1.0,
+              "position": "end",
+              "words": "Oh, hack now"
+            },
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.07,
+                "him."
+              ]
+            ]
+          },
+          {
+            "words": "took it out on the window double punishment the",
+            "duration": 3.3,
+            "bw": null,
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.3,
+                "out"
+              ]
+            ]
+          },
+          {
+            "words": "army right now. He has good aim",
+            "duration": 2.8,
+            "bw": {
+              "face_before": 1.8,
+              "duration": 1.0,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": []
+          }
+        ]
+      },
+      {
+        "video": "Ranking The Best Expensive Car Damage😭🥀#shorts #funny #relatable.mp4",
+        "reactions": [
+          {
+            "words": "why do you have mirrors on the car if you're not gonna use them? Let's",
+            "duration": 3.4,
+            "bw": {
+              "face_before": 2.0,
+              "duration": 1.4,
+              "position": "end",
+              "words": "them? Let's"
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.0,
+                "the"
+              ],
+              [
+                "fahhhh.mp3",
+                2.13,
+                "them?"
+              ]
+            ]
+          },
+          {
+            "words": "do you have a Bugatti in the jungle that doesn't even make sense? Oh my god",
+            "duration": 4.3,
+            "bw": {
+              "face_before": 1.7,
+              "duration": 1.6,
+              "position": "middle",
+              "words": "that doesn't even make sense?"
+            },
+            "sfx": [
+              [
+                "ceeday-huh-sound-effect.mp3",
+                1.23,
+                "in"
+              ],
+              [
+                "undertakers-bell_2UwFCIe.mp3",
+                2.37,
+                "make"
+              ]
+            ]
+          },
+          {
+            "words": "Over the bump right left and right to get over a low car",
+            "duration": 4.6,
+            "bw": {
+              "face_before": 2.8,
+              "duration": 1.8,
+              "position": "end",
+              "words": "a low car"
+            },
+            "sfx": [
+              [
+                "vine-boom (20).mp3",
+                1.1,
+                "left"
+              ],
+              [
+                "error_CDOxCYm.mp3",
+                3.57,
+                "car"
+              ]
+            ]
+          },
+          {
+            "words": "there was nobody in that car. I would have been over Nice",
+            "duration": 3.2,
+            "bw": {
+              "face_before": 1.4,
+              "duration": 0.9,
+              "position": "middle",
+              "words": "that car. I"
+            },
+            "sfx": []
+          },
+          {
+            "words": "a drop if I scratch an expensive car. They got to take everything from here",
+            "duration": 4.0,
+            "bw": null,
+            "sfx": [
+              [
+                "among-us-role-reveal-sound.mp3",
+                1.6,
+                "car."
+              ]
+            ]
+          },
+          {
+            "words": "I'm moving to a different country ASAP",
+            "duration": 3.0,
+            "bw": null,
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.1,
+                "to"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "video": "Ranking The Best Hard Food Moments 😂 #shorts #funny #relatable.mp4",
+        "reactions": [
+          {
+            "words": "sure that's a chicken egg, but I might be a dinosaur in there",
+            "duration": 3.1,
+            "bw": {
+              "face_before": 1.3,
+              "duration": 1.8,
+              "position": "end",
+              "words": "but I might be a dinosaur in there"
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                0.77,
+                "a"
+              ]
+            ]
+          },
+          {
+            "words": "no that is not a brownie anymore",
+            "duration": 3.5,
+            "bw": {
+              "face_before": 2.1,
+              "duration": 1.4,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": [
+              [
+                "among-us-role-reveal-sound.mp3",
+                1.17,
+                "brownie"
+              ]
+            ]
+          },
+          {
+            "words": "bread is beyond steel, how do they have sports?",
+            "duration": 2.8,
+            "bw": {
+              "face_before": 1.8,
+              "duration": 1.0,
+              "position": "end",
+              "words": "do they have sports?"
+            },
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.2,
+                "steel,"
+              ]
+            ]
+          },
+          {
+            "words": "it really that hard to make down? Oh my god",
+            "duration": 2.7,
+            "bw": null,
+            "sfx": [
+              [
+                "vine-boom (20).mp3",
+                1.47,
+                "down?"
+              ]
+            ]
+          },
+          {
+            "words": "throw the ice cream away, bro, that's been in there since 2014 or something",
+            "duration": 4.0,
+            "bw": {
+              "face_before": 2.1,
+              "duration": 1.9,
+              "position": "end",
+              "words": "there since 2014 or something"
+            },
+            "sfx": [
+              [
+                "mac-quack.mp3",
+                1.17,
+                "bro,"
+              ],
+              [
+                "fahhhh.mp3",
+                2.27,
+                "since"
+              ]
+            ]
+          },
+          {
+            "words": "he had no other choice.",
+            "duration": 1.9,
+            "bw": null,
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                0.73,
+                "he"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "plan_schema": "stage_ranking_plan(job_id, items=[{start,end,rank,label,reason}], reactions=[{item,about,pieces:[{from_word,to_word}],tighten?,bw?:{at_word,duration|until_end,tail_end?,zoom?,reason}}], quality_notes, volumes?). See references/ranking.md."
+}

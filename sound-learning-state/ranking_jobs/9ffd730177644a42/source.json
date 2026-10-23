@@ -1,0 +1,330 @@
+{
+  "id": "F3B6CEEC-0851-4E4F-8B1F-E7A066768DC2",
+  "version": 360000,
+  "new_version": "189.0.0",
+  "name": "",
+  "duration": 0,
+  "create_time": 0,
+  "update_time": 0,
+  "fps": 30.0,
+  "is_drop_frame_timecode": false,
+  "color_space": -1,
+  "config": {
+    "video_mute": false,
+    "record_audio_last_index": 1,
+    "extract_audio_last_index": 1,
+    "original_sound_last_index": 1,
+    "subtitle_recognition_id": "",
+    "subtitle_taskinfo": [],
+    "lyrics_recognition_id": "",
+    "lyrics_taskinfo": [],
+    "subtitle_sync": true,
+    "lyrics_sync": true,
+    "voice_change_sync": false,
+    "sticker_max_index": 1,
+    "adjust_max_index": 1,
+    "material_save_mode": 0,
+    "export_range": null,
+    "maintrack_adsorb": true,
+    "combination_max_index": 1,
+    "attachment_info": [],
+    "zoom_info_params": null,
+    "system_font_list": [],
+    "multi_language_mode": "none",
+    "multi_language_main": "none",
+    "multi_language_current": "none",
+    "multi_language_list": [],
+    "subtitle_keywords_config": null,
+    "use_float_render": false,
+    "hdr_vivid": false
+  },
+  "canvas_config": {
+    "ratio": "original",
+    "width": 1080,
+    "height": 1920,
+    "background": null
+  },
+  "tracks": [],
+  "group_container": null,
+  "materials": {
+    "flowers": [],
+    "videos": [],
+    "tail_leaders": [],
+    "audios": [],
+    "images": [],
+    "texts": [],
+    "effects": [],
+    "stickers": [],
+    "canvases": [],
+    "transitions": [],
+    "audio_effects": [],
+    "audio_fades": [],
+    "beats": [],
+    "material_animations": [],
+    "placeholders": [],
+    "placeholder_infos": [],
+    "speeds": [],
+    "common_mask": [],
+    "chromas": [],
+    "text_templates": [],
+    "realtime_denoises": [],
+    "audio_pannings": [],
+    "audio_pitch_shifts": [],
+    "video_trackings": [],
+    "hsl": [],
+    "drafts": [],
+    "color_curves": [],
+    "hsl_curves": [],
+    "primary_color_wheels": [],
+    "log_color_wheels": [],
+    "video_effects": [],
+    "ai_text_effects": [],
+    "ai_generate_holders": [],
+    "audio_balances": [],
+    "handwrites": [],
+    "manual_deformations": [],
+    "manual_beautys": [],
+    "plugin_effects": [],
+    "sound_channel_mappings": [],
+    "green_screens": [],
+    "shapes": [],
+    "material_colors": [],
+    "digital_humans": [],
+    "digital_human_model_dressing": [],
+    "smart_crops": [],
+    "ai_translates": [],
+    "audio_track_indexes": [],
+    "loudnesses": [],
+    "vocal_beautifys": [],
+    "vocal_separations": [],
+    "smart_relights": [],
+    "time_marks": [],
+    "multi_language_refs": [],
+    "video_shadows": [],
+    "video_strokes": [],
+    "video_radius": []
+  },
+  "keyframes": {
+    "videos": [],
+    "audios": [],
+    "texts": [],
+    "stickers": [],
+    "filters": [],
+    "adjusts": [],
+    "handwrites": [],
+    "effects": []
+  },
+  "keyframe_graph_list": [],
+  "platform": {
+    "os": "mac",
+    "os_version": "27.0.1",
+    "app_id": 359289,
+    "app_version": "9.6.0",
+    "app_source": "cc",
+    "device_id": "66527ac06b6edce10fa994b55a0f2452",
+    "hard_disk_id": "7a2e2bee803d93ebf913a3f97b3fecc3",
+    "mac_address": "37b3e6bcb94454b1f1342d39aac07900"
+  },
+  "last_modified_platform": {
+    "os": "mac",
+    "os_version": "27.0.1",
+    "app_id": 359289,
+    "app_version": "9.6.0",
+    "app_source": "cc",
+    "device_id": "66527ac06b6edce10fa994b55a0f2452",
+    "hard_disk_id": "7a2e2bee803d93ebf913a3f97b3fecc3",
+    "mac_address": "37b3e6bcb94454b1f1342d39aac07900"
+  },
+  "mutable_config": null,
+  "cover": null,
+  "retouch_cover": null,
+  "extra_info": {
+    "text_to_video": null,
+    "track_info": null,
+    "subtitle_fragment_info_list": [
+      {
+        "start_time": 0,
+        "end_time": 3540000,
+        "subtitle_cache_info": "",
+        "key": "b01e304aa2fd5fc594515eb8d3df749f"
+      },
+      {
+        "start_time": 3540000,
+        "end_time": 4340000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":4340,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":3540,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"fuck\",\"translation_text\":\"\",\"words\":[{\"end_time\":4340,\"start_time\":3540,\"text\":\"fuck\"}]}]}",
+        "key": "7812cc846498a987b41b540523d53be0"
+      },
+      {
+        "start_time": 4340000,
+        "end_time": 30460000,
+        "subtitle_cache_info": "",
+        "key": "b119b4978bd753f26426fa849dc56b31"
+      },
+      {
+        "start_time": 30460000,
+        "end_time": 34640000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":34640,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":30460,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"yo am I the only one who picked the same one as him am I stupid\",\"translation_text\":\"\",\"words\":[{\"end_time\":30660,\"start_time\":30460,\"text\":\"yo\"},{\"end_time\":30660,\"start_time\":30660,\"text\":\" \"},{\"end_time\":30860,\"start_time\":30740,\"text\":\"am\"},{\"end_time\":30860,\"start_time\":30860,\"text\":\" \"},{\"end_time\":30980,\"start_time\":30860,\"text\":\"I\"},{\"end_time\":30980,\"start_time\":30980,\"text\":\" \"},{\"end_time\":31060,\"start_time\":30980,\"text\":\"the\"},{\"end_time\":31060,\"start_time\":31060,\"text\":\" \"},{\"end_time\":31340,\"start_time\":31060,\"text\":\"only\"},{\"end_time\":31340,\"start_time\":31340,\"text\":\" \"},{\"end_time\":31460,\"start_time\":31340,\"text\":\"one\"},{\"end_time\":31460,\"start_time\":31460,\"text\":\" \"},{\"end_time\":31580,\"start_time\":31460,\"text\":\"who\"},{\"end_time\":31580,\"start_time\":31580,\"text\":\" \"},{\"end_time\":31740,\"start_time\":31580,\"text\":\"picked\"},{\"end_time\":31740,\"start_time\":31740,\"text\":\" \"},{\"end_time\":31860,\"start_time\":31740,\"text\":\"the\"},{\"end_time\":31860,\"start_time\":31860,\"text\":\" \"},{\"end_time\":32140,\"start_time\":31860,\"text\":\"same\"},{\"end_time\":32140,\"start_time\":32140,\"text\":\" \"},{\"end_time\":32260,\"start_time\":32140,\"text\":\"one\"},{\"end_time\":32260,\"start_time\":32260,\"text\":\" \"},{\"end_time\":32420,\"start_time\":32260,\"text\":\"as\"},{\"end_time\":32420,\"start_time\":32420,\"text\":\" \"},{\"end_time\":32740,\"start_time\":32420,\"text\":\"him\"},{\"end_time\":32740,\"start_time\":32740,\"text\":\" \"},{\"end_time\":33820,\"start_time\":33540,\"text\":\"am\"},{\"end_time\":33820,\"start_time\":33820,\"text\":\" \"},{\"end_time\":33980,\"start_time\":33820,\"text\":\"I\"},{\"end_time\":33980,\"start_time\":33980,\"text\":\" \"},{\"end_time\":34640,\"start_time\":33980,\"text\":\"stupid\"}]}]}",
+        "key": "f2697d487160e623f0721b50b00ea3a2"
+      },
+      {
+        "start_time": 34640000,
+        "end_time": 41900000,
+        "subtitle_cache_info": "",
+        "key": "c168669c74cbeba11c72739e0218aebf"
+      },
+      {
+        "start_time": 41900000,
+        "end_time": 42140000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":42140,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":41900,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"oh yeah\",\"translation_text\":\"\",\"words\":[{\"end_time\":41940,\"start_time\":41900,\"text\":\"oh\"},{\"end_time\":41940,\"start_time\":41940,\"text\":\" \"},{\"end_time\":42140,\"start_time\":41940,\"text\":\"yeah\"}]}]}",
+        "key": "25de3f75b91afb0c329395aea2a53172"
+      },
+      {
+        "start_time": 42140000,
+        "end_time": 43340000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":43340,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":42140,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"we're definitely cooked animals\",\"translation_text\":\"\",\"words\":[{\"end_time\":42260,\"start_time\":42140,\"text\":\"we're\"},{\"end_time\":42260,\"start_time\":42260,\"text\":\" \"},{\"end_time\":42580,\"start_time\":42260,\"text\":\"definitely\"},{\"end_time\":42580,\"start_time\":42580,\"text\":\" \"},{\"end_time\":42940,\"start_time\":42700,\"text\":\"cooked\"},{\"end_time\":42940,\"start_time\":42940,\"text\":\" \"},{\"end_time\":43340,\"start_time\":42940,\"text\":\"animals\"}]}]}",
+        "key": "d41624781b48280505676ef2759d33c5"
+      },
+      {
+        "start_time": 43340000,
+        "end_time": 44580000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":44580,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":43340,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"just learn how to flirt bro\",\"translation_text\":\"\",\"words\":[{\"end_time\":43540,\"start_time\":43340,\"text\":\"just\"},{\"end_time\":43540,\"start_time\":43540,\"text\":\" \"},{\"end_time\":43700,\"start_time\":43540,\"text\":\"learn\"},{\"end_time\":43700,\"start_time\":43700,\"text\":\" \"},{\"end_time\":43820,\"start_time\":43700,\"text\":\"how\"},{\"end_time\":43820,\"start_time\":43820,\"text\":\" \"},{\"end_time\":43940,\"start_time\":43820,\"text\":\"to\"},{\"end_time\":43940,\"start_time\":43940,\"text\":\" \"},{\"end_time\":44220,\"start_time\":43940,\"text\":\"flirt\"},{\"end_time\":44220,\"start_time\":44220,\"text\":\" \"},{\"end_time\":44580,\"start_time\":44260,\"text\":\"bro\"}]}]}",
+        "key": "f86843858311caf3a389ae6345872841"
+      },
+      {
+        "start_time": 44580000,
+        "end_time": 45760000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":45760,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":44580,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"what is going on\",\"translation_text\":\"\",\"words\":[{\"end_time\":44700,\"start_time\":44580,\"text\":\"what\"},{\"end_time\":44700,\"start_time\":44700,\"text\":\" \"},{\"end_time\":44820,\"start_time\":44700,\"text\":\"is\"},{\"end_time\":44820,\"start_time\":44820,\"text\":\" \"},{\"end_time\":45060,\"start_time\":44820,\"text\":\"going\"},{\"end_time\":45060,\"start_time\":45060,\"text\":\" \"},{\"end_time\":45760,\"start_time\":45060,\"text\":\"on\"}]}]}",
+        "key": "80c6b7c646f37a6a5e2818284a2ef229"
+      },
+      {
+        "start_time": 45760000,
+        "end_time": 46700000,
+        "subtitle_cache_info": "",
+        "key": "361f4dd341a1a7f9d859b8b85a75051a"
+      },
+      {
+        "start_time": 46700000,
+        "end_time": 47900000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":47900,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":46700,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"rest in peace my granny\",\"translation_text\":\"\",\"words\":[{\"end_time\":46940,\"start_time\":46700,\"text\":\"rest\"},{\"end_time\":46940,\"start_time\":46940,\"text\":\" \"},{\"end_time\":47100,\"start_time\":46940,\"text\":\"in\"},{\"end_time\":47100,\"start_time\":47100,\"text\":\" \"},{\"end_time\":47260,\"start_time\":47100,\"text\":\"peace\"},{\"end_time\":47260,\"start_time\":47260,\"text\":\" \"},{\"end_time\":47500,\"start_time\":47300,\"text\":\"my\"},{\"end_time\":47500,\"start_time\":47500,\"text\":\" \"},{\"end_time\":47900,\"start_time\":47500,\"text\":\"granny\"}]}]}",
+        "key": "9f36c5a506dd62551a58076c1941d864"
+      },
+      {
+        "start_time": 47900000,
+        "end_time": 49840000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":49840,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":47900,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"she got hit by a bazooka\",\"translation_text\":\"\",\"words\":[{\"end_time\":48100,\"start_time\":47900,\"text\":\"she\"},{\"end_time\":48100,\"start_time\":48100,\"text\":\" \"},{\"end_time\":48340,\"start_time\":48100,\"text\":\"got\"},{\"end_time\":48340,\"start_time\":48340,\"text\":\" \"},{\"end_time\":48540,\"start_time\":48340,\"text\":\"hit\"},{\"end_time\":48540,\"start_time\":48540,\"text\":\" \"},{\"end_time\":48780,\"start_time\":48540,\"text\":\"by\"},{\"end_time\":48780,\"start_time\":48780,\"text\":\" \"},{\"end_time\":48860,\"start_time\":48780,\"text\":\"a\"},{\"end_time\":48860,\"start_time\":48860,\"text\":\" \"},{\"end_time\":49840,\"start_time\":48900,\"text\":\"bazooka\"}]}]}",
+        "key": "788168a162eace925c432a4d338c3a44"
+      },
+      {
+        "start_time": 49840000,
+        "end_time": 50540000,
+        "subtitle_cache_info": "",
+        "key": "5205d4a99355e1be42478f84552e0d99"
+      },
+      {
+        "start_time": 50540000,
+        "end_time": 53680000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":53680,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":50540,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"only one who thought that was real for the first 2 seconds Bro\",\"translation_text\":\"\",\"words\":[{\"end_time\":50820,\"start_time\":50540,\"text\":\"only\"},{\"end_time\":50820,\"start_time\":50820,\"text\":\" \"},{\"end_time\":50940,\"start_time\":50820,\"text\":\"one\"},{\"end_time\":50940,\"start_time\":50940,\"text\":\" \"},{\"end_time\":51100,\"start_time\":50940,\"text\":\"who\"},{\"end_time\":51100,\"start_time\":51100,\"text\":\" \"},{\"end_time\":51300,\"start_time\":51100,\"text\":\"thought\"},{\"end_time\":51300,\"start_time\":51300,\"text\":\" \"},{\"end_time\":51420,\"start_time\":51300,\"text\":\"that\"},{\"end_time\":51420,\"start_time\":51420,\"text\":\" \"},{\"end_time\":51620,\"start_time\":51420,\"text\":\"was\"},{\"end_time\":51620,\"start_time\":51620,\"text\":\" \"},{\"end_time\":51860,\"start_time\":51620,\"text\":\"real\"},{\"end_time\":51860,\"start_time\":51860,\"text\":\" \"},{\"end_time\":51980,\"start_time\":51860,\"text\":\"for\"},{\"end_time\":51980,\"start_time\":51980,\"text\":\" \"},{\"end_time\":52100,\"start_time\":51980,\"text\":\"the\"},{\"end_time\":52100,\"start_time\":52100,\"text\":\" \"},{\"end_time\":52420,\"start_time\":52100,\"text\":\"first\"},{\"end_time\":52420,\"start_time\":52420,\"text\":\" \"},{\"end_time\":52660,\"start_time\":52420,\"text\":\"2\"},{\"end_time\":52660,\"start_time\":52660,\"text\":\" \"},{\"end_time\":53020,\"start_time\":52660,\"text\":\"seconds\"},{\"end_time\":53020,\"start_time\":53020,\"text\":\" \"},{\"end_time\":53680,\"start_time\":53100,\"text\":\"Bro\"}]}]}",
+        "key": "a1a7e5f0c81cd6b73db976f0746a71c1"
+      },
+      {
+        "start_time": 53680000,
+        "end_time": 54380000,
+        "subtitle_cache_info": "",
+        "key": "5205d4a99355e1be42478f84552e0d99"
+      },
+      {
+        "start_time": 54380000,
+        "end_time": 55640000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":55640,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":54380,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"AI is cooked\",\"translation_text\":\"\",\"words\":[{\"end_time\":54780,\"start_time\":54380,\"text\":\"AI\"},{\"end_time\":54780,\"start_time\":54780,\"text\":\" \"},{\"end_time\":54940,\"start_time\":54780,\"text\":\"is\"},{\"end_time\":54940,\"start_time\":54940,\"text\":\" \"},{\"end_time\":55640,\"start_time\":54940,\"text\":\"cooked\"}]}]}",
+        "key": "5f224bf26feda3012fa85f989abeee24"
+      },
+      {
+        "start_time": 55640000,
+        "end_time": 61660000,
+        "subtitle_cache_info": "",
+        "key": "e1853b51408fad24adfd597f65fe7783"
+      },
+      {
+        "start_time": 61660000,
+        "end_time": 64400000,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":64400,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":61660,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"if I was that sea lion I would have smacked him bro\",\"translation_text\":\"\",\"words\":[{\"end_time\":61900,\"start_time\":61660,\"text\":\"if\"},{\"end_time\":61900,\"start_time\":61900,\"text\":\" \"},{\"end_time\":62020,\"start_time\":61900,\"text\":\"I\"},{\"end_time\":62020,\"start_time\":62020,\"text\":\" \"},{\"end_time\":62140,\"start_time\":62020,\"text\":\"was\"},{\"end_time\":62140,\"start_time\":62140,\"text\":\" \"},{\"end_time\":62300,\"start_time\":62140,\"text\":\"that\"},{\"end_time\":62300,\"start_time\":62300,\"text\":\" \"},{\"end_time\":62500,\"start_time\":62300,\"text\":\"sea\"},{\"end_time\":62500,\"start_time\":62500,\"text\":\" \"},{\"end_time\":62620,\"start_time\":62580,\"text\":\"lion\"},{\"end_time\":62620,\"start_time\":62620,\"text\":\" \"},{\"end_time\":62820,\"start_time\":62620,\"text\":\"I\"},{\"end_time\":62820,\"start_time\":62820,\"text\":\" \"},{\"end_time\":62940,\"start_time\":62820,\"text\":\"would\"},{\"end_time\":62940,\"start_time\":62940,\"text\":\" \"},{\"end_time\":63100,\"start_time\":62940,\"text\":\"have\"},{\"end_time\":63100,\"start_time\":63100,\"text\":\" \"},{\"end_time\":63540,\"start_time\":63100,\"text\":\"smacked\"},{\"end_time\":63540,\"start_time\":63540,\"text\":\" \"},{\"end_time\":63740,\"start_time\":63540,\"text\":\"him\"},{\"end_time\":63740,\"start_time\":63740,\"text\":\" \"},{\"end_time\":64400,\"start_time\":63740,\"text\":\"bro\"}]}]}",
+        "key": "129df1c1a38c414f7ae6a5c1c37f4e16"
+      },
+      {
+        "start_time": 64400000,
+        "end_time": 65140000,
+        "subtitle_cache_info": "",
+        "key": "5be28002868969cd4512b0e91a389a52"
+      },
+      {
+        "start_time": 65140000,
+        "end_time": 66799998,
+        "subtitle_cache_info": "{\"sentence_list\":[{\"attribute\":{\"event\":\"speech\"},\"bilingual_lan\":\"none\",\"end_time\":66804,\"language_server_recognize\":\"en-US\",\"language_user_select\":\"Auto\",\"start_time\":65140,\"task_id\":\"6ada10a4e2e25501edfe7082_8_0\",\"text\":\"he just had a paper clip bro what\",\"translation_text\":\"\",\"words\":[{\"end_time\":65340,\"start_time\":65140,\"text\":\"he\"},{\"end_time\":65340,\"start_time\":65340,\"text\":\" \"},{\"end_time\":65460,\"start_time\":65340,\"text\":\"just\"},{\"end_time\":65460,\"start_time\":65460,\"text\":\" \"},{\"end_time\":65580,\"start_time\":65460,\"text\":\"had\"},{\"end_time\":65580,\"start_time\":65580,\"text\":\" \"},{\"end_time\":65700,\"start_time\":65580,\"text\":\"a\"},{\"end_time\":65700,\"start_time\":65700,\"text\":\" \"},{\"end_time\":65980,\"start_time\":65700,\"text\":\"paper\"},{\"end_time\":65980,\"start_time\":65980,\"text\":\" \"},{\"end_time\":66180,\"start_time\":66020,\"text\":\"clip\"},{\"end_time\":66180,\"start_time\":66180,\"text\":\" \"},{\"end_time\":66420,\"start_time\":66220,\"text\":\"bro\"},{\"end_time\":66420,\"start_time\":66420,\"text\":\" \"},{\"end_time\":66804,\"start_time\":66420,\"text\":\"what\"}]}]}",
+        "key": "3eef81e68e387bffd317c5a2741b0f9a"
+      }
+    ]
+  },
+  "relationships": [],
+  "mixed_track_mode_on": false,
+  "render_index_track_mode_on": true,
+  "free_render_index_mode_on": false,
+  "static_cover_image_path": "",
+  "source": "default",
+  "time_marks": null,
+  "path": "",
+  "lyrics_effects": [],
+  "uneven_animation_template_info": {
+    "composition": "",
+    "content": "",
+    "order": "",
+    "sub_template_info_list": []
+  },
+  "draft_type": "video",
+  "smart_ads_info": {
+    "page_from": "",
+    "routine": "",
+    "draft_url": ""
+  },
+  "function_assistant_info": {
+    "smart_rec_applied": false,
+    "fixed_rec_applied": false,
+    "auto_adjust": false,
+    "auto_adjust_segid_list": [],
+    "color_correction": false,
+    "color_correction_segid_list": [],
+    "enhance_quality": false,
+    "smooth_slow_motion": false,
+    "deflicker_segid_list": [],
+    "video_noise_segid_list": [],
+    "enhance_quality_segid_list": [],
+    "smart_segid_list": [],
+    "retouch": false,
+    "retouch_segid_list": [],
+    "enhande_voice": false,
+    "enhance_voice_segid_list": [],
+    "audio_noise_segid_list": [],
+    "auto_caption": false,
+    "auto_caption_segid_list": [],
+    "auto_caption_template_id": "",
+    "caption_opt": false,
+    "caption_opt_segid_list": [],
+    "eye_correction": false,
+    "eye_correction_segid_list": [],
+    "normalize_loudness": false,
+    "normalize_loudness_segid_list": [],
+    "normalize_loudness_audio_denoise_segid_list": [],
+    "auto_adjust_fixed": false,
+    "auto_adjust_fixed_value": 50.0,
+    "color_correction_fixed": false,
+    "color_correction_fixed_value": 50.0,
+    "normalize_loudness_fixed": false,
+    "enhande_voice_fixed": false,
+    "retouch_fixed": false,
+    "enhance_quality_fixed": false,
+    "smooth_slow_motion_fixed": false,
+    "fps": {
+      "num": 0,
+      "den": 1
+    }
+  }
+}

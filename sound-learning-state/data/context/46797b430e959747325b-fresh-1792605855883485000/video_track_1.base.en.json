@@ -1,0 +1,330 @@
+{
+  "model": "base.en",
+  "seconds": 1.37,
+  "cached": false,
+  "rows": [
+    {
+      "start": 2.35,
+      "end": 18.12,
+      "text": "Okay, let's see. Oh perfect. I need that. Yeah, bro. I would do that. Oh",
+      "words": [
+        {
+          "start": 2.35,
+          "end": 3.03,
+          "text": "Okay,"
+        },
+        {
+          "start": 5.23,
+          "end": 5.55,
+          "text": "let's"
+        },
+        {
+          "start": 5.55,
+          "end": 5.71,
+          "text": "see."
+        },
+        {
+          "start": 6.05,
+          "end": 6.53,
+          "text": "Oh"
+        },
+        {
+          "start": 9.76,
+          "end": 10.16,
+          "text": "perfect."
+        },
+        {
+          "start": 11.34,
+          "end": 11.82,
+          "text": "I"
+        },
+        {
+          "start": 11.82,
+          "end": 12.0,
+          "text": "need"
+        },
+        {
+          "start": 12.0,
+          "end": 12.24,
+          "text": "that."
+        },
+        {
+          "start": 14.98,
+          "end": 15.46,
+          "text": "Yeah,"
+        },
+        {
+          "start": 15.7,
+          "end": 15.74,
+          "text": "bro."
+        },
+        {
+          "start": 16.0,
+          "end": 16.04,
+          "text": "I"
+        },
+        {
+          "start": 16.04,
+          "end": 16.18,
+          "text": "would"
+        },
+        {
+          "start": 16.18,
+          "end": 16.3,
+          "text": "do"
+        },
+        {
+          "start": 16.3,
+          "end": 16.52,
+          "text": "that."
+        },
+        {
+          "start": 17.9,
+          "end": 18.12,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "start": 22.17,
+      "end": 34.63,
+      "text": "You know much work. I hear down with that. Maybe okay. I can get into anything if it's a test in. That's lucky. Oh",
+      "words": [
+        {
+          "start": 22.17,
+          "end": 22.65,
+          "text": "You"
+        },
+        {
+          "start": 22.65,
+          "end": 22.73,
+          "text": "know"
+        },
+        {
+          "start": 22.73,
+          "end": 22.89,
+          "text": "much"
+        },
+        {
+          "start": 22.89,
+          "end": 23.11,
+          "text": "work."
+        },
+        {
+          "start": 23.27,
+          "end": 23.29,
+          "text": "I"
+        },
+        {
+          "start": 23.29,
+          "end": 23.43,
+          "text": "hear"
+        },
+        {
+          "start": 23.43,
+          "end": 23.75,
+          "text": "down"
+        },
+        {
+          "start": 23.75,
+          "end": 23.93,
+          "text": "with"
+        },
+        {
+          "start": 23.93,
+          "end": 24.11,
+          "text": "that."
+        },
+        {
+          "start": 24.39,
+          "end": 24.45,
+          "text": "Maybe"
+        },
+        {
+          "start": 24.45,
+          "end": 25.59,
+          "text": "okay."
+        },
+        {
+          "start": 30.16,
+          "end": 30.64,
+          "text": "I"
+        },
+        {
+          "start": 30.64,
+          "end": 30.78,
+          "text": "can"
+        },
+        {
+          "start": 30.78,
+          "end": 30.92,
+          "text": "get"
+        },
+        {
+          "start": 30.92,
+          "end": 31.1,
+          "text": "into"
+        },
+        {
+          "start": 31.1,
+          "end": 31.3,
+          "text": "anything"
+        },
+        {
+          "start": 31.3,
+          "end": 31.56,
+          "text": "if"
+        },
+        {
+          "start": 31.56,
+          "end": 31.64,
+          "text": "it's"
+        },
+        {
+          "start": 31.64,
+          "end": 31.74,
+          "text": "a"
+        },
+        {
+          "start": 31.74,
+          "end": 31.96,
+          "text": "test"
+        },
+        {
+          "start": 31.96,
+          "end": 32.2,
+          "text": "in."
+        },
+        {
+          "start": 32.34,
+          "end": 32.54,
+          "text": "That's"
+        },
+        {
+          "start": 32.54,
+          "end": 32.82,
+          "text": "lucky."
+        },
+        {
+          "start": 34.15,
+          "end": 34.63,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "start": 34.63,
+      "end": 42.39,
+      "text": "I wouldn't need that. Oh",
+      "words": [
+        {
+          "start": 34.63,
+          "end": 35.35,
+          "text": "I"
+        },
+        {
+          "start": 39.1,
+          "end": 39.52,
+          "text": "wouldn't"
+        },
+        {
+          "start": 39.52,
+          "end": 39.7,
+          "text": "need"
+        },
+        {
+          "start": 39.7,
+          "end": 39.96,
+          "text": "that."
+        },
+        {
+          "start": 41.99,
+          "end": 42.39,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "start": 46.67,
+      "end": 55.82,
+      "text": "Give me that I need that now. Give me the money. You can build one",
+      "words": [
+        {
+          "start": 46.67,
+          "end": 47.15,
+          "text": "Give"
+        },
+        {
+          "start": 47.15,
+          "end": 47.35,
+          "text": "me"
+        },
+        {
+          "start": 47.35,
+          "end": 47.61,
+          "text": "that"
+        },
+        {
+          "start": 47.61,
+          "end": 48.25,
+          "text": "I"
+        },
+        {
+          "start": 51.29,
+          "end": 51.85,
+          "text": "need"
+        },
+        {
+          "start": 51.85,
+          "end": 52.01,
+          "text": "that"
+        },
+        {
+          "start": 52.01,
+          "end": 52.31,
+          "text": "now."
+        },
+        {
+          "start": 54.1,
+          "end": 54.48,
+          "text": "Give"
+        },
+        {
+          "start": 54.48,
+          "end": 54.58,
+          "text": "me"
+        },
+        {
+          "start": 54.58,
+          "end": 54.68,
+          "text": "the"
+        },
+        {
+          "start": 54.68,
+          "end": 54.86,
+          "text": "money."
+        },
+        {
+          "start": 55.26,
+          "end": 55.26,
+          "text": "You"
+        },
+        {
+          "start": 55.26,
+          "end": 55.44,
+          "text": "can"
+        },
+        {
+          "start": 55.44,
+          "end": 55.6,
+          "text": "build"
+        },
+        {
+          "start": 55.6,
+          "end": 55.82,
+          "text": "one"
+        }
+      ]
+    }
+  ]
+}

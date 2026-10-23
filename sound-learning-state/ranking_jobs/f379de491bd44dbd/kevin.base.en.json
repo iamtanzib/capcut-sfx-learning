@@ -1,0 +1,449 @@
+{
+  "model": "base.en",
+  "seconds": 1.76,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 5.07,
+      "text": "best sea lion moments. Yo am I the only one who picked the same one as him? Am I stupid?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.2,
+          "text": "best"
+        },
+        {
+          "start": 0.2,
+          "end": 0.38,
+          "text": "sea"
+        },
+        {
+          "start": 0.38,
+          "end": 0.52,
+          "text": "lion"
+        },
+        {
+          "start": 0.52,
+          "end": 0.96,
+          "text": "moments."
+        },
+        {
+          "start": 1.87,
+          "end": 2.25,
+          "text": "Yo"
+        },
+        {
+          "start": 2.25,
+          "end": 2.45,
+          "text": "am"
+        },
+        {
+          "start": 2.45,
+          "end": 2.53,
+          "text": "I"
+        },
+        {
+          "start": 2.53,
+          "end": 2.63,
+          "text": "the"
+        },
+        {
+          "start": 2.63,
+          "end": 2.83,
+          "text": "only"
+        },
+        {
+          "start": 2.83,
+          "end": 3.01,
+          "text": "one"
+        },
+        {
+          "start": 3.01,
+          "end": 3.09,
+          "text": "who"
+        },
+        {
+          "start": 3.09,
+          "end": 3.25,
+          "text": "picked"
+        },
+        {
+          "start": 3.25,
+          "end": 3.39,
+          "text": "the"
+        },
+        {
+          "start": 3.39,
+          "end": 3.63,
+          "text": "same"
+        },
+        {
+          "start": 3.63,
+          "end": 3.83,
+          "text": "one"
+        },
+        {
+          "start": 3.83,
+          "end": 3.95,
+          "text": "as"
+        },
+        {
+          "start": 3.95,
+          "end": 4.11,
+          "text": "him?"
+        },
+        {
+          "start": 4.65,
+          "end": 4.71,
+          "text": "Am"
+        },
+        {
+          "start": 4.71,
+          "end": 4.83,
+          "text": "I"
+        },
+        {
+          "start": 4.83,
+          "end": 5.07,
+          "text": "stupid?"
+        }
+      ]
+    },
+    {
+      "start": 6.79,
+      "end": 10.29,
+      "text": "Oh yeah we're definitely cooked. Animals just learned how to flirt bro. What is going on?",
+      "words": [
+        {
+          "start": 6.79,
+          "end": 6.93,
+          "text": "Oh"
+        },
+        {
+          "start": 6.93,
+          "end": 7.11,
+          "text": "yeah"
+        },
+        {
+          "start": 7.11,
+          "end": 7.29,
+          "text": "we're"
+        },
+        {
+          "start": 7.29,
+          "end": 7.59,
+          "text": "definitely"
+        },
+        {
+          "start": 7.59,
+          "end": 7.87,
+          "text": "cooked."
+        },
+        {
+          "start": 8.07,
+          "end": 8.25,
+          "text": "Animals"
+        },
+        {
+          "start": 8.25,
+          "end": 8.51,
+          "text": "just"
+        },
+        {
+          "start": 8.51,
+          "end": 8.67,
+          "text": "learned"
+        },
+        {
+          "start": 8.67,
+          "end": 8.85,
+          "text": "how"
+        },
+        {
+          "start": 8.85,
+          "end": 8.95,
+          "text": "to"
+        },
+        {
+          "start": 8.95,
+          "end": 9.19,
+          "text": "flirt"
+        },
+        {
+          "start": 9.19,
+          "end": 9.49,
+          "text": "bro."
+        },
+        {
+          "start": 9.71,
+          "end": 9.71,
+          "text": "What"
+        },
+        {
+          "start": 9.71,
+          "end": 9.81,
+          "text": "is"
+        },
+        {
+          "start": 9.81,
+          "end": 9.95,
+          "text": "going"
+        },
+        {
+          "start": 9.95,
+          "end": 10.29,
+          "text": "on?"
+        }
+      ]
+    },
+    {
+      "start": 11.58,
+      "end": 14.56,
+      "text": "The only one who thought that was real for the first two seconds bro.",
+      "words": [
+        {
+          "start": 11.58,
+          "end": 11.9,
+          "text": "The"
+        },
+        {
+          "start": 11.9,
+          "end": 12.08,
+          "text": "only"
+        },
+        {
+          "start": 12.08,
+          "end": 12.28,
+          "text": "one"
+        },
+        {
+          "start": 12.28,
+          "end": 12.4,
+          "text": "who"
+        },
+        {
+          "start": 12.4,
+          "end": 12.58,
+          "text": "thought"
+        },
+        {
+          "start": 12.58,
+          "end": 12.72,
+          "text": "that"
+        },
+        {
+          "start": 12.72,
+          "end": 12.86,
+          "text": "was"
+        },
+        {
+          "start": 12.86,
+          "end": 13.1,
+          "text": "real"
+        },
+        {
+          "start": 13.1,
+          "end": 13.3,
+          "text": "for"
+        },
+        {
+          "start": 13.3,
+          "end": 13.4,
+          "text": "the"
+        },
+        {
+          "start": 13.4,
+          "end": 13.64,
+          "text": "first"
+        },
+        {
+          "start": 13.64,
+          "end": 13.9,
+          "text": "two"
+        },
+        {
+          "start": 13.9,
+          "end": 14.34,
+          "text": "seconds"
+        },
+        {
+          "start": 14.34,
+          "end": 14.56,
+          "text": "bro."
+        }
+      ]
+    },
+    {
+      "start": 15.1,
+      "end": 20.76,
+      "text": "Ayes cook. If I was our sea lion I want to smack them bro. You just have to pay for",
+      "words": [
+        {
+          "start": 15.1,
+          "end": 15.48,
+          "text": "Ayes"
+        },
+        {
+          "start": 15.48,
+          "end": 15.78,
+          "text": "cook."
+        },
+        {
+          "start": 17.08,
+          "end": 17.46,
+          "text": "If"
+        },
+        {
+          "start": 17.46,
+          "end": 17.6,
+          "text": "I"
+        },
+        {
+          "start": 17.6,
+          "end": 17.72,
+          "text": "was"
+        },
+        {
+          "start": 17.72,
+          "end": 17.82,
+          "text": "our"
+        },
+        {
+          "start": 17.82,
+          "end": 18.04,
+          "text": "sea"
+        },
+        {
+          "start": 18.04,
+          "end": 18.24,
+          "text": "lion"
+        },
+        {
+          "start": 18.24,
+          "end": 18.42,
+          "text": "I"
+        },
+        {
+          "start": 18.42,
+          "end": 18.52,
+          "text": "want"
+        },
+        {
+          "start": 18.52,
+          "end": 18.62,
+          "text": "to"
+        },
+        {
+          "start": 18.62,
+          "end": 18.96,
+          "text": "smack"
+        },
+        {
+          "start": 18.96,
+          "end": 19.28,
+          "text": "them"
+        },
+        {
+          "start": 19.28,
+          "end": 19.52,
+          "text": "bro."
+        },
+        {
+          "start": 20.04,
+          "end": 20.06,
+          "text": "You"
+        },
+        {
+          "start": 20.06,
+          "end": 20.2,
+          "text": "just"
+        },
+        {
+          "start": 20.2,
+          "end": 20.32,
+          "text": "have"
+        },
+        {
+          "start": 20.32,
+          "end": 20.44,
+          "text": "to"
+        },
+        {
+          "start": 20.44,
+          "end": 20.62,
+          "text": "pay"
+        },
+        {
+          "start": 20.62,
+          "end": 20.76,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "start": 20.76,
+      "end": 21.34,
+      "text": "I'm gonna click my what?",
+      "words": [
+        {
+          "start": 20.76,
+          "end": 20.76,
+          "text": "I'm"
+        },
+        {
+          "start": 20.76,
+          "end": 20.76,
+          "text": "gonna"
+        },
+        {
+          "start": 20.76,
+          "end": 20.92,
+          "text": "click"
+        },
+        {
+          "start": 20.92,
+          "end": 21.08,
+          "text": "my"
+        },
+        {
+          "start": 21.08,
+          "end": 21.34,
+          "text": "what?"
+        }
+      ]
+    },
+    {
+      "start": 21.72,
+      "end": 21.9,
+      "text": "I'm gonna click my what?",
+      "words": [
+        {
+          "start": 21.72,
+          "end": 21.9,
+          "text": "I'm"
+        },
+        {
+          "start": 21.9,
+          "end": 21.9,
+          "text": "gonna"
+        },
+        {
+          "start": 21.9,
+          "end": 21.9,
+          "text": "click"
+        },
+        {
+          "start": 21.9,
+          "end": 21.9,
+          "text": "my"
+        },
+        {
+          "start": 21.9,
+          "end": 21.9,
+          "text": "what?"
+        }
+      ]
+    }
+  ]
+}

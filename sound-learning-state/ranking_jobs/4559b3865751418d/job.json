@@ -1,0 +1,48 @@
+{
+  "job_id": "4559b3865751418d",
+  "batch_id": "2afc47f79fff480f",
+  "project": "1022",
+  "timeline": "Day 7.3",
+  "timeline_id": "8B9BADE9-C9C7-4C48-A11A-BE3758158DAA",
+  "source_hash": "c76b14d9ec7883315412291c226ee2cd5f5a2313f0d1e770d715014c556144b1",
+  "source_signature": "d8c945036c4962267837ea8d23911ecbd6a1bd1ce8b0b2508053536a07029429",
+  "kevin": {
+    "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 7/New Videos 3/IMG_7720.MOV",
+    "duration": 35.35,
+    "width": 2160,
+    "height": 3840,
+    "fps": 59.997,
+    "has_audio": true,
+    "size": 238357982,
+    "mtime": 1792751507840000000
+  },
+  "ranking": {
+    "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 7/New Videos 3/copy_7AD061FF-389E-4FA0-B904-F9338B173EB1.mov",
+    "duration": 26.059999,
+    "width": 2160,
+    "height": 3840,
+    "fps": 30.046,
+    "has_audio": true,
+    "size": 95033892,
+    "mtime": 1792751554490000000
+  },
+  "style_version": 5,
+  "status": "applied",
+  "created_at": 1792753521.549786,
+  "existing_video_paths": [],
+  "prepared_at": 1792753532.065703,
+  "plan_hash": "48b08926f069c5931d8077c88050c09d7f4017d45669a85fb56663195f06e8f3",
+  "preview": {
+    "plan_hash": "48b08926f069c5931d8077c88050c09d7f4017d45669a85fb56663195f06e8f3",
+    "video": "/Users/tanzibsrijon/SoundPilotLearning/ranking_jobs/4559b3865751418d/preview.mp4",
+    "sheet": "/Users/tanzibsrijon/SoundPilotLearning/ranking_jobs/4559b3865751418d/preview_sheet.jpg"
+  },
+  "applied_at": 1792754048.408763,
+  "applied_hash": "10c9a048a2a698257b0aa7a1eebc2ca9fe9cda84ed04b197ef1e8eafc191f7f6",
+  "media": [
+    "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/4559b3865751418d/bw_01_01682a41f1.mp4",
+    "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/4559b3865751418d/bw_02_cb26b2f757.mp4",
+    "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/4559b3865751418d/bw_03_5edf9692c9.mp4",
+    "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/4559b3865751418d/bw_04_6c19c7f59a.mp4"
+  ]
+}

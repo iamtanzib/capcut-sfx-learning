@@ -1,0 +1,281 @@
+{
+  "job_id": "4559b3865751418d",
+  "project": "1022",
+  "timeline": "8B9BADE9-C9C7-4C48-A11A-BE3758158DAA",
+  "source_hash": "c76b14d9ec7883315412291c226ee2cd5f5a2313f0d1e770d715014c556144b1",
+  "style_version": 5,
+  "items": [
+    {
+      "start": 0.0,
+      "end": 4.817,
+      "rank": 5,
+      "label": "Goat",
+      "reason": "source title hook plus goat headbutting the fainted man, ends before goose cut"
+    },
+    {
+      "start": 4.927,
+      "end": 9.19,
+      "rank": 4,
+      "label": "Goose",
+      "reason": "geese surround the fainted man, MAN DOWN payoff"
+    },
+    {
+      "start": 9.3,
+      "end": 15.923,
+      "rank": 3,
+      "label": "Emu",
+      "reason": "emus swarm the fainted girl, yall/ME? payoff"
+    },
+    {
+      "start": 16.033,
+      "end": 19.083,
+      "rank": 2,
+      "label": "Freaky",
+      "reason": "dog lies on fainted woman, Don't care caption"
+    },
+    {
+      "start": 19.193,
+      "end": 26.05,
+      "rank": 1,
+      "label": "Cute",
+      "reason": "dog walks over and sits on fainted owner, Cute label reveal to source end"
+    }
+  ],
+  "reactions": [
+    {
+      "item": 0,
+      "about": "goat attacking the fainted man",
+      "pieces": [
+        {
+          "from_word": 10,
+          "to_word": 27,
+          "start": 4.41,
+          "end": 9.21,
+          "text": "He did not care that you fainted. He had murder on his mind, bro. He was not trolling"
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 20,
+        "until_end": true,
+        "tail_end": 4.777,
+        "reason": "murder on his mind points back at the goat headbutt"
+      }
+    },
+    {
+      "item": 1,
+      "about": "geese surrounding the man",
+      "pieces": [
+        {
+          "from_word": 29,
+          "to_word": 41,
+          "start": 11.2,
+          "end": 14.78,
+          "text": "those goose are W. They're W. They would have called the police too"
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 35,
+        "until_end": true,
+        "tail_end": 9.15,
+        "reason": "they would have called the police refers to the geese"
+      }
+    },
+    {
+      "item": 2,
+      "about": "emus swarming the girl",
+      "pieces": [
+        {
+          "from_word": 42,
+          "to_word": 54,
+          "start": 17.14,
+          "end": 21.04,
+          "text": "Those emus like finally free food, bro. They did not care at all"
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 49,
+        "until_end": true,
+        "tail_end": 15.883,
+        "reason": "they did not care at all points at the emus"
+      }
+    },
+    {
+      "item": 3,
+      "about": "freaky dog lying on its owner",
+      "pieces": [
+        {
+          "from_word": 55,
+          "to_word": 63,
+          "start": 22.68,
+          "end": 25.43,
+          "text": "Go freaky dinky dog, bro. What is he doing?"
+        },
+        {
+          "from_word": 64,
+          "to_word": 68,
+          "start": 26.0,
+          "end": 27.69,
+          "text": "You put your owners down"
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 64,
+        "until_end": true,
+        "tail_end": 19.043,
+        "reason": "you put your owners down refers to the dog on the owner"
+      }
+    },
+    {
+      "item": 4,
+      "about": "cute dog sitting with fainted owner",
+      "pieces": [
+        {
+          "from_word": 69,
+          "to_word": 84,
+          "start": 29.55,
+          "end": 33.54,
+          "text": "And I'm at wholesome. At least he sits with you while you die. It's not bad"
+        }
+      ],
+      "tighten": true
+    }
+  ],
+  "segments": [
+    {
+      "role": "ranking",
+      "index": 0,
+      "source_start": 0.0,
+      "frames": 144,
+      "target_frame": 0
+    },
+    {
+      "role": "kevin",
+      "index": 0,
+      "source_start": 4.41,
+      "frames": 144,
+      "target_frame": 144
+    },
+    {
+      "role": "ranking",
+      "index": 1,
+      "source_start": 4.927,
+      "frames": 127,
+      "target_frame": 288
+    },
+    {
+      "role": "kevin",
+      "index": 1,
+      "source_start": 11.2,
+      "frames": 107,
+      "target_frame": 415
+    },
+    {
+      "role": "ranking",
+      "index": 2,
+      "source_start": 9.3,
+      "frames": 198,
+      "target_frame": 522
+    },
+    {
+      "role": "kevin",
+      "index": 2,
+      "source_start": 17.14,
+      "frames": 117,
+      "target_frame": 720
+    },
+    {
+      "role": "ranking",
+      "index": 3,
+      "source_start": 16.033,
+      "frames": 91,
+      "target_frame": 837
+    },
+    {
+      "role": "kevin",
+      "index": 3,
+      "source_start": 22.68,
+      "frames": 82,
+      "target_frame": 928
+    },
+    {
+      "role": "kevin",
+      "index": 3,
+      "source_start": 26.0,
+      "frames": 51,
+      "target_frame": 1010
+    },
+    {
+      "role": "ranking",
+      "index": 4,
+      "source_start": 19.193,
+      "frames": 205,
+      "target_frame": 1061
+    },
+    {
+      "role": "kevin",
+      "index": 4,
+      "source_start": 29.55,
+      "frames": 120,
+      "target_frame": 1266
+    }
+  ],
+  "overlays": [
+    {
+      "reaction": 0,
+      "target_frame": 221,
+      "frames": 67,
+      "source_start": 2.544,
+      "zoom": 1.1,
+      "reason": "murder on his mind points back at the goat headbutt",
+      "under_words": "on his mind, bro. He was not trolling"
+    },
+    {
+      "reaction": 1,
+      "target_frame": 480,
+      "frames": 42,
+      "source_start": 7.75,
+      "zoom": 1.1,
+      "reason": "they would have called the police refers to the geese",
+      "under_words": "They would have called the police too"
+    },
+    {
+      "reaction": 2,
+      "target_frame": 798,
+      "frames": 39,
+      "source_start": 14.583,
+      "zoom": 1.1,
+      "reason": "they did not care at all points at the emus",
+      "under_words": "They did not care at all"
+    },
+    {
+      "reaction": 3,
+      "target_frame": 1010,
+      "frames": 51,
+      "source_start": 17.343,
+      "zoom": 1.1,
+      "reason": "you put your owners down refers to the dog on the owner",
+      "under_words": "put your owners down"
+    }
+  ],
+  "volumes": {
+    "kevin": 0.63,
+    "ranking": 0.5
+  },
+  "total_frames": 1386,
+  "whoosh_cues": [
+    9.27,
+    17.07,
+    27.57,
+    35.037
+  ],
+  "quality_notes": {
+    "item_boundaries_checked_on_frames": true,
+    "reaction_mapping_reviewed": true,
+    "dropped_speech_reviewed": true,
+    "notes": "Words 0-9 are Kevin's slate. B&W tails end 0.05s before each cut so the next shot never flashes (seen in first preview)."
+  }
+}

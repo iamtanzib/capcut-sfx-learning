@@ -1,0 +1,346 @@
+{
+  "model": "base.en",
+  "seconds": 1.81,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.08,
+      "end": 0.8,
+      "text": "Let's go",
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.66,
+          "text": "Let's"
+        },
+        {
+          "start": 0.66,
+          "end": 0.8,
+          "text": "go"
+        }
+      ]
+    },
+    {
+      "start": 1.73,
+      "end": 5.36,
+      "text": "Oh, no, you better not eat that again",
+      "words": [
+        {
+          "start": 1.73,
+          "end": 2.17,
+          "text": "Oh,"
+        },
+        {
+          "start": 2.25,
+          "end": 2.47,
+          "text": "no,"
+        },
+        {
+          "start": 2.47,
+          "end": 3.53,
+          "text": "you"
+        },
+        {
+          "start": 4.26,
+          "end": 4.46,
+          "text": "better"
+        },
+        {
+          "start": 4.46,
+          "end": 4.68,
+          "text": "not"
+        },
+        {
+          "start": 4.68,
+          "end": 4.88,
+          "text": "eat"
+        },
+        {
+          "start": 4.88,
+          "end": 5.08,
+          "text": "that"
+        },
+        {
+          "start": 5.08,
+          "end": 5.36,
+          "text": "again"
+        }
+      ]
+    },
+    {
+      "start": 11.73,
+      "end": 16.73,
+      "text": "Get Spongebob away from the drugs. Oh my god",
+      "words": [
+        {
+          "start": 11.73,
+          "end": 12.17,
+          "text": "Get"
+        },
+        {
+          "start": 12.17,
+          "end": 12.61,
+          "text": "Spongebob"
+        },
+        {
+          "start": 12.61,
+          "end": 12.83,
+          "text": "away"
+        },
+        {
+          "start": 12.83,
+          "end": 13.05,
+          "text": "from"
+        },
+        {
+          "start": 13.05,
+          "end": 13.19,
+          "text": "the"
+        },
+        {
+          "start": 13.19,
+          "end": 13.41,
+          "text": "drugs."
+        },
+        {
+          "start": 13.67,
+          "end": 14.11,
+          "text": "Oh"
+        },
+        {
+          "start": 14.11,
+          "end": 16.57,
+          "text": "my"
+        },
+        {
+          "start": 16.73,
+          "end": 16.73,
+          "text": "god"
+        }
+      ]
+    },
+    {
+      "start": 16.73,
+      "end": 19.15,
+      "text": "That looks exactly like my",
+      "words": [
+        {
+          "start": 16.73,
+          "end": 16.73,
+          "text": "That"
+        },
+        {
+          "start": 16.73,
+          "end": 18.23,
+          "text": "looks"
+        },
+        {
+          "start": 18.23,
+          "end": 18.39,
+          "text": "exactly"
+        },
+        {
+          "start": 18.39,
+          "end": 19.01,
+          "text": "like"
+        },
+        {
+          "start": 19.01,
+          "end": 19.15,
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "start": 35.52,
+      "end": 36.4,
+      "text": "I know those people be trolling",
+      "words": [
+        {
+          "start": 35.52,
+          "end": 35.96,
+          "text": "I"
+        },
+        {
+          "start": 35.96,
+          "end": 36.4,
+          "text": "know"
+        },
+        {
+          "start": 36.4,
+          "end": 36.4,
+          "text": "those"
+        },
+        {
+          "start": 36.4,
+          "end": 36.4,
+          "text": "people"
+        },
+        {
+          "start": 36.4,
+          "end": 36.4,
+          "text": "be"
+        },
+        {
+          "start": 36.4,
+          "end": 36.4,
+          "text": "trolling"
+        }
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 42.98,
+      "text": "Activated something in them bro. Oh, yeah, I'm about to get something. Alright. Anybody else's heart just jump onto the chest",
+      "words": [
+        {
+          "start": 37.0,
+          "end": 37.4,
+          "text": "Activated"
+        },
+        {
+          "start": 37.4,
+          "end": 37.62,
+          "text": "something"
+        },
+        {
+          "start": 37.62,
+          "end": 37.96,
+          "text": "in"
+        },
+        {
+          "start": 37.96,
+          "end": 38.08,
+          "text": "them"
+        },
+        {
+          "start": 38.08,
+          "end": 38.3,
+          "text": "bro."
+        },
+        {
+          "start": 38.52,
+          "end": 38.92,
+          "text": "Oh,"
+        },
+        {
+          "start": 38.92,
+          "end": 39.06,
+          "text": "yeah,"
+        },
+        {
+          "start": 39.1,
+          "end": 39.28,
+          "text": "I'm"
+        },
+        {
+          "start": 39.28,
+          "end": 39.34,
+          "text": "about"
+        },
+        {
+          "start": 39.34,
+          "end": 39.48,
+          "text": "to"
+        },
+        {
+          "start": 39.48,
+          "end": 39.58,
+          "text": "get"
+        },
+        {
+          "start": 39.58,
+          "end": 39.78,
+          "text": "something."
+        },
+        {
+          "start": 39.92,
+          "end": 40.08,
+          "text": "Alright."
+        },
+        {
+          "start": 41.0,
+          "end": 41.4,
+          "text": "Anybody"
+        },
+        {
+          "start": 41.4,
+          "end": 41.86,
+          "text": "else's"
+        },
+        {
+          "start": 41.86,
+          "end": 42.04,
+          "text": "heart"
+        },
+        {
+          "start": 42.04,
+          "end": 42.24,
+          "text": "just"
+        },
+        {
+          "start": 42.24,
+          "end": 42.44,
+          "text": "jump"
+        },
+        {
+          "start": 42.44,
+          "end": 42.66,
+          "text": "onto"
+        },
+        {
+          "start": 42.66,
+          "end": 42.76,
+          "text": "the"
+        },
+        {
+          "start": 42.76,
+          "end": 42.98,
+          "text": "chest"
+        }
+      ]
+    },
+    {
+      "start": 42.98,
+      "end": 44.4,
+      "text": "How was you holding that frog captain?",
+      "words": [
+        {
+          "start": 42.98,
+          "end": 43.18,
+          "text": "How"
+        },
+        {
+          "start": 43.18,
+          "end": 43.38,
+          "text": "was"
+        },
+        {
+          "start": 43.38,
+          "end": 43.46,
+          "text": "you"
+        },
+        {
+          "start": 43.46,
+          "end": 43.62,
+          "text": "holding"
+        },
+        {
+          "start": 43.62,
+          "end": 43.82,
+          "text": "that"
+        },
+        {
+          "start": 43.82,
+          "end": 43.98,
+          "text": "frog"
+        },
+        {
+          "start": 43.98,
+          "end": 44.4,
+          "text": "captain?"
+        }
+      ]
+    }
+  ]
+}

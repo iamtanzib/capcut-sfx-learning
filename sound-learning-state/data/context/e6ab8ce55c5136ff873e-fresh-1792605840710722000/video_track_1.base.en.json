@@ -1,0 +1,374 @@
+{
+  "model": "base.en",
+  "seconds": 1.69,
+  "cached": false,
+  "rows": [
+    {
+      "start": 1.42,
+      "end": 16.17,
+      "text": "Okay, bro, stop yelling at me. I'll see that's not bad. I need to be locked out the fridge sometimes",
+      "words": [
+        {
+          "start": 1.42,
+          "end": 2.08,
+          "text": "Okay,"
+        },
+        {
+          "start": 4.9,
+          "end": 5.5,
+          "text": "bro,"
+        },
+        {
+          "start": 6.73,
+          "end": 6.99,
+          "text": "stop"
+        },
+        {
+          "start": 6.99,
+          "end": 7.23,
+          "text": "yelling"
+        },
+        {
+          "start": 7.23,
+          "end": 7.51,
+          "text": "at"
+        },
+        {
+          "start": 7.51,
+          "end": 7.61,
+          "text": "me."
+        },
+        {
+          "start": 7.71,
+          "end": 7.79,
+          "text": "I'll"
+        },
+        {
+          "start": 7.79,
+          "end": 7.95,
+          "text": "see"
+        },
+        {
+          "start": 7.95,
+          "end": 9.01,
+          "text": "that's"
+        },
+        {
+          "start": 14.03,
+          "end": 14.15,
+          "text": "not"
+        },
+        {
+          "start": 14.15,
+          "end": 14.41,
+          "text": "bad."
+        },
+        {
+          "start": 14.81,
+          "end": 14.85,
+          "text": "I"
+        },
+        {
+          "start": 14.85,
+          "end": 14.95,
+          "text": "need"
+        },
+        {
+          "start": 14.95,
+          "end": 15.07,
+          "text": "to"
+        },
+        {
+          "start": 15.07,
+          "end": 15.17,
+          "text": "be"
+        },
+        {
+          "start": 15.17,
+          "end": 15.31,
+          "text": "locked"
+        },
+        {
+          "start": 15.31,
+          "end": 15.51,
+          "text": "out"
+        },
+        {
+          "start": 15.51,
+          "end": 15.63,
+          "text": "the"
+        },
+        {
+          "start": 15.63,
+          "end": 15.79,
+          "text": "fridge"
+        },
+        {
+          "start": 15.79,
+          "end": 16.17,
+          "text": "sometimes"
+        }
+      ]
+    },
+    {
+      "start": 18.82,
+      "end": 32.18,
+      "text": "What I would I eat air for the rest of my boys. Hey mom. Yeah, I'm getting grapes. I don't know",
+      "words": [
+        {
+          "start": 18.82,
+          "end": 19.22,
+          "text": "What"
+        },
+        {
+          "start": 21.46,
+          "end": 21.86,
+          "text": "I"
+        },
+        {
+          "start": 21.86,
+          "end": 22.12,
+          "text": "would"
+        },
+        {
+          "start": 22.12,
+          "end": 22.98,
+          "text": "I"
+        },
+        {
+          "start": 22.98,
+          "end": 23.16,
+          "text": "eat"
+        },
+        {
+          "start": 23.16,
+          "end": 23.44,
+          "text": "air"
+        },
+        {
+          "start": 23.44,
+          "end": 23.62,
+          "text": "for"
+        },
+        {
+          "start": 23.62,
+          "end": 23.7,
+          "text": "the"
+        },
+        {
+          "start": 23.7,
+          "end": 23.84,
+          "text": "rest"
+        },
+        {
+          "start": 23.84,
+          "end": 23.96,
+          "text": "of"
+        },
+        {
+          "start": 23.96,
+          "end": 24.06,
+          "text": "my"
+        },
+        {
+          "start": 24.06,
+          "end": 24.44,
+          "text": "boys."
+        },
+        {
+          "start": 28.84,
+          "end": 29.24,
+          "text": "Hey"
+        },
+        {
+          "start": 29.24,
+          "end": 29.56,
+          "text": "mom."
+        },
+        {
+          "start": 29.76,
+          "end": 30.02,
+          "text": "Yeah,"
+        },
+        {
+          "start": 30.02,
+          "end": 30.96,
+          "text": "I'm"
+        },
+        {
+          "start": 31.12,
+          "end": 31.3,
+          "text": "getting"
+        },
+        {
+          "start": 31.3,
+          "end": 31.58,
+          "text": "grapes."
+        },
+        {
+          "start": 31.82,
+          "end": 31.9,
+          "text": "I"
+        },
+        {
+          "start": 31.9,
+          "end": 32.02,
+          "text": "don't"
+        },
+        {
+          "start": 32.02,
+          "end": 32.18,
+          "text": "know"
+        }
+      ]
+    },
+    {
+      "start": 34.36,
+      "end": 35.04,
+      "text": "That's wild",
+      "words": [
+        {
+          "start": 34.36,
+          "end": 34.76,
+          "text": "That's"
+        },
+        {
+          "start": 34.76,
+          "end": 35.04,
+          "text": "wild"
+        }
+      ]
+    },
+    {
+      "start": 37.11,
+      "end": 48.5,
+      "text": "That will help me lose weight. That's not bad. Okay. Okay. I'm not gonna let out piss me off",
+      "words": [
+        {
+          "start": 37.11,
+          "end": 37.51,
+          "text": "That"
+        },
+        {
+          "start": 37.51,
+          "end": 37.71,
+          "text": "will"
+        },
+        {
+          "start": 37.71,
+          "end": 37.87,
+          "text": "help"
+        },
+        {
+          "start": 37.87,
+          "end": 38.01,
+          "text": "me"
+        },
+        {
+          "start": 38.01,
+          "end": 38.19,
+          "text": "lose"
+        },
+        {
+          "start": 38.19,
+          "end": 38.45,
+          "text": "weight."
+        },
+        {
+          "start": 38.63,
+          "end": 38.73,
+          "text": "That's"
+        },
+        {
+          "start": 38.73,
+          "end": 38.87,
+          "text": "not"
+        },
+        {
+          "start": 38.87,
+          "end": 39.23,
+          "text": "bad."
+        },
+        {
+          "start": 42.5,
+          "end": 42.9,
+          "text": "Okay."
+        },
+        {
+          "start": 46.88,
+          "end": 47.28,
+          "text": "Okay."
+        },
+        {
+          "start": 47.46,
+          "end": 47.46,
+          "text": "I'm"
+        },
+        {
+          "start": 47.46,
+          "end": 47.54,
+          "text": "not"
+        },
+        {
+          "start": 47.54,
+          "end": 47.66,
+          "text": "gonna"
+        },
+        {
+          "start": 47.66,
+          "end": 47.8,
+          "text": "let"
+        },
+        {
+          "start": 47.8,
+          "end": 47.92,
+          "text": "out"
+        },
+        {
+          "start": 47.92,
+          "end": 48.08,
+          "text": "piss"
+        },
+        {
+          "start": 48.08,
+          "end": 48.3,
+          "text": "me"
+        },
+        {
+          "start": 48.3,
+          "end": 48.5,
+          "text": "off"
+        }
+      ]
+    },
+    {
+      "start": 50.91,
+      "end": 51.31,
+      "text": "bruh",
+      "words": [
+        {
+          "start": 50.91,
+          "end": 51.31,
+          "text": "bruh"
+        }
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 55.38,
+      "text": "No bruh",
+      "words": [
+        {
+          "start": 54.0,
+          "end": 54.68,
+          "text": "No"
+        },
+        {
+          "start": 54.68,
+          "end": 55.38,
+          "text": "bruh"
+        }
+      ]
+    }
+  ]
+}

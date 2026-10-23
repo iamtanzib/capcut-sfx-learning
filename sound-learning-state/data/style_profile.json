@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 40,
   "source": "Four manual 0928 timelines plus explicit user corrections",
   "authoritative_user_rules": {
     "approval": [
@@ -12782,6 +12782,1830 @@
       "reference": "34e1f3e57a76ee616c4a0387cc814921049d70f0c6f4896e82042c91c8b41a7a",
       "learned_version": 36,
       "video_signature": "f83c983adf7d8d8309f7a733846acace61fa31466a8ca3139368ceff97479703"
+    },
+    {
+      "decision": "omit_or_changed",
+      "sound": "MMMMMM.mp3",
+      "cue": "Oh, yeah",
+      "context": "Monica oh yeah",
+      "scope": "This video/scene only; nearby additions may be replacements or retimings. Do not infer a global ban.",
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "omit_or_changed",
+      "sound": "patrick-star-yeah.mp3",
+      "cue": "Heck yeah, she can stay",
+      "context": "she can stay heck yeah she can stay",
+      "scope": "This video/scene only; nearby additions may be replacements or retimings. Do not infer a global ban.",
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "Again? Okay.",
+      "start": 2.6,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.233333,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "again okay let's see",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "Again? Okay.",
+        "video_track_2": "Somebody's moving inside your walls for the next 10 years, but each person comes with a different benefit."
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "patrick-star-yeah.mp3",
+      "cue": "Monica. Oh, yeah.",
+      "start": 10.567,
+      "duration": 1.567,
+      "volume": 0.495353,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5666670000000007,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "Monica oh yeah",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "Monica. Oh, yeah.",
+        "video_track_2": "I'm Monica. I'll clean your whole house every day. Even your nasty bathroom. Just"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "She can stay. Heck yeah, she can stay.",
+      "start": 15.3,
+      "duration": 1.0,
+      "volume": 0.155042,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "she can stay heck yeah she can stay",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "She can stay. Heck yeah, she can stay.",
+        "video_track_2": "Just don't ask me to clean your underwear. I'm Marcus. I'll guard your"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ooooo.mp3",
+      "cue": "Ooh, security",
+      "start": 18.93,
+      "duration": 1.1,
+      "volume": 0.172809,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.1000000000000014,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "she can stay heck yeah she can stay ooh security",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Ooh, security.",
+        "video_track_2": "Marcus. I'll guard your house day and night. Even the burglar's gonna need an appointment to"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "anime-wow-sound-effect.mp3",
+      "cue": "Personal shop.",
+      "start": 26.633,
+      "duration": 4.233,
+      "volume": 0.252217,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 4.233333000000002,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'm still going market first one personal chef",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "Personal shop.",
+        "video_track_2": "I'm Antonio. I'll cook whatever you want, whenever you want. You hungry at 3 a .m.?"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "Antonio free bro, free rent bro",
+      "start": 32.08,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "Antonio free bro free rent bro",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Antonio Free, bro. Free rent, bro.",
+        "video_track_2": "already seasoning the steak. I'm Jasmine. I'll mow your lawn, wash your"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "What?",
+      "start": 34.77,
+      "duration": 1.233,
+      "volume": 0.20991,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.232999999999997,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "Antonio free bro free rent bro what",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "rent, bro. What?",
+        "video_track_2": "I'm Jasmine. I'll mow your lawn, wash your clothes, and do every chore. You can be lazy for"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "awkward-moment.mp3",
+      "cue": "I don't know about that",
+      "start": 39.89,
+      "duration": 1.4,
+      "volume": 0.380239,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.3999999999999986,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's I don't know about that what",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I don't know about that. What?",
+        "video_track_2": "for ten whole years. I'm Daniel. I'll go to work for you every day."
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "What?",
+      "start": 42.267,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.2333339999999993,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's I don't know about that what",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I don't know about that. What?",
+        "video_track_2": "I'm Daniel. I'll go to work for you every day. You stay home and sleep? Just don't"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ceeday-huh-sound-effect.mp3",
+      "cue": "what the what",
+      "start": 46.633,
+      "duration": 1.167,
+      "volume": 0.543919,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.1670000000000016,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what the what hey he's a man",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Hey, he's a man.",
+        "video_track_2": "Just don't blame me if I flirt with your boss. I'm Layla. I'll"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "Hey, he's a man",
+      "start": 47.93,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what the what hey he's a man",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Hey, he's a man.",
+        "video_track_2": "I flirt with your boss. I'm Layla. I'll drive you anywhere for"
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "I'm doing Daniel",
+      "start": 55.2,
+      "duration": 0.8,
+      "volume": 0.18609,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.7999999999999972,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'm doing Daniel",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I'm doing Daniel. You",
+        "video_track_2": "at 4 a .m. Just don't throw up in my car."
+      },
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "learned_version": 37,
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "decision": "omit_or_changed",
+      "sound": "ooooo.mp3",
+      "cue": "oh",
+      "context": "everyone's a vulture Mike oh",
+      "scope": "This video/scene only; nearby additions may be replacements or retimings. Do not infer a global ban.",
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "awkward-moment.mp3",
+      "cue": "Yeah, I don't know about that. Definitely not honestly.",
+      "start": 14.6,
+      "duration": 1.4,
+      "volume": 0.348938,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.4000000000000004,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "yeah I don't know about that definitely not asleep no",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "Yeah, I don't know about that. Definitely not honestly.",
+        "video_track_2": "But now your boss expects you to work all night too. Every animal can talk"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "error_CDOxCYm.mp3",
+      "cue": "Definitely not",
+      "start": 15.92,
+      "duration": 0.94,
+      "volume": 0.305481,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9399999999999995,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "yeah I don't know about that definitely not asleep no",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Yeah, I don't know about that. Definitely not honestly. No.",
+        "video_track_2": "expects you to work all night too. Every animal can talk now. Your pets can"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "Birds, birds in the morning will be annoying",
+      "start": 22.58,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "birds birds in the morning will be annoying no oh",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Birds, birds in the morning will be annoying. Oh.",
+        "video_track_2": "But your dog might expose what you do when nobody's home. Everybody can fly now."
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "birds in the morning will be annoying. Oh. Okay.",
+      "start": 25.233,
+      "duration": 1.333,
+      "volume": 0.530083,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.3333329999999997,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "birds birds in the morning will be annoying no oh okay",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "birds in the morning will be annoying. Oh. Okay.",
+        "video_track_2": "home. Everybody can fly now. No more traffic, no more gas money,"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ceeday-huh-sound-effect.mp3",
+      "cue": "Everyone's a vulture mate?",
+      "start": 30.07,
+      "duration": 1.167,
+      "volume": 0.543919,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.1670000000000016,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "okay everyone's a vulture Mike oh",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Okay. Everyone's a vulture mate?",
+        "video_track_2": "money, money, but imagine hitting a bird at 80 miles an hour. Money grows on trees now."
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "anime-wow-sound-effect.mp3",
+      "cue": "Everyone's a vulture mate?",
+      "start": 32.167,
+      "duration": 4.233,
+      "volume": 0.337594,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 4.233333999999999,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "everyone's a vulture Mike oh",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "Everyone's a vulture mate?",
+        "video_track_2": "80 miles an hour. Money grows on trees now. Just pick your paycheck, but"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "I'm cut down the tree, bro",
+      "start": 37.43,
+      "duration": 1.3,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.2999999999999972,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'm cutting down a tree bro I'll do that",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I'm cut down the tree, bro. I'll do that.",
+        "video_track_2": "neighbors already stole every dollar off your tree. You can teleport anywhere"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "I'll do that",
+      "start": 38.867,
+      "duration": 1.0,
+      "volume": 0.18609,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'm cutting down a tree bro I'll do that everyone",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I'm cut down the tree, bro. I'll do that. Everyone?",
+        "video_track_2": "every dollar off your tree. You can teleport anywhere instantly."
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "tindeck_1.mp3",
+      "cue": "bro. I'll do that. Everyone?",
+      "start": 40.733,
+      "duration": 1.6,
+      "volume": 0.475215,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.6000000000000014,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'm cutting down a tree bro I'll do that everyone",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "bro. I'll do that. Everyone?",
+        "video_track_2": "You can teleport anywhere instantly. No more flights, no more waiting,"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "error_CDOxCYm.mp3",
+      "cue": "That's not good. No.",
+      "start": 45.67,
+      "duration": 0.94,
+      "volume": 0.305481,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9399999999999977,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's not good nah",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "That's not good. No.",
+        "video_track_2": "but imagine sneezing and ending up in Antarctica. Food is free forever."
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "patrick-star-yeah.mp3",
+      "cue": "Yes. Yes.",
+      "start": 48.25,
+      "duration": 1.567,
+      "volume": 0.495353,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5670000000000002,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's not good nah yes yes",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "That's not good. No. Yes. Yes.",
+        "video_track_2": "Food is free forever. Take whatever you want, but now your"
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "That's not too bad",
+      "start": 54.433,
+      "duration": 0.867,
+      "volume": 0.138545,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.8666669999999996,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's not too bad",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "That's not too bad.",
+        "video_track_2": "with a 47 -page grocery grocery list."
+      },
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "learned_version": 38,
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "I did.",
+      "start": 2.433,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.233333,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I did",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "I did.",
+        "video_track_2": "You accidentally got invited to six secret societies. Some are amazing and some are absolutely"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "I'll do that",
+      "start": 12.02,
+      "duration": 1.0,
+      "volume": 0.18609,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "OK I'll do that",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Okay. I'll do that.",
+        "video_track_2": "Society. We just want someone to play bingo with us. And honey, you're taking cookies home whether you"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "yeahoo.mp3",
+      "cue": "I'll do that",
+      "start": 15.09,
+      "duration": 0.967,
+      "volume": 0.136645,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9669999999999987,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'll do that I'll do that what the",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I'll do that.",
+        "video_track_2": "And honey, you're taking cookies home whether you like it or not. Welcome to the Professional Hide and Seek Society."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "What the?",
+      "start": 17.6,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.2330000000000005,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "I'll do that what the",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I'll do that. What the?",
+        "video_track_2": "not. Welcome to the Professional Hide and Seek Society. We're so good. Three of our members have been missing"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "Dog, you're not alive",
+      "start": 21.68,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "dog you're not alive bro no no",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Dog, you're not alive. Bro, no, no.",
+        "video_track_2": "Three of our members have been missing since 2019. Nobody's found them yet. Welcome"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "error_CDOxCYm.mp3",
+      "cue": "Bro, no, no",
+      "start": 23.54,
+      "duration": 0.94,
+      "volume": 0.305481,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9400000000000013,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "dog you're not alive bro no no fuck oh",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Dog, you're not alive. Bro, no, no. For all",
+        "video_track_2": "Nobody's found them yet. Welcome to the Secret Foot Sniffing Society."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ewww.mp3",
+      "cue": "oh heck no (foot sniffing)",
+      "start": 25.82,
+      "duration": 1.9,
+      "volume": 0.121591,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.8999999999999986,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "dog you're not alive bro no no fuck oh heck no that's Diddy",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "no, no. For all het now. That's",
+        "video_track_2": "Welcome to the Secret Foot Sniffing Society. We collect the stinkiest socks on Earth."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "That's Diddy",
+      "start": 28.04,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "fuck oh heck no that's Diddy",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "For all het now. That's Diddy.",
+        "video_track_2": "Sniffing Society. We collect the stinkiest socks on Earth. Take your shoes off. off, we need to inspect those"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "among-us-role-reveal-sound.mp3",
+      "cue": "That's a Diddy something, but I don't know",
+      "start": 30.667,
+      "duration": 3.2,
+      "volume": 0.256078,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 3.200000000000003,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's Diddy that's a diddy something bro I don't know",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "That's Diddy. That's a Diddy something, but I don't know.",
+        "video_track_2": "Earth. Take your shoes off. off, we need to inspect those toes. Welcome to the Midnight Snack Society."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "anime-wow-sound-effect.mp3",
+      "cue": "That's a Diddy something, but I don't know. You're not. Oh, okay. Okay.",
+      "start": 33.467,
+      "duration": 4.233,
+      "volume": 0.337594,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 4.233333999999999,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's a diddy something bro I don't know Mina oh okay okay",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "That's a Diddy something, but I don't know. You're not. Oh, okay. Okay.",
+        "video_track_2": "Welcome to the Midnight Snack Society. We eat whatever we want at 3 a .m."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ooooo.mp3",
+      "cue": "Oh, okay",
+      "start": 33.92,
+      "duration": 1.1,
+      "volume": 0.149512,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.1000000000000014,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's a diddy something bro I don't know Mina oh okay okay",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Diddy something, but I don't know. You're not. Oh, okay. Okay.",
+        "video_track_2": "Welcome to the Midnight Snack Society. We eat whatever we want at 3 a .m. Only rule is,"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "error_CDOxCYm.mp3",
+      "cue": "What? Oh, heck no",
+      "start": 39.35,
+      "duration": 0.94,
+      "volume": 0.305481,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9399999999999977,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what oh heck no oh",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "What? Oh, het now.",
+        "video_track_2": "if you finish the pizza, you gotta make another. Welcome to the Secret Anime Society."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "anime-wow-sound-effect.mp3",
+      "cue": "What? Oh, het now. Oh.",
+      "start": 41.667,
+      "duration": 2.333,
+      "volume": 0.235983,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 2.3333340000000007,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what oh heck no oh",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "What? Oh, het now. Oh.",
+        "video_track_2": "Welcome to the Secret Anime Society. We watch anime all day and eat"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "That's fair. That's fair.",
+      "start": 48.0,
+      "duration": 1.0,
+      "volume": 0.155042,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's fair that's fair",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "That's fair. That's fair.",
+        "video_track_2": "the ending, you're getting kicked out. Welcome to the Secret Compliment Society. We hype"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ooooo.mp3",
+      "cue": "Oh, for real",
+      "start": 52.1,
+      "duration": 1.1,
+      "volume": 0.172809,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.1000000000000014,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "oh for real",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Oh, for real.",
+        "video_track_2": "Society. We hype you up every single day. You could wake up looking crazy and we'd still call"
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "I do that",
+      "start": 55.19,
+      "duration": 0.81,
+      "volume": 0.18609,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.8100000000000023,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "oh for real I do that",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I do that.",
+        "video_track_2": "could wake up looking crazy and we'd still call you gorgeous. We're going to start with the It's a little bit more gorgeous. Yeah."
+      },
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "learned_version": 39,
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "decision": "omit_or_changed",
+      "sound": "among-us-role-reveal-sound.mp3",
+      "cue": "He snitched / I definitely didn't snitch on you",
+      "context": "hopefully I can get out what the he snitched he snitched yeah I look at him happy at",
+      "scope": "This video/scene only; nearby additions may be replacements or retimings. Do not infer a global ban.",
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "I did? Well,",
+      "start": 1.0,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.233333,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "I did? Well,",
+        "video_track_2": "You just committed a crime, and now your friend is getting interrogated. If they snitch,"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "sudden-suspense-sound-effect.mp3",
+      "cue": "hopefully I can get out. What the?",
+      "start": 7.1,
+      "duration": 1.4,
+      "volume": 0.141254,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.4000000000000004,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "hopefully I can get out what the",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "hopefully I can get out. What the?",
+        "video_track_2": "Your birth month decides who's in that chair. Who did you get? January? Bro, you ain't"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "What the?",
+      "start": 8.8,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.233333,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "hopefully I can get out what the he snitched",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "hopefully I can get out. What the? He snitched.",
+        "video_track_2": "chair. Who did you get? January? Bro, you ain't got nothing to worry about. They gave me"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "He snitched",
+      "start": 10.9,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "hopefully I can get out what the he snitched he snitched",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "out. What the? He snitched. He snitched.",
+        "video_track_2": "Bro, you ain't got nothing to worry about. They gave me all this chicken for free. I definitely didn't"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "among-us-role-reveal-sound.mp3",
+      "cue": "snitched. He snitched. Yeah, I look at him. Have you?",
+      "start": 13.533,
+      "duration": 4.0,
+      "volume": 0.276482,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 3.9999999999999982,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "he snitched he snitched yeah I look at him happy at",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "snitched. He snitched. Yeah, I look at him. Have you?",
+        "video_track_2": "They gave me all this chicken for free. I definitely didn't snitch on you. February."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "you? What? What?",
+      "start": 18.433,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.2333329999999982,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "yeah I look at him happy at mm mm what what",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "you? What? What?",
+        "video_track_2": "February. Yeah, I ain't gonna lie, you're cooked. They offered me $100 ,000 to tell them everything."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "error_CDOxCYm.mp3",
+      "cue": "no no",
+      "start": 21.033,
+      "duration": 0.967,
+      "volume": 0.305481,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.966667000000001,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what what no no I'm cooked I'm cooked",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "What?",
+        "video_track_2": "They offered me $100 ,000 to tell them everything. I'm rich now. Sorry, Bestie."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhh_KcgAXfs.mp3",
+      "cue": "I'm cooked I'm cooked",
+      "start": 23.233,
+      "duration": 2.267,
+      "volume": 1.122018,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 2.2666670000000018,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "no no I'm cooked I'm cooked",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_2": "I'm rich now. Sorry, Bestie. March. Bro, I've"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "We? Hey, March, you could trust him, I think.",
+      "start": 32.167,
+      "duration": 1.0,
+      "volume": 0.155042,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "wait hey March you can trust him I think",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "We? Hey, March, you could trust him, I think.",
+        "video_track_2": "me whatever they want. I don't know nothing April. Don't worry. I already called my lawyer."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "yeahoo.mp3",
+      "cue": "W. April?",
+      "start": 36.133,
+      "duration": 0.933,
+      "volume": 0.136645,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9333329999999975,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "W April",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "W. April?",
+        "video_track_2": "already called my lawyer. I ain't saying a single word They can keep me here all year. I'm not snitching on"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "April got a good one",
+      "start": 39.733,
+      "duration": 1.0,
+      "volume": 0.18609,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "April got a good one good person",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "April got a good one. The person.",
+        "video_track_2": "all year. I'm not snitching on you May Bro, I'm trying not to snitch,"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "he's scared of the dark?",
+      "start": 46.833,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "bro you scared of the dark",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "But he's scared of the dark?",
+        "video_track_2": "seconds and I started telling them stuff They didn't even ask about June bro relax."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "vine-boom (20).mp3",
+      "cue": "what",
+      "start": 52.7,
+      "duration": 1.233,
+      "volume": 0.26842,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.2333330000000018,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_2": "had evidence against us. So I ate all of it I don't know why it tasted like chocolate chip cookies, but you're welcome"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "awkward-moment.mp3",
+      "cue": "Bro.",
+      "start": 55.733,
+      "duration": 1.4,
+      "volume": 0.380239,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.3999999999999986,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "what bro",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Bro.",
+        "video_track_2": "tasted like chocolate chip cookies, but you're welcome July I'm so sorry"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "error_CDOxCYm.mp3",
+      "cue": "Ah, she snitched",
+      "start": 58.8,
+      "duration": 0.933,
+      "volume": 0.305481,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.9333329999999975,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "bro ah she snitched",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Ah, she snitched.",
+        "video_track_2": "July I'm so sorry The officer said he was disappointed in me, and I"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "movie_1.mp3",
+      "cue": "bro bro",
+      "start": 62.733,
+      "duration": 0.867,
+      "volume": 0.310218,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.8666669999999996,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "bro bro",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_2": "disappointed in me, and I started crying. I told him everything. August, bro, I outsmarted"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "movie_1.mp3",
+      "cue": "bro bro",
+      "start": 64.833,
+      "duration": 0.867,
+      "volume": 0.481975,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.8666670000000067,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "bro bro",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_2": "I told him everything. August, bro, I outsmarted the police. They asked if you committed the"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ceeday-huh-sound-effect.mp3",
+      "cue": "Bro, what?",
+      "start": 71.8,
+      "duration": 1.167,
+      "volume": 0.543919,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.1666660000000064,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "bro what",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Bro, what?",
+        "video_track_2": "exactly where you were and what time you did it instead. September, bro, they offered me a free vacation"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "Or you're cooked",
+      "start": 76.033,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "or your coach",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Or your cooked.",
+        "video_track_2": "me a free vacation if I told them everything. I'm going to Hawaii tomorrow. I hope prison got good Wi"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "undertakers-bell_2UwFCIe.mp3",
+      "cue": "That's messed up",
+      "start": 79.4,
+      "duration": 2.1,
+      "volume": 0.186718,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 0.3333329999999961,
+          "gain": 1.0
+        },
+        {
+          "offset": 0.3333329999999961,
+          "source_offset": 0.333333,
+          "duration": 1.7666669999999982,
+          "gain": 0.635
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's messed up",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "That's messed up.",
+        "video_track_2": "tomorrow. I hope prison got good Wi -Fi for you. Toba, bro, they offered me a new car,"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ooooo.mp3",
+      "cue": "oh",
+      "start": 83.167,
+      "duration": 1.1,
+      "volume": 0.149512,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0999999999999943,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "that's messed up oh I would have I would have snitched",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I would have snitched.",
+        "video_track_2": "bro, they offered me a new car, a whole cake, and a trip to Dubai. I told them keep all that."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "fahhhh.mp3",
+      "cue": "I would have snitched",
+      "start": 84.4,
+      "duration": 1.5,
+      "volume": 0.285234,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.5,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "oh I would have I would have snitched",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "I would have snitched.",
+        "video_track_2": "car, a whole cake, and a trip to Dubai. I told them keep all that. I'm not snitching on my day"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "among-us-role-reveal-sound.mp3",
+      "cue": "I would have snitched. I would have snitched.",
+      "start": 86.267,
+      "duration": 4.633,
+      "volume": 0.226674,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 4.633334000000005,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "oh I would have I would have snitched I would have snitched",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "I would have snitched. I would have snitched.",
+        "video_track_2": "Dubai. I told them keep all that. I'm not snitching on my day one. November bro."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "ceeday-huh-sound-effect.mp3",
+      "cue": "Snitched for a PS5?",
+      "start": 95.533,
+      "duration": 1.167,
+      "volume": 0.543919,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.166667000000004,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "he snitched for a PS five",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "Snitched for a PS5?",
+        "video_track_2": "But don't worry. I'll visit you in prison after I beat this game December bro, you're good."
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "heavenly-music-gaming-sound-effect-hd-mp3cut.mp3",
+      "cue": "oh it's a ride or die",
+      "start": 99.833,
+      "duration": 4.233,
+      "volume": 0.298247,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 4.233333000000002,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "oh it's a ride or die",
+      "cue_source": "matched_same_sound_prediction",
+      "dialogue_streams": {
+        "video_track_1": "It's a ride or die.",
+        "video_track_2": "good. I told him I did everything by myself. They don't even know you were there Just don't forget about me when"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
+    },
+    {
+      "decision": "manual_choice",
+      "sound": "MMMMMM.mp3",
+      "cue": "It's a ride or die.",
+      "start": 101.4,
+      "duration": 1.0,
+      "volume": 0.18609,
+      "gain_envelope": [
+        {
+          "offset": 0,
+          "source_offset": 0,
+          "duration": 1.0,
+          "gain": 1.0
+        }
+      ],
+      "gain_basis": "actual final effective gain with compound parents",
+      "scope": "Observed example; exact intent requires both dialogue streams and visual context.",
+      "caption_context": "oh it's a ride or die",
+      "cue_source": "mapped_manual_source_context",
+      "dialogue_streams": {
+        "video_track_1": "It's a ride or die.",
+        "video_track_2": "everything by myself. They don't even know you were there Just don't forget about me when I get locked up"
+      },
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "learned_version": 40,
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
     }
   ],
   "revision_rules": [
@@ -13685,6 +15509,42 @@
       "learned_version": 36,
       "reference": "34e1f3e57a76ee616c4a0387cc814921049d70f0c6f4896e82042c91c8b41a7a",
       "video_signature": "f83c983adf7d8d8309f7a733846acace61fa31466a8ca3139368ceff97479703"
+    },
+    {
+      "rule": "Ignore background music when learning revisions: exclude the user-added timeline music from the Day 4.3-4.6 revision comparison and all music-level/style learning; preserve the saved music itself.",
+      "evidence": "On 2026-10-21 the user said: revison add krsi igonore music.",
+      "scope": "global",
+      "authority": "explicit_user",
+      "learned_version": 37,
+      "reference": "3c736852c6be3afcf67c06a73dfe1dd4ed6a0a9bfa92361e9b6e35345922b1d6",
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8"
+    },
+    {
+      "rule": "Ignore background music when learning revisions: exclude the user-added timeline music from the Day 4.3-4.6 revision comparison and all music-level/style learning; preserve the saved music itself.",
+      "evidence": "On 2026-10-21 the user said: revison add krsi igonore music.",
+      "scope": "global",
+      "authority": "explicit_user",
+      "learned_version": 38,
+      "reference": "14aa65540b98dd045e3f0e08bd6aa334389feaff11d058cca67b44d4efa090d9",
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b"
+    },
+    {
+      "rule": "Ignore background music when learning revisions: exclude the user-added timeline music from the Day 4.3-4.6 revision comparison and all music-level/style learning; preserve the saved music itself.",
+      "evidence": "On 2026-10-21 the user said: revison add krsi igonore music.",
+      "scope": "global",
+      "authority": "explicit_user",
+      "learned_version": 39,
+      "reference": "f96bec42db45005f623194381f18a27681d3f228c5baa119f60fe35b5a8425af",
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361"
+    },
+    {
+      "rule": "Ignore background music when learning revisions: exclude the user-added timeline music from the Day 4.3-4.6 revision comparison and all music-level/style learning; preserve the saved music itself.",
+      "evidence": "On 2026-10-21 the user said: revison add krsi igonore music.",
+      "scope": "global",
+      "authority": "explicit_user",
+      "learned_version": 40,
+      "reference": "5227cc28880c3525b01ef9ee7bcd588ed6106be6943cdc399c67cc8f35fb4ce9",
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7"
     }
   ],
   "dialogue_level_references": [
@@ -14647,6 +16507,144 @@
         }
       ],
       "policy": "Observed per-role gains; keep foreground/narrator balance distinct. Raw slider gains cannot be blindly generalized to another recording."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.3",
+      "timeline_id": "8C89CF6D-1DBD-4B47-96CD-3ED05493F7CD",
+      "roles": [
+        {
+          "role": "video_track_1",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7487.mov",
+              "start": 0.0,
+              "duration": 3.6,
+              "volume": 0.63
+            },
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7487.mov",
+              "start": 3.6,
+              "duration": 10.633333,
+              "volume": 1.747895359992981
+            },
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7487.mov",
+              "start": 14.233333,
+              "duration": 40.966667,
+              "volume": 0.63
+            },
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7487.mov",
+              "start": 55.2,
+              "duration": 0.8,
+              "volume": 1.49796462059021
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/copy_c5c2d169-dd9a-48fe-9bc1-fc3ee306dc07.mov",
+              "start": 0.0,
+              "duration": 56.0,
+              "volume": 0.5
+            }
+          ]
+        }
+      ],
+      "policy": "Observed per-role gains; keep foreground/narrator balance distinct. Raw slider gains cannot be blindly generalized to another recording."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.4",
+      "timeline_id": "11AEF51B-7B36-44E6-8839-944A98062901",
+      "roles": [
+        {
+          "role": "video_track_1",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7486.mov",
+              "start": 0.0,
+              "duration": 55.3,
+              "volume": 0.63
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/copy_72f77c1a-8bf1-4277-8ab3-6b22a150e922.mov",
+              "start": 0.0,
+              "duration": 55.3,
+              "volume": 0.5
+            }
+          ]
+        }
+      ],
+      "policy": "Observed per-role gains; keep foreground/narrator balance distinct. Raw slider gains cannot be blindly generalized to another recording."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.5",
+      "timeline_id": "16B492FB-6124-472A-9861-25ADAA2C6EF6",
+      "roles": [
+        {
+          "role": "video_track_1",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7485.mov",
+              "start": 0.0,
+              "duration": 56.0,
+              "volume": 0.63
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/copy_6f7d7dda-7fa8-4ba2-b4ca-e984a9f0071c.mov",
+              "start": 0.0,
+              "duration": 56.0,
+              "volume": 0.5
+            }
+          ]
+        }
+      ],
+      "policy": "Observed per-role gains; keep foreground/narrator balance distinct. Raw slider gains cannot be blindly generalized to another recording."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.6",
+      "timeline_id": "A699152C-F0E1-4744-89DC-CBE2B7BCB8A3",
+      "roles": [
+        {
+          "role": "video_track_1",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/img_7488.mov",
+              "start": 0.0,
+              "duration": 104.066666,
+              "volume": 0.63
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "gain_spans": [
+            {
+              "path": "/volumes/128 gb/downloads/new folder with items/new videos 3/copy_0faee7fd-b529-41fc-b987-b1096fceb67c.mov",
+              "start": 0.0,
+              "duration": 104.066666,
+              "volume": 0.5
+            }
+          ]
+        }
+      ],
+      "policy": "Observed per-role gains; keep foreground/narrator balance distinct. Raw slider gains cannot be blindly generalized to another recording."
     }
   ],
   "background_level_references": [
@@ -15486,6 +17484,94 @@
           "note": "Read-only observed background/reference level; no global music-volume rule inferred."
         }
       ]
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.3",
+      "timeline_id": "8C89CF6D-1DBD-4B47-96CD-3ED05493F7CD",
+      "audio": [
+        {
+          "name": "New Home (Slowed).mp3",
+          "start": 0.0,
+          "duration": 56.0,
+          "source_start": 0.6,
+          "effective_gain": 0.07943282276391983,
+          "effective_db": -22.0,
+          "compound_gain": 1.0,
+          "leaf_gain": 0.07943282276391983,
+          "role": "library_music",
+          "note": "Read-only observed background/reference level; no global music-volume rule inferred."
+        }
+      ]
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.4",
+      "timeline_id": "11AEF51B-7B36-44E6-8839-944A98062901",
+      "audio": [
+        {
+          "name": "Aphex Twin - QKThr.mp3",
+          "start": 0.0,
+          "duration": 55.3,
+          "source_start": 0.0,
+          "effective_gain": 0.11798759549856186,
+          "effective_db": -18.56,
+          "compound_gain": 1.0,
+          "leaf_gain": 0.11798759549856186,
+          "role": "library_music",
+          "note": "Read-only observed background/reference level; no global music-volume rule inferred."
+        }
+      ]
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.5",
+      "timeline_id": "16B492FB-6124-472A-9861-25ADAA2C6EF6",
+      "audio": [
+        {
+          "name": "WhatsApp Video 2026-08-08 at 12.22.17 AM (8).mp3",
+          "start": 0.0,
+          "duration": 55.066666,
+          "source_start": 0.0,
+          "effective_gain": 0.08234267681837082,
+          "effective_db": -21.69,
+          "compound_gain": 1.0,
+          "leaf_gain": 0.08234267681837082,
+          "role": "library_music",
+          "note": "Read-only observed background/reference level; no global music-volume rule inferred."
+        }
+      ]
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.6",
+      "timeline_id": "A699152C-F0E1-4744-89DC-CBE2B7BCB8A3",
+      "audio": [
+        {
+          "name": "Music to Become a Villain - Heart of Darkness [FuWHRJTWAsg].mp3",
+          "start": 0.0,
+          "duration": 55.733333,
+          "source_start": 70.333333,
+          "effective_gain": 0.10657662898302078,
+          "effective_db": -19.45,
+          "compound_gain": 1.0,
+          "leaf_gain": 0.10657662898302078,
+          "role": "other_imported_audio",
+          "note": "Read-only observed background/reference level; no global music-volume rule inferred."
+        },
+        {
+          "name": "Music to Become a Villain - Heart of Darkness [FuWHRJTWAsg].mp3",
+          "start": 55.733333,
+          "duration": 48.333332999999996,
+          "source_start": 126.066666,
+          "effective_gain": 0.0554552897810936,
+          "effective_db": -25.12,
+          "compound_gain": 1.0,
+          "leaf_gain": 0.0554552897810936,
+          "role": "other_imported_audio",
+          "note": "Read-only observed background/reference level; no global music-volume rule inferred."
+        }
+      ]
     }
   ],
   "mix_preferences": {
@@ -15564,10 +17650,10 @@
         ]
       },
       "MMMMMM.mp3": {
-        "count": 66,
+        "count": 76,
         "normal_gain": 0.1860898420706939,
         "soft_gain": 0.1550423365884332,
-        "emphasis_gain": 0.1956680928179897,
+        "emphasis_gain": 0.19011959374840923,
         "median_duration": 1.0,
         "fade_in": 0.005,
         "fade_out": 0.1,
@@ -16495,15 +18581,155 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "She can stay. Heck yeah, she can stay.",
+            "gain": 0.1550423365884332,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "I'm doing Daniel",
+            "gain": 0.1860898420706939,
+            "duration": 0.7999999999999972,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.7999999999999972,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "I'll do that",
+            "gain": 0.1860898420706939,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "That's not too bad",
+            "gain": 0.13854457437992096,
+            "duration": 0.8666669999999996,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.8666669999999996,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "I'll do that",
+            "gain": 0.1860898420706939,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "That's fair. That's fair.",
+            "gain": 0.1550423365884332,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "I do that",
+            "gain": 0.1860898420706939,
+            "duration": 0.8100000000000023,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.8100000000000023,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "We? Hey, March, you could trust him, I think.",
+            "gain": 0.1550423365884332,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "April got a good one",
+            "gain": 0.1860898420706939,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "It's a ride or die.",
+            "gain": 0.1860898420706939,
+            "duration": 1.0,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "among-us-role-reveal-sound.mp3": {
-        "count": 16,
-        "normal_gain": 0.2376026064157486,
-        "soft_gain": 0.18671812117099762,
-        "emphasis_gain": 0.32245907187461853,
-        "median_duration": 4.349999999999994,
+        "count": 19,
+        "normal_gain": 0.2560777962207794,
+        "soft_gain": 0.19910163855497204,
+        "emphasis_gain": 0.31011688709259033,
+        "median_duration": 4.099999999999994,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -16728,15 +18954,57 @@
               }
             ],
             "timeline": "day 6.5"
+          },
+          {
+            "cue": "That's a Diddy something, but I don't know",
+            "gain": 0.2560777962207794,
+            "duration": 3.200000000000003,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 3.200000000000003,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "snitched. He snitched. Yeah, I look at him. Have you?",
+            "gain": 0.27648186683654785,
+            "duration": 3.9999999999999982,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 3.9999999999999982,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "I would have snitched. I would have snitched.",
+            "gain": 0.22667373716831207,
+            "duration": 4.633334000000005,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 4.633334000000005,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "anime-wow-sound-effect.mp3": {
-        "count": 10,
+        "count": 14,
         "normal_gain": 0.23598334193229675,
-        "soft_gain": 0.1941491961479187,
+        "soft_gain": 0.20991036295890808,
         "emphasis_gain": 0.2828897370817059,
-        "median_duration": 2.3333330000000014,
+        "median_duration": 3.2833335000000012,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -16879,14 +19147,70 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "Personal shop.",
+            "gain": 0.25221720337867737,
+            "duration": 4.233333000000002,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 4.233333000000002,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Everyone's a vulture mate?",
+            "gain": 0.33759427070617676,
+            "duration": 4.233333999999999,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 4.233333999999999,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "That's a Diddy something, but I don't know. You're not. Oh, okay. Okay.",
+            "gain": 0.33759427070617676,
+            "duration": 4.233333999999999,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 4.233333999999999,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "What? Oh, het now. Oh.",
+            "gain": 0.23598334193229675,
+            "duration": 2.3333340000000007,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 2.3333340000000007,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
           }
         ]
       },
       "awkward-moment.mp3": {
-        "count": 46,
+        "count": 49,
         "normal_gain": 0.38023918749681845,
         "soft_gain": 0.34893811439032,
-        "emphasis_gain": 0.45815974473953247,
+        "emphasis_gain": 0.4100244230229119,
         "median_duration": 1.3999999999999986,
         "fade_in": 0.005,
         "fade_out": 0.1,
@@ -17526,15 +19850,57 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "I don't know about that",
+            "gain": 0.38023918749681845,
+            "duration": 1.3999999999999986,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.3999999999999986,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Yeah, I don't know about that. Definitely not honestly.",
+            "gain": 0.34893811439032,
+            "duration": 1.4000000000000004,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.4000000000000004,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "Bro.",
+            "gain": 0.38023918749681845,
+            "duration": 1.3999999999999986,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.3999999999999986,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "ceeday-huh-sound-effect.mp3": {
-        "count": 6,
+        "count": 10,
         "normal_gain": 0.5439188410783009,
         "soft_gain": 0.5274946694958942,
-        "emphasis_gain": 0.626051664352417,
-        "median_duration": 1.166833500000001,
+        "emphasis_gain": 0.5603430126607077,
+        "median_duration": 1.1668335000000027,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -17620,6 +19986,62 @@
               }
             ],
             "timeline": "day 6.3"
+          },
+          {
+            "cue": "what the what",
+            "gain": 0.5439188410783009,
+            "duration": 1.1670000000000016,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.1670000000000016,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Everyone's a vulture mate?",
+            "gain": 0.5439188410783009,
+            "duration": 1.1670000000000016,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.1670000000000016,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "Bro, what?",
+            "gain": 0.5439188410783009,
+            "duration": 1.1666660000000064,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.1666660000000064,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "Snitched for a PS5?",
+            "gain": 0.5439188410783009,
+            "duration": 1.166667000000004,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.166667000000004,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
@@ -17690,9 +20112,9 @@
         ]
       },
       "error_CDOxCYm.mp3": {
-        "count": 45,
+        "count": 51,
         "normal_gain": 0.305481011827663,
-        "soft_gain": 0.2880870371561396,
+        "soft_gain": 0.2966412057793538,
         "emphasis_gain": 0.305481011827663,
         "median_duration": 0.9399999999999977,
         "fade_in": 0.005,
@@ -18322,14 +20744,98 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "Definitely not",
+            "gain": 0.305481011827663,
+            "duration": 0.9399999999999995,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9399999999999995,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "That's not good. No.",
+            "gain": 0.305481011827663,
+            "duration": 0.9399999999999977,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9399999999999977,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "Bro, no, no",
+            "gain": 0.305481011827663,
+            "duration": 0.9400000000000013,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9400000000000013,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "What? Oh, heck no",
+            "gain": 0.305481011827663,
+            "duration": 0.9399999999999977,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9399999999999977,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "no no",
+            "gain": 0.305481011827663,
+            "duration": 0.966667000000001,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.966667000000001,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "Ah, she snitched",
+            "gain": 0.305481011827663,
+            "duration": 0.9333329999999975,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9333329999999975,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "ewww.mp3": {
-        "count": 8,
-        "normal_gain": 0.12159113455047857,
-        "soft_gain": 0.1060844090628798,
-        "emphasis_gain": 0.13785706539449274,
+        "count": 9,
+        "normal_gain": 0.12159113455047856,
+        "soft_gain": 0.10923437350548702,
+        "emphasis_gain": 0.13394789559547013,
         "median_duration": 1.8999999999999986,
         "fade_in": 0.005,
         "fade_out": 0.18,
@@ -18442,15 +20948,29 @@
               }
             ],
             "timeline": "Day2.4"
+          },
+          {
+            "cue": "oh heck no (foot sniffing)",
+            "gain": 0.12159113455047856,
+            "duration": 1.8999999999999986,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.8999999999999986,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
           }
         ]
       },
       "fahhh_KcgAXfs.mp3": {
-        "count": 1,
+        "count": 2,
         "normal_gain": 1.1220184564590454,
         "soft_gain": 1.1220184564590454,
         "emphasis_gain": 1.1220184564590454,
-        "median_duration": 2.3333340000000007,
+        "median_duration": 2.3000005000000012,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -18466,14 +20986,28 @@
               }
             ],
             "timeline": "Day 7.6"
+          },
+          {
+            "cue": "I'm cooked I'm cooked",
+            "gain": 1.1220184564590454,
+            "duration": 2.2666670000000018,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 2.2666670000000018,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "fahhhh.mp3": {
-        "count": 64,
+        "count": 74,
         "normal_gain": 0.28523438123333,
-        "soft_gain": 0.2592539914751034,
-        "emphasis_gain": 0.31054263036956886,
+        "soft_gain": 0.2624703460063337,
+        "emphasis_gain": 0.28523438123333,
         "median_duration": 1.5,
         "fade_in": 0.005,
         "fade_out": 0.1,
@@ -19362,15 +21896,155 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "Antonio free bro, free rent bro",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Hey, he's a man",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Birds, birds in the morning will be annoying",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "I'm cut down the tree, bro",
+            "gain": 0.28523438123333,
+            "duration": 1.2999999999999972,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.2999999999999972,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "Dog, you're not alive",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "That's Diddy",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "He snitched",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "he's scared of the dark?",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "Or you're cooked",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "I would have snitched",
+            "gain": 0.28523438123333,
+            "duration": 1.5,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "heavenly-music-gaming-sound-effect-hd-mp3cut.mp3": {
-        "count": 1,
+        "count": 2,
         "normal_gain": 0.29824715852737427,
         "soft_gain": 0.29824715852737427,
         "emphasis_gain": 0.29824715852737427,
-        "median_duration": 3.633333999999998,
+        "median_duration": 3.9333335,
         "fade_in": 0.0,
         "fade_out": 0.7,
         "references": [
@@ -19387,6 +22061,20 @@
               }
             ],
             "timeline": "Day 4.2"
+          },
+          {
+            "cue": "oh it's a ride or die",
+            "gain": 0.29824715852737427,
+            "duration": 4.233333000000002,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 4.233333000000002,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
@@ -19416,11 +22104,11 @@
         ]
       },
       "movie_1.mp3": {
-        "count": 5,
+        "count": 7,
         "normal_gain": 0.32245907187461853,
         "soft_gain": 0.22562635601691738,
-        "emphasis_gain": 0.34795687097751227,
-        "median_duration": 0.8666659999999999,
+        "emphasis_gain": 0.4075392782688141,
+        "median_duration": 0.8666669999999996,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -19492,14 +22180,42 @@
               }
             ],
             "timeline": "day 5.4"
+          },
+          {
+            "cue": "bro bro",
+            "gain": 0.3102177679538727,
+            "duration": 0.8666669999999996,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.8666669999999996,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "bro bro",
+            "gain": 0.4819752275943756,
+            "duration": 0.8666670000000067,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.8666670000000067,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "ooooo.mp3": {
-        "count": 12,
-        "normal_gain": 0.17280904084287924,
+        "count": 16,
+        "normal_gain": 0.17275367990058085,
         "soft_gain": 0.14951185787201512,
-        "emphasis_gain": 0.19609863709791442,
+        "emphasis_gain": 0.18197348216786657,
         "median_duration": 1.1000000000000014,
         "fade_in": 0.005,
         "fade_out": 0.1,
@@ -19669,15 +22385,71 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "Ooh, security",
+            "gain": 0.17280904084287924,
+            "duration": 1.1000000000000014,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.1000000000000014,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Oh, okay",
+            "gain": 0.14951185787201512,
+            "duration": 1.1000000000000014,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.1000000000000014,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "Oh, for real",
+            "gain": 0.17280904084287924,
+            "duration": 1.1000000000000014,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.1000000000000014,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "oh",
+            "gain": 0.14951185787201512,
+            "duration": 1.0999999999999943,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.0999999999999943,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "patrick-star-yeah.mp3": {
-        "count": 10,
+        "count": 12,
         "normal_gain": 0.495353490114212,
         "soft_gain": 0.4885458261308456,
         "emphasis_gain": 0.5014518790513336,
-        "median_duration": 1.5666669999999994,
+        "median_duration": 1.5666670000000003,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -19820,12 +22592,40 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "Monica. Oh, yeah.",
+            "gain": 0.495353490114212,
+            "duration": 1.5666670000000007,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5666670000000007,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "Yes. Yes.",
+            "gain": 0.495353490114212,
+            "duration": 1.5670000000000002,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.5670000000000002,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
           }
         ]
       },
       "sudden-suspense-sound-effect.mp3": {
-        "count": 26,
-        "normal_gain": 0.17875513730058862,
+        "count": 27,
+        "normal_gain": 0.17269831895828247,
         "soft_gain": 0.14125375958165165,
         "emphasis_gain": 0.1959704392288985,
         "median_duration": 1.3999999999999986,
@@ -20191,6 +22991,20 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "hopefully I can get out. What the?",
+            "gain": 0.14125375958165165,
+            "duration": 1.4000000000000004,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.4000000000000004,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
@@ -20234,11 +23048,11 @@
         ]
       },
       "tindeck_1.mp3": {
-        "count": 1,
-        "normal_gain": 0.22695103287696838,
+        "count": 2,
+        "normal_gain": 0.3510831743478775,
         "soft_gain": 0.22695103287696838,
-        "emphasis_gain": 0.22695103287696838,
-        "median_duration": 1.5999999999999996,
+        "emphasis_gain": 0.4752153158187866,
+        "median_duration": 1.6000000000000005,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -20255,15 +23069,29 @@
               }
             ],
             "timeline": "Day 1.3"
+          },
+          {
+            "cue": "bro. I'll do that. Everyone?",
+            "gain": 0.4752153158187866,
+            "duration": 1.6000000000000014,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.6000000000000014,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
           }
         ]
       },
       "undertakers-bell_2UwFCIe.mp3": {
-        "count": 19,
+        "count": 20,
         "normal_gain": 0.2758531868457794,
-        "soft_gain": 0.18671812117099762,
+        "soft_gain": 0.1867181211709976,
         "emphasis_gain": 0.3584308494633781,
-        "median_duration": 2.1000000000000085,
+        "median_duration": 2.100000000000005,
         "fade_in": 0.0,
         "fade_out": 0.0,
         "references": [
@@ -20571,13 +23399,33 @@
               }
             ],
             "timeline": "day 6.5"
+          },
+          {
+            "cue": "That's messed up",
+            "gain": 0.1867181211709976,
+            "duration": 2.0999999999999943,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.3333329999999961,
+                "gain": 1.0
+              },
+              {
+                "offset": 0.3333329999999961,
+                "source_offset": 0.333333,
+                "duration": 1.7666669999999982,
+                "gain": 0.635
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "vine-boom (20).mp3": {
-        "count": 64,
+        "count": 74,
         "normal_gain": 0.26841986057701844,
-        "soft_gain": 0.20991036295890808,
+        "soft_gain": 0.21604499289591955,
         "emphasis_gain": 0.2810813384749714,
         "median_duration": 1.2333339999999993,
         "fade_in": 0.0,
@@ -21472,14 +24320,154 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "Again? Okay.",
+            "gain": 0.26841986057701844,
+            "duration": 1.233333,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.233333,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "What?",
+            "gain": 0.20991036295890808,
+            "duration": 1.232999999999997,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.232999999999997,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "What?",
+            "gain": 0.26841986057701844,
+            "duration": 1.2333339999999993,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.2333339999999993,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.3"
+          },
+          {
+            "cue": "birds in the morning will be annoying. Oh. Okay.",
+            "gain": 0.5300832986831665,
+            "duration": 1.3333329999999997,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.3333329999999997,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.4"
+          },
+          {
+            "cue": "I did.",
+            "gain": 0.26841986057701844,
+            "duration": 1.233333,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.233333,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "What the?",
+            "gain": 0.26841986057701844,
+            "duration": 1.2330000000000005,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.2330000000000005,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "I did? Well,",
+            "gain": 0.26841986057701844,
+            "duration": 1.233333,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.233333,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "What the?",
+            "gain": 0.26841986057701844,
+            "duration": 1.233333,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.233333,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "you? What? What?",
+            "gain": 0.26841986057701844,
+            "duration": 1.2333329999999982,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.2333329999999982,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
+          },
+          {
+            "cue": "what",
+            "gain": 0.26841986057701844,
+            "duration": 1.2333330000000018,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 1.2333330000000018,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       },
       "yeahoo.mp3": {
-        "count": 7,
-        "normal_gain": 0.17852329245859266,
+        "count": 9,
+        "normal_gain": 0.15810814499855042,
         "soft_gain": 0.13664484024047852,
-        "emphasis_gain": 0.2758531868457794,
+        "emphasis_gain": 0.17957144975662231,
         "median_duration": 0.966667000000001,
         "fade_in": 0.0,
         "fade_out": 0.0,
@@ -21581,6 +24569,34 @@
               }
             ],
             "timeline": "day 6.6"
+          },
+          {
+            "cue": "I'll do that",
+            "gain": 0.13664484024047852,
+            "duration": 0.9669999999999987,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9669999999999987,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.5"
+          },
+          {
+            "cue": "W. April?",
+            "gain": 0.13664484024047852,
+            "duration": 0.9333329999999975,
+            "gain_envelope": [
+              {
+                "offset": 0,
+                "source_offset": 0,
+                "duration": 0.9333329999999975,
+                "gain": 1.0
+              }
+            ],
+            "timeline": "Day 4.6"
           }
         ]
       }

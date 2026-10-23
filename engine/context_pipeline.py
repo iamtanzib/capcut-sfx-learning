@@ -204,7 +204,11 @@ def frame_sheet(inputs,scenes,folder,max_frames):
     points=sorted(p for p in points if 0<=p<duration)
     if len(points)>max_frames:
         points=[points[round(i*(len(points)-1)/(max_frames-1))] for i in range(max_frames)]
-    font=ImageFont.truetype('C:/Windows/Fonts/arial.ttf',14)
+    font=None
+    for candidate in ('C:/Windows/Fonts/arial.ttf','/System/Library/Fonts/Supplemental/Arial.ttf','/Library/Fonts/Arial.ttf','/System/Library/Fonts/Helvetica.ttc'):
+        try:font=ImageFont.truetype(candidate,14);break
+        except OSError:pass
+    if font is None:font=ImageFont.load_default()
     import cv2
     captures=[cv2.VideoCapture(str(folder/(track['role']+'.proxy-'+s.config().get('scene_decode','keyframes')+'.mp4'))) for track in inputs['tracks'][:2]]
     cards=[]

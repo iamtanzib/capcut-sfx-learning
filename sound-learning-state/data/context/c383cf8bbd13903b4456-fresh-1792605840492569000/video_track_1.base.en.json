@@ -1,0 +1,355 @@
+{
+  "model": "base.en",
+  "seconds": 2.21,
+  "cached": false,
+  "rows": [
+    {
+      "start": 1.49,
+      "end": 16.05,
+      "text": "I am? Okay. Let's see. Easy choice. Ooh. Okay. I'll put those in my shoes, bro.",
+      "words": [
+        {
+          "start": 1.49,
+          "end": 1.97,
+          "text": "I"
+        },
+        {
+          "start": 1.97,
+          "end": 2.15,
+          "text": "am?"
+        },
+        {
+          "start": 4.12,
+          "end": 4.5,
+          "text": "Okay."
+        },
+        {
+          "start": 6.51,
+          "end": 6.85,
+          "text": "Let's"
+        },
+        {
+          "start": 6.85,
+          "end": 6.97,
+          "text": "see."
+        },
+        {
+          "start": 7.88,
+          "end": 8.32,
+          "text": "Easy"
+        },
+        {
+          "start": 8.32,
+          "end": 8.58,
+          "text": "choice."
+        },
+        {
+          "start": 10.5,
+          "end": 10.94,
+          "text": "Ooh."
+        },
+        {
+          "start": 12.02,
+          "end": 12.38,
+          "text": "Okay."
+        },
+        {
+          "start": 14.59,
+          "end": 14.97,
+          "text": "I'll"
+        },
+        {
+          "start": 14.97,
+          "end": 15.17,
+          "text": "put"
+        },
+        {
+          "start": 15.17,
+          "end": 15.33,
+          "text": "those"
+        },
+        {
+          "start": 15.33,
+          "end": 15.49,
+          "text": "in"
+        },
+        {
+          "start": 15.49,
+          "end": 15.59,
+          "text": "my"
+        },
+        {
+          "start": 15.59,
+          "end": 15.81,
+          "text": "shoes,"
+        },
+        {
+          "start": 16.05,
+          "end": 16.05,
+          "text": "bro."
+        }
+      ]
+    },
+    {
+      "start": 17.09,
+      "end": 31.26,
+      "text": "A tent. Perfect. But how am I gonna eat? I asked to survive. What the? That is, I mean, that's some protection.",
+      "words": [
+        {
+          "start": 17.09,
+          "end": 17.53,
+          "text": "A"
+        },
+        {
+          "start": 17.53,
+          "end": 17.69,
+          "text": "tent."
+        },
+        {
+          "start": 18.29,
+          "end": 18.59,
+          "text": "Perfect."
+        },
+        {
+          "start": 22.33,
+          "end": 22.53,
+          "text": "But"
+        },
+        {
+          "start": 22.53,
+          "end": 22.69,
+          "text": "how"
+        },
+        {
+          "start": 22.69,
+          "end": 22.77,
+          "text": "am"
+        },
+        {
+          "start": 22.77,
+          "end": 22.85,
+          "text": "I"
+        },
+        {
+          "start": 22.85,
+          "end": 22.95,
+          "text": "gonna"
+        },
+        {
+          "start": 22.95,
+          "end": 23.25,
+          "text": "eat?"
+        },
+        {
+          "start": 23.59,
+          "end": 23.61,
+          "text": "I"
+        },
+        {
+          "start": 23.61,
+          "end": 23.93,
+          "text": "asked"
+        },
+        {
+          "start": 23.93,
+          "end": 24.07,
+          "text": "to"
+        },
+        {
+          "start": 24.07,
+          "end": 24.33,
+          "text": "survive."
+        },
+        {
+          "start": 26.28,
+          "end": 26.38,
+          "text": "What"
+        },
+        {
+          "start": 26.38,
+          "end": 26.58,
+          "text": "the?"
+        },
+        {
+          "start": 29.6,
+          "end": 29.8,
+          "text": "That"
+        },
+        {
+          "start": 29.8,
+          "end": 29.92,
+          "text": "is,"
+        },
+        {
+          "start": 30.12,
+          "end": 30.32,
+          "text": "I"
+        },
+        {
+          "start": 30.32,
+          "end": 30.48,
+          "text": "mean,"
+        },
+        {
+          "start": 30.68,
+          "end": 30.86,
+          "text": "that's"
+        },
+        {
+          "start": 30.86,
+          "end": 30.96,
+          "text": "some"
+        },
+        {
+          "start": 30.96,
+          "end": 31.26,
+          "text": "protection."
+        }
+      ]
+    },
+    {
+      "start": 35.25,
+      "end": 53.13,
+      "text": "Oh, that's what I need. I'm doing a food one. What? She doing a bit, bro, what? I'm doing that.",
+      "words": [
+        {
+          "start": 35.25,
+          "end": 35.69,
+          "text": "Oh,"
+        },
+        {
+          "start": 36.87,
+          "end": 37.31,
+          "text": "that's"
+        },
+        {
+          "start": 37.31,
+          "end": 37.43,
+          "text": "what"
+        },
+        {
+          "start": 37.43,
+          "end": 37.55,
+          "text": "I"
+        },
+        {
+          "start": 37.55,
+          "end": 37.69,
+          "text": "need."
+        },
+        {
+          "start": 40.25,
+          "end": 40.51,
+          "text": "I'm"
+        },
+        {
+          "start": 40.51,
+          "end": 40.63,
+          "text": "doing"
+        },
+        {
+          "start": 40.63,
+          "end": 40.77,
+          "text": "a"
+        },
+        {
+          "start": 40.77,
+          "end": 40.93,
+          "text": "food"
+        },
+        {
+          "start": 40.93,
+          "end": 41.11,
+          "text": "one."
+        },
+        {
+          "start": 42.02,
+          "end": 42.3,
+          "text": "What?"
+        },
+        {
+          "start": 46.67,
+          "end": 46.87,
+          "text": "She"
+        },
+        {
+          "start": 46.87,
+          "end": 47.13,
+          "text": "doing"
+        },
+        {
+          "start": 47.13,
+          "end": 47.29,
+          "text": "a"
+        },
+        {
+          "start": 47.29,
+          "end": 47.39,
+          "text": "bit,"
+        },
+        {
+          "start": 47.53,
+          "end": 47.65,
+          "text": "bro,"
+        },
+        {
+          "start": 47.81,
+          "end": 47.95,
+          "text": "what?"
+        },
+        {
+          "start": 52.47,
+          "end": 52.77,
+          "text": "I'm"
+        },
+        {
+          "start": 52.77,
+          "end": 52.93,
+          "text": "doing"
+        },
+        {
+          "start": 52.93,
+          "end": 53.13,
+          "text": "that."
+        }
+      ]
+    },
+    {
+      "start": 54.58,
+      "end": 55.86,
+      "text": "I don't know how I'm gonna...",
+      "words": [
+        {
+          "start": 54.58,
+          "end": 54.86,
+          "text": "I"
+        },
+        {
+          "start": 54.86,
+          "end": 55.02,
+          "text": "don't"
+        },
+        {
+          "start": 55.02,
+          "end": 55.12,
+          "text": "know"
+        },
+        {
+          "start": 55.12,
+          "end": 55.22,
+          "text": "how"
+        },
+        {
+          "start": 55.22,
+          "end": 55.34,
+          "text": "I'm"
+        },
+        {
+          "start": 55.34,
+          "end": 55.86,
+          "text": "gonna..."
+        }
+      ]
+    }
+  ]
+}

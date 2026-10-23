@@ -1,0 +1,143 @@
+"""Synthetic ranking cuts: plan validation, native draft build, revision diff and SFX-brief map. Never touches personal drafts."""
+import copy,sys,unittest
+from pathlib import Path
+from unittest.mock import patch
+import numpy as np
+import test_workflow as workflow
+import ranking
+a=workflow.a
+
+def words():
+    # Kevin's take: slate, reaction 1 (with a long internal pause), reaction 2.
+    rows=[(0.2,0.6,'ranking'),(0.7,1.1,'video'),(3.0,3.3,'you'),(3.35,3.6,'better'),(3.65,3.9,'not'),(3.95,4.3,'eat'),(5.2,5.5,'that'),(5.55,5.9,'again'),
+        (8.0,8.3,'bro'),(8.35,8.7,'that'),(8.75,9.0,'is'),(9.05,9.5,'crazy'),(9.6,9.9,'right'),(9.95,10.3,'there')]
+    return [{'i':i,'start':s,'end':e,'text':t} for i,(s,e,t) in enumerate(rows)]
+
+class RankingTests(unittest.TestCase):
+    def setUp(self):
+        self.root=Path(workflow.TMP.name)/a.ident();self.root.mkdir();drafts=self.root/'drafts';drafts.mkdir()
+        cfg=a.s.read_json(a.ROOT/'seed/config.json');cfg['draft_root']=str(drafts);cfg['library']=str(self.root);a.s.write_json(a.STATE/'config.json',cfg)
+        a.s.write_json(a.s.DATA/'sound_catalog.json',[])
+        self.project=drafts/'rank';index={'main_timeline_id':'T1','timelines':[{'id':'T1','name':'template'},{'id':'T2','name':'Day6.3'}]}
+        template_media=self.root/'IMG_7665.MOV';template_media.write_bytes(b'template')
+        self.kevin=self.root/'IMG_7669.MOV';self.kevin.write_bytes(b'kevin raw');self.rank=self.root/'copy_golf.mov';self.rank.write_bytes(b'ranking source')
+        tpl={'id':'T1','duration':5_000_000,'canvas_config':{'ratio':'original','width':1080,'height':1920},'materials':{'videos':[{'id':'m1','path':str(template_media),'width':2160,'height':3840,'duration':5_000_000,'has_audio':True,'local_material_id':'x'}],
+            'speeds':[{'id':'sp','type':'speed','speed':1.0,'curve_speed':None}],'canvases':[{'id':'cv','type':'canvas_color'}],'transitions':[{'id':'tr','type':'transition'}],'audios':[],'texts':[]},
+            'tracks':[{'id':'vt','type':'video','flag':0,'segments':[{'id':'s1','material_id':'m1','extra_material_refs':['sp','cv','tr'],'target_timerange':{'start':0,'duration':5_000_000},
+                'source_timerange':{'start':0,'duration':5_000_000},'clip':{'scale':{'x':1.0,'y':1.0},'transform':{'x':0.0,'y':.57},'rotation':0.0,'flip':{'vertical':False,'horizontal':False},'alpha':1.0},
+                'volume':.63,'last_nonzero_volume':.63,'speed':1.0,'render_index':0,'track_render_index':0,'keyframe_refs':[],'common_keyframes':[]}]}]}
+        empty={'id':'T2','duration':0,'canvas_config':{'ratio':'original','width':1920,'height':1080},'materials':{k:[] for k in ('videos','speeds','canvases','transitions','audios','texts')},'tracks':[]}
+        for tid,d in (('T1',tpl),('T2',empty)):a.s.write_json(self.project/'Timelines'/tid/'draft_info.json',d)
+        a.s.write_json(self.project/'Timelines'/'project.json',index);a.s.write_json(self.project/'draft_info.json',tpl);a.s.write_json(self.project/'draft_meta_info.json',{'draft_materials':[]})
+        self.project=a.s.project_path('rank');self.path=self.project/'Timelines'/'T2'/'draft_info.json'
+        info=lambda p,d,audio=True:{'path':str(p),'duration':d,'width':1080 if 'golf' in p.name else 2160,'height':1920 if 'golf' in p.name else 3840,'fps':30.0,'has_audio':audio,'size':p.stat().st_size,'mtime':p.stat().st_mtime_ns}
+        self.job=a.ident();self.batch=a.ident();self.work=ranking.folder(a,self.job);self.work.mkdir(parents=True)
+        st={'version':3,'rules':ranking.RULES,'defaults':dict(ranking.DEFAULTS),'stats':{'bw_per_video':[4,4,4,4],'final_reaction_has_bw':[False,True,False,False],'reaction_seconds':{'max':6.1}},'references':[],'revisions':[]}
+        self.record={'job_id':self.job,'batch_id':self.batch,'project':'rank','timeline':'Day6.3','timeline_id':'T2','source_hash':a.digest(self.path),'source_signature':ranking.content_signature(a,self.project,a.s.read_json(self.path)),'kevin':info(self.kevin,12.0),'ranking':info(self.rank,10.0),
+            'style_version':3,'status':'ready'}
+        env=np.full(1200,-70.0)
+        for w in words():env[int(w['start']*100)-5:int(w['end']*100)+8]=-20.0
+        np.save(self.work/'kevin_rms.npy',env);a.s.write_json(self.work/'words.json',words());a.s.write_json(self.work/'style.json',st)
+        a.s.write_json(self.work/'brief.json',{'ranking_analysis':{'scene_cuts':[0.0,4.0,7.5],'builtin_sfx':[{'sound':'vine-boom (20).mp3','start':5.0,'score':.9}]}})
+        a.s.write_json(self.work/'job.json',self.record);a.s.write_json(ranking.style_path(a),st)
+        (a.STATE/'ranking_batches').mkdir(exist_ok=True);a.s.write_json(a.STATE/'ranking_batches'/(self.batch+'.json'),{'batch_id':self.batch,'jobs':[self.job]})
+        self.items=[{'start':0.05,'end':3.9,'rank':6,'label':'Level 1','reason':'egg cracks, label shows'},{'start':4.0,'end':7.5,'rank':5,'label':'Level 2','reason':'glasses shatter on the hit'}]
+        self.reactions=[{'item':0,'about':'eating the egg again','pieces':[{'from_word':2,'to_word':7}],'bw':{'at_word':6,'until_end':True,'reason':'"that again" points back at the egg'}},
+            {'item':1,'about':'glasses shattering','pieces':[{'from_word':8,'to_word':13}]}]
+        self.notes={'item_boundaries_checked_on_frames':True,'reaction_mapping_reviewed':True,'dropped_speech_reviewed':True}
+
+    def staged(self):
+        result=a.stage_ranking_plan(self.job,copy.deepcopy(self.items),copy.deepcopy(self.reactions),self.notes)
+        rec=ranking.record(a,self.job);rec['preview']={'plan_hash':rec['plan_hash']};a.s.write_json(self.work/'job.json',rec)
+        return result,a.s.read_json(self.work/'plan.json')
+
+    def media(self,plan):
+        out=[]
+        for k,ov in enumerate(plan['overlays']):
+            p=self.root/f'bw_{k+1:02d}_fixture.mp4';p.write_bytes(b'bw');out.append({'path':str(p),'duration':ov['frames']/30+.1,'width':1080,'height':1920,'fps':30.0,'has_audio':False,'size':2,'mtime':0})
+        return out
+
+    def test_stage_snaps_items_splits_pauses_and_places_tail_replay(self):
+        result,plan=self.staged()
+        self.assertEqual(plan['items'][0]['start'],0.0)
+        self.assertIn([0,'start',0.05,0.0],result['snapped_to_scene_cut'])
+        first=plan['reactions'][0]['pieces'];self.assertEqual([(p['from_word'],p['to_word']) for p in first],[(2,5),(6,7)])
+        self.assertLess(first[0]['start'],3.0);self.assertGreater(first[0]['end'],4.3);self.assertLess(first[0]['end'],5.2)
+        self.assertEqual([s['role'] for s in plan['segments']],['ranking','kevin','kevin','ranking','kevin'])
+        frames=[s['target_frame'] for s in plan['segments']];lengths=[s['frames'] for s in plan['segments']]
+        self.assertEqual(frames[1:],[f+n for f,n in zip(frames,lengths)][:-1])
+        ov=plan['overlays'][0];end=plan['segments'][3]['target_frame']
+        self.assertEqual(ov['target_frame']+ov['frames'],end)
+        self.assertAlmostEqual(ov['source_start']+ov['frames']/30,plan['items'][0]['end'],places=3)
+        self.assertEqual(ov['under_words'],'that again')
+        self.assertEqual(result['dropped_speech'],['ranking video'])
+        self.assertEqual(len(plan['whoosh_cues']),1);self.assertAlmostEqual(plan['whoosh_cues'][0],plan['segments'][3]['target_frame']/30-.33,places=3)
+
+    def test_stage_reports_every_problem_at_once(self):
+        bad=copy.deepcopy(self.reactions);bad[0]['bw']={'at_word':2,'duration':1.0,'reason':'points back at the egg'};bad[1]['pieces']=[{'from_word':4,'to_word':9}]
+        items=copy.deepcopy(self.items);items[1]['reason']='short'
+        with self.assertRaises(ValueError) as err:a.stage_ranking_plan(self.job,items,bad,self.notes)
+        text=str(err.exception);self.assertIn('item 1',text);self.assertIn('reaction 1',text)
+        bad[1]['pieces']=[{'from_word':8,'to_word':13}];items[1]['reason']='glasses shatter on the hit'
+        with self.assertRaises(ValueError) as err:a.stage_ranking_plan(self.job,items,bad,self.notes)
+        self.assertIn('face',str(err.exception))
+        bad[0]['bw']={'at_word':6,'duration':1.0,'tail_end':0.5,'reason':'points back at the egg'}
+        with self.assertRaises(ValueError) as err:a.stage_ranking_plan(self.job,items,bad,self.notes)
+        self.assertIn('last part of this same item',str(err.exception))
+        with self.assertRaises(ValueError):a.stage_ranking_plan(self.job,self.items,self.reactions,{})
+
+    def test_build_writes_alternating_main_track_and_muted_bw_overlay(self):
+        _,plan=self.staged()
+        changes,_=ranking.build(a,self.job,self.media(plan));draft=changes[self.path]
+        self.assertNotIn(a.s.draft_file(self.project),changes)
+        videos={m['id']:m for m in draft['materials']['videos']};main,over=[t for t in draft['tracks'] if t['type']=='video']
+        self.assertEqual((main['flag'],over['flag']),(0,2))
+        paths=[Path(videos[s['material_id']]['path']).name for s in main['segments']]
+        self.assertEqual(paths,['copy_golf.mov','IMG_7669.MOV','IMG_7669.MOV','copy_golf.mov','IMG_7669.MOV'])
+        ends=[s['target_timerange']['start']+s['target_timerange']['duration'] for s in main['segments']]
+        self.assertEqual([s['target_timerange']['start'] for s in main['segments']][1:],ends[:-1])
+        self.assertEqual(draft['duration'],ends[-1])
+        self.assertTrue(all(s['clip']['transform']['y']==0 for s in main['segments']))
+        self.assertEqual([s['volume'] for s in main['segments']],[.5,.63,.63,.5,.63])
+        seg=over['segments'][0];self.assertEqual(seg['volume'],0);self.assertEqual(seg['clip']['scale']['x'],1.1)
+        self.assertFalse(videos[seg['material_id']]['has_audio']);self.assertTrue(videos[seg['material_id']]['path'].endswith('bw_01_fixture.mp4'))
+        self.assertEqual((draft['canvas_config']['width'],draft['canvas_config']['height']),(1080,1920))
+        refs=[r for s in main['segments'] for r in s['extra_material_refs']];self.assertEqual(len(refs),len(set(refs)))
+        self.assertNotIn('transitions',[k for k,v in draft['materials'].items() if v]);a.s.validate_draft(draft)
+        meta=changes[self.project/'draft_meta_info.json'];self.assertEqual(len(meta['draft_materials'][0]['value']),3)
+
+    def test_capcut_exit_save_normalization_does_not_block_but_user_edit_does(self):
+        _,plan=self.staged();d=a.s.read_json(self.path);d['materials']['speeds'].append({'id':'zz','type':'speed','speed':1.0});d['config']={'normalized':True};a.s.write_json(self.path,d)
+        changes,_=ranking.build(a,self.job,self.media(plan));self.assertIn(self.path,changes)
+        d['tracks'].append({'id':'t','type':'text','segments':[]});a.s.write_json(self.path,d)
+        with self.assertRaises(ValueError):ranking.build(a,self.job,self.media(plan))
+
+    def test_build_refuses_changed_timeline_or_missing_preview(self):
+        _,plan=self.staged();rec=ranking.record(a,self.job);rec['preview']=None;a.s.write_json(self.work/'job.json',rec)
+        with self.assertRaises(ValueError):ranking.build(a,self.job,self.media(plan))
+        _,plan=self.staged();d=a.s.read_json(self.path);d['duration']=1;a.s.write_json(self.path,d)
+        with self.assertRaises(ValueError):ranking.build(a,self.job,self.media(plan))
+
+    def test_apply_registers_timeline_and_brief_gets_saved_cut_map(self):
+        _,plan=self.staged();media=self.media(plan)
+        with patch.object(ranking,'bw_media',return_value=media),patch.object(a.s,'capcut_running',return_value=False):a.apply_ranking_batch(self.batch)
+        reg=a.s.read_json(ranking.registry_path(a));self.assertEqual(reg['T2']['job_id'],self.job)
+        draft=a.s.read_json(self.path);brief={'plan_requirements':{}}
+        ranking.annotate_brief(a,{'timeline_id':'T2','project':'rank','source_hash':'x'},brief,draft)
+        kinds=[r['kind'] for r in brief['ranking']['cut_map']];self.assertEqual(kinds,['item','reaction','reaction','item','reaction'])
+        cut=brief['ranking']['cut_map'][3]['start'];self.assertAlmostEqual(brief['ranking']['whoosh_cues'][0]['at'],round(cut-.33,3),places=3)
+        self.assertEqual(brief['ranking']['item_clip_builtin_sfx'][0]['sound'],'vine-boom (20).mp3')
+        self.assertIn('ranking',brief['plan_requirements'])
+
+    def test_revision_reports_user_trims_and_removed_bw(self):
+        _,plan=self.staged();media=self.media(plan)
+        with patch.object(ranking,'bw_media',return_value=media),patch.object(a.s,'capcut_running',return_value=False):a.apply_ranking_batch(self.batch)
+        d=a.s.read_json(self.path);main,over=[t for t in d['tracks'] if t['type']=='video']
+        first=main['segments'][0];first['source_timerange']['duration']-=300_000;first['target_timerange']['duration']-=300_000
+        d['tracks']=[t for t in d['tracks'] if t is not over];a.s.write_json(self.path,d)
+        report=a.learn_ranking_revision(self.job)
+        self.assertTrue(report['learned']);self.assertEqual(report['bw']['removed'],[0])
+        self.assertEqual(report['items']['changes'][0]['end_delta'],-0.3)
+        st=a.s.read_json(ranking.style_path(a));self.assertEqual(st['learned_adjustments']['bw_removed'],1)
+
+if __name__=='__main__':unittest.main()

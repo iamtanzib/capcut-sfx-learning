@@ -1,0 +1,900 @@
+{
+  "project": "New",
+  "timeline": "33F95068-3407-402D-AE1D-D24B2C239D26",
+  "duration": 56.0,
+  "source_hash": "d35060578631caadf3b1dfee367017b7544d57469a5901885c2057c9fa02e90e",
+  "captions": [
+    {
+      "start": 1.8,
+      "end": 2.6,
+      "text": "okay"
+    },
+    {
+      "start": 5.066666,
+      "end": 6.0,
+      "text": "bro"
+    },
+    {
+      "start": 6.8,
+      "end": 8.533333,
+      "text": "stop yelling at me I'll see"
+    },
+    {
+      "start": 13.033333,
+      "end": 14.766666,
+      "text": "I that's not bad"
+    },
+    {
+      "start": 14.766666,
+      "end": 16.733333,
+      "text": "I need to be locked out the fridge sometimes"
+    },
+    {
+      "start": 18.066666,
+      "end": 19.2,
+      "text": "what"
+    },
+    {
+      "start": 21.5,
+      "end": 24.933333,
+      "text": "I would I'll eat air for the rest of my life what"
+    },
+    {
+      "start": 29.0,
+      "end": 30.4,
+      "text": "hey mom yeah"
+    },
+    {
+      "start": 30.866666,
+      "end": 32.666666,
+      "text": "I'm getting grapes I don't know"
+    },
+    {
+      "start": 34.433333,
+      "end": 35.533333,
+      "text": "that's wild"
+    },
+    {
+      "start": 37.366666,
+      "end": 39.766666,
+      "text": "that will help me lose weight that's not bad"
+    },
+    {
+      "start": 42.766666,
+      "end": 43.566666,
+      "text": "okay"
+    },
+    {
+      "start": 47.1,
+      "end": 49.066666,
+      "text": "okay I'm not gonna lie that will piss me off"
+    },
+    {
+      "start": 50.7,
+      "end": 51.5,
+      "text": "bro"
+    },
+    {
+      "start": 54.4,
+      "end": 55.666666,
+      "text": "no bro"
+    }
+  ],
+  "excluded_style_timelines": [],
+  "sound_style": [
+    {
+      "sound": "Creepy Sound Effect.mp3",
+      "usual_volume": 0.178,
+      "usual_length": 4.167,
+      "examples": [
+        "bro what why did I",
+        "What the? That's a scary movie.",
+        "thats not bad, charcoal"
+      ]
+    },
+    {
+      "sound": "MMMMMM.mp3",
+      "usual_volume": 0.186,
+      "usual_length": 1.0,
+      "examples": [
+        "that's good though April",
+        "bro March got a good one you're lucky March",
+        "that might be fire"
+      ]
+    },
+    {
+      "sound": "among-us-role-reveal-sound.mp3",
+      "usual_volume": 0.282,
+      "usual_length": 4.633,
+      "examples": [
+        "chalk",
+        "eww bro no",
+        "oh heck no"
+      ]
+    },
+    {
+      "sound": "anime-wow-sound-effect.mp3",
+      "usual_volume": 0.236,
+      "usual_length": 4.233,
+      "examples": [
+        "let's see",
+        "is that a Pok u00e9mon",
+        "a SVJ"
+      ]
+    },
+    {
+      "sound": "awkward-moment.mp3",
+      "usual_volume": 0.38,
+      "usual_length": 1.4,
+      "examples": [
+        "I mean it's normal",
+        "that's the air you cook",
+        "that's what I'm saying"
+      ]
+    },
+    {
+      "sound": "ceeday-huh-sound-effect.mp3",
+      "usual_volume": 0.544,
+      "usual_length": 1.167,
+      "examples": [
+        "I would enjoy that I drink my toothpaste.",
+        "Why would you need that?",
+        "might be better. Oh, what underneath my downloads or something?"
+      ]
+    },
+    {
+      "sound": "dry-fart (1).mp3",
+      "usual_volume": 0.53,
+      "usual_length": 0.35,
+      "examples": [
+        "okay let's see oh",
+        "Let's see what I get. Don't, what? No,",
+        "I had to not,"
+      ]
+    },
+    {
+      "sound": "error_CDOxCYm.mp3",
+      "usual_volume": 0.305,
+      "usual_length": 0.94,
+      "examples": [
+        "bro what the",
+        "oh I mean that's not bad oh you have to bite into it",
+        "how are you gonna eat it bro no"
+      ]
+    },
+    {
+      "sound": "ewww.mp3",
+      "usual_volume": 0.136,
+      "usual_length": 1.9,
+      "examples": [
+        "eww bro no",
+        "you're gonna need it eww",
+        "eww"
+      ]
+    },
+    {
+      "sound": "fahhh_KcgAXfs.mp3",
+      "usual_volume": 1.122,
+      "usual_length": 2.3,
+      "examples": [
+        "you're cooked, you're cooked.",
+        "I'm cooked I'm cooked"
+      ]
+    },
+    {
+      "sound": "fahhhh.mp3",
+      "usual_volume": 0.285,
+      "usual_length": 1.5,
+      "examples": [
+        "yeah just eat the floor OK",
+        "cause you are",
+        "how are you gonna eat it bro no"
+      ]
+    },
+    {
+      "sound": "fahhhhhhhhhhhhhh.mp3",
+      "usual_volume": 0.077,
+      "usual_length": 1.967,
+      "examples": [
+        "it's not edible dog that's disgusting"
+      ]
+    },
+    {
+      "sound": "heavenly-music-gaming-sound-effect-hd-mp3cut.mp3",
+      "usual_volume": 0.298,
+      "usual_length": 5.3,
+      "examples": [
+        "bro what is that supposed to mean",
+        "yes sir",
+        "I'm not"
+      ]
+    },
+    {
+      "sound": "mac-quack.mp3",
+      "usual_volume": 0.768,
+      "usual_length": 1.2,
+      "examples": [
+        "oh I mean that's not bad oh you have to bite into it",
+        "That's not a punishment. That's"
+      ]
+    },
+    {
+      "sound": "movie_1.mp3",
+      "usual_volume": 0.316,
+      "usual_length": 0.867,
+      "examples": [
+        "birth month your school snack 3 2 1 bro",
+        "I'm not bro",
+        "heck no okay"
+      ]
+    },
+    {
+      "sound": "ooooo.mp3",
+      "usual_volume": 0.173,
+      "usual_length": 1.1,
+      "examples": [
+        "oh",
+        "oh heck yeah bro",
+        "oh I can't do that exactly"
+      ]
+    },
+    {
+      "sound": "patrick-star-yeah.mp3",
+      "usual_volume": 0.495,
+      "usual_length": 1.567,
+      "examples": [
+        "yo",
+        "that's fire yo that's",
+        "Yeah, that was suck. Yes Hey"
+      ]
+    },
+    {
+      "sound": "sudden-suspense-sound-effect.mp3",
+      "usual_volume": 0.191,
+      "usual_length": 1.4,
+      "examples": [
+        "bro what why did I",
+        "I'm not bro",
+        "what bro what is that"
+      ]
+    },
+    {
+      "sound": "tf_nemesis.mp3",
+      "usual_volume": 0.076,
+      "usual_length": 3.833,
+      "examples": [
+        "trade with me please Straight",
+        "trade with me trade please"
+      ]
+    },
+    {
+      "sound": "tindeck_1.mp3",
+      "usual_volume": 0.351,
+      "usual_length": 1.6,
+      "examples": [
+        "never mind. That's evil!",
+        "bro. I'll do that. Everyone?"
+      ]
+    },
+    {
+      "sound": "undertakers-bell_2UwFCIe.mp3",
+      "usual_volume": 0.311,
+      "usual_length": 3.45,
+      "examples": [
+        "what the dog",
+        "bro what is that supposed to mean",
+        "oh hey that's disgusting"
+      ]
+    },
+    {
+      "sound": "vine-boom (20).mp3",
+      "usual_volume": 0.268,
+      "usual_length": 1.233,
+      "examples": [
+        "god oh heck no",
+        "okay that's normal bro",
+        "a stress ball okay that's not how is"
+      ]
+    },
+    {
+      "sound": "yeahoo.mp3",
+      "usual_volume": 0.158,
+      "usual_length": 0.967,
+      "examples": [
+        "that's fire what the",
+        "That would be fire",
+        "That's a bet. Pizza."
+      ]
+    }
+  ],
+  "other_short_sounds": [
+    {
+      "name": "53b1bab6-a8c3-4a1a-82db-7110ce1c29ef_6KNDGWD.mp3",
+      "length": 4.65,
+      "tags": "53b1bab6 a8c3 4a1a 82db 7110ce1c29ef 6KNDGWD"
+    },
+    {
+      "name": "999-social-credit-siren.mp3",
+      "length": 6.25,
+      "tags": "999 social credit siren"
+    },
+    {
+      "name": "He_Needs_Some_Milk_Sound_Effect_Soundboard_Link_🔽🔽_USz4qpEfRLA.mp3",
+      "length": 4.53,
+      "tags": "pain injury failure distress"
+    },
+    {
+      "name": "awkward-cricket-sound-effect.mp3",
+      "length": 4.44,
+      "tags": "awkward silence uncomfortable pause failed joke embarrassment awkward silence uncomfortable pause"
+    },
+    {
+      "name": "aww-so-cute-ishowspeed.mp3",
+      "length": 3.8,
+      "tags": "aww so cute ishowspeed"
+    },
+    {
+      "name": "check-mark_oPG7Xo5.mp3",
+      "length": 1.76,
+      "tags": "success correct answer approval"
+    },
+    {
+      "name": "core-sound-effect.mp3",
+      "length": 0.7,
+      "tags": "core sound effect"
+    },
+    {
+      "name": "correct.mp3",
+      "length": 1.27,
+      "tags": "success correct answer approval"
+    },
+    {
+      "name": "dexter-meme.mp3",
+      "length": 10.71,
+      "tags": "dexter meme"
+    },
+    {
+      "name": "ding-sound-effect_2.mp3",
+      "length": 2.95,
+      "tags": "idea success realization"
+    },
+    {
+      "name": "drip-goku-meme-song-original-dragon-ball-super-music-clash-of-gods-in-description.mp3",
+      "length": 4.85,
+      "tags": "drip goku meme song original dragon ball super music clash of gods in description"
+    },
+    {
+      "name": "dun-dun-dun-sound-effect-brass_8nFBccR.mp3",
+      "length": 5.12,
+      "tags": "dun dun dun sound effect brass 8nFBccR"
+    },
+    {
+      "name": "eww-brother-eww.mp3",
+      "length": 10.98,
+      "tags": "disgust gross nasty repulsive rejection"
+    },
+    {
+      "name": "faaah (7).mp3",
+      "length": 1.93,
+      "tags": "faaah (7)"
+    },
+    {
+      "name": "fahhh-pump-sound.mp3",
+      "length": 2.12,
+      "tags": "comic line funny remark roast absurd punchline comic dismissal"
+    },
+    {
+      "name": "kids-saying-yay-sound-effect_3.mp3",
+      "length": 8.15,
+      "tags": "success celebration happy win"
+    },
+    {
+      "name": "notification.mp3",
+      "length": 0.78,
+      "tags": "notification"
+    },
+    {
+      "name": "ny-video-online-audio-converter.mp3",
+      "length": 5.55,
+      "tags": "ny video online audio converter"
+    },
+    {
+      "name": "omgwow.mp3",
+      "length": 6.6,
+      "tags": "amazement impressed surprise"
+    },
+    {
+      "name": "rizz-sound-effect (19).mp3",
+      "length": 1.93,
+      "tags": "flirting confident charm romantic"
+    },
+    {
+      "name": "roblox-death-sound_1.mp3",
+      "length": 1.0,
+      "tags": "death failure game over"
+    },
+    {
+      "name": "shocked-sound-effect.mp3",
+      "length": 1.42,
+      "tags": "shocking surprised sudden reveal"
+    },
+    {
+      "name": "spiderman-meme-song-2-0.mp3",
+      "length": 7.6,
+      "tags": "spiderman meme song 2 0"
+    },
+    {
+      "name": "spongebob-fail.mp3",
+      "length": 3.38,
+      "tags": "spongebob fail"
+    },
+    {
+      "name": "super-mario-death-sound-sound-effect.mp3",
+      "length": 9.82,
+      "tags": "death failure game over"
+    },
+    {
+      "name": "taco-bell-bong-sfx.mp3",
+      "length": 1.91,
+      "tags": "taco bell bong sfx"
+    },
+    {
+      "name": "tuco-get-out.mp3",
+      "length": 1.03,
+      "tags": "tuco get out"
+    },
+    {
+      "name": "violin-screech-meme.mp3",
+      "length": 3.97,
+      "tags": "panic sudden shocking interruption"
+    },
+    {
+      "name": "wait-a-minute-who-are-you.mp3",
+      "length": 6.87,
+      "tags": "wait a minute who are you"
+    },
+    {
+      "name": "weird-route-jingle.mp3",
+      "length": 3.11,
+      "tags": "weird route jingle"
+    },
+    {
+      "name": "winners_W9Cpenj.mp3",
+      "length": 1.49,
+      "tags": "winners W9Cpenj"
+    },
+    {
+      "name": "wow-anime-voice-accent.mp3",
+      "length": 2.37,
+      "tags": "amazement impressed surprise"
+    },
+    {
+      "name": "wrong_5.mp3",
+      "length": 1.78,
+      "tags": "wrong answer mistake incorrect fail"
+    },
+    {
+      "name": "yes-lara-voice.mp3",
+      "length": 1.07,
+      "tags": "yes lara voice"
+    }
+  ],
+  "request": "Choose local sounds from this brief with onset, duration and volume. Use soundpilot export_copy to apply into a duplicate. Captions do not establish visual-only events; request a local storyboard only if necessary. Do not use computer control. No OpenAI API calls. Follow user_style before generic sound-name associations. Annotate each effect with function and the exact spoken/visual cue. Agreement uses MMMMMM; funny lines use FAH. Do not infer artistic accuracy from schema checks. Set style_profile_version to the active version. Do not fill quiet gaps or meet a palette quota. Rare-context sounds require context_evidence with kind, strength=high, cue and why_this_sound; otherwise omit them. For each MMMMMM cue, annotate evaluation_polarity as positive or explicit_affirmation after resolving the referenced object/context. Agreement that an option is uncomfortable/bad is negative appraisal, not MMMMMM. Not-bad/dont-mind can still be positive.",
+  "user_style": {
+    "version": 40,
+    "authoritative_rules": {
+      "approval": [
+        "MMMMMM.mp3"
+      ],
+      "comic_line": [
+        "fahhhh.mp3",
+        "fahhhhhhhhhhhhhh.mp3",
+        "fahhh_KcgAXfs.mp3"
+      ],
+      "explicit_disgust": [
+        "ewww.mp3"
+      ]
+    },
+    "preferred_sounds": [
+      "Creepy Sound Effect.mp3",
+      "MMMMMM.mp3",
+      "among-us-role-reveal-sound.mp3",
+      "anime-wow-sound-effect.mp3",
+      "awkward-moment.mp3",
+      "error_CDOxCYm.mp3",
+      "ewww.mp3",
+      "fahhhh.mp3",
+      "fahhhhhhhhhhhhhh.mp3",
+      "heavenly-music-gaming-sound-effect-hd-mp3cut.mp3",
+      "mac-quack.mp3",
+      "movie_1.mp3",
+      "ooooo.mp3",
+      "patrick-star-yeah.mp3",
+      "sudden-suspense-sound-effect.mp3",
+      "undertakers-bell_2UwFCIe.mp3",
+      "vine-boom (20).mp3",
+      "dry-fart (1).mp3",
+      "ceeday-huh-sound-effect.mp3",
+      "fahhh_KcgAXfs.mp3",
+      "tindeck_1.mp3",
+      "yeahoo.mp3",
+      "tf_nemesis.mp3"
+    ],
+    "timing_policy": [
+      "Identify the particular word/reaction beat, not the whole caption label.",
+      "Observed approval alignment: nice at 11.61s -> MMMMMM at 11.67s; castle at 36.60s -> 36.63s; fire at 35.30s -> 35.43s. These illustrate word alignment, not a universal delay.",
+      "A caption can contain confusion followed by approval; select different cues at their own times.",
+      "Use reaction dialogue to choose approval/comedy cues. Use the second video to establish reveal/danger/irony context.",
+      "Do not automatically sound every caption, oh, bro or scene cut.",
+      "If event function is ambiguous, flag it for review rather than inventing a generic sound."
+    ],
+    "sound_functions": [
+      {
+        "sound": "Creepy Sound Effect.mp3",
+        "function": "unsettling",
+        "rule": "Continued unsettling reaction following suspense. Only one example, exact interpretation remains tentative. Require real supported unsettling context; a generic this-is-bad line in the word game was rejected.",
+        "evidence_strength": "low",
+        "reference_volume": 0.22
+      },
+      {
+        "sound": "MMMMMM.mp3",
+        "function": "approval",
+        "rule": "Genuine agreement, liking, or accepting an option. Neutral okay/excited wow differ. A funny confession can take FAHH instead, even if it ends with acceptance; the user corrected failed-everything to FAHH. Positive wording alone is insufficient: the user gave I-would-too a dry awkward cue in the shopping-cart scene. Do not confuse negative appraisal with approval: agreeing that a glass cart does not look comfortable uses error. Resolve context/polarity first.",
+        "evidence_strength": "high",
+        "reference_volume": 0.221
+      },
+      {
+        "sound": "among-us-role-reveal-sound.mp3",
+        "function": "dubious_or_ironic",
+        "rule": "Dubious, unsettling, suspicious or ironic context. Not automatic cheating = Among Us. Positive-looking words can be sarcastic in context. Ordinary I-say-it-every-day is insufficient; that added layer was removed. The banana/date conditional-positive cue was replaced by Undertaker in test 3; do not infer innuendo/suspicion from fruit/date wording alone.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.363
+      },
+      {
+        "sound": "anime-wow-sound-effect.mp3",
+        "function": "visual_admiration",
+        "rule": "Stronger impressed visual admiration, such as mansion/rare card/Ferrari/Lamborghini. A mild oh/recognition can instead use ooooo. The car revision replaced Ferrari ooooo with anime-wow.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.208
+      },
+      {
+        "sound": "awkward-moment.mp3",
+        "function": "dry_or_awkward",
+        "rule": "Deadpan, awkward pause, flat observation or skeptical setup. Do not replace a clear positive acceptance with this. Can also punctuate a dry conversational assent/echo (I would too), not only negative/hesitant wording.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.655
+      },
+      {
+        "sound": "error_CDOxCYm.mp3",
+        "function": "confusion_or_rejection",
+        "rule": "A short what/no/never-mind realization, inconsistency or rejection beat. Separate the initial confusion from later approval in the same caption. Includes agreement with a negative assessment of an option, such as it does not look comfortable at all.",
+        "evidence_strength": "high",
+        "reference_volume": 0.485
+      },
+      {
+        "sound": "ewww.mp3",
+        "function": "disgust",
+        "rule": "Actual disgust, eww, dirty/gross substance, or revulsion. Distinguish it from ordinary disagreement.",
+        "evidence_strength": "high",
+        "reference_volume": 0.155
+      },
+      {
+        "sound": "fahhhh.mp3",
+        "function": "comic_line",
+        "rule": "Funny confession, comic delivery, roast or absurd punchline. Latest confirmed example: I failed everything -> FAHH at 20.60s. Do not use it on every negative word or force a quota.",
+        "evidence_strength": "high",
+        "reference_volume": 0.347
+      },
+      {
+        "sound": "fahhhhhhhhhhhhhh.mp3",
+        "function": "comic_line",
+        "rule": "Longer FAH variant for a stronger/longer comic disgust line; only one observed use.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.077
+      },
+      {
+        "sound": "heavenly-music-gaming-sound-effect-hd-mp3cut.mp3",
+        "function": "exceptional_good_reveal",
+        "rule": "A selective exceptional-good reveal: chocolate caramel egg after bad snacks, and the Koenigsegg car reveal. Can be a quiet longer bed with a short reveal hit and a later approval cue.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.326
+      },
+      {
+        "sound": "mac-quack.mp3",
+        "function": "cartoon_beat",
+        "rule": "One short cartoon beat before a clam-shell realization. No evidence to use it for every bro.",
+        "evidence_strength": "low",
+        "reference_volume": 1.0
+      },
+      {
+        "sound": "movie_1.mp3",
+        "function": "dramatic_setup",
+        "rule": "Short dramatic setup/opening or a scene reset. One use is mid-video, so this is not a mandatory intro sound. No automatic opening/list cue; the user removed the added setup sting in test 2. Also a short dramatic punctuation/transition near a hype yo after Lamborghini; not only opening setup.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.212
+      },
+      {
+        "sound": "ooooo.mp3",
+        "function": "anticipation",
+        "rule": "Mild reaction lift, anticipation or recognition. Not every excited iconic reveal: Ferrari became anime-wow, Supra became a boom, and a mild December oh used ooooo. Distinguish a real reaction lift from conversationally reading an option name: gaming-cart recognition was left quiet, isolated ball-pit oh retained ooooo.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.227
+      },
+      {
+        "sound": "patrick-star-yeah.mp3",
+        "function": "specific_positive_reaction",
+        "rule": "One specific positive/comic reaction. Not the main approval sound.",
+        "evidence_strength": "low",
+        "reference_volume": 0.708
+      },
+      {
+        "sound": "sudden-suspense-sound-effect.mp3",
+        "function": "unexpected_or_tense",
+        "rule": "A tense or unsettling surprise/transition into a shocking option. Often leads the spoken reaction; not every oh-wait rethink.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.231
+      },
+      {
+        "sound": "undertakers-bell_2UwFCIe.mp3",
+        "function": "doom_or_danger",
+        "rule": "A bad/dangerous/fatal-feeling option or dramatic doom reaction; inferred from three examples. Do not infer doom from cooked or a banned-word habit alone; both bells were removed in test 2. Also observed on the specific lifelong absurd banana-car consequence at 70.67s. Context is broader than literal physical danger, but cooked/habit words alone remain insufficient.",
+        "evidence_strength": "medium",
+        "reference_volume": 0.373
+      },
+      {
+        "sound": "vine-boom (20).mp3",
+        "function": "impact_or_emphasis",
+        "rule": "Punchy emphasis on a surprising reveal, amount, key word, or emphatic decision; can be positive or negative. Do not put it on every cut.",
+        "evidence_strength": "high",
+        "reference_volume": 0.25
+      }
+    ],
+    "avoid_generic_substitutes": [
+      "correct.mp3",
+      "ding-sound-effect_2.mp3",
+      "check-mark_oPG7Xo5.mp3"
+    ],
+    "selection_refinements": [
+      "Neutral okay is not genuine approval by itself.",
+      "Positive excitement and accepting an option are distinct: ooooo vs MMMMMM in the new manual example.",
+      "Recognizing an option (breakfast) is not the same as approving it; a boom may emphasize the noun.",
+      "Do not add a sound for every positive/negative utterance. The user selected 12 moments, leaving other lines without a cue.",
+      "Caption positions can drift independently of the video/audio. Prefer validated speech-word alignment for learning.",
+      "A funny confession can use FAHH even when followed by acceptance. The failed-everything example is now confirmed FAHH by the user.",
+      "There is no fixed FAHH quota: use a funny/roast beat when supported by delivery or a learned manual example.",
+      "Do not force Undertaker/Among Us/creepy/movie to satisfy a varied palette. This user revision removed all five such forced placements.",
+      "If a cue is removed, preserve silence unless the user supplies a replacement; do not auto-fill the gap.",
+      "A mild oh/realization can use ooooo: the user added it at 17.20s.",
+      "Suspense moved from 33.73s to 35.93s: use the actual this-is-bad beat, not the first oh.",
+      "MMMMMM moved to 47.50s after exactly; awkward moved to 60.97s at the beginning of the like-every-sentence thought.",
+      "Latest explicit instruction: when the speaker says eww, place ewww.mp3 at that spoken beat, using captions/word alignment even if ASR misses the exclamation.",
+      "Excitement has levels: Ferrari/Lamborghini admiration can use anime-wow; a mild oh can use ooooo; a named-car impact can use vine boom.",
+      "Specific exceptional-car beauty can support a heavenly bed plus a short reveal hit and later spoken approval. Distinct functions justify those layers; palette variety does not.",
+      "Banana-car deadpan confusion used awkward, not a shock boom; the lifelong absurd-car consequence used Undertaker, not inferred romantic Among Us.",
+      "The user added a short movie punctuation beat near 94.37s after the Lamborghini hype. Movie is not globally banned and is not an automatic intro.",
+      "Spoken-eww determines the sound file, not an immutable caption-start time: the user moved ewww from 8.40s to 7.97s to lead the disgust beat.",
+      "Approval and funny-line mappings remain primary. Respect user volume corrections per asset; do not make all wow sounds equally loud.",
+      "Distinguish conversational recognition from an expressive isolated oh. The gaming-cart ooooo was removed, while ball-pit ooooo was retained.",
+      "Positive sentence meaning alone does not identify the sound: I-would-too used awkward as a dry echo in this scene, while active that-is-fire approval retained MMMMMM.",
+      "The glass-cart suspense was moved to 24.90s to follow the actual reveal rather than waiting until the later spoken objection.",
+      "Place funny-word attacks around the salient syllable: user moved cooked FAHH to 31.37s and the ball-pit oh lift to 33.17s.",
+      "The teddy-cart ending remained a restrained awkward cue; do not invent stronger admiration solely from a cozy-looking prop.",
+      "Resolve appraisal polarity before MMMMMM. The uncomfortable-glass-cart line was explicitly corrected from MMMMMM to error at 27.83s.",
+      "For future edits, avoid treating awkward-moment as the default reaction/question sound. Actively compare Among Us, Undertaker, sudden suspense, huh, yeahoo and Patrick Yeah with the full scene and delivery; select whichever fits best. This is not an instruction to force every sound or a palette quota.",
+      "For future zooms, hold the complete meaningful reaction/punchline and its natural settling beat. Avoid a jarring brief punch-in that starts late on a final syllable and immediately returns. Choose the visual hold separately from the SFX length, without a fixed minimum/quota or extending across unrelated options.",
+      "Exclude the added timeline music from this Day2 SFX revision assessment and preference learning; preserve the actual saved edits. Learn SFX choices, onsets, trims, envelopes and asset levels, not the added music."
+    ],
+    "selection_policy": {
+      "primary_goal": "Match meaningful reaction beats; silence is a valid decision.",
+      "palette_quota": false,
+      "automatic_intro_cue": false,
+      "automatic_negative_word_music": false,
+      "default_for_uncertain_event": "omit",
+      "rare_context_sounds": [
+        "undertakers-bell_2UwFCIe.mp3",
+        "among-us-role-reveal-sound.mp3",
+        "Creepy Sound Effect.mp3",
+        "movie_1.mp3"
+      ],
+      "rare_sound_requirement": "Require a specific supported scene/intent and exact cue; a negative word, mood label, or desire for variety is insufficient.",
+      "timing": "Anchor the intended beat. Do not choose the first oh or always place sounds after a sentence.",
+      "awkward_fallback": false,
+      "latest_explicit_palette_preference": "Consider Among Us, Undertaker, sudden suspense, huh, yeahoo and Patrick Yeah from scene/delivery; avoid overusing awkward; no compulsory palette quota."
+    },
+    "negative_examples": [
+      {
+        "sound": "movie_1.mp3",
+        "cue": "okay before the choice list",
+        "decision": "omit",
+        "lesson": "A list setup does not require an intro sting."
+      },
+      {
+        "sound": "undertakers-bell_2UwFCIe.mp3",
+        "cue": "I am cooked in a banned-word game",
+        "decision": "omit",
+        "lesson": "Cooked alone does not justify a doom bell."
+      },
+      {
+        "sound": "undertakers-bell_2UwFCIe.mp3",
+        "cue": "okay is in every conversation",
+        "decision": "omit",
+        "lesson": "Habit regret is not a doom/danger scene."
+      },
+      {
+        "sound": "among-us-role-reveal-sound.mp3",
+        "cue": "I say it every day",
+        "decision": "omit",
+        "lesson": "An ordinary habit/confession does not itself make a suspicious or ironic cue."
+      },
+      {
+        "sound": "Creepy Sound Effect.mp3",
+        "cue": "this is bad in a normal greeting game",
+        "decision": "omit",
+        "lesson": "Bad alone is not a creepy event; suspense can carry the relevant beat without layering creepy."
+      },
+      {
+        "sound": "ooooo.mp3",
+        "cue": "conversational oh, the gaming shopping cart",
+        "decision": "omit",
+        "lesson": "Reading/noticing an option name does not automatically require a reaction-lift sound. The next explicit that-is-fire approval already has MMMMMM."
+      },
+      {
+        "sound": "MMMMMM.mp3",
+        "cue": "It does not [look comfortable] at all, glass cart",
+        "decision": "use error",
+        "lesson": "Logical agreement with a negative appraisal is still rejection of the option; do not treat it as positive approval."
+      }
+    ],
+    "manual_case_examples": [
+      {
+        "cue": "okay",
+        "sound": "awkward-moment.mp3",
+        "function": "neutral_acknowledgment"
+      },
+      {
+        "cue": "bro / lets see, before the option list",
+        "sound": "movie_1.mp3",
+        "function": "dramatic_setup"
+      },
+      {
+        "cue": "oh heck yeah, fast-food excitement",
+        "sound": "ooooo.mp3",
+        "function": "excited_positive_reaction"
+      },
+      {
+        "cue": "give me some wings",
+        "sound": "MMMMMM.mp3",
+        "function": "approval"
+      },
+      {
+        "cue": "oh wait, test-answer reveal",
+        "sound": "vine-boom (20).mp3",
+        "function": "impact_or_emphasis"
+      },
+      {
+        "cue": "I failed everything, I will do that",
+        "sound": "fahhhh.mp3",
+        "function": "comic_line"
+      },
+      {
+        "cue": "ooh what the, that is not even real",
+        "sound": "sudden-suspense-sound-effect.mp3",
+        "function": "unexpected_or_tense"
+      },
+      {
+        "cue": "breakfast",
+        "sound": "vine-boom (20).mp3",
+        "function": "keyword_emphasis"
+      },
+      {
+        "cue": "breakfast / sleep-in / free sequence",
+        "sound": "among-us-role-reveal-sound.mp3",
+        "function": "dubious_or_ironic"
+      },
+      {
+        "cue": "I always lose my pencils",
+        "sound": "awkward-moment.mp3",
+        "function": "dry_self_disclosure"
+      },
+      {
+        "cue": "that is perfect",
+        "sound": "MMMMMM.mp3",
+        "function": "approval"
+      },
+      {
+        "cue": "nobody gets ice cream",
+        "sound": "error_CDOxCYm.mp3",
+        "function": "rejection"
+      }
+    ],
+    "car_revision_examples": [
+      {
+        "cue": "Ferrari reveal",
+        "sound": "anime-wow-sound-effect.mp3",
+        "function": "visual_admiration"
+      },
+      {
+        "cue": "Koenigsegg reveal / naming the car",
+        "sound": "vine-boom (20).mp3",
+        "function": "keyword_emphasis"
+      },
+      {
+        "cue": "exceptional Koenigsegg reveal",
+        "sound": "heavenly-music-gaming-sound-effect-hd-mp3cut.mp3",
+        "function": "exceptional_good_reveal"
+      },
+      {
+        "cue": "Supra recognition",
+        "sound": "vine-boom (20).mp3",
+        "function": "keyword_emphasis"
+      },
+      {
+        "cue": "deadpan banana-car what-the",
+        "sound": "awkward-moment.mp3",
+        "function": "dry_or_awkward"
+      },
+      {
+        "cue": "banana car forever / date consequence",
+        "sound": "undertakers-bell_2UwFCIe.mp3",
+        "function": "dramatic_comic_consequence"
+      },
+      {
+        "cue": "hype/transition at yo after Lamborghini",
+        "sound": "movie_1.mp3",
+        "function": "dramatic_punctuation"
+      },
+      {
+        "cue": "mild oh recognition of pink Acura",
+        "sound": "ooooo.mp3",
+        "function": "mild_reaction_lift"
+      }
+    ],
+    "shopping_cart_revision_examples": [
+      {
+        "cue": "oh, the gaming shopping cart",
+        "decision": "silence",
+        "removed_sound": "ooooo.mp3",
+        "function": "conversational_recognition"
+      },
+      {
+        "cue": "I would too",
+        "sound": "awkward-moment.mp3",
+        "time": 15.467,
+        "function": "dry_assent",
+        "interpretation": "Observed dry echo in this scene; not a universal rule for this phrase."
+      },
+      {
+        "cue": "glass cart reveal / bro what",
+        "sound": "sudden-suspense-sound-effect.mp3",
+        "time": 24.9,
+        "function": "unexpected_or_tense"
+      },
+      {
+        "cue": "you are cooked, glass-cart roast",
+        "sound": "fahhhh.mp3",
+        "time": 31.367,
+        "function": "comic_line"
+      },
+      {
+        "cue": "isolated oh at ball-pit reveal",
+        "sound": "ooooo.mp3",
+        "time": 33.167,
+        "function": "mild_reaction_lift"
+      },
+      {
+        "cue": "it does not look comfortable at all",
+        "sound": "error_CDOxCYm.mp3",
+        "time": 27.833,
+        "function": "negative_appraisal",
+        "replaces": "MMMMMM.mp3",
+        "source": "Explicit user correction"
+      }
+    ],
+    "appraisal_policy": {
+      "first_step": "Resolve what the speaker is evaluating and whether the completed meaning accepts or rejects it.",
+      "negative_agreement": "Agreeing that the glass cart is not comfortable is a negative appraisal. Use the learned rejection cue, not MMMMMM.",
+      "positive_qualified": "Not bad / I do not mind that can express positive acceptance; do not use a raw not-word filter.",
+      "explicit_affirmation": "Exactly can be explicit affirmation, but do not infer it from any negative statement that happens to echo the narrator."
+    }
+  }
+}

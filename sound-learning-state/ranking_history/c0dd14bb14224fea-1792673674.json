@@ -1,0 +1,469 @@
+{
+  "report": {
+    "job_id": "c0dd14bb14224fea",
+    "timeline": "Day6.4",
+    "revision_hash": "3d8ca9abddd07a2bc46ba6de159c7611dd17df45c75fca11f8dd316d4c12e22c",
+    "unchanged": false,
+    "items": {
+      "matched": 5,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 3,
+          "start_delta": 0.067,
+          "end_delta": 0.0
+        },
+        {
+          "planned": 4,
+          "start_delta": 0.2,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "kevin_pieces": {
+      "matched": 5,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "start_delta": 0.2,
+          "end_delta": -0.133
+        },
+        {
+          "planned": 1,
+          "start_delta": 0.067,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 3,
+          "start_delta": 0.1,
+          "end_delta": -0.1
+        },
+        {
+          "planned": 4,
+          "start_delta": 0.067,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "bw": {
+      "planned": 3,
+      "kept": [
+        0,
+        1,
+        2
+      ],
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "duration_delta": -0.133,
+          "zoom": 1.1,
+          "start_shift": -0.3
+        },
+        {
+          "planned": 1,
+          "duration_delta": -0.0,
+          "zoom": 1.1,
+          "start_shift": -0.5
+        },
+        {
+          "planned": 2,
+          "duration_delta": 0.0,
+          "zoom": 1.1,
+          "start_shift": -0.667
+        }
+      ]
+    },
+    "main_track_other_media": 0,
+    "learned_at": 1792673674.0651488
+  },
+  "plan": {
+    "job_id": "c0dd14bb14224fea",
+    "project": "1022",
+    "timeline": "3D26D5D0-E028-4F2A-8BE7-BB1146C114A6",
+    "source_hash": "c41c72415b16c972b7f6e2b2e567fd97363956216b97968815af5f7259b5b4bb",
+    "style_version": 1,
+    "items": [
+      {
+        "start": 0.0,
+        "end": 4.93,
+        "rank": 6,
+        "label": "Level 1",
+        "reason": "Spider-Man pose ends in a groin hit and fall"
+      },
+      {
+        "start": 4.94,
+        "end": 9.997,
+        "rank": 5,
+        "label": "Level 2",
+        "reason": "autograph request then spidey-sense close-up"
+      },
+      {
+        "start": 10.007,
+        "end": 15.623,
+        "rank": 3,
+        "label": "Level 3/4",
+        "reason": "suit zipper pulled shut on the wearer"
+      },
+      {
+        "start": 15.633,
+        "end": 19.357,
+        "rank": 2,
+        "label": "Level 5",
+        "reason": "party backflip with swagger landing"
+      },
+      {
+        "start": 19.367,
+        "end": 24.59,
+        "rank": 1,
+        "label": "Level 6",
+        "reason": "gym slip and full wipeout"
+      }
+    ],
+    "reactions": [
+      {
+        "item": 0,
+        "about": "the hit ends his chance of kids",
+        "pieces": [
+          {
+            "from_word": 1,
+            "to_word": 10,
+            "start": 2.14,
+            "end": 4.67,
+            "text": "Say goodbye to your kids buddy, you're not having them."
+          }
+        ],
+        "bw": {
+          "at_word": 5,
+          "until_end": true,
+          "reason": "\"kids ... not having them\" points back at the hit"
+        }
+      },
+      {
+        "item": 1,
+        "about": "spidey sense used to dodge the autograph",
+        "pieces": [
+          {
+            "from_word": 11,
+            "to_word": 22,
+            "start": 6.29,
+            "end": 9.66,
+            "text": "We can all agree that's the best use of spidey scents literally."
+          }
+        ],
+        "bw": {
+          "at_word": 17,
+          "until_end": true,
+          "reason": "\"best use of spidey senses\" points at the spidey-sense close-up"
+        }
+      },
+      {
+        "item": 2,
+        "about": "zipper would make him panic and suffocate",
+        "pieces": [
+          {
+            "from_word": 23,
+            "to_word": 32,
+            "start": 10.71,
+            "end": 13.86,
+            "text": "At that point I would start panicking. I would suffocate."
+          }
+        ]
+      },
+      {
+        "item": 3,
+        "about": "the flip had exaggerated swagger",
+        "pieces": [
+          {
+            "from_word": 33,
+            "to_word": 43,
+            "start": 14.87,
+            "end": 18.33,
+            "text": "Definitely the exaggerated swagger of a black teen that was right."
+          }
+        ],
+        "bw": {
+          "at_word": 36,
+          "duration": 1.3,
+          "reason": "\"exaggerated swagger\" points at the flip landing"
+        }
+      },
+      {
+        "item": 4,
+        "about": "that Spider-Man is saving nobody",
+        "pieces": [
+          {
+            "from_word": 44,
+            "to_word": 50,
+            "start": 18.86,
+            "end": 20.9,
+            "text": "I was not saving anybody. Everyone's cooked."
+          }
+        ]
+      }
+    ],
+    "segments": [
+      {
+        "role": "ranking",
+        "index": 0,
+        "source_start": 0.0,
+        "frames": 147,
+        "target_frame": 0
+      },
+      {
+        "role": "kevin",
+        "index": 0,
+        "source_start": 2.14,
+        "frames": 76,
+        "target_frame": 147
+      },
+      {
+        "role": "ranking",
+        "index": 1,
+        "source_start": 4.94,
+        "frames": 151,
+        "target_frame": 223
+      },
+      {
+        "role": "kevin",
+        "index": 1,
+        "source_start": 6.29,
+        "frames": 101,
+        "target_frame": 374
+      },
+      {
+        "role": "ranking",
+        "index": 2,
+        "source_start": 10.007,
+        "frames": 168,
+        "target_frame": 475
+      },
+      {
+        "role": "kevin",
+        "index": 2,
+        "source_start": 10.71,
+        "frames": 94,
+        "target_frame": 643
+      },
+      {
+        "role": "ranking",
+        "index": 3,
+        "source_start": 15.633,
+        "frames": 111,
+        "target_frame": 737
+      },
+      {
+        "role": "kevin",
+        "index": 3,
+        "source_start": 14.87,
+        "frames": 104,
+        "target_frame": 848
+      },
+      {
+        "role": "ranking",
+        "index": 4,
+        "source_start": 19.367,
+        "frames": 156,
+        "target_frame": 952
+      },
+      {
+        "role": "kevin",
+        "index": 4,
+        "source_start": 18.86,
+        "frames": 61,
+        "target_frame": 1108
+      }
+    ],
+    "overlays": [
+      {
+        "reaction": 0,
+        "target_frame": 173,
+        "frames": 50,
+        "source_start": 3.263,
+        "zoom": 1.1,
+        "reason": "\"kids ... not having them\" points back at the hit",
+        "under_words": "kids buddy, you're not having them."
+      },
+      {
+        "reaction": 1,
+        "target_frame": 408,
+        "frames": 67,
+        "source_start": 7.764,
+        "zoom": 1.1,
+        "reason": "\"best use of spidey senses\" points at the spidey-sense close-up",
+        "under_words": "best use of spidey scents literally."
+      },
+      {
+        "reaction": 3,
+        "target_frame": 883,
+        "frames": 39,
+        "source_start": 18.057,
+        "zoom": 1.1,
+        "reason": "\"exaggerated swagger\" points at the flip landing",
+        "under_words": "swagger of a black teen that"
+      }
+    ],
+    "volumes": {
+      "kevin": 0.63,
+      "ranking": 0.5
+    },
+    "total_frames": 1169,
+    "whoosh_cues": [
+      7.103,
+      15.503,
+      24.237,
+      31.403
+    ],
+    "quality_notes": {
+      "item_boundaries_checked_on_frames": true,
+      "reaction_mapping_reviewed": true,
+      "dropped_speech_reviewed": true,
+      "dropped": "slates, the Backrooms false start + off-take aside, a stray \"What?\" before a 1s pause, and the Sea Lion zero-length ASR repeat"
+    }
+  },
+  "observed": {
+    "main": [
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_8E81FEC9-C814-4D5A-B403-993628887B9F.mov",
+        "start": 0.0,
+        "duration": 4.8,
+        "source_start": 0.1,
+        "source_duration": 4.8,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7668.MOV",
+        "start": 4.8,
+        "duration": 2.2,
+        "source_start": 2.34,
+        "source_duration": 2.2,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_8E81FEC9-C814-4D5A-B403-993628887B9F.mov",
+        "start": 7.0,
+        "duration": 5.033333,
+        "source_start": 4.94,
+        "source_duration": 5.033334,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7668.MOV",
+        "start": 12.033333,
+        "duration": 3.3,
+        "source_start": 6.356667,
+        "source_duration": 3.299999,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_8E81FEC9-C814-4D5A-B403-993628887B9F.mov",
+        "start": 15.333333,
+        "duration": 5.6,
+        "source_start": 10.007,
+        "source_duration": 5.6,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7668.MOV",
+        "start": 20.933333,
+        "duration": 3.133333,
+        "source_start": 10.71,
+        "source_duration": 3.133334,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_8E81FEC9-C814-4D5A-B403-993628887B9F.mov",
+        "start": 24.066666,
+        "duration": 3.633334,
+        "source_start": 15.699667,
+        "source_duration": 3.633333,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7668.MOV",
+        "start": 27.7,
+        "duration": 3.266666,
+        "source_start": 14.97,
+        "source_duration": 3.266666,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_8E81FEC9-C814-4D5A-B403-993628887B9F.mov",
+        "start": 30.966666,
+        "duration": 5.0,
+        "source_start": 19.567,
+        "source_duration": 5.0,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7668.MOV",
+        "start": 35.966666,
+        "duration": 1.966667,
+        "source_start": 18.926667,
+        "source_duration": 1.966667,
+        "volume": 0.63,
+        "scale": 1.0
+      }
+    ],
+    "overlays": [
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/c0dd14bb14224fea/bw_01_2fbb44acd4.mp4",
+        "start": 5.466666,
+        "duration": 1.533334,
+        "source_start": 0.0,
+        "source_duration": 1.533333,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/c0dd14bb14224fea/bw_02_374152b23c.mp4",
+        "start": 13.1,
+        "duration": 2.233333,
+        "source_start": 0.0,
+        "source_duration": 2.233333,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/c0dd14bb14224fea/bw_03_baec513141.mp4",
+        "start": 28.766666,
+        "duration": 1.3,
+        "source_start": 0.0,
+        "source_duration": 1.3,
+        "volume": 0.0,
+        "scale": 1.1
+      }
+    ]
+  }
+}

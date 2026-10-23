@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
 .venv/
+
+# macOS / ExFAT metadata
+._*
+.DS_Store
+
+# Re-creatable caches (state backup keeps json, not media or models)
+sound-learning-state/models/
+sound-learning-state/locks/
+sound-learning-state/readable/

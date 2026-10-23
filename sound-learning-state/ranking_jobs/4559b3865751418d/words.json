@@ -1,0 +1,512 @@
+[
+  {
+    "i": 0,
+    "start": 0.21,
+    "end": 0.67,
+    "text": "All"
+  },
+  {
+    "i": 1,
+    "start": 0.67,
+    "end": 0.81,
+    "text": "right,"
+  },
+  {
+    "i": 2,
+    "start": 0.91,
+    "end": 1.09,
+    "text": "I'm"
+  },
+  {
+    "i": 3,
+    "start": 1.09,
+    "end": 1.19,
+    "text": "the"
+  },
+  {
+    "i": 4,
+    "start": 1.19,
+    "end": 1.49,
+    "text": "fainting"
+  },
+  {
+    "i": 5,
+    "start": 1.49,
+    "end": 1.71,
+    "text": "one."
+  },
+  {
+    "i": 6,
+    "start": 2.05,
+    "end": 2.49,
+    "text": "All"
+  },
+  {
+    "i": 7,
+    "start": 2.49,
+    "end": 2.63,
+    "text": "right"
+  },
+  {
+    "i": 8,
+    "start": 2.63,
+    "end": 2.83,
+    "text": "first"
+  },
+  {
+    "i": 9,
+    "start": 2.83,
+    "end": 3.09,
+    "text": "part"
+  },
+  {
+    "i": 10,
+    "start": 4.19,
+    "end": 4.63,
+    "text": "He"
+  },
+  {
+    "i": 11,
+    "start": 4.63,
+    "end": 4.77,
+    "text": "did"
+  },
+  {
+    "i": 12,
+    "start": 4.77,
+    "end": 5.09,
+    "text": "not"
+  },
+  {
+    "i": 13,
+    "start": 5.09,
+    "end": 5.33,
+    "text": "care"
+  },
+  {
+    "i": 14,
+    "start": 5.33,
+    "end": 5.51,
+    "text": "that"
+  },
+  {
+    "i": 15,
+    "start": 5.51,
+    "end": 5.65,
+    "text": "you"
+  },
+  {
+    "i": 16,
+    "start": 5.65,
+    "end": 6.05,
+    "text": "fainted."
+  },
+  {
+    "i": 17,
+    "start": 6.35,
+    "end": 6.53,
+    "text": "He"
+  },
+  {
+    "i": 18,
+    "start": 6.53,
+    "end": 6.69,
+    "text": "had"
+  },
+  {
+    "i": 19,
+    "start": 6.69,
+    "end": 7.01,
+    "text": "murder"
+  },
+  {
+    "i": 20,
+    "start": 7.01,
+    "end": 7.27,
+    "text": "on"
+  },
+  {
+    "i": 21,
+    "start": 7.27,
+    "end": 7.43,
+    "text": "his"
+  },
+  {
+    "i": 22,
+    "start": 7.43,
+    "end": 7.71,
+    "text": "mind,"
+  },
+  {
+    "i": 23,
+    "start": 7.91,
+    "end": 7.97,
+    "text": "bro."
+  },
+  {
+    "i": 24,
+    "start": 8.13,
+    "end": 8.15,
+    "text": "He"
+  },
+  {
+    "i": 25,
+    "start": 8.15,
+    "end": 8.27,
+    "text": "was"
+  },
+  {
+    "i": 26,
+    "start": 8.27,
+    "end": 8.47,
+    "text": "not"
+  },
+  {
+    "i": 27,
+    "start": 8.47,
+    "end": 8.91,
+    "text": "trolling"
+  },
+  {
+    "i": 28,
+    "start": 10.54,
+    "end": 10.98,
+    "text": "Okay,"
+  },
+  {
+    "i": 29,
+    "start": 11.34,
+    "end": 11.44,
+    "text": "those"
+  },
+  {
+    "i": 30,
+    "start": 11.44,
+    "end": 11.74,
+    "text": "goose"
+  },
+  {
+    "i": 31,
+    "start": 11.74,
+    "end": 12.08,
+    "text": "are"
+  },
+  {
+    "i": 32,
+    "start": 12.08,
+    "end": 12.4,
+    "text": "W."
+  },
+  {
+    "i": 33,
+    "start": 12.78,
+    "end": 12.86,
+    "text": "They're"
+  },
+  {
+    "i": 34,
+    "start": 12.86,
+    "end": 13.06,
+    "text": "W."
+  },
+  {
+    "i": 35,
+    "start": 13.38,
+    "end": 13.38,
+    "text": "They"
+  },
+  {
+    "i": 36,
+    "start": 13.38,
+    "end": 13.5,
+    "text": "would"
+  },
+  {
+    "i": 37,
+    "start": 13.5,
+    "end": 13.6,
+    "text": "have"
+  },
+  {
+    "i": 38,
+    "start": 13.6,
+    "end": 13.74,
+    "text": "called"
+  },
+  {
+    "i": 39,
+    "start": 13.74,
+    "end": 13.92,
+    "text": "the"
+  },
+  {
+    "i": 40,
+    "start": 13.92,
+    "end": 14.16,
+    "text": "police"
+  },
+  {
+    "i": 41,
+    "start": 14.16,
+    "end": 14.52,
+    "text": "too"
+  },
+  {
+    "i": 42,
+    "start": 16.92,
+    "end": 17.36,
+    "text": "Those"
+  },
+  {
+    "i": 43,
+    "start": 17.36,
+    "end": 17.8,
+    "text": "emus"
+  },
+  {
+    "i": 44,
+    "start": 17.8,
+    "end": 18.02,
+    "text": "like"
+  },
+  {
+    "i": 45,
+    "start": 18.02,
+    "end": 18.42,
+    "text": "finally"
+  },
+  {
+    "i": 46,
+    "start": 18.42,
+    "end": 18.72,
+    "text": "free"
+  },
+  {
+    "i": 47,
+    "start": 18.72,
+    "end": 19.14,
+    "text": "food,"
+  },
+  {
+    "i": 48,
+    "start": 19.24,
+    "end": 19.44,
+    "text": "bro."
+  },
+  {
+    "i": 49,
+    "start": 19.78,
+    "end": 19.86,
+    "text": "They"
+  },
+  {
+    "i": 50,
+    "start": 19.86,
+    "end": 19.94,
+    "text": "did"
+  },
+  {
+    "i": 51,
+    "start": 19.94,
+    "end": 20.16,
+    "text": "not"
+  },
+  {
+    "i": 52,
+    "start": 20.16,
+    "end": 20.38,
+    "text": "care"
+  },
+  {
+    "i": 53,
+    "start": 20.38,
+    "end": 20.58,
+    "text": "at"
+  },
+  {
+    "i": 54,
+    "start": 20.58,
+    "end": 20.8,
+    "text": "all"
+  },
+  {
+    "i": 55,
+    "start": 22.46,
+    "end": 22.9,
+    "text": "Go"
+  },
+  {
+    "i": 56,
+    "start": 22.9,
+    "end": 23.34,
+    "text": "freaky"
+  },
+  {
+    "i": 57,
+    "start": 23.34,
+    "end": 23.68,
+    "text": "dinky"
+  },
+  {
+    "i": 58,
+    "start": 23.68,
+    "end": 24.06,
+    "text": "dog,"
+  },
+  {
+    "i": 59,
+    "start": 24.06,
+    "end": 24.26,
+    "text": "bro."
+  },
+  {
+    "i": 60,
+    "start": 24.44,
+    "end": 24.44,
+    "text": "What"
+  },
+  {
+    "i": 61,
+    "start": 24.44,
+    "end": 24.54,
+    "text": "is"
+  },
+  {
+    "i": 62,
+    "start": 24.54,
+    "end": 24.66,
+    "text": "he"
+  },
+  {
+    "i": 63,
+    "start": 24.66,
+    "end": 25.02,
+    "text": "doing?"
+  },
+  {
+    "i": 64,
+    "start": 25.98,
+    "end": 26.02,
+    "text": "You"
+  },
+  {
+    "i": 65,
+    "start": 26.02,
+    "end": 26.42,
+    "text": "put"
+  },
+  {
+    "i": 66,
+    "start": 26.42,
+    "end": 26.6,
+    "text": "your"
+  },
+  {
+    "i": 67,
+    "start": 26.6,
+    "end": 26.86,
+    "text": "owners"
+  },
+  {
+    "i": 68,
+    "start": 26.86,
+    "end": 27.28,
+    "text": "down"
+  },
+  {
+    "i": 69,
+    "start": 29.33,
+    "end": 29.77,
+    "text": "And"
+  },
+  {
+    "i": 70,
+    "start": 29.77,
+    "end": 29.95,
+    "text": "I'm"
+  },
+  {
+    "i": 71,
+    "start": 29.95,
+    "end": 30.05,
+    "text": "at"
+  },
+  {
+    "i": 72,
+    "start": 30.05,
+    "end": 30.61,
+    "text": "wholesome."
+  },
+  {
+    "i": 73,
+    "start": 30.77,
+    "end": 30.91,
+    "text": "At"
+  },
+  {
+    "i": 74,
+    "start": 30.91,
+    "end": 31.03,
+    "text": "least"
+  },
+  {
+    "i": 75,
+    "start": 31.03,
+    "end": 31.17,
+    "text": "he"
+  },
+  {
+    "i": 76,
+    "start": 31.17,
+    "end": 31.37,
+    "text": "sits"
+  },
+  {
+    "i": 77,
+    "start": 31.37,
+    "end": 31.59,
+    "text": "with"
+  },
+  {
+    "i": 78,
+    "start": 31.59,
+    "end": 31.75,
+    "text": "you"
+  },
+  {
+    "i": 79,
+    "start": 31.75,
+    "end": 31.89,
+    "text": "while"
+  },
+  {
+    "i": 80,
+    "start": 31.89,
+    "end": 32.01,
+    "text": "you"
+  },
+  {
+    "i": 81,
+    "start": 32.01,
+    "end": 32.25,
+    "text": "die."
+  },
+  {
+    "i": 82,
+    "start": 32.53,
+    "end": 32.83,
+    "text": "It's"
+  },
+  {
+    "i": 83,
+    "start": 32.83,
+    "end": 32.93,
+    "text": "not"
+  },
+  {
+    "i": 84,
+    "start": 32.93,
+    "end": 33.25,
+    "text": "bad"
+  }
+]

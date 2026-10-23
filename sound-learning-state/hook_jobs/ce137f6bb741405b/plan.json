@@ -1,0 +1,25 @@
+{
+  "job_id": "ce137f6bb741405b",
+  "source_hash": "eb4814341e340613c0a596e258d2074c391768c9c93a20bca6d8ee288b51c234",
+  "style_version": 16,
+  "hook": {
+    "text": "SOMEBODY'S MOVING\nINSIDE YOUR WALLS\nWHO ARE YOU PICKING?",
+    "highlight_phrases": [
+      "INSIDE YOUR WALLS"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Somebody's moving inside your walls for the next 10 years,"
+    },
+    "reason": "Keep the actual someone-moving-inside-your-walls premise and the who-are-you-picking choice from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User explicitly asked in chat to change the hook text on all 4 videos (4 tari hook text chng hbe).",
+    "layout_notes": "Native Rubik-Bold preview: three lines fit, yellow highlight on line 2."
+  }
+}

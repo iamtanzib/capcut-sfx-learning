@@ -1,0 +1,25 @@
+{
+  "job_id": "d49fbf33621a4db2",
+  "source_hash": "125a9c15d5bab857345f14acbf4bf390302e57e20f7cb975acac28fe98c28eb0",
+  "style_version": 16,
+  "hook": {
+    "text": "YOUR BIRTH MONTH IS\nWHO MIGHT SNITCH\nWHO DID YOU GET?",
+    "highlight_phrases": [
+      "SNITCH"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Your birth month decides who's in that chair."
+    },
+    "reason": "Keep the birth-month-decides-who's-interrogated premise and the who-did-you-get question; snitch comes from the intro's if-they-snitch stakes.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User explicitly asked in chat to change the hook text on all 4 videos (4 tari hook text chng hbe).",
+    "layout_notes": "Native Rubik-Bold preview: three lines fit, yellow SNITCH."
+  }
+}

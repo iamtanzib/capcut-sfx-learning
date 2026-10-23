@@ -1,0 +1,398 @@
+[
+  {
+    "i": 0,
+    "start": 2.18,
+    "end": 2.54,
+    "text": "I"
+  },
+  {
+    "i": 1,
+    "start": 2.54,
+    "end": 2.76,
+    "text": "mean,"
+  },
+  {
+    "i": 2,
+    "start": 2.9,
+    "end": 2.98,
+    "text": "what"
+  },
+  {
+    "i": 3,
+    "start": 2.98,
+    "end": 3.08,
+    "text": "do"
+  },
+  {
+    "i": 4,
+    "start": 3.08,
+    "end": 3.16,
+    "text": "we"
+  },
+  {
+    "i": 5,
+    "start": 3.16,
+    "end": 3.32,
+    "text": "think"
+  },
+  {
+    "i": 6,
+    "start": 3.32,
+    "end": 3.48,
+    "text": "was"
+  },
+  {
+    "i": 7,
+    "start": 3.48,
+    "end": 3.64,
+    "text": "gonna"
+  },
+  {
+    "i": 8,
+    "start": 3.64,
+    "end": 4.0,
+    "text": "happen?"
+  },
+  {
+    "i": 9,
+    "start": 4.2,
+    "end": 4.3,
+    "text": "That's"
+  },
+  {
+    "i": 10,
+    "start": 4.3,
+    "end": 4.46,
+    "text": "too"
+  },
+  {
+    "i": 11,
+    "start": 4.46,
+    "end": 4.64,
+    "text": "like"
+  },
+  {
+    "i": 12,
+    "start": 4.64,
+    "end": 5.06,
+    "text": "flimsy."
+  },
+  {
+    "i": 13,
+    "start": 6.89,
+    "end": 7.03,
+    "text": "I"
+  },
+  {
+    "i": 14,
+    "start": 7.03,
+    "end": 7.15,
+    "text": "mean,"
+  },
+  {
+    "i": 15,
+    "start": 7.21,
+    "end": 7.29,
+    "text": "it's"
+  },
+  {
+    "i": 16,
+    "start": 7.29,
+    "end": 7.47,
+    "text": "more"
+  },
+  {
+    "i": 17,
+    "start": 7.47,
+    "end": 7.79,
+    "text": "paper."
+  },
+  {
+    "i": 18,
+    "start": 8.13,
+    "end": 8.19,
+    "text": "At"
+  },
+  {
+    "i": 19,
+    "start": 8.19,
+    "end": 8.29,
+    "text": "least"
+  },
+  {
+    "i": 20,
+    "start": 8.29,
+    "end": 8.45,
+    "text": "it"
+  },
+  {
+    "i": 21,
+    "start": 8.45,
+    "end": 8.53,
+    "text": "left"
+  },
+  {
+    "i": 22,
+    "start": 8.53,
+    "end": 8.69,
+    "text": "a"
+  },
+  {
+    "i": 23,
+    "start": 8.69,
+    "end": 8.85,
+    "text": "little"
+  },
+  {
+    "i": 24,
+    "start": 8.85,
+    "end": 9.11,
+    "text": "mark,"
+  },
+  {
+    "i": 25,
+    "start": 9.15,
+    "end": 9.33,
+    "text": "I"
+  },
+  {
+    "i": 26,
+    "start": 9.33,
+    "end": 9.53,
+    "text": "guess."
+  },
+  {
+    "i": 27,
+    "start": 11.44,
+    "end": 11.72,
+    "text": "This"
+  },
+  {
+    "i": 28,
+    "start": 11.72,
+    "end": 11.88,
+    "text": "is"
+  },
+  {
+    "i": 29,
+    "start": 11.88,
+    "end": 12.02,
+    "text": "how"
+  },
+  {
+    "i": 30,
+    "start": 12.02,
+    "end": 12.16,
+    "text": "you"
+  },
+  {
+    "i": 31,
+    "start": 12.16,
+    "end": 12.28,
+    "text": "get"
+  },
+  {
+    "i": 32,
+    "start": 12.28,
+    "end": 13.32,
+    "text": "styrofoam"
+  },
+  {
+    "i": 33,
+    "start": 13.32,
+    "end": 13.32,
+    "text": "poison"
+  },
+  {
+    "i": 34,
+    "start": 13.32,
+    "end": 13.42,
+    "text": "and"
+  },
+  {
+    "i": 35,
+    "start": 13.42,
+    "end": 13.54,
+    "text": "you're"
+  },
+  {
+    "i": 36,
+    "start": 13.54,
+    "end": 13.8,
+    "text": "cooked"
+  },
+  {
+    "i": 37,
+    "start": 13.8,
+    "end": 14.02,
+    "text": "if"
+  },
+  {
+    "i": 38,
+    "start": 14.02,
+    "end": 14.12,
+    "text": "you"
+  },
+  {
+    "i": 39,
+    "start": 14.12,
+    "end": 14.26,
+    "text": "eat"
+  },
+  {
+    "i": 40,
+    "start": 14.26,
+    "end": 14.48,
+    "text": "that."
+  },
+  {
+    "i": 41,
+    "start": 16.1,
+    "end": 16.22,
+    "text": "Why"
+  },
+  {
+    "i": 42,
+    "start": 16.22,
+    "end": 16.4,
+    "text": "are"
+  },
+  {
+    "i": 43,
+    "start": 16.4,
+    "end": 16.5,
+    "text": "we"
+  },
+  {
+    "i": 44,
+    "start": 16.5,
+    "end": 16.68,
+    "text": "still"
+  },
+  {
+    "i": 45,
+    "start": 16.68,
+    "end": 16.94,
+    "text": "doing"
+  },
+  {
+    "i": 46,
+    "start": 16.94,
+    "end": 17.26,
+    "text": "paper?"
+  },
+  {
+    "i": 47,
+    "start": 17.72,
+    "end": 17.82,
+    "text": "It's"
+  },
+  {
+    "i": 48,
+    "start": 17.82,
+    "end": 18.0,
+    "text": "no"
+  },
+  {
+    "i": 49,
+    "start": 18.0,
+    "end": 18.34,
+    "text": "different"
+  },
+  {
+    "i": 50,
+    "start": 18.34,
+    "end": 18.78,
+    "text": "result."
+  },
+  {
+    "i": 51,
+    "start": 20.65,
+    "end": 20.95,
+    "text": "Okay,"
+  },
+  {
+    "i": 52,
+    "start": 20.95,
+    "end": 21.31,
+    "text": "now"
+  },
+  {
+    "i": 53,
+    "start": 21.31,
+    "end": 21.65,
+    "text": "that's"
+  },
+  {
+    "i": 54,
+    "start": 21.65,
+    "end": 22.07,
+    "text": "satisfying."
+  },
+  {
+    "i": 55,
+    "start": 22.33,
+    "end": 22.35,
+    "text": "I"
+  },
+  {
+    "i": 56,
+    "start": 22.35,
+    "end": 22.59,
+    "text": "can't"
+  },
+  {
+    "i": 57,
+    "start": 22.59,
+    "end": 22.75,
+    "text": "lie."
+  },
+  {
+    "i": 58,
+    "start": 22.99,
+    "end": 23.11,
+    "text": "That's"
+  },
+  {
+    "i": 59,
+    "start": 23.11,
+    "end": 23.41,
+    "text": "fire."
+  },
+  {
+    "i": 60,
+    "start": 24.07,
+    "end": 24.29,
+    "text": "Cardboard"
+  },
+  {
+    "i": 61,
+    "start": 24.29,
+    "end": 24.53,
+    "text": "potatoes."
+  },
+  {
+    "i": 62,
+    "start": 24.91,
+    "end": 24.99,
+    "text": "That's"
+  },
+  {
+    "i": 63,
+    "start": 24.99,
+    "end": 25.05,
+    "text": "a"
+  },
+  {
+    "i": 64,
+    "start": 25.05,
+    "end": 25.17,
+    "text": "good"
+  },
+  {
+    "i": 65,
+    "start": 25.17,
+    "end": 25.45,
+    "text": "meal."
+  }
+]

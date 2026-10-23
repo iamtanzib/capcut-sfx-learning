@@ -1,0 +1,370 @@
+{
+  "model": "base.en",
+  "seconds": 1.84,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 13.71,
+      "text": "Tissue. What do we think was gonna happen? That's too like flimsy. Paper. It's more paper. At least it left a little mark, I guess.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.42,
+          "text": "Tissue."
+        },
+        {
+          "start": 1.4,
+          "end": 1.76,
+          "text": "What"
+        },
+        {
+          "start": 3.49,
+          "end": 3.59,
+          "text": "do"
+        },
+        {
+          "start": 3.59,
+          "end": 3.69,
+          "text": "we"
+        },
+        {
+          "start": 3.69,
+          "end": 3.85,
+          "text": "think"
+        },
+        {
+          "start": 3.85,
+          "end": 4.01,
+          "text": "was"
+        },
+        {
+          "start": 4.01,
+          "end": 4.17,
+          "text": "gonna"
+        },
+        {
+          "start": 4.17,
+          "end": 4.53,
+          "text": "happen?"
+        },
+        {
+          "start": 4.69,
+          "end": 4.83,
+          "text": "That's"
+        },
+        {
+          "start": 4.83,
+          "end": 4.99,
+          "text": "too"
+        },
+        {
+          "start": 4.99,
+          "end": 5.17,
+          "text": "like"
+        },
+        {
+          "start": 5.17,
+          "end": 5.63,
+          "text": "flimsy."
+        },
+        {
+          "start": 5.87,
+          "end": 6.13,
+          "text": "Paper."
+        },
+        {
+          "start": 11.17,
+          "end": 11.53,
+          "text": "It's"
+        },
+        {
+          "start": 11.53,
+          "end": 11.67,
+          "text": "more"
+        },
+        {
+          "start": 11.67,
+          "end": 12.03,
+          "text": "paper."
+        },
+        {
+          "start": 12.37,
+          "end": 12.41,
+          "text": "At"
+        },
+        {
+          "start": 12.41,
+          "end": 12.53,
+          "text": "least"
+        },
+        {
+          "start": 12.53,
+          "end": 12.67,
+          "text": "it"
+        },
+        {
+          "start": 12.67,
+          "end": 12.75,
+          "text": "left"
+        },
+        {
+          "start": 12.75,
+          "end": 12.91,
+          "text": "a"
+        },
+        {
+          "start": 12.91,
+          "end": 13.07,
+          "text": "little"
+        },
+        {
+          "start": 13.07,
+          "end": 13.33,
+          "text": "mark,"
+        },
+        {
+          "start": 13.49,
+          "end": 13.55,
+          "text": "I"
+        },
+        {
+          "start": 13.55,
+          "end": 13.71,
+          "text": "guess."
+        }
+      ]
+    },
+    {
+      "start": 14.03,
+      "end": 22.55,
+      "text": "Styrofoam. This is how you get styrofoam poison and you're cooked if you eat that. Or paper.",
+      "words": [
+        {
+          "start": 14.03,
+          "end": 14.39,
+          "text": "Styrofoam."
+        },
+        {
+          "start": 18.99,
+          "end": 19.35,
+          "text": "This"
+        },
+        {
+          "start": 19.35,
+          "end": 19.53,
+          "text": "is"
+        },
+        {
+          "start": 19.53,
+          "end": 19.69,
+          "text": "how"
+        },
+        {
+          "start": 19.69,
+          "end": 19.81,
+          "text": "you"
+        },
+        {
+          "start": 19.81,
+          "end": 19.93,
+          "text": "get"
+        },
+        {
+          "start": 19.93,
+          "end": 20.63,
+          "text": "styrofoam"
+        },
+        {
+          "start": 20.63,
+          "end": 20.81,
+          "text": "poison"
+        },
+        {
+          "start": 20.81,
+          "end": 21.09,
+          "text": "and"
+        },
+        {
+          "start": 21.09,
+          "end": 21.19,
+          "text": "you're"
+        },
+        {
+          "start": 21.19,
+          "end": 21.45,
+          "text": "cooked"
+        },
+        {
+          "start": 21.45,
+          "end": 21.67,
+          "text": "if"
+        },
+        {
+          "start": 21.67,
+          "end": 21.77,
+          "text": "you"
+        },
+        {
+          "start": 21.77,
+          "end": 21.91,
+          "text": "eat"
+        },
+        {
+          "start": 21.91,
+          "end": 22.13,
+          "text": "that."
+        },
+        {
+          "start": 22.29,
+          "end": 22.35,
+          "text": "Or"
+        },
+        {
+          "start": 22.35,
+          "end": 22.55,
+          "text": "paper."
+        }
+      ]
+    },
+    {
+      "start": 27.23,
+      "end": 40.6,
+      "text": "Why are we still doing paper? It's no different result. Cardboard. Now that's satisfying. I can't lie. That's fire.",
+      "words": [
+        {
+          "start": 27.23,
+          "end": 27.29,
+          "text": "Why"
+        },
+        {
+          "start": 27.29,
+          "end": 27.39,
+          "text": "are"
+        },
+        {
+          "start": 27.39,
+          "end": 27.47,
+          "text": "we"
+        },
+        {
+          "start": 27.47,
+          "end": 27.65,
+          "text": "still"
+        },
+        {
+          "start": 27.65,
+          "end": 27.87,
+          "text": "doing"
+        },
+        {
+          "start": 27.87,
+          "end": 28.19,
+          "text": "paper?"
+        },
+        {
+          "start": 28.65,
+          "end": 28.69,
+          "text": "It's"
+        },
+        {
+          "start": 28.69,
+          "end": 28.87,
+          "text": "no"
+        },
+        {
+          "start": 28.87,
+          "end": 29.23,
+          "text": "different"
+        },
+        {
+          "start": 29.23,
+          "end": 29.59,
+          "text": "result."
+        },
+        {
+          "start": 30.03,
+          "end": 30.29,
+          "text": "Cardboard."
+        },
+        {
+          "start": 38.4,
+          "end": 38.58,
+          "text": "Now"
+        },
+        {
+          "start": 38.58,
+          "end": 38.96,
+          "text": "that's"
+        },
+        {
+          "start": 38.96,
+          "end": 39.42,
+          "text": "satisfying."
+        },
+        {
+          "start": 39.64,
+          "end": 39.64,
+          "text": "I"
+        },
+        {
+          "start": 39.64,
+          "end": 39.9,
+          "text": "can't"
+        },
+        {
+          "start": 39.9,
+          "end": 40.04,
+          "text": "lie."
+        },
+        {
+          "start": 40.3,
+          "end": 40.42,
+          "text": "That's"
+        },
+        {
+          "start": 40.42,
+          "end": 40.6,
+          "text": "fire."
+        }
+      ]
+    },
+    {
+      "start": 40.6,
+      "end": 42.34,
+      "text": "Heartboard Potatoes, that's a good meal!",
+      "words": [
+        {
+          "start": 40.6,
+          "end": 41.2,
+          "text": "Heartboard"
+        },
+        {
+          "start": 41.2,
+          "end": 41.68,
+          "text": "Potatoes,"
+        },
+        {
+          "start": 41.82,
+          "end": 41.92,
+          "text": "that's"
+        },
+        {
+          "start": 41.92,
+          "end": 41.98,
+          "text": "a"
+        },
+        {
+          "start": 41.98,
+          "end": 42.1,
+          "text": "good"
+        },
+        {
+          "start": 42.1,
+          "end": 42.34,
+          "text": "meal!"
+        }
+      ]
+    }
+  ]
+}

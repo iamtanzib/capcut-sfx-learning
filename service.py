@@ -219,6 +219,8 @@ def prepare_job(job):
         brief['user_style']['background_level_references']=s.read_json(folder/'profile.json').get('background_level_references',[])
         if (STATE/'data'/'zoom_style.json').exists():
             brief['zoom_style']=s.read_json(STATE/'data'/'zoom_style.json')
+        import ranking
+        ranking.annotate_brief(sys.modules[__name__],record,brief,draft)
         s.write_json(folder/'enhanced_brief.json',brief)
         s.write_json(folder/'compact.json',pack(brief))
         report['caption_speech_audit']=timing_audit(brief,report)
@@ -294,8 +296,9 @@ def merge(common,delta):
         result[key]=merge(result[key],value) if key in result and isinstance(value,dict) and isinstance(result[key],dict) else copy.deepcopy(value)
     return result
 
-def get_batch_briefs(batch_id:str):
-    batch=batch_data(batch_id);rows=[get_brief(job,True) for job in batch['jobs']];common=shared_fields(rows)
+def get_batch_briefs(batch_id:str,lean:int=0):
+    import lean as ln
+    batch=batch_data(batch_id);rows=ln.apply([get_brief(job,True) for job in batch['jobs']],lean);common=shared_fields(rows)
     result={'$shared':pack(common),'$jobs':[{'job_id':job,'$delta':pack(difference(row,common))} for job,row in zip(batch['jobs'],rows)]}
     for row,part in zip(rows,result['$jobs']):assert merge(unpack(result['$shared']),unpack(part['$delta']))==row
     return result
@@ -657,15 +660,17 @@ def build_changes(job):
             'create_time':0,'import_time':0,'import_time_ms':0,'roughcut_time_range':{'start':0,'duration':duration},'sub_time_range':{'start':-1,'duration':-1},'item_source':1,'enter_from':0})
         known.add(audio_path)
     now=int(time.time()*s.MICRO);meta.update(tm_duration=draft['duration'],tm_draft_modified=now)
-    index_path=project/'Timelines'/'project.json'
-    index=s.read_json(index_path);index['main_timeline_id']=timeline['id'];index['update_time']=now
+    index_path=s.timeline_index_path(project)
+    if index_path:index=s.read_json(index_path);index['main_timeline_id']=timeline['id'];index['update_time']=now
     if record.get('zoom_job_id'):
         import zoom as z
         draft=z.validated_native(sys.modules[__name__],record['zoom_job_id'],draft)
     if record.get('hook_job_id'):
         import hooks
         draft=hooks.validated(sys.modules[__name__],record['hook_job_id'],draft)
-    return {path:draft,s.draft_file(project):draft,meta_path:meta,index_path:index}
+    changes={path:draft,s.draft_file(project):draft,meta_path:meta}
+    if index_path:changes[index_path]=index
+    return changes
 
 def batch_changes(batch):
     result={}
@@ -897,9 +902,9 @@ def learn_zoom_revision(job_id:str):
 def prepare_edit_batch(targets:list[dict],mode:str='full_combo',workers:int=2):
     import edit_modes
     return edit_modes.prepare(sys.modules[__name__],targets,mode,workers)
-def get_edit_briefs(batch_id:str):
+def get_edit_briefs(batch_id:str,lean:int=0):
     import edit_modes
-    return edit_modes.briefs(sys.modules[__name__],batch_id)
+    return edit_modes.briefs(sys.modules[__name__],batch_id,lean)
 def apply_edit_batch(batch_id:str,auto_close:bool=True):
     import edit_modes
     return edit_modes.apply(sys.modules[__name__],batch_id,auto_close)
@@ -921,5 +926,37 @@ def analysis_cache_status():
 def learn_edit_revision(batch_id:str):
     import edit_modes
     return edit_modes.learn(sys.modules[__name__],batch_id)
+
+def learn_ranking_style(references:list[str]):
+    import ranking
+    return ranking.learn_style(sys.modules[__name__],references)
+
+def prepare_ranking_batch(targets:list[dict]):
+    import ranking
+    return ranking.prepare(sys.modules[__name__],targets)
+
+def get_ranking_briefs(batch_id:str):
+    import ranking
+    return ranking.briefs(sys.modules[__name__],batch_id)
+
+def ranking_frames(job_id:str,role:str,times:list[float]):
+    import ranking
+    return ranking.frame_image(sys.modules[__name__],job_id,role,times)
+
+def stage_ranking_plan(job_id:str,items:list[dict],reactions:list[dict],quality_notes:dict,volumes:dict|None=None):
+    import ranking
+    return ranking.stage(sys.modules[__name__],job_id,items,reactions,quality_notes,volumes)
+
+def preview_ranking_plan(job_id:str):
+    import ranking
+    return ranking.preview(sys.modules[__name__],job_id)
+
+def apply_ranking_batch(batch_id:str,auto_close:bool=True):
+    import ranking
+    return ranking.apply_batch(sys.modules[__name__],batch_id,auto_close)
+
+def learn_ranking_revision(job_id:str):
+    import ranking
+    return ranking.learn_revision(sys.modules[__name__],job_id)
 
 initialize()

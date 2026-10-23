@@ -1,0 +1,184 @@
+{
+  "job_id": "fa8ec6925abd4e9c",
+  "source_hash": "d35060578631caadf3b1dfee367017b7544d57469a5901885c2057c9fa02e90e",
+  "style_version": 26,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 4.9,
+      "end": 7.7,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "bro, stop yelling at me",
+      "reason": "Squinting bro and the whole stop-yelling comeback in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 4.9,
+        "text": "bro,",
+        "word_index": 1
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.033333,
+      "end": 16.3,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "not bad, I need to be locked out the fridge sometimes",
+      "reason": "Approval pout through the grinning locked-out confession.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.03,
+        "text": "not",
+        "word_index": 9
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 18.833333,
+      "end": 20.0,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What",
+      "reason": "Open-mouth what at the $100 snack fee, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 18.82,
+        "text": "What",
+        "word_index": 20
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.133333,
+      "end": 24.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I'd eat air for the rest of my life",
+      "reason": "Whole eat-air-for-life punchline in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.12,
+        "text": "I",
+        "word_index": 23
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 28.833333,
+      "end": 32.2,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Hey mom. Yeah, I'm getting grapes. I don't know",
+      "reason": "Mild hold across the full fake phone call to mom.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 28.84,
+        "text": "Hey",
+        "word_index": 32
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 34.366667,
+      "end": 35.8,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "That's wild",
+      "reason": "Smiling that's-wild at the hand-throwing fridge, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 34.36,
+        "text": "That's",
+        "word_index": 41
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 37.1,
+      "end": 39.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "That will help me lose weight. That's not bad.",
+      "reason": "Pointing lose-weight logic and not-bad approval together.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 37.11,
+        "text": "That",
+        "word_index": 43
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.866667,
+      "end": 48.7,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Okay, I'm not gonna lie, that will piss me off",
+      "reason": "Complete piss-me-off broccoli complaint through off.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 46.88,
+        "text": "Okay.",
+        "word_index": 53
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 50.9,
+      "end": 52.2,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "bruh",
+      "reason": "Open-mouth bruh at the snack-teleporting fridge, held for the stare.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 50.91,
+        "text": "bruh",
+        "word_index": 62
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.0,
+      "end": 56.0,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "No bruh",
+      "reason": "Final amused no-bruh held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54,
+        "text": "No",
+        "word_index": 63
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_note": "Preview onset tiles inspected: hair and eyes stay inside the actor half at 1.27-1.36x with dy -0.07; face centered; resets return to baseline."
+  }
+}

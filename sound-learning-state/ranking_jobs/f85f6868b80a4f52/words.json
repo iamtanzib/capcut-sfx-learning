@@ -1,0 +1,584 @@
+[
+  {
+    "i": 0,
+    "start": 0.64,
+    "end": 1.04,
+    "text": "One"
+  },
+  {
+    "i": 1,
+    "start": 1.04,
+    "end": 1.16,
+    "text": "of"
+  },
+  {
+    "i": 2,
+    "start": 1.16,
+    "end": 1.26,
+    "text": "the"
+  },
+  {
+    "i": 3,
+    "start": 1.26,
+    "end": 1.42,
+    "text": "ranking"
+  },
+  {
+    "i": 4,
+    "start": 1.42,
+    "end": 1.88,
+    "text": "videos"
+  },
+  {
+    "i": 5,
+    "start": 1.88,
+    "end": 2.26,
+    "text": "the"
+  },
+  {
+    "i": 6,
+    "start": 2.26,
+    "end": 2.98,
+    "text": "back"
+  },
+  {
+    "i": 7,
+    "start": 2.98,
+    "end": 3.22,
+    "text": "rooms"
+  },
+  {
+    "i": 8,
+    "start": 3.22,
+    "end": 3.5,
+    "text": "one"
+  },
+  {
+    "i": 9,
+    "start": 3.5,
+    "end": 4.62,
+    "text": "if"
+  },
+  {
+    "i": 10,
+    "start": 4.62,
+    "end": 4.76,
+    "text": "I"
+  },
+  {
+    "i": 11,
+    "start": 4.76,
+    "end": 5.04,
+    "text": "fall"
+  },
+  {
+    "i": 12,
+    "start": 5.04,
+    "end": 5.32,
+    "text": "down"
+  },
+  {
+    "i": 13,
+    "start": 5.32,
+    "end": 5.56,
+    "text": "there."
+  },
+  {
+    "i": 14,
+    "start": 5.58,
+    "end": 5.86,
+    "text": "I'm"
+  },
+  {
+    "i": 15,
+    "start": 5.86,
+    "end": 6.06,
+    "text": "never"
+  },
+  {
+    "i": 16,
+    "start": 6.06,
+    "end": 6.4,
+    "text": "coming"
+  },
+  {
+    "i": 17,
+    "start": 6.4,
+    "end": 6.72,
+    "text": "back."
+  },
+  {
+    "i": 18,
+    "start": 7.95,
+    "end": 8.35,
+    "text": "I"
+  },
+  {
+    "i": 19,
+    "start": 8.35,
+    "end": 8.55,
+    "text": "don't"
+  },
+  {
+    "i": 20,
+    "start": 8.55,
+    "end": 8.69,
+    "text": "care"
+  },
+  {
+    "i": 21,
+    "start": 8.69,
+    "end": 8.89,
+    "text": "if"
+  },
+  {
+    "i": 22,
+    "start": 8.89,
+    "end": 9.07,
+    "text": "it's"
+  },
+  {
+    "i": 23,
+    "start": 9.07,
+    "end": 9.17,
+    "text": "a"
+  },
+  {
+    "i": 24,
+    "start": 9.17,
+    "end": 9.83,
+    "text": "But"
+  },
+  {
+    "i": 25,
+    "start": 9.83,
+    "end": 11.03,
+    "text": "I"
+  },
+  {
+    "i": 26,
+    "start": 11.03,
+    "end": 11.19,
+    "text": "don't"
+  },
+  {
+    "i": 27,
+    "start": 11.19,
+    "end": 11.35,
+    "text": "care"
+  },
+  {
+    "i": 28,
+    "start": 11.35,
+    "end": 11.53,
+    "text": "if"
+  },
+  {
+    "i": 29,
+    "start": 11.53,
+    "end": 11.65,
+    "text": "it's"
+  },
+  {
+    "i": 30,
+    "start": 11.65,
+    "end": 11.69,
+    "text": "a"
+  },
+  {
+    "i": 31,
+    "start": 11.69,
+    "end": 11.91,
+    "text": "back"
+  },
+  {
+    "i": 32,
+    "start": 11.91,
+    "end": 12.19,
+    "text": "room."
+  },
+  {
+    "i": 33,
+    "start": 12.33,
+    "end": 12.41,
+    "text": "Well,"
+  },
+  {
+    "i": 34,
+    "start": 12.55,
+    "end": 12.61,
+    "text": "that's"
+  },
+  {
+    "i": 35,
+    "start": 12.61,
+    "end": 12.69,
+    "text": "a"
+  },
+  {
+    "i": 36,
+    "start": 12.69,
+    "end": 12.87,
+    "text": "free"
+  },
+  {
+    "i": 37,
+    "start": 12.87,
+    "end": 13.19,
+    "text": "house"
+  },
+  {
+    "i": 38,
+    "start": 13.19,
+    "end": 13.43,
+    "text": "and"
+  },
+  {
+    "i": 39,
+    "start": 13.43,
+    "end": 13.53,
+    "text": "this"
+  },
+  {
+    "i": 40,
+    "start": 13.53,
+    "end": 13.85,
+    "text": "economy."
+  },
+  {
+    "i": 41,
+    "start": 14.17,
+    "end": 14.19,
+    "text": "I'm"
+  },
+  {
+    "i": 42,
+    "start": 14.19,
+    "end": 14.47,
+    "text": "taking"
+  },
+  {
+    "i": 43,
+    "start": 14.47,
+    "end": 14.75,
+    "text": "it."
+  },
+  {
+    "i": 44,
+    "start": 15.53,
+    "end": 15.93,
+    "text": "What's"
+  },
+  {
+    "i": 45,
+    "start": 16.16,
+    "end": 16.54,
+    "text": "Back"
+  },
+  {
+    "i": 46,
+    "start": 16.54,
+    "end": 16.68,
+    "text": "on"
+  },
+  {
+    "i": 47,
+    "start": 16.68,
+    "end": 16.86,
+    "text": "why"
+  },
+  {
+    "i": 48,
+    "start": 16.86,
+    "end": 17.04,
+    "text": "if"
+  },
+  {
+    "i": 49,
+    "start": 17.04,
+    "end": 17.2,
+    "text": "I'm"
+  },
+  {
+    "i": 50,
+    "start": 17.2,
+    "end": 17.36,
+    "text": "him?"
+  },
+  {
+    "i": 51,
+    "start": 17.78,
+    "end": 17.82,
+    "text": "I'm"
+  },
+  {
+    "i": 52,
+    "start": 17.82,
+    "end": 17.98,
+    "text": "throwing"
+  },
+  {
+    "i": 53,
+    "start": 17.98,
+    "end": 18.16,
+    "text": "a"
+  },
+  {
+    "i": 54,
+    "start": 18.16,
+    "end": 18.36,
+    "text": "sticker"
+  },
+  {
+    "i": 55,
+    "start": 18.36,
+    "end": 18.68,
+    "text": "down"
+  },
+  {
+    "i": 56,
+    "start": 18.68,
+    "end": 18.82,
+    "text": "to"
+  },
+  {
+    "i": 57,
+    "start": 18.82,
+    "end": 18.94,
+    "text": "my"
+  },
+  {
+    "i": 58,
+    "start": 18.94,
+    "end": 19.12,
+    "text": "in"
+  },
+  {
+    "i": 59,
+    "start": 19.12,
+    "end": 19.32,
+    "text": "there"
+  },
+  {
+    "i": 60,
+    "start": 19.32,
+    "end": 19.46,
+    "text": "and"
+  },
+  {
+    "i": 61,
+    "start": 19.46,
+    "end": 19.72,
+    "text": "moving"
+  },
+  {
+    "i": 62,
+    "start": 19.72,
+    "end": 19.96,
+    "text": "out"
+  },
+  {
+    "i": 63,
+    "start": 19.96,
+    "end": 20.3,
+    "text": "immediately"
+  },
+  {
+    "i": 64,
+    "start": 20.3,
+    "end": 20.96,
+    "text": "heck"
+  },
+  {
+    "i": 65,
+    "start": 20.96,
+    "end": 21.44,
+    "text": "nah"
+  },
+  {
+    "i": 66,
+    "start": 22.68,
+    "end": 23.08,
+    "text": "This"
+  },
+  {
+    "i": 67,
+    "start": 23.08,
+    "end": 23.28,
+    "text": "looks"
+  },
+  {
+    "i": 68,
+    "start": 23.28,
+    "end": 23.54,
+    "text": "exactly"
+  },
+  {
+    "i": 69,
+    "start": 23.54,
+    "end": 24.1,
+    "text": "like"
+  },
+  {
+    "i": 70,
+    "start": 24.1,
+    "end": 24.24,
+    "text": "my"
+  },
+  {
+    "i": 71,
+    "start": 24.24,
+    "end": 24.56,
+    "text": "nightmares"
+  },
+  {
+    "i": 72,
+    "start": 24.56,
+    "end": 24.82,
+    "text": "as"
+  },
+  {
+    "i": 73,
+    "start": 24.82,
+    "end": 24.98,
+    "text": "a"
+  },
+  {
+    "i": 74,
+    "start": 24.98,
+    "end": 25.18,
+    "text": "kid."
+  },
+  {
+    "i": 75,
+    "start": 25.4,
+    "end": 25.5,
+    "text": "There's"
+  },
+  {
+    "i": 76,
+    "start": 25.5,
+    "end": 25.84,
+    "text": "definitely"
+  },
+  {
+    "i": 77,
+    "start": 25.84,
+    "end": 26.04,
+    "text": "a"
+  },
+  {
+    "i": 78,
+    "start": 26.04,
+    "end": 26.44,
+    "text": "monster"
+  },
+  {
+    "i": 79,
+    "start": 26.44,
+    "end": 27.32,
+    "text": "I"
+  },
+  {
+    "i": 80,
+    "start": 28.53,
+    "end": 28.67,
+    "text": "have"
+  },
+  {
+    "i": 81,
+    "start": 28.67,
+    "end": 28.75,
+    "text": "the"
+  },
+  {
+    "i": 82,
+    "start": 28.75,
+    "end": 29.07,
+    "text": "survival"
+  },
+  {
+    "i": 83,
+    "start": 29.07,
+    "end": 29.51,
+    "text": "instincts"
+  },
+  {
+    "i": 84,
+    "start": 29.51,
+    "end": 29.79,
+    "text": "of"
+  },
+  {
+    "i": 85,
+    "start": 29.79,
+    "end": 29.89,
+    "text": "a"
+  },
+  {
+    "i": 86,
+    "start": 29.89,
+    "end": 30.13,
+    "text": "5"
+  },
+  {
+    "i": 87,
+    "start": 30.13,
+    "end": 30.43,
+    "text": "year"
+  },
+  {
+    "i": 88,
+    "start": 30.43,
+    "end": 30.59,
+    "text": "old"
+  },
+  {
+    "i": 89,
+    "start": 30.59,
+    "end": 30.75,
+    "text": "bro,"
+  },
+  {
+    "i": 90,
+    "start": 30.91,
+    "end": 30.93,
+    "text": "what"
+  },
+  {
+    "i": 91,
+    "start": 30.93,
+    "end": 31.05,
+    "text": "are"
+  },
+  {
+    "i": 92,
+    "start": 31.05,
+    "end": 31.15,
+    "text": "you"
+  },
+  {
+    "i": 93,
+    "start": 31.15,
+    "end": 31.57,
+    "text": "doing?"
+  },
+  {
+    "i": 94,
+    "start": 32.21,
+    "end": 32.35,
+    "text": "I'm"
+  },
+  {
+    "i": 95,
+    "start": 32.35,
+    "end": 32.69,
+    "text": "outta"
+  },
+  {
+    "i": 96,
+    "start": 32.69,
+    "end": 32.99,
+    "text": "there!"
+  }
+]

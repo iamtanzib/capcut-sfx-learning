@@ -1,0 +1,133 @@
+{
+  "job_id": "7edae6437e854e41",
+  "source_hash": "1efad6b27e3cf8e3958cc04808873e8d5c65b90cc0c1ee5a498960f387b68460",
+  "style_version": 22,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 14.333333,
+      "end": 17.8,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Yeah I don't know about that, definitely not, no",
+      "reason": "One connected hold across the amused doubt, definitely-not and final no.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.34,
+        "text": "Yeah,",
+        "word_index": 3
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 21.733333,
+      "end": 24.0,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Birds, birds in the morning will be annoying",
+      "reason": "Frowning birds-in-the-morning complaint held through annoying.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 21.72,
+        "text": "Birds,",
+        "word_index": 13
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.066667,
+      "end": 31.5,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Everyone's a vulture mate?",
+      "reason": "Skeptical vulture question and side-glance, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.07,
+        "text": "Everyone's",
+        "word_index": 23
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 37.433333,
+      "end": 39.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I'm cut down the tree bro, I'll do that",
+      "reason": "Cut-down-the-tree solution and I'll-do-that acceptance in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 37.43,
+        "text": "I'm",
+        "word_index": 27
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 45.666667,
+      "end": 47.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "That's not good. No.",
+      "reason": "Hand-on-chin that's-not-good appraisal through the no.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 45.67,
+        "text": "That's",
+        "word_index": 37
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 48.266667,
+      "end": 50.1,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Yes. Yes.",
+      "reason": "Pointing yes-yes celebration of free food, held through both yeses.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 48.25,
+        "text": "Yes.",
+        "word_index": 41
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.433333,
+      "end": 55.3,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "That's not too bad",
+      "reason": "Final not-too-bad acceptance held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.42,
+        "text": "That's",
+        "word_index": 43
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_notes": "Preview inspected: head, hair and eyes stay in frame at every onset/end; clean baseline resets."
+  }
+}

@@ -361,9 +361,8 @@ def changes(api,batch_id):
     for job in batch['jobs']:
         r=data(api,job);pr=api.s.project_path(r['project']);tl,current,path=api.s.load_timeline(pr,r['timeline_id'])
         draft=validated_native(api,job,current);result[path]=draft
-        index=api.s.read_json(pr/'Timelines'/'project.json')
         # Keep the active timeline; sync root only if this edited tab is active.
-        if index['main_timeline_id']==tl['id']:result[api.s.draft_file(pr)]=draft
+        if api.s.is_main_timeline(pr,tl):result[api.s.draft_file(pr)]=draft
     return batch,result
 
 

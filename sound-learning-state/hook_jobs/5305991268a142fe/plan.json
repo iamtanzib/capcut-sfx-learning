@@ -1,0 +1,25 @@
+{
+  "job_id": "5305991268a142fe",
+  "source_hash": "d35060578631caadf3b1dfee367017b7544d57469a5901885c2057c9fa02e90e",
+  "style_version": 20,
+  "hook": {
+    "text": "NEW FRIDGE WITH\nCRAZY RULES\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "CRAZY RULES"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You're getting a new refrigerator with crazy rules. Which one are you choosing?"
+    },
+    "reason": "Keeps the narrator's actual topic, a new refrigerator with crazy rules, and the which-one choice; replaces the stale walls hook.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_note": "Native Rubik-Bold preview inspected: three lines fit the width, CRAZY RULES yellow, no overflow.",
+    "replace_existing_authorization": "On 2026-10-22 the user said 'hook 4 tari chng hbe' (all four hooks must change); the field still holds the old SOMEBODY'S MOVING INSIDE YOUR WALLS text."
+  }
+}

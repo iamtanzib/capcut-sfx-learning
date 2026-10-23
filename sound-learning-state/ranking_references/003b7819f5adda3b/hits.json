@@ -1,0 +1,142 @@
+[
+  {
+    "sound": "correct.mp3",
+    "family": "correct.mp3",
+    "start": 3.706,
+    "score": 0.632,
+    "gain": 0.4905
+  },
+  {
+    "sound": "error_CDOxCYm.mp3",
+    "family": "error_CDOxCYm.mp3",
+    "start": 5.502,
+    "score": 0.905,
+    "gain": 0.9805
+  },
+  {
+    "sound": "fahhhh.mp3",
+    "family": "fah",
+    "start": 6.968,
+    "score": 0.872,
+    "gain": 0.9456
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 8.235,
+    "score": 0.984,
+    "gain": 2.143
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 11.031,
+    "score": 0.905,
+    "gain": 0.4028
+  },
+  {
+    "sound": "mac-quack.mp3",
+    "family": "mac-quack.mp3",
+    "start": 13.302,
+    "score": 0.757,
+    "gain": 0.8573
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 14.268,
+    "score": 0.943,
+    "gain": 2.0783
+  },
+  {
+    "sound": "dry-fart (1).mp3",
+    "family": "dry-fart (1).mp3",
+    "start": 15.425,
+    "score": 0.876,
+    "gain": 0.8585
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 17.433,
+    "score": 0.775,
+    "gain": 0.432
+  },
+  {
+    "sound": "fahhhh.mp3",
+    "family": "fah",
+    "start": 18.968,
+    "score": 0.738,
+    "gain": 0.9796
+  },
+  {
+    "sound": "dry-fart (1).mp3",
+    "family": "dry-fart (1).mp3",
+    "start": 19.536,
+    "score": 0.668,
+    "gain": 1.0015
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 20.868,
+    "score": 0.969,
+    "gain": 2.0271
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 22.569,
+    "score": 0.937,
+    "gain": 0.4603
+  },
+  {
+    "sound": "rizz-sound-effect (19).mp3",
+    "family": "rizz-sound-effect (19).mp3",
+    "start": 26.07,
+    "score": 0.908,
+    "gain": 0.8185
+  },
+  {
+    "sound": "undertakers-bell_2UwFCIe.mp3",
+    "family": "undertakers-bell_2UwFCIe.mp3",
+    "start": 27.868,
+    "score": 0.795,
+    "gain": 0.9779
+  },
+  {
+    "sound": "fahhhh.mp3",
+    "family": "fah",
+    "start": 29.935,
+    "score": 0.811,
+    "gain": 0.9607
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 31.635,
+    "score": 0.969,
+    "gain": 2.0289
+  },
+  {
+    "sound": "error_CDOxCYm.mp3",
+    "family": "error_CDOxCYm.mp3",
+    "start": 36.502,
+    "score": 0.956,
+    "gain": 0.9631
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 38.135,
+    "score": 0.983,
+    "gain": 2.1217
+  },
+  {
+    "sound": "among-us-role-reveal-sound.mp3",
+    "family": "among us",
+    "start": 40.103,
+    "score": 0.815,
+    "gain": 0.9604
+  }
+]

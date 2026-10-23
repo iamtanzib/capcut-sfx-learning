@@ -1,0 +1,290 @@
+{
+  "model": "base.en",
+  "seconds": 1.14,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 7.74,
+      "text": "one. Say goodbye to your kids buddy, you're not having them. We can all agree that's the best",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.28,
+          "text": "one."
+        },
+        {
+          "start": 1.83,
+          "end": 2.39,
+          "text": "Say"
+        },
+        {
+          "start": 2.39,
+          "end": 2.69,
+          "text": "goodbye"
+        },
+        {
+          "start": 2.69,
+          "end": 2.93,
+          "text": "to"
+        },
+        {
+          "start": 2.93,
+          "end": 3.03,
+          "text": "your"
+        },
+        {
+          "start": 3.03,
+          "end": 3.37,
+          "text": "kids"
+        },
+        {
+          "start": 3.37,
+          "end": 3.59,
+          "text": "buddy,"
+        },
+        {
+          "start": 3.75,
+          "end": 3.77,
+          "text": "you're"
+        },
+        {
+          "start": 3.77,
+          "end": 3.93,
+          "text": "not"
+        },
+        {
+          "start": 3.93,
+          "end": 4.25,
+          "text": "having"
+        },
+        {
+          "start": 4.25,
+          "end": 4.53,
+          "text": "them."
+        },
+        {
+          "start": 6.2,
+          "end": 6.38,
+          "text": "We"
+        },
+        {
+          "start": 6.38,
+          "end": 6.52,
+          "text": "can"
+        },
+        {
+          "start": 6.52,
+          "end": 6.68,
+          "text": "all"
+        },
+        {
+          "start": 6.68,
+          "end": 7.0,
+          "text": "agree"
+        },
+        {
+          "start": 7.0,
+          "end": 7.34,
+          "text": "that's"
+        },
+        {
+          "start": 7.34,
+          "end": 7.46,
+          "text": "the"
+        },
+        {
+          "start": 7.46,
+          "end": 7.74,
+          "text": "best"
+        }
+      ]
+    },
+    {
+      "start": 7.74,
+      "end": 13.55,
+      "text": "use of spidey scents literally. At that point I would start panicking. I would suffocate.",
+      "words": [
+        {
+          "start": 7.74,
+          "end": 8.04,
+          "text": "use"
+        },
+        {
+          "start": 8.04,
+          "end": 8.28,
+          "text": "of"
+        },
+        {
+          "start": 8.28,
+          "end": 8.66,
+          "text": "spidey"
+        },
+        {
+          "start": 8.66,
+          "end": 8.96,
+          "text": "scents"
+        },
+        {
+          "start": 8.96,
+          "end": 9.28,
+          "text": "literally."
+        },
+        {
+          "start": 10.35,
+          "end": 10.81,
+          "text": "At"
+        },
+        {
+          "start": 10.81,
+          "end": 11.01,
+          "text": "that"
+        },
+        {
+          "start": 11.01,
+          "end": 11.33,
+          "text": "point"
+        },
+        {
+          "start": 11.33,
+          "end": 11.57,
+          "text": "I"
+        },
+        {
+          "start": 11.57,
+          "end": 11.67,
+          "text": "would"
+        },
+        {
+          "start": 11.67,
+          "end": 11.89,
+          "text": "start"
+        },
+        {
+          "start": 11.89,
+          "end": 12.43,
+          "text": "panicking."
+        },
+        {
+          "start": 12.87,
+          "end": 12.95,
+          "text": "I"
+        },
+        {
+          "start": 12.95,
+          "end": 13.07,
+          "text": "would"
+        },
+        {
+          "start": 13.07,
+          "end": 13.55,
+          "text": "suffocate."
+        }
+      ]
+    },
+    {
+      "start": 14.64,
+      "end": 19.84,
+      "text": "Definitely the exaggerated swagger of a black teen that was right. I was not saving anybody.",
+      "words": [
+        {
+          "start": 14.64,
+          "end": 15.16,
+          "text": "Definitely"
+        },
+        {
+          "start": 15.16,
+          "end": 15.42,
+          "text": "the"
+        },
+        {
+          "start": 15.42,
+          "end": 16.06,
+          "text": "exaggerated"
+        },
+        {
+          "start": 16.06,
+          "end": 16.5,
+          "text": "swagger"
+        },
+        {
+          "start": 16.5,
+          "end": 16.68,
+          "text": "of"
+        },
+        {
+          "start": 16.68,
+          "end": 16.76,
+          "text": "a"
+        },
+        {
+          "start": 16.76,
+          "end": 16.96,
+          "text": "black"
+        },
+        {
+          "start": 16.96,
+          "end": 17.24,
+          "text": "teen"
+        },
+        {
+          "start": 17.24,
+          "end": 17.82,
+          "text": "that"
+        },
+        {
+          "start": 17.82,
+          "end": 18.0,
+          "text": "was"
+        },
+        {
+          "start": 18.0,
+          "end": 18.26,
+          "text": "right."
+        },
+        {
+          "start": 18.78,
+          "end": 18.9,
+          "text": "I"
+        },
+        {
+          "start": 18.9,
+          "end": 19.02,
+          "text": "was"
+        },
+        {
+          "start": 19.02,
+          "end": 19.16,
+          "text": "not"
+        },
+        {
+          "start": 19.16,
+          "end": 19.46,
+          "text": "saving"
+        },
+        {
+          "start": 19.46,
+          "end": 19.84,
+          "text": "anybody."
+        }
+      ]
+    },
+    {
+      "start": 20.2,
+      "end": 20.74,
+      "text": "Everyone's cooked.",
+      "words": [
+        {
+          "start": 20.2,
+          "end": 20.54,
+          "text": "Everyone's"
+        },
+        {
+          "start": 20.54,
+          "end": 20.74,
+          "text": "cooked."
+        }
+      ]
+    }
+  ]
+}

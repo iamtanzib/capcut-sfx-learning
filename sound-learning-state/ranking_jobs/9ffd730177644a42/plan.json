@@ -1,0 +1,345 @@
+{
+  "job_id": "9ffd730177644a42",
+  "project": "1022",
+  "timeline": "F3B6CEEC-0851-4E4F-8B1F-E7A066768DC2",
+  "source_hash": "35e0ea4491cf58ce59e056953bdc11836e5515edbda4e820e5759e2db2f16865",
+  "style_version": 5,
+  "items": [
+    {
+      "start": 0.0,
+      "end": 3.73,
+      "rank": 6,
+      "label": "Level 1",
+      "reason": "title hook and man disguised on the moving bus"
+    },
+    {
+      "start": 3.84,
+      "end": 8.077,
+      "rank": 5,
+      "label": "Level 2",
+      "reason": "graffiti wall disguise flips to I love the police as cop car passes"
+    },
+    {
+      "start": 8.187,
+      "end": 15.61,
+      "rank": 4,
+      "label": "Level 3",
+      "reason": "color shifting costume in front of the cow"
+    },
+    {
+      "start": 15.72,
+      "end": 19.617,
+      "rank": 3,
+      "label": "Level 4",
+      "reason": "person blending into the Olympic rings"
+    },
+    {
+      "start": 19.727,
+      "end": 23.703,
+      "rank": 2,
+      "label": "Level 5",
+      "reason": "upside down man as Black Friday billboard by the bus"
+    },
+    {
+      "start": 23.813,
+      "end": 28.203,
+      "rank": 1,
+      "label": "Level 6",
+      "reason": "walking painting disguise on the crossing, Level 6 reveal"
+    }
+  ],
+  "reactions": [
+    {
+      "item": 0,
+      "about": "bus disguise",
+      "pieces": [
+        {
+          "from_word": 6,
+          "to_word": 15,
+          "start": 2.62,
+          "end": 5.42,
+          "text": "All funny games until that bus starts moving you're cooked."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 11,
+        "until_end": true,
+        "tail_end": 3.69,
+        "reason": "that bus starts moving points back at the bus clip"
+      }
+    },
+    {
+      "item": 1,
+      "about": "graffiti wall chameleon",
+      "pieces": [
+        {
+          "from_word": 16,
+          "to_word": 25,
+          "start": 7.77,
+          "end": 10.36,
+          "text": "The Mecha Camillion is going on. How did that work?"
+        },
+        {
+          "from_word": 26,
+          "to_word": 28,
+          "start": 10.65,
+          "end": 11.58,
+          "text": "Oh no bro."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 22,
+        "until_end": true,
+        "tail_end": 8.037,
+        "reason": "how did that work refers back to the wall flip"
+      }
+    },
+    {
+      "item": 2,
+      "about": "color shifting costume by the cow",
+      "pieces": [
+        {
+          "from_word": 29,
+          "to_word": 34,
+          "start": 12.82,
+          "end": 15.13,
+          "text": "Yo that's way too freaky bro."
+        },
+        {
+          "from_word": 35,
+          "to_word": 42,
+          "start": 15.4,
+          "end": 17.29,
+          "text": "I actually chipped my mind for a second."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 35,
+        "until_end": true,
+        "tail_end": 15.57,
+        "reason": "tricked my mind for a second points at the costume shift"
+      }
+    },
+    {
+      "item": 3,
+      "about": "Olympic rings disguise",
+      "pieces": [
+        {
+          "from_word": 44,
+          "to_word": 62,
+          "start": 20.28,
+          "end": 25.18,
+          "text": "I gotta admit that's impressive but imagine looking at her from the other side. That would look so weird."
+        }
+      ],
+      "tighten": true,
+      "bw": {
+        "at_word": 53,
+        "until_end": true,
+        "tail_end": 19.577,
+        "reason": "looking at her from the other side refers to the ring disguise"
+      }
+    },
+    {
+      "item": 4,
+      "about": "upside down billboard man",
+      "pieces": [
+        {
+          "from_word": 64,
+          "to_word": 66,
+          "start": 26.79,
+          "end": 27.48,
+          "text": "that was fire."
+        },
+        {
+          "from_word": 73,
+          "to_word": 79,
+          "start": 28.64,
+          "end": 30.08,
+          "text": "I can't even get in that position."
+        }
+      ],
+      "tighten": true
+    },
+    {
+      "item": 5,
+      "about": "walking painting disguise",
+      "pieces": [
+        {
+          "from_word": 80,
+          "to_word": 88,
+          "start": 31.61,
+          "end": 33.85,
+          "text": "Are they hired actors? How did you do that?"
+        }
+      ],
+      "tighten": true
+    }
+  ],
+  "segments": [
+    {
+      "role": "ranking",
+      "index": 0,
+      "source_start": 0.0,
+      "frames": 111,
+      "target_frame": 0
+    },
+    {
+      "role": "kevin",
+      "index": 0,
+      "source_start": 2.62,
+      "frames": 84,
+      "target_frame": 111
+    },
+    {
+      "role": "ranking",
+      "index": 1,
+      "source_start": 3.84,
+      "frames": 127,
+      "target_frame": 195
+    },
+    {
+      "role": "kevin",
+      "index": 1,
+      "source_start": 7.77,
+      "frames": 78,
+      "target_frame": 322
+    },
+    {
+      "role": "kevin",
+      "index": 1,
+      "source_start": 10.65,
+      "frames": 28,
+      "target_frame": 400
+    },
+    {
+      "role": "ranking",
+      "index": 2,
+      "source_start": 8.187,
+      "frames": 222,
+      "target_frame": 428
+    },
+    {
+      "role": "kevin",
+      "index": 2,
+      "source_start": 12.82,
+      "frames": 69,
+      "target_frame": 650
+    },
+    {
+      "role": "kevin",
+      "index": 2,
+      "source_start": 15.4,
+      "frames": 57,
+      "target_frame": 719
+    },
+    {
+      "role": "ranking",
+      "index": 3,
+      "source_start": 15.72,
+      "frames": 116,
+      "target_frame": 776
+    },
+    {
+      "role": "kevin",
+      "index": 3,
+      "source_start": 20.28,
+      "frames": 147,
+      "target_frame": 892
+    },
+    {
+      "role": "ranking",
+      "index": 4,
+      "source_start": 19.727,
+      "frames": 119,
+      "target_frame": 1039
+    },
+    {
+      "role": "kevin",
+      "index": 4,
+      "source_start": 26.79,
+      "frames": 21,
+      "target_frame": 1158
+    },
+    {
+      "role": "kevin",
+      "index": 4,
+      "source_start": 28.64,
+      "frames": 43,
+      "target_frame": 1179
+    },
+    {
+      "role": "ranking",
+      "index": 5,
+      "source_start": 23.813,
+      "frames": 131,
+      "target_frame": 1222
+    },
+    {
+      "role": "kevin",
+      "index": 5,
+      "source_start": 31.61,
+      "frames": 67,
+      "target_frame": 1353
+    }
+  ],
+  "overlays": [
+    {
+      "reaction": 0,
+      "target_frame": 146,
+      "frames": 49,
+      "source_start": 2.057,
+      "zoom": 1.1,
+      "reason": "that bus starts moving points back at the bus clip",
+      "under_words": "bus starts moving you're cooked."
+    },
+    {
+      "reaction": 1,
+      "target_frame": 374,
+      "frames": 54,
+      "source_start": 6.237,
+      "zoom": 1.1,
+      "reason": "how did that work refers back to the wall flip",
+      "under_words": "How did that work? Oh no bro."
+    },
+    {
+      "reaction": 2,
+      "target_frame": 719,
+      "frames": 57,
+      "source_start": 13.67,
+      "zoom": 1.1,
+      "reason": "tricked my mind for a second points at the costume shift",
+      "under_words": "actually chipped my mind for a second."
+    },
+    {
+      "reaction": 3,
+      "target_frame": 977,
+      "frames": 62,
+      "source_start": 17.51,
+      "zoom": 1.1,
+      "reason": "looking at her from the other side refers to the ring disguise",
+      "under_words": "her from the other side. That would look so weird."
+    }
+  ],
+  "volumes": {
+    "kevin": 0.63,
+    "ranking": 0.5
+  },
+  "total_frames": 1420,
+  "whoosh_cues": [
+    6.17,
+    13.937,
+    25.537,
+    34.303,
+    40.403
+  ],
+  "quality_notes": {
+    "item_boundaries_checked_on_frames": true,
+    "reaction_mapping_reviewed": true,
+    "dropped_speech_reviewed": true,
+    "notes": "Dropped slate, stumble, isolated 'Holy.' and trailing 'That's'. B&W tails end 0.05s before each cut (next-shot flash and whip-blur seen in first preview)."
+  }
+}

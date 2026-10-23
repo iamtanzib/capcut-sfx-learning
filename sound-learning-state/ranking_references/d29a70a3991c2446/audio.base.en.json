@@ -1,0 +1,399 @@
+{
+  "model": "base.en",
+  "seconds": 1.7,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 7.01,
+      "text": "Let's go. Are we sure that's a chicken egg, but I might be a dinosaur in there",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.46,
+          "text": "Let's"
+        },
+        {
+          "start": 0.46,
+          "end": 0.6,
+          "text": "go."
+        },
+        {
+          "start": 3.45,
+          "end": 3.89,
+          "text": "Are"
+        },
+        {
+          "start": 3.89,
+          "end": 4.43,
+          "text": "we"
+        },
+        {
+          "start": 4.43,
+          "end": 4.61,
+          "text": "sure"
+        },
+        {
+          "start": 4.61,
+          "end": 4.89,
+          "text": "that's"
+        },
+        {
+          "start": 4.89,
+          "end": 4.95,
+          "text": "a"
+        },
+        {
+          "start": 4.95,
+          "end": 5.19,
+          "text": "chicken"
+        },
+        {
+          "start": 5.19,
+          "end": 5.47,
+          "text": "egg,"
+        },
+        {
+          "start": 5.61,
+          "end": 5.65,
+          "text": "but"
+        },
+        {
+          "start": 5.65,
+          "end": 5.79,
+          "text": "I"
+        },
+        {
+          "start": 5.79,
+          "end": 5.91,
+          "text": "might"
+        },
+        {
+          "start": 5.91,
+          "end": 6.03,
+          "text": "be"
+        },
+        {
+          "start": 6.03,
+          "end": 6.13,
+          "text": "a"
+        },
+        {
+          "start": 6.13,
+          "end": 6.59,
+          "text": "dinosaur"
+        },
+        {
+          "start": 6.59,
+          "end": 6.85,
+          "text": "in"
+        },
+        {
+          "start": 6.85,
+          "end": 7.01,
+          "text": "there"
+        }
+      ]
+    },
+    {
+      "start": 8.61,
+      "end": 13.15,
+      "text": "But what no that is not a brownie anymore",
+      "words": [
+        {
+          "start": 8.61,
+          "end": 9.05,
+          "text": "But"
+        },
+        {
+          "start": 10.81,
+          "end": 11.25,
+          "text": "what"
+        },
+        {
+          "start": 11.25,
+          "end": 11.59,
+          "text": "no"
+        },
+        {
+          "start": 11.59,
+          "end": 11.81,
+          "text": "that"
+        },
+        {
+          "start": 11.81,
+          "end": 11.97,
+          "text": "is"
+        },
+        {
+          "start": 11.97,
+          "end": 12.19,
+          "text": "not"
+        },
+        {
+          "start": 12.19,
+          "end": 12.35,
+          "text": "a"
+        },
+        {
+          "start": 12.35,
+          "end": 12.81,
+          "text": "brownie"
+        },
+        {
+          "start": 12.81,
+          "end": 13.15,
+          "text": "anymore"
+        }
+      ]
+    },
+    {
+      "start": 16.55,
+      "end": 21.07,
+      "text": "That bread is beyond steel, how do they have sports?",
+      "words": [
+        {
+          "start": 16.55,
+          "end": 16.99,
+          "text": "That"
+        },
+        {
+          "start": 18.69,
+          "end": 19.13,
+          "text": "bread"
+        },
+        {
+          "start": 19.13,
+          "end": 19.33,
+          "text": "is"
+        },
+        {
+          "start": 19.33,
+          "end": 19.57,
+          "text": "beyond"
+        },
+        {
+          "start": 19.57,
+          "end": 20.01,
+          "text": "steel,"
+        },
+        {
+          "start": 20.01,
+          "end": 20.25,
+          "text": "how"
+        },
+        {
+          "start": 20.25,
+          "end": 20.37,
+          "text": "do"
+        },
+        {
+          "start": 20.37,
+          "end": 20.45,
+          "text": "they"
+        },
+        {
+          "start": 20.45,
+          "end": 20.63,
+          "text": "have"
+        },
+        {
+          "start": 20.63,
+          "end": 21.07,
+          "text": "sports?"
+        }
+      ]
+    },
+    {
+      "start": 23.82,
+      "end": 26.74,
+      "text": "Is it really that hard to make down? Oh my god",
+      "words": [
+        {
+          "start": 23.82,
+          "end": 24.26,
+          "text": "Is"
+        },
+        {
+          "start": 24.26,
+          "end": 24.42,
+          "text": "it"
+        },
+        {
+          "start": 24.42,
+          "end": 24.72,
+          "text": "really"
+        },
+        {
+          "start": 24.72,
+          "end": 24.96,
+          "text": "that"
+        },
+        {
+          "start": 24.96,
+          "end": 25.2,
+          "text": "hard"
+        },
+        {
+          "start": 25.2,
+          "end": 25.36,
+          "text": "to"
+        },
+        {
+          "start": 25.36,
+          "end": 25.5,
+          "text": "make"
+        },
+        {
+          "start": 25.5,
+          "end": 25.76,
+          "text": "down?"
+        },
+        {
+          "start": 25.9,
+          "end": 26.02,
+          "text": "Oh"
+        },
+        {
+          "start": 26.02,
+          "end": 26.2,
+          "text": "my"
+        },
+        {
+          "start": 26.2,
+          "end": 26.74,
+          "text": "god"
+        }
+      ]
+    },
+    {
+      "start": 29.6,
+      "end": 33.58,
+      "text": "Just throw the ice cream away, bro, that's been in there since 2014 or something",
+      "words": [
+        {
+          "start": 29.6,
+          "end": 30.04,
+          "text": "Just"
+        },
+        {
+          "start": 30.04,
+          "end": 30.48,
+          "text": "throw"
+        },
+        {
+          "start": 30.48,
+          "end": 30.62,
+          "text": "the"
+        },
+        {
+          "start": 30.62,
+          "end": 30.8,
+          "text": "ice"
+        },
+        {
+          "start": 30.8,
+          "end": 31.0,
+          "text": "cream"
+        },
+        {
+          "start": 31.0,
+          "end": 31.3,
+          "text": "away,"
+        },
+        {
+          "start": 31.3,
+          "end": 31.58,
+          "text": "bro,"
+        },
+        {
+          "start": 31.84,
+          "end": 31.96,
+          "text": "that's"
+        },
+        {
+          "start": 31.96,
+          "end": 32.08,
+          "text": "been"
+        },
+        {
+          "start": 32.08,
+          "end": 32.2,
+          "text": "in"
+        },
+        {
+          "start": 32.2,
+          "end": 32.3,
+          "text": "there"
+        },
+        {
+          "start": 32.3,
+          "end": 32.48,
+          "text": "since"
+        },
+        {
+          "start": 32.48,
+          "end": 33.22,
+          "text": "2014"
+        },
+        {
+          "start": 33.22,
+          "end": 33.34,
+          "text": "or"
+        },
+        {
+          "start": 33.34,
+          "end": 33.58,
+          "text": "something"
+        }
+      ]
+    },
+    {
+      "start": 34.44,
+      "end": 39.1,
+      "text": "Let's be honest, he had no other choice.",
+      "words": [
+        {
+          "start": 34.44,
+          "end": 34.96,
+          "text": "Let's"
+        },
+        {
+          "start": 35.98,
+          "end": 36.22,
+          "text": "be"
+        },
+        {
+          "start": 36.7,
+          "end": 38.1,
+          "text": "honest,"
+        },
+        {
+          "start": 38.1,
+          "end": 38.38,
+          "text": "he"
+        },
+        {
+          "start": 38.38,
+          "end": 38.52,
+          "text": "had"
+        },
+        {
+          "start": 38.52,
+          "end": 38.68,
+          "text": "no"
+        },
+        {
+          "start": 38.68,
+          "end": 38.8,
+          "text": "other"
+        },
+        {
+          "start": 38.8,
+          "end": 39.1,
+          "text": "choice."
+        }
+      ]
+    }
+  ]
+}

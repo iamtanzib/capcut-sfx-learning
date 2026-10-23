@@ -1,0 +1,18 @@
+{
+  "batch_id": "32db47889ff840ff",
+  "mode": "full_combo",
+  "analysis_batch_id": "32db47889ff840ff",
+  "targets": [
+    {
+      "project": "1022",
+      "timeline": "D156990F-EA0B-4FE2-ADFB-7434414260E2"
+    }
+  ],
+  "analysis_jobs": [
+    "14bae7ad87744687"
+  ],
+  "hook_batch_id": "42ede3c094bc4070",
+  "hook_jobs": [
+    "4e31bbfbdeba4d21"
+  ]
+}

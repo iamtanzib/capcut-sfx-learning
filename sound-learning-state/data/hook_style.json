@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 20,
   "references": [
     {
       "project": "0928",
@@ -13534,9 +13534,2471 @@
         "replace_existing": true,
         "action": "fill_blank"
       }
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.3",
+      "timeline_id": "8C89CF6D-1DBD-4B47-96CD-3ED05493F7CD",
+      "source_hash": "b6d191a9b68b640fbaa991138ceb2c1a600e3efd58a358c36ec917e8f5937fd1",
+      "text": "SOMEBODY'S MOVING\nINSIDE YOUR WALLS\nWHO ARE YOU PICKING?",
+      "highlight_phrases": [
+        "INSIDE YOUR WALLS"
+      ],
+      "native": {
+        "segment": {
+          "id": "83CC4193-B355-4F77-9512-0BDCAD3860EB",
+          "source_timerange": null,
+          "target_timerange": {
+            "start": 0,
+            "duration": 56000000
+          },
+          "render_timerange": {
+            "start": 0,
+            "duration": 0
+          },
+          "desc": "",
+          "state": 0,
+          "speed": 1.0,
+          "is_loop": false,
+          "is_tone_modify": false,
+          "reverse": false,
+          "intensifies_audio": false,
+          "cartoon": false,
+          "volume": 1.0,
+          "last_nonzero_volume": 1.0,
+          "clip": {
+            "scale": {
+              "x": 1.1080621261233343,
+              "y": 1.1080621261233343
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.02552727194604243,
+              "y": 0.14622057001239153
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "material_id": "7CA990AC-162C-4500-8FD4-F100F94BE85E",
+          "extra_material_refs": [
+            "690C7FD4-67D2-4235-B7F4-5CA8DC878669"
+          ],
+          "render_index": 14018,
+          "keyframe_refs": [],
+          "enable_lut": false,
+          "enable_adjust": false,
+          "enable_hsl": false,
+          "visible": true,
+          "group_id": "",
+          "enable_color_curves": true,
+          "enable_hsl_curves": true,
+          "track_render_index": 5,
+          "hdr_settings": null,
+          "hdr_vivid_settings": null,
+          "enable_color_wheels": true,
+          "track_attribute": 0,
+          "is_placeholder": false,
+          "template_id": "",
+          "enable_smart_color_adjust": false,
+          "template_scene": "default",
+          "common_keyframes": [],
+          "caption_info": null,
+          "responsive_layout": {
+            "enable": false,
+            "target_follow": "",
+            "size_layout": 0,
+            "horizontal_pos_layout": 0,
+            "vertical_pos_layout": 0
+          },
+          "enable_color_match_adjust": false,
+          "enable_color_correct_adjust": false,
+          "enable_adjust_mask": false,
+          "raw_segment_id": "",
+          "lyric_keyframes": null,
+          "enable_video_mask": true,
+          "digital_human_template_group_id": "",
+          "color_correct_alg_result": "",
+          "source": "segmentsourcenormal",
+          "enable_mask_stroke": false,
+          "enable_mask_shadow": false,
+          "enable_color_adjust_pro": false,
+          "segment_color_tag": ""
+        },
+        "material": {
+          "recognize_task_id": "",
+          "id": "7CA990AC-162C-4500-8FD4-F100F94BE85E",
+          "name": "",
+          "recognize_text": "",
+          "recognize_model": "",
+          "punc_model": "",
+          "type": "text",
+          "content": "{\"text\":\"SOMEBODY'S MOVING\\nINSIDE YOUR WALLS\\nWHO ARE YOU PICKING?\",\"styles\":[{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[0,18],\"size\":15},{\"fill\":{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.9411764740943909,1.0,0.0]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[18,35],\"size\":15,\"strokes\":[{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.0,0.0,0.0]}},\"width\":0.05999999865889549}],\"useLetterColor\":true},{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[35,56],\"size\":15}]}",
+          "base_content": "",
+          "words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "current_words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "global_alpha": 1.0,
+          "combo_info": {
+            "text_templates": []
+          },
+          "caption_template_info": {
+            "resource_id": "",
+            "third_resource_id": "",
+            "resource_name": "",
+            "category_id": "",
+            "category_name": "",
+            "effect_id": "",
+            "request_id": "",
+            "path": "",
+            "is_new": false,
+            "source_platform": 0
+          },
+          "layer_weight": 1,
+          "letter_spacing": -0.05,
+          "text_curve": null,
+          "text_loop_on_path": false,
+          "offset_on_path": 0.0,
+          "enable_path_typesetting": false,
+          "text_exceeds_path_process_type": 0,
+          "text_typesetting_paths": null,
+          "text_typesetting_paths_file": "",
+          "text_typesetting_path_index": 0,
+          "line_spacing": -0.2,
+          "has_shadow": false,
+          "shadow_color": "",
+          "shadow_alpha": 0.9,
+          "shadow_smoothing": 0.45,
+          "shadow_distance": 5.0,
+          "shadow_point": {
+            "x": 0.6363961030678928,
+            "y": -0.6363961030678927
+          },
+          "shadow_angle": -45.0,
+          "shadow_thickness_projection_enable": false,
+          "shadow_thickness_projection_angle": 0.0,
+          "shadow_thickness_projection_distance": 0.0,
+          "border_alpha": 1.0,
+          "border_color": "#000000",
+          "border_width": 0.08,
+          "border_mode": 0,
+          "style_name": "",
+          "text_color": "#f0ff00",
+          "text_alpha": 1.0,
+          "font_name": "",
+          "font_title": "none",
+          "font_size": 15.0,
+          "font_path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+          "font_id": "",
+          "font_resource_id": "7148699606082130433",
+          "initial_scale": 1.0,
+          "font_url": "",
+          "typesetting": 0,
+          "alignment": 1,
+          "line_feed": 1,
+          "use_effect_default_color": true,
+          "is_rich_text": false,
+          "shape_clip_x": false,
+          "shape_clip_y": false,
+          "ktv_color": "",
+          "text_to_audio_ids": [],
+          "bold_width": 0.00800000037997961,
+          "italic_degree": 0,
+          "underline": false,
+          "underline_width": 0.05,
+          "underline_offset": 0.22,
+          "sub_type": 0,
+          "check_flag": 15,
+          "text_size": 30,
+          "font_category_name": "",
+          "font_source_platform": 1,
+          "font_third_resource_id": "",
+          "font_category_id": "",
+          "add_type": 0,
+          "operation_type": 0,
+          "recognize_type": 0,
+          "fonts": [
+            {
+              "id": "926D4D75-E657-4C56-9D86-34F419D14444",
+              "resource_id": "7148699606082130433",
+              "third_resource_id": "",
+              "category_id": "preset",
+              "category_name": "Presets",
+              "source_platform": 1,
+              "path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+              "effect_id": "7148699606082130433",
+              "title": "Rubik-Bold",
+              "team_id": "",
+              "file_uri": "",
+              "request_id": "202610210013286FEA29550BE3AC3EAB59"
+            }
+          ],
+          "background_color": "#000000",
+          "background_alpha": 1.0,
+          "background_style": 0,
+          "background_round_radius": 0.0,
+          "background_width": 0.14,
+          "background_height": 0.14,
+          "background_vertical_offset": 0.0,
+          "background_horizontal_offset": 0.0,
+          "background_fill": "",
+          "single_char_bg_enable": false,
+          "single_char_bg_color": "",
+          "single_char_bg_alpha": 1.0,
+          "single_char_bg_round_radius": 0.3,
+          "single_char_bg_width": 0.0,
+          "single_char_bg_height": 0.0,
+          "single_char_bg_vertical_offset": 0.0,
+          "single_char_bg_horizontal_offset": 0.0,
+          "font_team_id": "",
+          "tts_auto_update": false,
+          "text_preset_resource_id": "",
+          "group_id": "",
+          "preset_id": "",
+          "preset_name": "",
+          "preset_category": "",
+          "preset_category_id": "",
+          "preset_index": 0,
+          "preset_has_set_alignment": false,
+          "force_apply_line_max_width": false,
+          "language": "",
+          "relevance_segment": [],
+          "original_size": [],
+          "fixed_width": 722.3917971119039,
+          "fixed_height": -1.0,
+          "autoAdaptCanvasEnabled": false,
+          "line_max_width": 0.82,
+          "oneline_cutoff": false,
+          "cutoff_postfix": "",
+          "subtitle_template_original_fontsize": 0.0,
+          "subtitle_keywords": null,
+          "inner_padding": -1.0,
+          "multi_language_current": "none",
+          "source_from": "",
+          "is_lyric_effect": false,
+          "lyric_group_id": "",
+          "lyrics_template": {
+            "resource_id": "",
+            "resource_name": "",
+            "panel": "",
+            "effect_id": "",
+            "path": "",
+            "category_id": "",
+            "category_name": "",
+            "request_id": ""
+          },
+          "is_batch_replace": false,
+          "is_words_linear": false,
+          "ssml_content": "",
+          "subtitle_keywords_config": null,
+          "sub_template_id": -1,
+          "translate_original_text": "",
+          "adjust_params": []
+        },
+        "track_id": "ACCFE9F7-6D2F-4442-A331-1888EC28CCDD",
+        "text": "SOMEBODY'S MOVING\nINSIDE YOUR WALLS\nWHO ARE YOU PICKING?"
+      },
+      "appearance": {
+        "font": "Rubik-Bold",
+        "font_size": 15.0,
+        "clip": {
+          "scale": {
+            "x": 1.1080621261233343,
+            "y": 1.1080621261233343
+          },
+          "rotation": 0.0,
+          "transform": {
+            "x": 0.02552727194604243,
+            "y": 0.14622057001239153
+          },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "alpha": 1.0
+        },
+        "alignment": 1,
+        "line_spacing": -0.2,
+        "letter_spacing": -0.05,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "fixed_width": 722.3917971119039,
+        "line_max_width": 0.82
+      },
+      "intro": [
+        {
+          "role": "video_track_1",
+          "intro_text": "Again? Okay. Let's see. Monica. Oh, yeah.",
+          "words": [
+            {
+              "start": 2.32,
+              "end": 2.98,
+              "text": "Again?",
+              "word_index": 0
+            },
+            {
+              "start": 4.84,
+              "end": 5.2,
+              "text": "Okay.",
+              "word_index": 1
+            },
+            {
+              "start": 6.27,
+              "end": 6.55,
+              "text": "Let's",
+              "word_index": 2
+            },
+            {
+              "start": 6.55,
+              "end": 6.67,
+              "text": "see.",
+              "word_index": 3
+            },
+            {
+              "start": 8.74,
+              "end": 9.1,
+              "text": "Monica.",
+              "word_index": 4
+            },
+            {
+              "start": 10.86,
+              "end": 11.0,
+              "text": "Oh,",
+              "word_index": 5
+            },
+            {
+              "start": 11.12,
+              "end": 11.26,
+              "text": "yeah.",
+              "word_index": 6
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "intro_text": "Somebody's moving inside your walls for the next 10 years, but each person comes with a different benefit. Choose who's moving in. Who are you picking? I'm Monica. I'll clean your whole house every day. Even your nasty",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.44,
+              "text": "Somebody's",
+              "word_index": 0
+            },
+            {
+              "start": 0.44,
+              "end": 0.68,
+              "text": "moving",
+              "word_index": 1
+            },
+            {
+              "start": 0.68,
+              "end": 0.94,
+              "text": "inside",
+              "word_index": 2
+            },
+            {
+              "start": 0.94,
+              "end": 1.16,
+              "text": "your",
+              "word_index": 3
+            },
+            {
+              "start": 1.16,
+              "end": 1.38,
+              "text": "walls",
+              "word_index": 4
+            },
+            {
+              "start": 1.38,
+              "end": 1.62,
+              "text": "for",
+              "word_index": 5
+            },
+            {
+              "start": 1.62,
+              "end": 1.72,
+              "text": "the",
+              "word_index": 6
+            },
+            {
+              "start": 1.72,
+              "end": 1.92,
+              "text": "next",
+              "word_index": 7
+            },
+            {
+              "start": 1.92,
+              "end": 2.26,
+              "text": "10",
+              "word_index": 8
+            },
+            {
+              "start": 2.26,
+              "end": 2.56,
+              "text": "years,",
+              "word_index": 9
+            },
+            {
+              "start": 2.96,
+              "end": 3.06,
+              "text": "but",
+              "word_index": 10
+            },
+            {
+              "start": 3.06,
+              "end": 3.24,
+              "text": "each",
+              "word_index": 11
+            },
+            {
+              "start": 3.24,
+              "end": 3.6,
+              "text": "person",
+              "word_index": 12
+            },
+            {
+              "start": 3.6,
+              "end": 3.94,
+              "text": "comes",
+              "word_index": 13
+            },
+            {
+              "start": 3.94,
+              "end": 4.1,
+              "text": "with",
+              "word_index": 14
+            },
+            {
+              "start": 4.1,
+              "end": 4.18,
+              "text": "a",
+              "word_index": 15
+            },
+            {
+              "start": 4.18,
+              "end": 4.46,
+              "text": "different",
+              "word_index": 16
+            },
+            {
+              "start": 4.46,
+              "end": 4.9,
+              "text": "benefit.",
+              "word_index": 17
+            },
+            {
+              "start": 5.32,
+              "end": 5.58,
+              "text": "Choose",
+              "word_index": 18
+            },
+            {
+              "start": 5.58,
+              "end": 5.94,
+              "text": "who's",
+              "word_index": 19
+            },
+            {
+              "start": 5.94,
+              "end": 6.2,
+              "text": "moving",
+              "word_index": 20
+            },
+            {
+              "start": 6.2,
+              "end": 6.38,
+              "text": "in.",
+              "word_index": 21
+            },
+            {
+              "start": 6.7,
+              "end": 6.9,
+              "text": "Who",
+              "word_index": 22
+            },
+            {
+              "start": 6.9,
+              "end": 6.98,
+              "text": "are",
+              "word_index": 23
+            },
+            {
+              "start": 6.98,
+              "end": 7.1,
+              "text": "you",
+              "word_index": 24
+            },
+            {
+              "start": 7.1,
+              "end": 7.32,
+              "text": "picking?",
+              "word_index": 25
+            },
+            {
+              "start": 8.08,
+              "end": 8.38,
+              "text": "I'm",
+              "word_index": 26
+            },
+            {
+              "start": 8.38,
+              "end": 8.52,
+              "text": "Monica.",
+              "word_index": 27
+            },
+            {
+              "start": 9.04,
+              "end": 9.28,
+              "text": "I'll",
+              "word_index": 28
+            },
+            {
+              "start": 9.28,
+              "end": 9.48,
+              "text": "clean",
+              "word_index": 29
+            },
+            {
+              "start": 9.48,
+              "end": 9.64,
+              "text": "your",
+              "word_index": 30
+            },
+            {
+              "start": 9.64,
+              "end": 9.9,
+              "text": "whole",
+              "word_index": 31
+            },
+            {
+              "start": 9.9,
+              "end": 10.3,
+              "text": "house",
+              "word_index": 32
+            },
+            {
+              "start": 10.3,
+              "end": 10.62,
+              "text": "every",
+              "word_index": 33
+            },
+            {
+              "start": 10.62,
+              "end": 11.06,
+              "text": "day.",
+              "word_index": 34
+            },
+            {
+              "start": 11.54,
+              "end": 11.6,
+              "text": "Even",
+              "word_index": 35
+            },
+            {
+              "start": 11.6,
+              "end": 11.76,
+              "text": "your",
+              "word_index": 36
+            },
+            {
+              "start": 11.76,
+              "end": 12.06,
+              "text": "nasty",
+              "word_index": 37
+            }
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "kind": "material_animations",
+          "value": {
+            "id": "690C7FD4-67D2-4235-B7F4-5CA8DC878669",
+            "type": "sticker_animation",
+            "animations": [],
+            "multi_language_current": "none"
+          }
+        }
+      ],
+      "duration_ratio": 1.0,
+      "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule.",
+      "previous_prediction": {
+        "text": "SOMEBODY'S MOVING\nINSIDE YOUR WALLS\nWHO ARE YOU PICKING?",
+        "highlight_phrases": [
+          "INSIDE YOUR WALLS"
+        ],
+        "evidence": {
+          "role": "video_track_2",
+          "quote": "Somebody's moving inside your walls for the next 10 years,"
+        },
+        "reason": "Keep the actual someone-moving-inside-your-walls premise and the who-are-you-picking choice from the narrator intro.",
+        "replace_existing": true,
+        "action": "fill_blank"
+      }
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.4",
+      "timeline_id": "11AEF51B-7B36-44E6-8839-944A98062901",
+      "source_hash": "6674ee33a09e11f20792f37f1487202f38400bc056d4b75e2f2ede3eb02204ca",
+      "text": "MAKE ONE IMPOSSIBLE\nRULE PERMANENT\nWHICH WILL YOU PICK?",
+      "highlight_phrases": [
+        "IMPOSSIBLE"
+      ],
+      "native": {
+        "segment": {
+          "id": "85D40AC3-3306-4682-9012-F45B00238622",
+          "source_timerange": null,
+          "target_timerange": {
+            "start": 0,
+            "duration": 55300000
+          },
+          "render_timerange": {
+            "start": 0,
+            "duration": 0
+          },
+          "desc": "",
+          "state": 0,
+          "speed": 1.0,
+          "is_loop": false,
+          "is_tone_modify": false,
+          "reverse": false,
+          "intensifies_audio": false,
+          "cartoon": false,
+          "volume": 1.0,
+          "last_nonzero_volume": 1.0,
+          "clip": {
+            "scale": {
+              "x": 1.1080621261233343,
+              "y": 1.1080621261233343
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.02552727194604243,
+              "y": 0.14622057001239153
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "material_id": "32666BD8-C440-4072-98DA-3C47190D8F6C",
+          "extra_material_refs": [
+            "DF3A6979-7AED-45AE-B946-1809935F4356"
+          ],
+          "render_index": 14018,
+          "keyframe_refs": [],
+          "enable_lut": false,
+          "enable_adjust": false,
+          "enable_hsl": false,
+          "visible": true,
+          "group_id": "",
+          "enable_color_curves": true,
+          "enable_hsl_curves": true,
+          "track_render_index": 5,
+          "hdr_settings": null,
+          "hdr_vivid_settings": null,
+          "enable_color_wheels": true,
+          "track_attribute": 0,
+          "is_placeholder": false,
+          "template_id": "",
+          "enable_smart_color_adjust": false,
+          "template_scene": "default",
+          "common_keyframes": [],
+          "caption_info": null,
+          "responsive_layout": {
+            "enable": false,
+            "target_follow": "",
+            "size_layout": 0,
+            "horizontal_pos_layout": 0,
+            "vertical_pos_layout": 0
+          },
+          "enable_color_match_adjust": false,
+          "enable_color_correct_adjust": false,
+          "enable_adjust_mask": false,
+          "raw_segment_id": "",
+          "lyric_keyframes": null,
+          "enable_video_mask": true,
+          "digital_human_template_group_id": "",
+          "color_correct_alg_result": "",
+          "source": "segmentsourcenormal",
+          "enable_mask_stroke": false,
+          "enable_mask_shadow": false,
+          "enable_color_adjust_pro": false,
+          "segment_color_tag": ""
+        },
+        "material": {
+          "recognize_task_id": "",
+          "id": "32666BD8-C440-4072-98DA-3C47190D8F6C",
+          "name": "",
+          "recognize_text": "",
+          "recognize_model": "",
+          "punc_model": "",
+          "type": "text",
+          "content": "{\"text\":\"MAKE ONE IMPOSSIBLE\\nRULE PERMANENT\\nWHICH WILL YOU PICK?\",\"styles\":[{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[0,9],\"size\":15},{\"fill\":{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.9411764740943909,1.0,0.0]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[9,19],\"size\":15,\"strokes\":[{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.0,0.0,0.0]}},\"width\":0.05999999865889549}],\"useLetterColor\":true},{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[19,55],\"size\":15}]}",
+          "base_content": "",
+          "words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "current_words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "global_alpha": 1.0,
+          "combo_info": {
+            "text_templates": []
+          },
+          "caption_template_info": {
+            "resource_id": "",
+            "third_resource_id": "",
+            "resource_name": "",
+            "category_id": "",
+            "category_name": "",
+            "effect_id": "",
+            "request_id": "",
+            "path": "",
+            "is_new": false,
+            "source_platform": 0
+          },
+          "layer_weight": 1,
+          "letter_spacing": -0.05,
+          "text_curve": null,
+          "text_loop_on_path": false,
+          "offset_on_path": 0.0,
+          "enable_path_typesetting": false,
+          "text_exceeds_path_process_type": 0,
+          "text_typesetting_paths": null,
+          "text_typesetting_paths_file": "",
+          "text_typesetting_path_index": 0,
+          "line_spacing": -0.2,
+          "has_shadow": false,
+          "shadow_color": "",
+          "shadow_alpha": 0.9,
+          "shadow_smoothing": 0.45,
+          "shadow_distance": 5.0,
+          "shadow_point": {
+            "x": 0.6363961030678928,
+            "y": -0.6363961030678927
+          },
+          "shadow_angle": -45.0,
+          "shadow_thickness_projection_enable": false,
+          "shadow_thickness_projection_angle": 0.0,
+          "shadow_thickness_projection_distance": 0.0,
+          "border_alpha": 1.0,
+          "border_color": "#000000",
+          "border_width": 0.08,
+          "border_mode": 0,
+          "style_name": "",
+          "text_color": "#f0ff00",
+          "text_alpha": 1.0,
+          "font_name": "",
+          "font_title": "none",
+          "font_size": 15.0,
+          "font_path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+          "font_id": "",
+          "font_resource_id": "7148699606082130433",
+          "initial_scale": 1.0,
+          "font_url": "",
+          "typesetting": 0,
+          "alignment": 1,
+          "line_feed": 1,
+          "use_effect_default_color": true,
+          "is_rich_text": false,
+          "shape_clip_x": false,
+          "shape_clip_y": false,
+          "ktv_color": "",
+          "text_to_audio_ids": [],
+          "bold_width": 0.00800000037997961,
+          "italic_degree": 0,
+          "underline": false,
+          "underline_width": 0.05,
+          "underline_offset": 0.22,
+          "sub_type": 0,
+          "check_flag": 15,
+          "text_size": 30,
+          "font_category_name": "",
+          "font_source_platform": 1,
+          "font_third_resource_id": "",
+          "font_category_id": "",
+          "add_type": 0,
+          "operation_type": 0,
+          "recognize_type": 0,
+          "fonts": [
+            {
+              "id": "60A83BD6-62A9-4D1E-AEBB-1CF9B5BE7F04",
+              "resource_id": "7148699606082130433",
+              "third_resource_id": "",
+              "category_id": "preset",
+              "category_name": "Presets",
+              "source_platform": 1,
+              "path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+              "effect_id": "7148699606082130433",
+              "title": "Rubik-Bold",
+              "team_id": "",
+              "file_uri": "",
+              "request_id": "202610210013286FEA29550BE3AC3EAB59"
+            }
+          ],
+          "background_color": "#000000",
+          "background_alpha": 1.0,
+          "background_style": 0,
+          "background_round_radius": 0.0,
+          "background_width": 0.14,
+          "background_height": 0.14,
+          "background_vertical_offset": 0.0,
+          "background_horizontal_offset": 0.0,
+          "background_fill": "",
+          "single_char_bg_enable": false,
+          "single_char_bg_color": "",
+          "single_char_bg_alpha": 1.0,
+          "single_char_bg_round_radius": 0.3,
+          "single_char_bg_width": 0.0,
+          "single_char_bg_height": 0.0,
+          "single_char_bg_vertical_offset": 0.0,
+          "single_char_bg_horizontal_offset": 0.0,
+          "font_team_id": "",
+          "tts_auto_update": false,
+          "text_preset_resource_id": "",
+          "group_id": "",
+          "preset_id": "",
+          "preset_name": "",
+          "preset_category": "",
+          "preset_category_id": "",
+          "preset_index": 0,
+          "preset_has_set_alignment": false,
+          "force_apply_line_max_width": false,
+          "language": "",
+          "relevance_segment": [],
+          "original_size": [],
+          "fixed_width": 722.3917971119039,
+          "fixed_height": -1.0,
+          "autoAdaptCanvasEnabled": false,
+          "line_max_width": 0.82,
+          "oneline_cutoff": false,
+          "cutoff_postfix": "",
+          "subtitle_template_original_fontsize": 0.0,
+          "subtitle_keywords": null,
+          "inner_padding": -1.0,
+          "multi_language_current": "none",
+          "source_from": "",
+          "is_lyric_effect": false,
+          "lyric_group_id": "",
+          "lyrics_template": {
+            "resource_id": "",
+            "resource_name": "",
+            "panel": "",
+            "effect_id": "",
+            "path": "",
+            "category_id": "",
+            "category_name": "",
+            "request_id": ""
+          },
+          "is_batch_replace": false,
+          "is_words_linear": false,
+          "ssml_content": "",
+          "subtitle_keywords_config": null,
+          "sub_template_id": -1,
+          "translate_original_text": "",
+          "adjust_params": []
+        },
+        "track_id": "4A3F358F-EC2C-4130-9674-1A8A3F7B4090",
+        "text": "MAKE ONE IMPOSSIBLE\nRULE PERMANENT\nWHICH WILL YOU PICK?"
+      },
+      "appearance": {
+        "font": "Rubik-Bold",
+        "font_size": 15.0,
+        "clip": {
+          "scale": {
+            "x": 1.1080621261233343,
+            "y": 1.1080621261233343
+          },
+          "rotation": 0.0,
+          "transform": {
+            "x": 0.02552727194604243,
+            "y": 0.14622057001239153
+          },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "alpha": 1.0
+        },
+        "alignment": 1,
+        "line_spacing": -0.2,
+        "letter_spacing": -0.05,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "fixed_width": 722.3917971119039,
+        "line_max_width": 0.82
+      },
+      "intro": [
+        {
+          "role": "video_track_1",
+          "intro_text": "Okay. Let's see.",
+          "words": [
+            {
+              "start": 3.11,
+              "end": 3.55,
+              "text": "Okay.",
+              "word_index": 0
+            },
+            {
+              "start": 6.81,
+              "end": 7.25,
+              "text": "Let's",
+              "word_index": 1
+            },
+            {
+              "start": 7.25,
+              "end": 7.35,
+              "text": "see.",
+              "word_index": 2
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "intro_text": "You get to make one impossible world rule permanent. Everybody has to live with it forever. Which rule are you choosing? Nobody needs sleep anymore. You get 24 extra hours of energy.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.06,
+              "text": "You",
+              "word_index": 0
+            },
+            {
+              "start": 0.06,
+              "end": 0.18,
+              "text": "get",
+              "word_index": 1
+            },
+            {
+              "start": 0.18,
+              "end": 0.34,
+              "text": "to",
+              "word_index": 2
+            },
+            {
+              "start": 0.34,
+              "end": 0.52,
+              "text": "make",
+              "word_index": 3
+            },
+            {
+              "start": 0.52,
+              "end": 0.9,
+              "text": "one",
+              "word_index": 4
+            },
+            {
+              "start": 0.9,
+              "end": 1.48,
+              "text": "impossible",
+              "word_index": 5
+            },
+            {
+              "start": 1.48,
+              "end": 1.9,
+              "text": "world",
+              "word_index": 6
+            },
+            {
+              "start": 1.9,
+              "end": 2.22,
+              "text": "rule",
+              "word_index": 7
+            },
+            {
+              "start": 2.22,
+              "end": 2.68,
+              "text": "permanent.",
+              "word_index": 8
+            },
+            {
+              "start": 3.36,
+              "end": 3.8,
+              "text": "Everybody",
+              "word_index": 9
+            },
+            {
+              "start": 3.8,
+              "end": 4.14,
+              "text": "has",
+              "word_index": 10
+            },
+            {
+              "start": 4.14,
+              "end": 4.32,
+              "text": "to",
+              "word_index": 11
+            },
+            {
+              "start": 4.32,
+              "end": 4.48,
+              "text": "live",
+              "word_index": 12
+            },
+            {
+              "start": 4.48,
+              "end": 4.62,
+              "text": "with",
+              "word_index": 13
+            },
+            {
+              "start": 4.62,
+              "end": 4.74,
+              "text": "it",
+              "word_index": 14
+            },
+            {
+              "start": 4.74,
+              "end": 4.96,
+              "text": "forever.",
+              "word_index": 15
+            },
+            {
+              "start": 5.7,
+              "end": 5.94,
+              "text": "Which",
+              "word_index": 16
+            },
+            {
+              "start": 5.94,
+              "end": 6.22,
+              "text": "rule",
+              "word_index": 17
+            },
+            {
+              "start": 6.22,
+              "end": 6.52,
+              "text": "are",
+              "word_index": 18
+            },
+            {
+              "start": 6.52,
+              "end": 6.7,
+              "text": "you",
+              "word_index": 19
+            },
+            {
+              "start": 6.7,
+              "end": 7.1,
+              "text": "choosing?",
+              "word_index": 20
+            },
+            {
+              "start": 7.9,
+              "end": 8.38,
+              "text": "Nobody",
+              "word_index": 21
+            },
+            {
+              "start": 8.38,
+              "end": 8.66,
+              "text": "needs",
+              "word_index": 22
+            },
+            {
+              "start": 8.66,
+              "end": 8.98,
+              "text": "sleep",
+              "word_index": 23
+            },
+            {
+              "start": 8.98,
+              "end": 9.3,
+              "text": "anymore.",
+              "word_index": 24
+            },
+            {
+              "start": 9.86,
+              "end": 9.94,
+              "text": "You",
+              "word_index": 25
+            },
+            {
+              "start": 9.94,
+              "end": 10.04,
+              "text": "get",
+              "word_index": 26
+            },
+            {
+              "start": 10.04,
+              "end": 10.38,
+              "text": "24",
+              "word_index": 27
+            },
+            {
+              "start": 10.38,
+              "end": 10.84,
+              "text": "extra",
+              "word_index": 28
+            },
+            {
+              "start": 10.84,
+              "end": 11.3,
+              "text": "hours",
+              "word_index": 29
+            },
+            {
+              "start": 11.3,
+              "end": 11.46,
+              "text": "of",
+              "word_index": 30
+            },
+            {
+              "start": 11.46,
+              "end": 11.84,
+              "text": "energy.",
+              "word_index": 31
+            }
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "kind": "material_animations",
+          "value": {
+            "id": "DF3A6979-7AED-45AE-B946-1809935F4356",
+            "type": "sticker_animation",
+            "animations": [],
+            "multi_language_current": "none"
+          }
+        }
+      ],
+      "duration_ratio": 1.0,
+      "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule.",
+      "previous_prediction": {
+        "text": "MAKE ONE IMPOSSIBLE\nRULE PERMANENT\nWHICH WILL YOU PICK?",
+        "highlight_phrases": [
+          "IMPOSSIBLE"
+        ],
+        "evidence": {
+          "role": "video_track_2",
+          "quote": "You get to make one impossible world rule permanent."
+        },
+        "reason": "Keep the actual one-impossible-rule-permanent premise and the which-rule choice question from the narrator intro.",
+        "replace_existing": true,
+        "action": "fill_blank"
+      }
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.5",
+      "timeline_id": "16B492FB-6124-472A-9861-25ADAA2C6EF6",
+      "source_hash": "ebc634349633a2852912db3ceaadeb9118b1f8e3a989fec156fcb9743c97bea5",
+      "text": "YOU GOT INVITED TO\nSIX SECRET SOCIETIES\nWHICH WILL YOU JOIN?",
+      "highlight_phrases": [
+        "SECRET SOCIETIES"
+      ],
+      "native": {
+        "segment": {
+          "id": "D70DAE40-6538-4245-97DE-EB8F1CC5FE28",
+          "source_timerange": null,
+          "target_timerange": {
+            "start": 0,
+            "duration": 56000000
+          },
+          "render_timerange": {
+            "start": 0,
+            "duration": 0
+          },
+          "desc": "",
+          "state": 0,
+          "speed": 1.0,
+          "is_loop": false,
+          "is_tone_modify": false,
+          "reverse": false,
+          "intensifies_audio": false,
+          "cartoon": false,
+          "volume": 1.0,
+          "last_nonzero_volume": 1.0,
+          "clip": {
+            "scale": {
+              "x": 1.1080621261233343,
+              "y": 1.1080621261233343
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.02552727194604243,
+              "y": 0.14622057001239153
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "material_id": "171C8698-5297-41AB-8506-E198AF0C7D39",
+          "extra_material_refs": [
+            "49224969-D86B-405F-8114-972E6A649976"
+          ],
+          "render_index": 14018,
+          "keyframe_refs": [],
+          "enable_lut": false,
+          "enable_adjust": false,
+          "enable_hsl": false,
+          "visible": true,
+          "group_id": "",
+          "enable_color_curves": true,
+          "enable_hsl_curves": true,
+          "track_render_index": 5,
+          "hdr_settings": null,
+          "hdr_vivid_settings": null,
+          "enable_color_wheels": true,
+          "track_attribute": 0,
+          "is_placeholder": false,
+          "template_id": "",
+          "enable_smart_color_adjust": false,
+          "template_scene": "default",
+          "common_keyframes": [],
+          "caption_info": null,
+          "responsive_layout": {
+            "enable": false,
+            "target_follow": "",
+            "size_layout": 0,
+            "horizontal_pos_layout": 0,
+            "vertical_pos_layout": 0
+          },
+          "enable_color_match_adjust": false,
+          "enable_color_correct_adjust": false,
+          "enable_adjust_mask": false,
+          "raw_segment_id": "",
+          "lyric_keyframes": null,
+          "enable_video_mask": true,
+          "digital_human_template_group_id": "",
+          "color_correct_alg_result": "",
+          "source": "segmentsourcenormal",
+          "enable_mask_stroke": false,
+          "enable_mask_shadow": false,
+          "enable_color_adjust_pro": false,
+          "segment_color_tag": ""
+        },
+        "material": {
+          "recognize_task_id": "",
+          "id": "171C8698-5297-41AB-8506-E198AF0C7D39",
+          "name": "",
+          "recognize_text": "",
+          "recognize_model": "",
+          "punc_model": "",
+          "type": "text",
+          "content": "{\"text\":\"YOU GOT INVITED TO\\nSIX SECRET SOCIETIES\\nWHICH WILL YOU JOIN?\",\"styles\":[{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[0,23],\"size\":15},{\"fill\":{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.9411764740943909,1.0,0.0]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[23,39],\"size\":15,\"strokes\":[{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.0,0.0,0.0]}},\"width\":0.05999999865889549}],\"useLetterColor\":true},{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[39,60],\"size\":15}]}",
+          "base_content": "",
+          "words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "current_words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "global_alpha": 1.0,
+          "combo_info": {
+            "text_templates": []
+          },
+          "caption_template_info": {
+            "resource_id": "",
+            "third_resource_id": "",
+            "resource_name": "",
+            "category_id": "",
+            "category_name": "",
+            "effect_id": "",
+            "request_id": "",
+            "path": "",
+            "is_new": false,
+            "source_platform": 0
+          },
+          "layer_weight": 1,
+          "letter_spacing": -0.05,
+          "text_curve": null,
+          "text_loop_on_path": false,
+          "offset_on_path": 0.0,
+          "enable_path_typesetting": false,
+          "text_exceeds_path_process_type": 0,
+          "text_typesetting_paths": null,
+          "text_typesetting_paths_file": "",
+          "text_typesetting_path_index": 0,
+          "line_spacing": -0.2,
+          "has_shadow": false,
+          "shadow_color": "",
+          "shadow_alpha": 0.9,
+          "shadow_smoothing": 0.45,
+          "shadow_distance": 5.0,
+          "shadow_point": {
+            "x": 0.6363961030678928,
+            "y": -0.6363961030678927
+          },
+          "shadow_angle": -45.0,
+          "shadow_thickness_projection_enable": false,
+          "shadow_thickness_projection_angle": 0.0,
+          "shadow_thickness_projection_distance": 0.0,
+          "border_alpha": 1.0,
+          "border_color": "#000000",
+          "border_width": 0.08,
+          "border_mode": 0,
+          "style_name": "",
+          "text_color": "#f0ff00",
+          "text_alpha": 1.0,
+          "font_name": "",
+          "font_title": "none",
+          "font_size": 15.0,
+          "font_path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+          "font_id": "",
+          "font_resource_id": "7148699606082130433",
+          "initial_scale": 1.0,
+          "font_url": "",
+          "typesetting": 0,
+          "alignment": 1,
+          "line_feed": 1,
+          "use_effect_default_color": true,
+          "is_rich_text": false,
+          "shape_clip_x": false,
+          "shape_clip_y": false,
+          "ktv_color": "",
+          "text_to_audio_ids": [],
+          "bold_width": 0.00800000037997961,
+          "italic_degree": 0,
+          "underline": false,
+          "underline_width": 0.05,
+          "underline_offset": 0.22,
+          "sub_type": 0,
+          "check_flag": 15,
+          "text_size": 30,
+          "font_category_name": "",
+          "font_source_platform": 1,
+          "font_third_resource_id": "",
+          "font_category_id": "",
+          "add_type": 0,
+          "operation_type": 0,
+          "recognize_type": 0,
+          "fonts": [
+            {
+              "id": "8C9D2487-EC8C-4134-8371-A6E893327AEF",
+              "resource_id": "7148699606082130433",
+              "third_resource_id": "",
+              "category_id": "preset",
+              "category_name": "Presets",
+              "source_platform": 1,
+              "path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+              "effect_id": "7148699606082130433",
+              "title": "Rubik-Bold",
+              "team_id": "",
+              "file_uri": "",
+              "request_id": "202610210013286FEA29550BE3AC3EAB59"
+            }
+          ],
+          "background_color": "#000000",
+          "background_alpha": 1.0,
+          "background_style": 0,
+          "background_round_radius": 0.0,
+          "background_width": 0.14,
+          "background_height": 0.14,
+          "background_vertical_offset": 0.0,
+          "background_horizontal_offset": 0.0,
+          "background_fill": "",
+          "single_char_bg_enable": false,
+          "single_char_bg_color": "",
+          "single_char_bg_alpha": 1.0,
+          "single_char_bg_round_radius": 0.3,
+          "single_char_bg_width": 0.0,
+          "single_char_bg_height": 0.0,
+          "single_char_bg_vertical_offset": 0.0,
+          "single_char_bg_horizontal_offset": 0.0,
+          "font_team_id": "",
+          "tts_auto_update": false,
+          "text_preset_resource_id": "",
+          "group_id": "",
+          "preset_id": "",
+          "preset_name": "",
+          "preset_category": "",
+          "preset_category_id": "",
+          "preset_index": 0,
+          "preset_has_set_alignment": false,
+          "force_apply_line_max_width": false,
+          "language": "",
+          "relevance_segment": [],
+          "original_size": [],
+          "fixed_width": 722.3917971119039,
+          "fixed_height": -1.0,
+          "autoAdaptCanvasEnabled": false,
+          "line_max_width": 0.82,
+          "oneline_cutoff": false,
+          "cutoff_postfix": "",
+          "subtitle_template_original_fontsize": 0.0,
+          "subtitle_keywords": null,
+          "inner_padding": -1.0,
+          "multi_language_current": "none",
+          "source_from": "",
+          "is_lyric_effect": false,
+          "lyric_group_id": "",
+          "lyrics_template": {
+            "resource_id": "",
+            "resource_name": "",
+            "panel": "",
+            "effect_id": "",
+            "path": "",
+            "category_id": "",
+            "category_name": "",
+            "request_id": ""
+          },
+          "is_batch_replace": false,
+          "is_words_linear": false,
+          "ssml_content": "",
+          "subtitle_keywords_config": null,
+          "sub_template_id": -1,
+          "translate_original_text": "",
+          "adjust_params": []
+        },
+        "track_id": "0C8A60C3-A500-4FA0-9774-2A934CFB7453",
+        "text": "YOU GOT INVITED TO\nSIX SECRET SOCIETIES\nWHICH WILL YOU JOIN?"
+      },
+      "appearance": {
+        "font": "Rubik-Bold",
+        "font_size": 15.0,
+        "clip": {
+          "scale": {
+            "x": 1.1080621261233343,
+            "y": 1.1080621261233343
+          },
+          "rotation": 0.0,
+          "transform": {
+            "x": 0.02552727194604243,
+            "y": 0.14622057001239153
+          },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "alpha": 1.0
+        },
+        "alignment": 1,
+        "line_spacing": -0.2,
+        "letter_spacing": -0.05,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "fixed_width": 722.3917971119039,
+        "line_max_width": 0.82
+      },
+      "intro": [
+        {
+          "role": "video_track_1",
+          "intro_text": "I did. Okay. Let's see. Okay.",
+          "words": [
+            {
+              "start": 2.19,
+              "end": 2.63,
+              "text": "I",
+              "word_index": 0
+            },
+            {
+              "start": 2.63,
+              "end": 2.83,
+              "text": "did.",
+              "word_index": 1
+            },
+            {
+              "start": 5.56,
+              "end": 6.02,
+              "text": "Okay.",
+              "word_index": 2
+            },
+            {
+              "start": 7.28,
+              "end": 7.58,
+              "text": "Let's",
+              "word_index": 3
+            },
+            {
+              "start": 7.58,
+              "end": 7.68,
+              "text": "see.",
+              "word_index": 4
+            },
+            {
+              "start": 9.29,
+              "end": 9.77,
+              "text": "Okay.",
+              "word_index": 5
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "intro_text": "You accidentally got invited to six secret societies. Some are amazing and some are absolutely insane. Which one are you joining? Welcome to the Rich Grandma Society. We just want someone to play bingo with",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.1,
+              "text": "You",
+              "word_index": 0
+            },
+            {
+              "start": 0.1,
+              "end": 0.46,
+              "text": "accidentally",
+              "word_index": 1
+            },
+            {
+              "start": 0.46,
+              "end": 0.82,
+              "text": "got",
+              "word_index": 2
+            },
+            {
+              "start": 0.82,
+              "end": 1.14,
+              "text": "invited",
+              "word_index": 3
+            },
+            {
+              "start": 1.14,
+              "end": 1.34,
+              "text": "to",
+              "word_index": 4
+            },
+            {
+              "start": 1.34,
+              "end": 1.62,
+              "text": "six",
+              "word_index": 5
+            },
+            {
+              "start": 1.62,
+              "end": 2.06,
+              "text": "secret",
+              "word_index": 6
+            },
+            {
+              "start": 2.06,
+              "end": 2.34,
+              "text": "societies.",
+              "word_index": 7
+            },
+            {
+              "start": 3.02,
+              "end": 3.2,
+              "text": "Some",
+              "word_index": 8
+            },
+            {
+              "start": 3.2,
+              "end": 3.34,
+              "text": "are",
+              "word_index": 9
+            },
+            {
+              "start": 3.34,
+              "end": 3.62,
+              "text": "amazing",
+              "word_index": 10
+            },
+            {
+              "start": 3.62,
+              "end": 4.14,
+              "text": "and",
+              "word_index": 11
+            },
+            {
+              "start": 4.14,
+              "end": 4.34,
+              "text": "some",
+              "word_index": 12
+            },
+            {
+              "start": 4.34,
+              "end": 4.48,
+              "text": "are",
+              "word_index": 13
+            },
+            {
+              "start": 4.48,
+              "end": 4.98,
+              "text": "absolutely",
+              "word_index": 14
+            },
+            {
+              "start": 4.98,
+              "end": 5.38,
+              "text": "insane.",
+              "word_index": 15
+            },
+            {
+              "start": 6.14,
+              "end": 6.38,
+              "text": "Which",
+              "word_index": 16
+            },
+            {
+              "start": 6.38,
+              "end": 6.66,
+              "text": "one",
+              "word_index": 17
+            },
+            {
+              "start": 6.66,
+              "end": 6.9,
+              "text": "are",
+              "word_index": 18
+            },
+            {
+              "start": 6.9,
+              "end": 7.06,
+              "text": "you",
+              "word_index": 19
+            },
+            {
+              "start": 7.06,
+              "end": 7.36,
+              "text": "joining?",
+              "word_index": 20
+            },
+            {
+              "start": 7.92,
+              "end": 8.2,
+              "text": "Welcome",
+              "word_index": 21
+            },
+            {
+              "start": 8.2,
+              "end": 8.42,
+              "text": "to",
+              "word_index": 22
+            },
+            {
+              "start": 8.42,
+              "end": 8.56,
+              "text": "the",
+              "word_index": 23
+            },
+            {
+              "start": 8.56,
+              "end": 8.74,
+              "text": "Rich",
+              "word_index": 24
+            },
+            {
+              "start": 8.74,
+              "end": 9.18,
+              "text": "Grandma",
+              "word_index": 25
+            },
+            {
+              "start": 9.18,
+              "end": 9.58,
+              "text": "Society.",
+              "word_index": 26
+            },
+            {
+              "start": 10.14,
+              "end": 10.3,
+              "text": "We",
+              "word_index": 27
+            },
+            {
+              "start": 10.3,
+              "end": 10.48,
+              "text": "just",
+              "word_index": 28
+            },
+            {
+              "start": 10.48,
+              "end": 10.7,
+              "text": "want",
+              "word_index": 29
+            },
+            {
+              "start": 10.7,
+              "end": 10.94,
+              "text": "someone",
+              "word_index": 30
+            },
+            {
+              "start": 10.94,
+              "end": 11.14,
+              "text": "to",
+              "word_index": 31
+            },
+            {
+              "start": 11.14,
+              "end": 11.32,
+              "text": "play",
+              "word_index": 32
+            },
+            {
+              "start": 11.32,
+              "end": 11.8,
+              "text": "bingo",
+              "word_index": 33
+            },
+            {
+              "start": 11.8,
+              "end": 12.02,
+              "text": "with",
+              "word_index": 34
+            }
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "kind": "material_animations",
+          "value": {
+            "id": "49224969-D86B-405F-8114-972E6A649976",
+            "type": "sticker_animation",
+            "animations": [],
+            "multi_language_current": "none"
+          }
+        }
+      ],
+      "duration_ratio": 1.0,
+      "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule.",
+      "previous_prediction": {
+        "text": "YOU GOT INVITED TO\nSIX SECRET SOCIETIES\nWHICH WILL YOU JOIN?",
+        "highlight_phrases": [
+          "SECRET SOCIETIES"
+        ],
+        "evidence": {
+          "role": "video_track_2",
+          "quote": "You accidentally got invited to six secret societies."
+        },
+        "reason": "Keep the actual six-secret-societies invitation and the which-one-are-you-joining question from the narrator intro.",
+        "replace_existing": true,
+        "action": "fill_blank"
+      }
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.6",
+      "timeline_id": "A699152C-F0E1-4744-89DC-CBE2B7BCB8A3",
+      "source_hash": "c04fbb9987ca1a4c3a0e88b82bf4b0203355d447a6441d466373e4745a93bbf9",
+      "text": "YOUR BIRTH MONTH IS\nWHO MIGHT SNITCH\nWHO DID YOU GET?",
+      "highlight_phrases": [
+        "SNITCH"
+      ],
+      "native": {
+        "segment": {
+          "id": "31DA84AD-241B-4D52-84DD-62EA0F778DC3",
+          "source_timerange": null,
+          "target_timerange": {
+            "start": 0,
+            "duration": 104066666
+          },
+          "render_timerange": {
+            "start": 0,
+            "duration": 0
+          },
+          "desc": "",
+          "state": 0,
+          "speed": 1.0,
+          "is_loop": false,
+          "is_tone_modify": false,
+          "reverse": false,
+          "intensifies_audio": false,
+          "cartoon": false,
+          "volume": 1.0,
+          "last_nonzero_volume": 1.0,
+          "clip": {
+            "scale": {
+              "x": 1.1080621261233343,
+              "y": 1.1080621261233343
+            },
+            "rotation": 0.0,
+            "transform": {
+              "x": 0.02552727194604243,
+              "y": 0.14622057001239153
+            },
+            "flip": {
+              "vertical": false,
+              "horizontal": false
+            },
+            "alpha": 1.0
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "material_id": "CA89CFEE-140F-424D-8053-4E3AE547A543",
+          "extra_material_refs": [
+            "3DBAE4A9-357A-4064-9BD3-D242353039C9"
+          ],
+          "render_index": 14018,
+          "keyframe_refs": [],
+          "enable_lut": false,
+          "enable_adjust": false,
+          "enable_hsl": false,
+          "visible": true,
+          "group_id": "",
+          "enable_color_curves": true,
+          "enable_hsl_curves": true,
+          "track_render_index": 5,
+          "hdr_settings": null,
+          "hdr_vivid_settings": null,
+          "enable_color_wheels": true,
+          "track_attribute": 0,
+          "is_placeholder": false,
+          "template_id": "",
+          "enable_smart_color_adjust": false,
+          "template_scene": "default",
+          "common_keyframes": [],
+          "caption_info": null,
+          "responsive_layout": {
+            "enable": false,
+            "target_follow": "",
+            "size_layout": 0,
+            "horizontal_pos_layout": 0,
+            "vertical_pos_layout": 0
+          },
+          "enable_color_match_adjust": false,
+          "enable_color_correct_adjust": false,
+          "enable_adjust_mask": false,
+          "raw_segment_id": "",
+          "lyric_keyframes": null,
+          "enable_video_mask": true,
+          "digital_human_template_group_id": "",
+          "color_correct_alg_result": "",
+          "source": "segmentsourcenormal",
+          "enable_mask_stroke": false,
+          "enable_mask_shadow": false,
+          "enable_color_adjust_pro": false,
+          "segment_color_tag": ""
+        },
+        "material": {
+          "recognize_task_id": "",
+          "id": "CA89CFEE-140F-424D-8053-4E3AE547A543",
+          "name": "",
+          "recognize_text": "",
+          "recognize_model": "",
+          "punc_model": "",
+          "type": "text",
+          "content": "{\"text\":\"YOUR BIRTH MONTH IS\\nWHO MIGHT SNITCH\\nWHO DID YOU GET?\",\"styles\":[{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[0,30],\"size\":15},{\"fill\":{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.9411764740943909,1.0,0.0]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[30,36],\"size\":15,\"strokes\":[{\"alpha\":1.0,\"content\":{\"render_type\":\"solid\",\"solid\":{\"alpha\":1.0,\"color\":[0.0,0.0,0.0]}},\"width\":0.05999999865889549}],\"useLetterColor\":true},{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf\",\"id\":\"7148699606082130433\"},\"range\":[36,53],\"size\":15}]}",
+          "base_content": "",
+          "words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "current_words": {
+            "start_time": [],
+            "end_time": [],
+            "text": []
+          },
+          "global_alpha": 1.0,
+          "combo_info": {
+            "text_templates": []
+          },
+          "caption_template_info": {
+            "resource_id": "",
+            "third_resource_id": "",
+            "resource_name": "",
+            "category_id": "",
+            "category_name": "",
+            "effect_id": "",
+            "request_id": "",
+            "path": "",
+            "is_new": false,
+            "source_platform": 0
+          },
+          "layer_weight": 1,
+          "letter_spacing": -0.05,
+          "text_curve": null,
+          "text_loop_on_path": false,
+          "offset_on_path": 0.0,
+          "enable_path_typesetting": false,
+          "text_exceeds_path_process_type": 0,
+          "text_typesetting_paths": null,
+          "text_typesetting_paths_file": "",
+          "text_typesetting_path_index": 0,
+          "line_spacing": -0.2,
+          "has_shadow": false,
+          "shadow_color": "",
+          "shadow_alpha": 0.9,
+          "shadow_smoothing": 0.45,
+          "shadow_distance": 5.0,
+          "shadow_point": {
+            "x": 0.6363961030678928,
+            "y": -0.6363961030678927
+          },
+          "shadow_angle": -45.0,
+          "shadow_thickness_projection_enable": false,
+          "shadow_thickness_projection_angle": 0.0,
+          "shadow_thickness_projection_distance": 0.0,
+          "border_alpha": 1.0,
+          "border_color": "#000000",
+          "border_width": 0.08,
+          "border_mode": 0,
+          "style_name": "",
+          "text_color": "#f0ff00",
+          "text_alpha": 1.0,
+          "font_name": "",
+          "font_title": "none",
+          "font_size": 15.0,
+          "font_path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+          "font_id": "",
+          "font_resource_id": "7148699606082130433",
+          "initial_scale": 1.0,
+          "font_url": "",
+          "typesetting": 0,
+          "alignment": 1,
+          "line_feed": 1,
+          "use_effect_default_color": true,
+          "is_rich_text": false,
+          "shape_clip_x": false,
+          "shape_clip_y": false,
+          "ktv_color": "",
+          "text_to_audio_ids": [],
+          "bold_width": 0.00800000037997961,
+          "italic_degree": 0,
+          "underline": false,
+          "underline_width": 0.05,
+          "underline_offset": 0.22,
+          "sub_type": 0,
+          "check_flag": 15,
+          "text_size": 30,
+          "font_category_name": "",
+          "font_source_platform": 1,
+          "font_third_resource_id": "",
+          "font_category_id": "",
+          "add_type": 0,
+          "operation_type": 0,
+          "recognize_type": 0,
+          "fonts": [
+            {
+              "id": "BBCB9B8E-56DD-417B-B073-088C5FD832C2",
+              "resource_id": "7148699606082130433",
+              "third_resource_id": "",
+              "category_id": "preset",
+              "category_name": "Presets",
+              "source_platform": 1,
+              "path": "/Users/tanzibsrijon/Movies/CapCut/User Data/Cache/effect/7148699606082130433/9b03aa8db4f8d431e15f1660108d512b/Rubik-Bold.ttf",
+              "effect_id": "7148699606082130433",
+              "title": "Rubik-Bold",
+              "team_id": "",
+              "file_uri": "",
+              "request_id": "202610210013286FEA29550BE3AC3EAB59"
+            }
+          ],
+          "background_color": "#000000",
+          "background_alpha": 1.0,
+          "background_style": 0,
+          "background_round_radius": 0.0,
+          "background_width": 0.14,
+          "background_height": 0.14,
+          "background_vertical_offset": 0.0,
+          "background_horizontal_offset": 0.0,
+          "background_fill": "",
+          "single_char_bg_enable": false,
+          "single_char_bg_color": "",
+          "single_char_bg_alpha": 1.0,
+          "single_char_bg_round_radius": 0.3,
+          "single_char_bg_width": 0.0,
+          "single_char_bg_height": 0.0,
+          "single_char_bg_vertical_offset": 0.0,
+          "single_char_bg_horizontal_offset": 0.0,
+          "font_team_id": "",
+          "tts_auto_update": false,
+          "text_preset_resource_id": "",
+          "group_id": "",
+          "preset_id": "",
+          "preset_name": "",
+          "preset_category": "",
+          "preset_category_id": "",
+          "preset_index": 0,
+          "preset_has_set_alignment": false,
+          "force_apply_line_max_width": false,
+          "language": "",
+          "relevance_segment": [],
+          "original_size": [],
+          "fixed_width": 722.3917971119039,
+          "fixed_height": -1.0,
+          "autoAdaptCanvasEnabled": false,
+          "line_max_width": 0.82,
+          "oneline_cutoff": false,
+          "cutoff_postfix": "",
+          "subtitle_template_original_fontsize": 0.0,
+          "subtitle_keywords": null,
+          "inner_padding": -1.0,
+          "multi_language_current": "none",
+          "source_from": "",
+          "is_lyric_effect": false,
+          "lyric_group_id": "",
+          "lyrics_template": {
+            "resource_id": "",
+            "resource_name": "",
+            "panel": "",
+            "effect_id": "",
+            "path": "",
+            "category_id": "",
+            "category_name": "",
+            "request_id": ""
+          },
+          "is_batch_replace": false,
+          "is_words_linear": false,
+          "ssml_content": "",
+          "subtitle_keywords_config": null,
+          "sub_template_id": -1,
+          "translate_original_text": "",
+          "adjust_params": []
+        },
+        "track_id": "091F1F53-D820-4D58-996E-DA7FDC89B689",
+        "text": "YOUR BIRTH MONTH IS\nWHO MIGHT SNITCH\nWHO DID YOU GET?"
+      },
+      "appearance": {
+        "font": "Rubik-Bold",
+        "font_size": 15.0,
+        "clip": {
+          "scale": {
+            "x": 1.1080621261233343,
+            "y": 1.1080621261233343
+          },
+          "rotation": 0.0,
+          "transform": {
+            "x": 0.02552727194604243,
+            "y": 0.14622057001239153
+          },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "alpha": 1.0
+        },
+        "alignment": 1,
+        "line_spacing": -0.2,
+        "letter_spacing": -0.05,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "fixed_width": 722.3917971119039,
+        "line_max_width": 0.82
+      },
+      "intro": [
+        {
+          "role": "video_track_1",
+          "intro_text": "I did? Well, hopefully I can get out. What the? He snitched.",
+          "words": [
+            {
+              "start": 0.75,
+              "end": 1.21,
+              "text": "I",
+              "word_index": 0
+            },
+            {
+              "start": 1.21,
+              "end": 1.41,
+              "text": "did?",
+              "word_index": 1
+            },
+            {
+              "start": 2.37,
+              "end": 2.81,
+              "text": "Well,",
+              "word_index": 2
+            },
+            {
+              "start": 7.44,
+              "end": 7.78,
+              "text": "hopefully",
+              "word_index": 3
+            },
+            {
+              "start": 7.78,
+              "end": 7.92,
+              "text": "I",
+              "word_index": 4
+            },
+            {
+              "start": 7.92,
+              "end": 8.04,
+              "text": "can",
+              "word_index": 5
+            },
+            {
+              "start": 8.04,
+              "end": 8.22,
+              "text": "get",
+              "word_index": 6
+            },
+            {
+              "start": 8.22,
+              "end": 8.42,
+              "text": "out.",
+              "word_index": 7
+            },
+            {
+              "start": 8.78,
+              "end": 8.96,
+              "text": "What",
+              "word_index": 8
+            },
+            {
+              "start": 8.96,
+              "end": 9.14,
+              "text": "the?",
+              "word_index": 9
+            },
+            {
+              "start": 10.52,
+              "end": 10.9,
+              "text": "He",
+              "word_index": 10
+            },
+            {
+              "start": 10.9,
+              "end": 11.3,
+              "text": "snitched.",
+              "word_index": 11
+            }
+          ]
+        },
+        {
+          "role": "video_track_2",
+          "intro_text": "You just committed a crime, and now your friend is getting interrogated. If they snitch, you're gonna jail for life. Your birth month decides who's in that chair. Who did you get? January? Bro, you ain't got nothing to worry about. They gave me all this chicken for",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.16,
+              "text": "You",
+              "word_index": 0
+            },
+            {
+              "start": 0.16,
+              "end": 0.32,
+              "text": "just",
+              "word_index": 1
+            },
+            {
+              "start": 0.32,
+              "end": 0.54,
+              "text": "committed",
+              "word_index": 2
+            },
+            {
+              "start": 0.54,
+              "end": 0.72,
+              "text": "a",
+              "word_index": 3
+            },
+            {
+              "start": 0.72,
+              "end": 0.96,
+              "text": "crime,",
+              "word_index": 4
+            },
+            {
+              "start": 1.22,
+              "end": 1.3,
+              "text": "and",
+              "word_index": 5
+            },
+            {
+              "start": 1.3,
+              "end": 1.42,
+              "text": "now",
+              "word_index": 6
+            },
+            {
+              "start": 1.42,
+              "end": 1.54,
+              "text": "your",
+              "word_index": 7
+            },
+            {
+              "start": 1.54,
+              "end": 1.76,
+              "text": "friend",
+              "word_index": 8
+            },
+            {
+              "start": 1.76,
+              "end": 1.88,
+              "text": "is",
+              "word_index": 9
+            },
+            {
+              "start": 1.88,
+              "end": 2.02,
+              "text": "getting",
+              "word_index": 10
+            },
+            {
+              "start": 2.02,
+              "end": 2.36,
+              "text": "interrogated.",
+              "word_index": 11
+            },
+            {
+              "start": 2.94,
+              "end": 3.02,
+              "text": "If",
+              "word_index": 12
+            },
+            {
+              "start": 3.02,
+              "end": 3.14,
+              "text": "they",
+              "word_index": 13
+            },
+            {
+              "start": 3.14,
+              "end": 3.52,
+              "text": "snitch,",
+              "word_index": 14
+            },
+            {
+              "start": 3.68,
+              "end": 3.78,
+              "text": "you're",
+              "word_index": 15
+            },
+            {
+              "start": 3.78,
+              "end": 3.9,
+              "text": "gonna",
+              "word_index": 16
+            },
+            {
+              "start": 3.9,
+              "end": 4.1,
+              "text": "jail",
+              "word_index": 17
+            },
+            {
+              "start": 4.1,
+              "end": 4.32,
+              "text": "for",
+              "word_index": 18
+            },
+            {
+              "start": 4.32,
+              "end": 4.52,
+              "text": "life.",
+              "word_index": 19
+            },
+            {
+              "start": 4.9,
+              "end": 4.96,
+              "text": "Your",
+              "word_index": 20
+            },
+            {
+              "start": 4.96,
+              "end": 5.16,
+              "text": "birth",
+              "word_index": 21
+            },
+            {
+              "start": 5.16,
+              "end": 5.4,
+              "text": "month",
+              "word_index": 22
+            },
+            {
+              "start": 5.4,
+              "end": 5.68,
+              "text": "decides",
+              "word_index": 23
+            },
+            {
+              "start": 5.68,
+              "end": 6.0,
+              "text": "who's",
+              "word_index": 24
+            },
+            {
+              "start": 6.0,
+              "end": 6.1,
+              "text": "in",
+              "word_index": 25
+            },
+            {
+              "start": 6.1,
+              "end": 6.2,
+              "text": "that",
+              "word_index": 26
+            },
+            {
+              "start": 6.2,
+              "end": 6.46,
+              "text": "chair.",
+              "word_index": 27
+            },
+            {
+              "start": 6.7,
+              "end": 6.8,
+              "text": "Who",
+              "word_index": 28
+            },
+            {
+              "start": 6.8,
+              "end": 6.92,
+              "text": "did",
+              "word_index": 29
+            },
+            {
+              "start": 6.92,
+              "end": 7.04,
+              "text": "you",
+              "word_index": 30
+            },
+            {
+              "start": 7.04,
+              "end": 7.24,
+              "text": "get?",
+              "word_index": 31
+            },
+            {
+              "start": 7.88,
+              "end": 8.18,
+              "text": "January?",
+              "word_index": 32
+            },
+            {
+              "start": 9.06,
+              "end": 9.34,
+              "text": "Bro,",
+              "word_index": 33
+            },
+            {
+              "start": 9.48,
+              "end": 9.56,
+              "text": "you",
+              "word_index": 34
+            },
+            {
+              "start": 9.56,
+              "end": 9.7,
+              "text": "ain't",
+              "word_index": 35
+            },
+            {
+              "start": 9.7,
+              "end": 9.78,
+              "text": "got",
+              "word_index": 36
+            },
+            {
+              "start": 9.78,
+              "end": 10.02,
+              "text": "nothing",
+              "word_index": 37
+            },
+            {
+              "start": 10.02,
+              "end": 10.16,
+              "text": "to",
+              "word_index": 38
+            },
+            {
+              "start": 10.16,
+              "end": 10.34,
+              "text": "worry",
+              "word_index": 39
+            },
+            {
+              "start": 10.34,
+              "end": 10.64,
+              "text": "about.",
+              "word_index": 40
+            },
+            {
+              "start": 10.88,
+              "end": 11.04,
+              "text": "They",
+              "word_index": 41
+            },
+            {
+              "start": 11.04,
+              "end": 11.16,
+              "text": "gave",
+              "word_index": 42
+            },
+            {
+              "start": 11.16,
+              "end": 11.34,
+              "text": "me",
+              "word_index": 43
+            },
+            {
+              "start": 11.34,
+              "end": 11.48,
+              "text": "all",
+              "word_index": 44
+            },
+            {
+              "start": 11.48,
+              "end": 11.62,
+              "text": "this",
+              "word_index": 45
+            },
+            {
+              "start": 11.62,
+              "end": 11.84,
+              "text": "chicken",
+              "word_index": 46
+            },
+            {
+              "start": 11.84,
+              "end": 12.06,
+              "text": "for",
+              "word_index": 47
+            }
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "kind": "material_animations",
+          "value": {
+            "id": "3DBAE4A9-357A-4064-9BD3-D242353039C9",
+            "type": "sticker_animation",
+            "animations": [],
+            "multi_language_current": "none"
+          }
+        }
+      ],
+      "duration_ratio": 1.0,
+      "scope": "Latest explicit manual hook wording/layout/colors; scene example, not a global phrase rule.",
+      "previous_prediction": {
+        "text": "YOUR BIRTH MONTH IS\nWHO MIGHT SNITCH\nWHO DID YOU GET?",
+        "highlight_phrases": [
+          "SNITCH"
+        ],
+        "evidence": {
+          "role": "video_track_2",
+          "quote": "Your birth month decides who's in that chair."
+        },
+        "reason": "Keep the birth-month-decides-who's-interrogated premise and the who-did-you-get question; snitch comes from the intro's if-they-snitch stakes.",
+        "replace_existing": true,
+        "action": "fill_blank"
+      }
     }
   ],
-  "preferred_timeline_id": "32C79D19-80C0-4f85-8D2A-0EAD71174620",
+  "preferred_timeline_id": "A699152C-F0E1-4744-89DC-CBE2B7BCB8A3",
   "fonts": {
     "Rubik-Bold.ttf": "assets/fonts/Rubik-Bold.ttf"
   },

@@ -1,0 +1,15 @@
+{
+  "job_id": "4e31bbfbdeba4d21",
+  "batch_id": "42ede3c094bc4070",
+  "project": "1022",
+  "timeline": "Day 7.2",
+  "timeline_id": "D156990F-EA0B-4FE2-ADFB-7434414260E2",
+  "source_hash": "145eef69f539622c36f62420622e7ba0e245493de3291e22c89f3acb7628fd3a",
+  "analysis_job_id": "14bae7ad87744687",
+  "style_version": 20,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "YOU MOVED TO THE\nHOOD JOIN A GANG\nWHICH WILL YOU JOIN?",
+  "duration": 56.0,
+  "applied_at": 1792754317.99969
+}

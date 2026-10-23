@@ -1,0 +1,256 @@
+{
+  "model": "base.en",
+  "seconds": 1.54,
+  "cached": false,
+  "rows": [
+    {
+      "start": 3.11,
+      "end": 23.62,
+      "text": "Okay. Let's see. Yeah, I don't know about that. Definitely not honestly. No. Birds, birds in the morning will be annoying.",
+      "words": [
+        {
+          "start": 3.11,
+          "end": 3.55,
+          "text": "Okay."
+        },
+        {
+          "start": 6.81,
+          "end": 7.25,
+          "text": "Let's"
+        },
+        {
+          "start": 7.25,
+          "end": 7.35,
+          "text": "see."
+        },
+        {
+          "start": 14.34,
+          "end": 14.78,
+          "text": "Yeah,"
+        },
+        {
+          "start": 14.88,
+          "end": 14.96,
+          "text": "I"
+        },
+        {
+          "start": 14.96,
+          "end": 15.06,
+          "text": "don't"
+        },
+        {
+          "start": 15.06,
+          "end": 15.16,
+          "text": "know"
+        },
+        {
+          "start": 15.16,
+          "end": 15.32,
+          "text": "about"
+        },
+        {
+          "start": 15.32,
+          "end": 15.56,
+          "text": "that."
+        },
+        {
+          "start": 15.92,
+          "end": 16.22,
+          "text": "Definitely"
+        },
+        {
+          "start": 16.22,
+          "end": 16.44,
+          "text": "not"
+        },
+        {
+          "start": 16.44,
+          "end": 16.64,
+          "text": "honestly."
+        },
+        {
+          "start": 17.34,
+          "end": 17.72,
+          "text": "No."
+        },
+        {
+          "start": 21.72,
+          "end": 22.16,
+          "text": "Birds,"
+        },
+        {
+          "start": 22.58,
+          "end": 22.8,
+          "text": "birds"
+        },
+        {
+          "start": 22.8,
+          "end": 23.0,
+          "text": "in"
+        },
+        {
+          "start": 23.0,
+          "end": 23.06,
+          "text": "the"
+        },
+        {
+          "start": 23.06,
+          "end": 23.22,
+          "text": "morning"
+        },
+        {
+          "start": 23.22,
+          "end": 23.38,
+          "text": "will"
+        },
+        {
+          "start": 23.38,
+          "end": 23.48,
+          "text": "be"
+        },
+        {
+          "start": 23.48,
+          "end": 23.62,
+          "text": "annoying."
+        }
+      ]
+    },
+    {
+      "start": 24.12,
+      "end": 55.08,
+      "text": "Oh. Okay. Everyone's a vulture mate? I'm cut down the tree, bro. I'll do that. Everyone? That's not good. No. Yes. Yes. That's not too bad.",
+      "words": [
+        {
+          "start": 24.12,
+          "end": 24.26,
+          "text": "Oh."
+        },
+        {
+          "start": 27.2,
+          "end": 27.64,
+          "text": "Okay."
+        },
+        {
+          "start": 30.07,
+          "end": 30.51,
+          "text": "Everyone's"
+        },
+        {
+          "start": 30.51,
+          "end": 30.59,
+          "text": "a"
+        },
+        {
+          "start": 30.59,
+          "end": 30.85,
+          "text": "vulture"
+        },
+        {
+          "start": 30.85,
+          "end": 31.01,
+          "text": "mate?"
+        },
+        {
+          "start": 37.43,
+          "end": 37.51,
+          "text": "I'm"
+        },
+        {
+          "start": 37.51,
+          "end": 37.65,
+          "text": "cut"
+        },
+        {
+          "start": 37.65,
+          "end": 37.89,
+          "text": "down"
+        },
+        {
+          "start": 37.89,
+          "end": 38.03,
+          "text": "the"
+        },
+        {
+          "start": 38.03,
+          "end": 38.23,
+          "text": "tree,"
+        },
+        {
+          "start": 38.37,
+          "end": 38.47,
+          "text": "bro."
+        },
+        {
+          "start": 38.73,
+          "end": 38.85,
+          "text": "I'll"
+        },
+        {
+          "start": 38.85,
+          "end": 38.97,
+          "text": "do"
+        },
+        {
+          "start": 38.97,
+          "end": 39.15,
+          "text": "that."
+        },
+        {
+          "start": 40.82,
+          "end": 41.26,
+          "text": "Everyone?"
+        },
+        {
+          "start": 45.67,
+          "end": 46.05,
+          "text": "That's"
+        },
+        {
+          "start": 46.05,
+          "end": 46.17,
+          "text": "not"
+        },
+        {
+          "start": 46.17,
+          "end": 46.37,
+          "text": "good."
+        },
+        {
+          "start": 46.59,
+          "end": 46.63,
+          "text": "No."
+        },
+        {
+          "start": 48.25,
+          "end": 48.69,
+          "text": "Yes."
+        },
+        {
+          "start": 49.41,
+          "end": 49.77,
+          "text": "Yes."
+        },
+        {
+          "start": 54.42,
+          "end": 54.66,
+          "text": "That's"
+        },
+        {
+          "start": 54.66,
+          "end": 54.8,
+          "text": "not"
+        },
+        {
+          "start": 54.8,
+          "end": 54.94,
+          "text": "too"
+        },
+        {
+          "start": 54.94,
+          "end": 55.08,
+          "text": "bad."
+        }
+      ]
+    }
+  ]
+}

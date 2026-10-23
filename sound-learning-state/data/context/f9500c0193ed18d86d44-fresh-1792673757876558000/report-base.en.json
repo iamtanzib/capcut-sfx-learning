@@ -1,0 +1,377 @@
+{
+  "project": "1022",
+  "timeline": "3D26D5D0-E028-4F2A-8BE7-BB1146C114A6",
+  "model": "base.en",
+  "cache_key": "f9500c0193ed18d86d44",
+  "cache_folder": "/Users/tanzibsrijon/SoundPilotLearning/data/context/f9500c0193ed18d86d44-fresh-1792673757876558000",
+  "seconds": 4.76,
+  "tracks": [
+    {
+      "role": "video_track_1",
+      "speech": [
+        {
+          "start": 4.66,
+          "end": 7.02,
+          "text": "Take a bite of your kid's buddy. You're not having them",
+          "words": [
+            {
+              "start": 4.66,
+              "end": 4.92,
+              "text": "Take"
+            },
+            {
+              "start": 4.92,
+              "end": 5.04,
+              "text": "a"
+            },
+            {
+              "start": 5.04,
+              "end": 5.22,
+              "text": "bite"
+            },
+            {
+              "start": 5.22,
+              "end": 5.42,
+              "text": "of"
+            },
+            {
+              "start": 5.42,
+              "end": 5.48,
+              "text": "your"
+            },
+            {
+              "start": 5.48,
+              "end": 5.86,
+              "text": "kid's"
+            },
+            {
+              "start": 5.86,
+              "end": 6.06,
+              "text": "buddy."
+            },
+            {
+              "start": 6.06,
+              "end": 6.24,
+              "text": "You're"
+            },
+            {
+              "start": 6.24,
+              "end": 6.4,
+              "text": "not"
+            },
+            {
+              "start": 6.4,
+              "end": 6.72,
+              "text": "having"
+            },
+            {
+              "start": 6.72,
+              "end": 7.02,
+              "text": "them"
+            }
+          ]
+        },
+        {
+          "start": 12.1,
+          "end": 15.0,
+          "text": "Agree that's the best use of spidey sense literally",
+          "words": [
+            {
+              "start": 12.1,
+              "end": 12.7,
+              "text": "Agree"
+            },
+            {
+              "start": 12.7,
+              "end": 13.02,
+              "text": "that's"
+            },
+            {
+              "start": 13.02,
+              "end": 13.12,
+              "text": "the"
+            },
+            {
+              "start": 13.12,
+              "end": 13.42,
+              "text": "best"
+            },
+            {
+              "start": 13.42,
+              "end": 13.72,
+              "text": "use"
+            },
+            {
+              "start": 13.72,
+              "end": 13.94,
+              "text": "of"
+            },
+            {
+              "start": 13.94,
+              "end": 14.34,
+              "text": "spidey"
+            },
+            {
+              "start": 14.34,
+              "end": 14.58,
+              "text": "sense"
+            },
+            {
+              "start": 14.58,
+              "end": 15.0,
+              "text": "literally"
+            }
+          ]
+        },
+        {
+          "start": 20.04,
+          "end": 23.84,
+          "text": "At that point I would start panicking. I was suffocating",
+          "words": [
+            {
+              "start": 20.04,
+              "end": 20.64,
+              "text": "At"
+            },
+            {
+              "start": 20.64,
+              "end": 21.24,
+              "text": "that"
+            },
+            {
+              "start": 21.24,
+              "end": 21.54,
+              "text": "point"
+            },
+            {
+              "start": 21.54,
+              "end": 21.78,
+              "text": "I"
+            },
+            {
+              "start": 21.78,
+              "end": 21.88,
+              "text": "would"
+            },
+            {
+              "start": 21.88,
+              "end": 22.1,
+              "text": "start"
+            },
+            {
+              "start": 22.1,
+              "end": 22.68,
+              "text": "panicking."
+            },
+            {
+              "start": 22.88,
+              "end": 23.18,
+              "text": "I"
+            },
+            {
+              "start": 23.18,
+              "end": 23.3,
+              "text": "was"
+            },
+            {
+              "start": 23.3,
+              "end": 23.84,
+              "text": "suffocating"
+            }
+          ]
+        },
+        {
+          "start": 24.86,
+          "end": 29.98,
+          "text": "I'm leaving exaggerated swagger of a black teen",
+          "words": [
+            {
+              "start": 24.86,
+              "end": 25.16,
+              "text": "I'm"
+            },
+            {
+              "start": 27.66,
+              "end": 28.04,
+              "text": "leaving"
+            },
+            {
+              "start": 28.04,
+              "end": 28.54,
+              "text": "exaggerated"
+            },
+            {
+              "start": 28.54,
+              "end": 29.22,
+              "text": "swagger"
+            },
+            {
+              "start": 29.22,
+              "end": 29.4,
+              "text": "of"
+            },
+            {
+              "start": 29.4,
+              "end": 29.48,
+              "text": "a"
+            },
+            {
+              "start": 29.48,
+              "end": 29.68,
+              "text": "black"
+            },
+            {
+              "start": 29.68,
+              "end": 29.98,
+              "text": "teen"
+            }
+          ]
+        },
+        {
+          "start": 29.98,
+          "end": 37.73,
+          "text": "But what the hell was not saving anybody everyone's cook",
+          "words": [
+            {
+              "start": 29.98,
+              "end": 30.68,
+              "text": "But"
+            },
+            {
+              "start": 30.68,
+              "end": 33.04,
+              "text": "what"
+            },
+            {
+              "start": 35.37,
+              "end": 35.59,
+              "text": "the"
+            },
+            {
+              "start": 35.59,
+              "end": 35.83,
+              "text": "hell"
+            },
+            {
+              "start": 35.83,
+              "end": 36.05,
+              "text": "was"
+            },
+            {
+              "start": 36.05,
+              "end": 36.19,
+              "text": "not"
+            },
+            {
+              "start": 36.19,
+              "end": 36.51,
+              "text": "saving"
+            },
+            {
+              "start": 36.51,
+              "end": 36.85,
+              "text": "anybody"
+            },
+            {
+              "start": 36.85,
+              "end": 37.59,
+              "text": "everyone's"
+            },
+            {
+              "start": 37.59,
+              "end": 37.73,
+              "text": "cook"
+            }
+          ]
+        }
+      ],
+      "transcription_seconds": 1.49,
+      "cached": false,
+      "loud_moments": [
+        5.1,
+        10.0,
+        12.6,
+        18.0,
+        21.0,
+        25.7,
+        27.7,
+        31.9,
+        32.7,
+        33.7,
+        35.8
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "speech": [],
+      "transcription_seconds": 0.19,
+      "cached": false,
+      "loud_moments": []
+    }
+  ],
+  "scenes": [
+    {
+      "role": "video_track_1",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "start": 4.75,
+          "end": 7.0
+        },
+        {
+          "start": 7.0,
+          "end": 12.0
+        },
+        {
+          "start": 12.0,
+          "end": 15.375
+        },
+        {
+          "start": 15.375,
+          "end": 16.375
+        },
+        {
+          "start": 16.375,
+          "end": 20.875
+        },
+        {
+          "start": 20.875,
+          "end": 27.75
+        },
+        {
+          "start": 27.75,
+          "end": 31.0
+        },
+        {
+          "start": 31.0,
+          "end": 37.875
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 30.125
+        }
+      ]
+    }
+  ],
+  "keyframes": [
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/f9500c0193ed18d86d44-fresh-1792673757876558000/keyframes-keyframes-1.jpg",
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/f9500c0193ed18d86d44-fresh-1792673757876558000/keyframes-keyframes-2.jpg"
+  ],
+  "brief": "/Users/tanzibsrijon/SoundPilotLearning/jobs/4f4aca11b5ca4976/enhanced_brief.json",
+  "scene_decode": "keyframes",
+  "brief_characters": 26532,
+  "old_sfx_used_as_input": false,
+  "excluded_style_timelines": [],
+  "quality_note": "Preprocessing validated. This does not establish sound-selection accuracy or a 90% score.",
+  "analysis_created_at": 1792673762.637676,
+  "analysis_reused": false,
+  "transcription_runs": 2
+}

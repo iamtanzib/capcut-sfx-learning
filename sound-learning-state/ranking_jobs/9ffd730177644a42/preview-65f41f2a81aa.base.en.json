@@ -1,0 +1,434 @@
+{
+  "model": "base.en",
+  "seconds": 1.86,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.08,
+      "end": 6.33,
+      "text": "Let's go all fun at games until that bus starts moving your cook",
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.64,
+          "text": "Let's"
+        },
+        {
+          "start": 0.64,
+          "end": 0.8,
+          "text": "go"
+        },
+        {
+          "start": 0.8,
+          "end": 1.06,
+          "text": "all"
+        },
+        {
+          "start": 1.06,
+          "end": 1.9,
+          "text": "fun"
+        },
+        {
+          "start": 4.11,
+          "end": 4.23,
+          "text": "at"
+        },
+        {
+          "start": 4.23,
+          "end": 4.43,
+          "text": "games"
+        },
+        {
+          "start": 4.43,
+          "end": 4.69,
+          "text": "until"
+        },
+        {
+          "start": 4.69,
+          "end": 4.91,
+          "text": "that"
+        },
+        {
+          "start": 4.91,
+          "end": 5.11,
+          "text": "bus"
+        },
+        {
+          "start": 5.11,
+          "end": 5.43,
+          "text": "starts"
+        },
+        {
+          "start": 5.43,
+          "end": 5.83,
+          "text": "moving"
+        },
+        {
+          "start": 5.83,
+          "end": 6.01,
+          "text": "your"
+        },
+        {
+          "start": 6.01,
+          "end": 6.33,
+          "text": "cook"
+        }
+      ]
+    },
+    {
+      "start": 8.09,
+      "end": 14.05,
+      "text": "Mecca Camillion is going on how does that work? Oh, no, bro",
+      "words": [
+        {
+          "start": 8.09,
+          "end": 8.61,
+          "text": "Mecca"
+        },
+        {
+          "start": 11.17,
+          "end": 11.57,
+          "text": "Camillion"
+        },
+        {
+          "start": 11.57,
+          "end": 11.81,
+          "text": "is"
+        },
+        {
+          "start": 11.81,
+          "end": 12.07,
+          "text": "going"
+        },
+        {
+          "start": 12.07,
+          "end": 12.25,
+          "text": "on"
+        },
+        {
+          "start": 12.25,
+          "end": 12.53,
+          "text": "how"
+        },
+        {
+          "start": 12.53,
+          "end": 12.63,
+          "text": "does"
+        },
+        {
+          "start": 12.63,
+          "end": 12.77,
+          "text": "that"
+        },
+        {
+          "start": 12.77,
+          "end": 13.09,
+          "text": "work?"
+        },
+        {
+          "start": 13.35,
+          "end": 13.43,
+          "text": "Oh,"
+        },
+        {
+          "start": 13.57,
+          "end": 13.63,
+          "text": "no,"
+        },
+        {
+          "start": 13.87,
+          "end": 14.05,
+          "text": "bro"
+        }
+      ]
+    },
+    {
+      "start": 21.35,
+      "end": 31.38,
+      "text": "Yo, that's way too freaky, bro. I actually check my mind for a second. I gotta admit that's impressive",
+      "words": [
+        {
+          "start": 21.35,
+          "end": 21.87,
+          "text": "Yo,"
+        },
+        {
+          "start": 21.87,
+          "end": 22.39,
+          "text": "that's"
+        },
+        {
+          "start": 22.39,
+          "end": 22.61,
+          "text": "way"
+        },
+        {
+          "start": 22.61,
+          "end": 22.97,
+          "text": "too"
+        },
+        {
+          "start": 22.97,
+          "end": 23.43,
+          "text": "freaky,"
+        },
+        {
+          "start": 23.69,
+          "end": 23.73,
+          "text": "bro."
+        },
+        {
+          "start": 23.73,
+          "end": 24.01,
+          "text": "I"
+        },
+        {
+          "start": 24.01,
+          "end": 24.31,
+          "text": "actually"
+        },
+        {
+          "start": 24.31,
+          "end": 24.53,
+          "text": "check"
+        },
+        {
+          "start": 24.53,
+          "end": 24.77,
+          "text": "my"
+        },
+        {
+          "start": 24.77,
+          "end": 25.07,
+          "text": "mind"
+        },
+        {
+          "start": 25.07,
+          "end": 25.27,
+          "text": "for"
+        },
+        {
+          "start": 25.27,
+          "end": 25.31,
+          "text": "a"
+        },
+        {
+          "start": 25.31,
+          "end": 25.65,
+          "text": "second."
+        },
+        {
+          "start": 29.36,
+          "end": 29.88,
+          "text": "I"
+        },
+        {
+          "start": 29.88,
+          "end": 30.04,
+          "text": "gotta"
+        },
+        {
+          "start": 30.04,
+          "end": 30.44,
+          "text": "admit"
+        },
+        {
+          "start": 30.44,
+          "end": 31.04,
+          "text": "that's"
+        },
+        {
+          "start": 31.04,
+          "end": 31.38,
+          "text": "impressive"
+        }
+      ]
+    },
+    {
+      "start": 31.38,
+      "end": 34.46,
+      "text": "But imagine looking at her from the other side. I look so weird",
+      "words": [
+        {
+          "start": 31.38,
+          "end": 31.82,
+          "text": "But"
+        },
+        {
+          "start": 31.82,
+          "end": 31.98,
+          "text": "imagine"
+        },
+        {
+          "start": 31.98,
+          "end": 32.32,
+          "text": "looking"
+        },
+        {
+          "start": 32.32,
+          "end": 32.58,
+          "text": "at"
+        },
+        {
+          "start": 32.58,
+          "end": 32.66,
+          "text": "her"
+        },
+        {
+          "start": 32.66,
+          "end": 32.78,
+          "text": "from"
+        },
+        {
+          "start": 32.78,
+          "end": 32.92,
+          "text": "the"
+        },
+        {
+          "start": 32.92,
+          "end": 33.14,
+          "text": "other"
+        },
+        {
+          "start": 33.14,
+          "end": 33.5,
+          "text": "side."
+        },
+        {
+          "start": 33.5,
+          "end": 33.66,
+          "text": "I"
+        },
+        {
+          "start": 33.66,
+          "end": 33.82,
+          "text": "look"
+        },
+        {
+          "start": 33.82,
+          "end": 34.1,
+          "text": "so"
+        },
+        {
+          "start": 34.1,
+          "end": 34.46,
+          "text": "weird"
+        }
+      ]
+    },
+    {
+      "start": 34.46,
+      "end": 40.42,
+      "text": "That was fire I can't even get that position",
+      "words": [
+        {
+          "start": 34.46,
+          "end": 35.48,
+          "text": "That"
+        },
+        {
+          "start": 37.78,
+          "end": 38.88,
+          "text": "was"
+        },
+        {
+          "start": 38.88,
+          "end": 39.1,
+          "text": "fire"
+        },
+        {
+          "start": 39.1,
+          "end": 39.36,
+          "text": "I"
+        },
+        {
+          "start": 39.36,
+          "end": 39.58,
+          "text": "can't"
+        },
+        {
+          "start": 39.58,
+          "end": 39.66,
+          "text": "even"
+        },
+        {
+          "start": 39.66,
+          "end": 39.86,
+          "text": "get"
+        },
+        {
+          "start": 39.86,
+          "end": 40.02,
+          "text": "that"
+        },
+        {
+          "start": 40.02,
+          "end": 40.42,
+          "text": "position"
+        }
+      ]
+    },
+    {
+      "start": 41.12,
+      "end": 47.14,
+      "text": "Hello there. Are they hired actors? How did you do that?",
+      "words": [
+        {
+          "start": 41.12,
+          "end": 41.52,
+          "text": "Hello"
+        },
+        {
+          "start": 41.52,
+          "end": 41.76,
+          "text": "there."
+        },
+        {
+          "start": 45.16,
+          "end": 45.26,
+          "text": "Are"
+        },
+        {
+          "start": 45.26,
+          "end": 45.4,
+          "text": "they"
+        },
+        {
+          "start": 45.4,
+          "end": 45.72,
+          "text": "hired"
+        },
+        {
+          "start": 45.72,
+          "end": 46.2,
+          "text": "actors?"
+        },
+        {
+          "start": 46.42,
+          "end": 46.46,
+          "text": "How"
+        },
+        {
+          "start": 46.46,
+          "end": 46.56,
+          "text": "did"
+        },
+        {
+          "start": 46.56,
+          "end": 46.68,
+          "text": "you"
+        },
+        {
+          "start": 46.68,
+          "end": 46.86,
+          "text": "do"
+        },
+        {
+          "start": 46.86,
+          "end": 47.14,
+          "text": "that?"
+        }
+      ]
+    }
+  ]
+}

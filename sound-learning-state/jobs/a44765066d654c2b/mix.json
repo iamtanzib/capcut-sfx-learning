@@ -1,0 +1,13 @@
+{
+  "job_id": "a44765066d654c2b",
+  "preview": "/Users/tanzibsrijon/SoundPilotLearning/jobs/a44765066d654c2b/preview.wav",
+  "master_gain": 1,
+  "peak_before": 0.6757804155349731,
+  "peak_after": 0.6757804155349731,
+  "plan_hash": "0074551dbaef5661408508c7de560ade7cadbf0f3e3b927b13ce24e867aeafaf",
+  "headroom_review_required": false,
+  "preview_attenuation": 1,
+  "planned_master_gain": 1,
+  "suggested_source_lowering": null,
+  "policy": "Preview attenuation protects this WAV. With learned levels, applying attenuation to every dialogue/SFX clip requires an explicit headroom_mode and reason; otherwise adjust the mix and audit again. Sample peaks do not establish perceived loudness."
+}

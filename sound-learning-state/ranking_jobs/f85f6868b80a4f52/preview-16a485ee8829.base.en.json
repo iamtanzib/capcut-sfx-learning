@@ -1,0 +1,757 @@
+{
+  "model": "base.en",
+  "seconds": 2.92,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "What level is this?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.28,
+          "text": "What"
+        },
+        {
+          "start": 0.28,
+          "end": 0.5,
+          "text": "level"
+        },
+        {
+          "start": 0.5,
+          "end": 0.74,
+          "text": "is"
+        },
+        {
+          "start": 0.74,
+          "end": 0.86,
+          "text": "this?"
+        }
+      ]
+    },
+    {
+      "start": 6.35,
+      "end": 8.47,
+      "text": "Fall down there, I'm never coming back.",
+      "words": [
+        {
+          "start": 6.35,
+          "end": 6.75,
+          "text": "Fall"
+        },
+        {
+          "start": 6.75,
+          "end": 7.05,
+          "text": "down"
+        },
+        {
+          "start": 7.05,
+          "end": 7.31,
+          "text": "there,"
+        },
+        {
+          "start": 7.37,
+          "end": 7.59,
+          "text": "I'm"
+        },
+        {
+          "start": 7.59,
+          "end": 7.79,
+          "text": "never"
+        },
+        {
+          "start": 7.79,
+          "end": 8.13,
+          "text": "coming"
+        },
+        {
+          "start": 8.13,
+          "end": 8.47,
+          "text": "back."
+        }
+      ]
+    },
+    {
+      "start": 8.67,
+      "end": 9.35,
+      "text": "Where is Broad?",
+      "words": [
+        {
+          "start": 8.67,
+          "end": 8.75,
+          "text": "Where"
+        },
+        {
+          "start": 8.75,
+          "end": 8.97,
+          "text": "is"
+        },
+        {
+          "start": 8.97,
+          "end": 9.35,
+          "text": "Broad?"
+        }
+      ]
+    },
+    {
+      "start": 9.85,
+      "end": 15.63,
+      "text": "Bro, I don't care if it's a back room.",
+      "words": [
+        {
+          "start": 9.85,
+          "end": 10.05,
+          "text": "Bro,"
+        },
+        {
+          "start": 14.45,
+          "end": 14.49,
+          "text": "I"
+        },
+        {
+          "start": 14.49,
+          "end": 14.63,
+          "text": "don't"
+        },
+        {
+          "start": 14.63,
+          "end": 14.79,
+          "text": "care"
+        },
+        {
+          "start": 14.79,
+          "end": 15.03,
+          "text": "if"
+        },
+        {
+          "start": 15.03,
+          "end": 15.09,
+          "text": "it's"
+        },
+        {
+          "start": 15.09,
+          "end": 15.15,
+          "text": "a"
+        },
+        {
+          "start": 15.15,
+          "end": 15.37,
+          "text": "back"
+        },
+        {
+          "start": 15.37,
+          "end": 15.63,
+          "text": "room."
+        }
+      ]
+    },
+    {
+      "start": 15.79,
+      "end": 18.17,
+      "text": "Boy, that's a free house, and this economy I'm taking in.",
+      "words": [
+        {
+          "start": 15.79,
+          "end": 15.89,
+          "text": "Boy,"
+        },
+        {
+          "start": 15.93,
+          "end": 16.05,
+          "text": "that's"
+        },
+        {
+          "start": 16.05,
+          "end": 16.13,
+          "text": "a"
+        },
+        {
+          "start": 16.13,
+          "end": 16.31,
+          "text": "free"
+        },
+        {
+          "start": 16.31,
+          "end": 16.63,
+          "text": "house,"
+        },
+        {
+          "start": 16.85,
+          "end": 16.87,
+          "text": "and"
+        },
+        {
+          "start": 16.87,
+          "end": 16.99,
+          "text": "this"
+        },
+        {
+          "start": 16.99,
+          "end": 17.29,
+          "text": "economy"
+        },
+        {
+          "start": 17.29,
+          "end": 17.63,
+          "text": "I'm"
+        },
+        {
+          "start": 17.63,
+          "end": 17.91,
+          "text": "taking"
+        },
+        {
+          "start": 17.91,
+          "end": 18.17,
+          "text": "in."
+        }
+      ]
+    },
+    {
+      "start": 18.35,
+      "end": 19.07,
+      "text": "How would he get inside?",
+      "words": [
+        {
+          "start": 18.35,
+          "end": 18.47,
+          "text": "How"
+        },
+        {
+          "start": 18.47,
+          "end": 18.63,
+          "text": "would"
+        },
+        {
+          "start": 18.63,
+          "end": 18.69,
+          "text": "he"
+        },
+        {
+          "start": 18.69,
+          "end": 18.81,
+          "text": "get"
+        },
+        {
+          "start": 18.81,
+          "end": 19.07,
+          "text": "inside?"
+        }
+      ]
+    },
+    {
+      "start": 24.95,
+      "end": 29.03,
+      "text": "Back when I find him, I'm throwing a stick of dynamite in there and moving out immediately.",
+      "words": [
+        {
+          "start": 24.95,
+          "end": 25.35,
+          "text": "Back"
+        },
+        {
+          "start": 25.35,
+          "end": 25.51,
+          "text": "when"
+        },
+        {
+          "start": 25.51,
+          "end": 25.67,
+          "text": "I"
+        },
+        {
+          "start": 25.67,
+          "end": 25.89,
+          "text": "find"
+        },
+        {
+          "start": 25.89,
+          "end": 26.15,
+          "text": "him,"
+        },
+        {
+          "start": 26.45,
+          "end": 26.63,
+          "text": "I'm"
+        },
+        {
+          "start": 26.63,
+          "end": 26.77,
+          "text": "throwing"
+        },
+        {
+          "start": 26.77,
+          "end": 26.97,
+          "text": "a"
+        },
+        {
+          "start": 26.97,
+          "end": 27.15,
+          "text": "stick"
+        },
+        {
+          "start": 27.15,
+          "end": 27.31,
+          "text": "of"
+        },
+        {
+          "start": 27.31,
+          "end": 27.79,
+          "text": "dynamite"
+        },
+        {
+          "start": 27.79,
+          "end": 27.95,
+          "text": "in"
+        },
+        {
+          "start": 27.95,
+          "end": 28.13,
+          "text": "there"
+        },
+        {
+          "start": 28.13,
+          "end": 28.27,
+          "text": "and"
+        },
+        {
+          "start": 28.27,
+          "end": 28.53,
+          "text": "moving"
+        },
+        {
+          "start": 28.53,
+          "end": 28.77,
+          "text": "out"
+        },
+        {
+          "start": 28.77,
+          "end": 29.03,
+          "text": "immediately."
+        }
+      ]
+    },
+    {
+      "start": 29.71,
+      "end": 30.23,
+      "text": "Heck naw!",
+      "words": [
+        {
+          "start": 29.71,
+          "end": 29.79,
+          "text": "Heck"
+        },
+        {
+          "start": 29.79,
+          "end": 30.23,
+          "text": "naw!"
+        }
+      ]
+    },
+    {
+      "start": 30.43,
+      "end": 31.37,
+      "text": "This looks way too real.",
+      "words": [
+        {
+          "start": 30.43,
+          "end": 30.55,
+          "text": "This"
+        },
+        {
+          "start": 30.55,
+          "end": 30.69,
+          "text": "looks"
+        },
+        {
+          "start": 30.69,
+          "end": 30.93,
+          "text": "way"
+        },
+        {
+          "start": 30.93,
+          "end": 31.11,
+          "text": "too"
+        },
+        {
+          "start": 31.11,
+          "end": 31.37,
+          "text": "real."
+        }
+      ]
+    },
+    {
+      "start": 36.61,
+      "end": 39.07,
+      "text": "This looks exactly like my nightmares as a kid.",
+      "words": [
+        {
+          "start": 36.61,
+          "end": 37.01,
+          "text": "This"
+        },
+        {
+          "start": 37.01,
+          "end": 37.21,
+          "text": "looks"
+        },
+        {
+          "start": 37.21,
+          "end": 37.39,
+          "text": "exactly"
+        },
+        {
+          "start": 37.39,
+          "end": 38.01,
+          "text": "like"
+        },
+        {
+          "start": 38.01,
+          "end": 38.15,
+          "text": "my"
+        },
+        {
+          "start": 38.15,
+          "end": 38.45,
+          "text": "nightmares"
+        },
+        {
+          "start": 38.45,
+          "end": 38.75,
+          "text": "as"
+        },
+        {
+          "start": 38.75,
+          "end": 38.89,
+          "text": "a"
+        },
+        {
+          "start": 38.89,
+          "end": 39.07,
+          "text": "kid."
+        }
+      ]
+    },
+    {
+      "start": 39.31,
+      "end": 40.29,
+      "text": "There's definitely a monster.",
+      "words": [
+        {
+          "start": 39.31,
+          "end": 39.41,
+          "text": "There's"
+        },
+        {
+          "start": 39.41,
+          "end": 39.77,
+          "text": "definitely"
+        },
+        {
+          "start": 39.77,
+          "end": 39.95,
+          "text": "a"
+        },
+        {
+          "start": 39.95,
+          "end": 40.29,
+          "text": "monster."
+        }
+      ]
+    },
+    {
+      "start": 40.61,
+      "end": 41.43,
+      "text": "They're not coming back.",
+      "words": [
+        {
+          "start": 40.61,
+          "end": 40.73,
+          "text": "They're"
+        },
+        {
+          "start": 40.73,
+          "end": 40.89,
+          "text": "not"
+        },
+        {
+          "start": 40.89,
+          "end": 41.15,
+          "text": "coming"
+        },
+        {
+          "start": 41.15,
+          "end": 41.43,
+          "text": "back."
+        }
+      ]
+    },
+    {
+      "start": 41.43,
+      "end": 43.69,
+      "text": "But wait guys, there's an exit sign right down here.",
+      "words": [
+        {
+          "start": 41.43,
+          "end": 42.19,
+          "text": "But"
+        },
+        {
+          "start": 42.19,
+          "end": 42.35,
+          "text": "wait"
+        },
+        {
+          "start": 42.35,
+          "end": 42.53,
+          "text": "guys,"
+        },
+        {
+          "start": 42.55,
+          "end": 42.77,
+          "text": "there's"
+        },
+        {
+          "start": 42.77,
+          "end": 42.83,
+          "text": "an"
+        },
+        {
+          "start": 42.83,
+          "end": 42.99,
+          "text": "exit"
+        },
+        {
+          "start": 42.99,
+          "end": 43.25,
+          "text": "sign"
+        },
+        {
+          "start": 43.25,
+          "end": 43.37,
+          "text": "right"
+        },
+        {
+          "start": 43.37,
+          "end": 43.53,
+          "text": "down"
+        },
+        {
+          "start": 43.53,
+          "end": 43.69,
+          "text": "here."
+        }
+      ]
+    },
+    {
+      "start": 44.8,
+      "end": 46.14,
+      "text": "It's uh, oh.",
+      "words": [
+        {
+          "start": 44.8,
+          "end": 45.2,
+          "text": "It's"
+        },
+        {
+          "start": 45.2,
+          "end": 45.32,
+          "text": "uh,"
+        },
+        {
+          "start": 45.6,
+          "end": 46.14,
+          "text": "oh."
+        }
+      ]
+    },
+    {
+      "start": 46.81,
+      "end": 47.21,
+      "text": "Alright.",
+      "words": [
+        {
+          "start": 46.81,
+          "end": 47.21,
+          "text": "Alright."
+        }
+      ]
+    },
+    {
+      "start": 47.93,
+      "end": 48.91,
+      "text": "Let's go.",
+      "words": [
+        {
+          "start": 47.93,
+          "end": 47.93,
+          "text": "Let's"
+        },
+        {
+          "start": 47.93,
+          "end": 48.91,
+          "text": "go."
+        }
+      ]
+    },
+    {
+      "start": 51.41,
+      "end": 52.19,
+      "text": "What is it?",
+      "words": [
+        {
+          "start": 51.41,
+          "end": 51.81,
+          "text": "What"
+        },
+        {
+          "start": 51.81,
+          "end": 52.01,
+          "text": "is"
+        },
+        {
+          "start": 52.01,
+          "end": 52.19,
+          "text": "it?"
+        }
+      ]
+    },
+    {
+      "start": 52.55,
+      "end": 53.57,
+      "text": "Run down the line!",
+      "words": [
+        {
+          "start": 52.55,
+          "end": 52.79,
+          "text": "Run"
+        },
+        {
+          "start": 52.79,
+          "end": 53.13,
+          "text": "down"
+        },
+        {
+          "start": 53.13,
+          "end": 53.45,
+          "text": "the"
+        },
+        {
+          "start": 53.45,
+          "end": 53.57,
+          "text": "line!"
+        }
+      ]
+    },
+    {
+      "start": 53.73,
+      "end": 56.85,
+      "text": "I have the survival instincts, I have a 5 year old bro, what are you doing?",
+      "words": [
+        {
+          "start": 53.73,
+          "end": 53.87,
+          "text": "I"
+        },
+        {
+          "start": 53.87,
+          "end": 53.93,
+          "text": "have"
+        },
+        {
+          "start": 53.93,
+          "end": 53.99,
+          "text": "the"
+        },
+        {
+          "start": 53.99,
+          "end": 54.33,
+          "text": "survival"
+        },
+        {
+          "start": 54.33,
+          "end": 54.77,
+          "text": "instincts,"
+        },
+        {
+          "start": 54.87,
+          "end": 55.05,
+          "text": "I"
+        },
+        {
+          "start": 55.05,
+          "end": 55.05,
+          "text": "have"
+        },
+        {
+          "start": 55.05,
+          "end": 55.17,
+          "text": "a"
+        },
+        {
+          "start": 55.17,
+          "end": 55.47,
+          "text": "5"
+        },
+        {
+          "start": 55.47,
+          "end": 55.65,
+          "text": "year"
+        },
+        {
+          "start": 55.65,
+          "end": 55.85,
+          "text": "old"
+        },
+        {
+          "start": 55.85,
+          "end": 56.01,
+          "text": "bro,"
+        },
+        {
+          "start": 56.13,
+          "end": 56.21,
+          "text": "what"
+        },
+        {
+          "start": 56.21,
+          "end": 56.31,
+          "text": "are"
+        },
+        {
+          "start": 56.31,
+          "end": 56.41,
+          "text": "you"
+        },
+        {
+          "start": 56.41,
+          "end": 56.85,
+          "text": "doing?"
+        }
+      ]
+    },
+    {
+      "start": 57.29,
+      "end": 58.03,
+      "text": "I'm outta there!",
+      "words": [
+        {
+          "start": 57.29,
+          "end": 57.43,
+          "text": "I'm"
+        },
+        {
+          "start": 57.43,
+          "end": 57.79,
+          "text": "outta"
+        },
+        {
+          "start": 57.79,
+          "end": 58.03,
+          "text": "there!"
+        }
+      ]
+    }
+  ]
+}

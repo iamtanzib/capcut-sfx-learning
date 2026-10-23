@@ -48,9 +48,9 @@ def get_brief(job_id:str,full:bool=False) -> dict:
     return slim_result(api.get_brief(job_id,full))
 
 @tool
-def get_batch_briefs(batch_id:str) -> dict:
-    """Read all complete briefs with shared style sent once. Each job inherits $shared and overrides it with $delta; tables are lossless."""
-    return slim_result(api.get_batch_briefs(batch_id))
+def get_batch_briefs(batch_id:str,lean:int=0) -> dict:
+    """Read all complete briefs with shared style sent once. Each job inherits $shared and overrides it with $delta; tables are lossless. lean=0 is the default full memory; lean=1 omits only machine-applied fields (see lean.py)."""
+    return slim_result(api.get_batch_briefs(batch_id,lean))
 
 @tool
 def get_context(job_id:str,start:float,end:float) -> dict:
@@ -170,9 +170,9 @@ def prepare_edit_batch(targets:list[dict],mode:str='full_combo',workers:int=2) -
     return api.prepare_edit_batch(targets,mode,workers)
 
 @tool
-def get_edit_briefs(batch_id:str) -> dict:
-    """Read only selected components: hook mode returns intro/style; full combo returns complete SFX/zoom/hook evidence."""
-    return slim_result(api.get_edit_briefs(batch_id))
+def get_edit_briefs(batch_id:str,lean:int=0) -> dict:
+    """Read only selected components: hook mode returns intro/style; full combo returns complete SFX/zoom/hook evidence. lean=0 is the default full memory; lean=1 omits only machine-applied fields (see lean.py)."""
+    return slim_result(api.get_edit_briefs(batch_id,lean))
 
 @tool
 def apply_edit_batch(batch_id:str,auto_close:bool=True) -> dict:
@@ -214,5 +214,45 @@ def learn_edit_revision(batch_id:str,full:bool=False) -> dict:
         if isinstance(v,list):return [walk(x) for x in v]
         return v
     return walk(r)
+
+@tool
+def learn_ranking_style(references:list[str]) -> dict:
+    """Learn the ranking-video type from 1-8 rendered reference videos: cut structure, B&W tail replays, Kevin SFX, whoosh and levels."""
+    return slim_result(api.learn_ranking_style(references))
+
+@tool
+def prepare_ranking_batch(targets:list[dict]) -> dict:
+    """1-5 raw/empty ranking timelines {project,timeline,kevin?,ranking?}: Kevin ASR, ranking scene cuts/labels/built-in SFX, contact sheets. No CapCut writes."""
+    return slim_result(api.prepare_ranking_batch(targets))
+
+@tool
+def get_ranking_briefs(batch_id:str) -> dict:
+    """Ranking style rules/stats once, then per job: Kevin words (global indices), phrases, ranking analysis, sheet paths and an unverified proposal."""
+    return slim_result(api.get_ranking_briefs(batch_id))
+
+@tool
+def ranking_frames(job_id:str,role:str,times:list[float]) -> Image:
+    """Exact source frames (seconds in that source) side by side: role kevin, ranking, or bw (desaturated ranking)."""
+    return Image(path=api.ranking_frames(job_id,role,times)['path'])
+
+@tool
+def stage_ranking_plan(job_id:str,items:list[dict],reactions:list[dict],quality_notes:dict,volumes:dict|None=None) -> dict:
+    """Stage item ranges, word-anchored reaction pieces and B&W tail replays; returns the cut timeline, dropped speech and warnings."""
+    return slim_result(api.stage_ranking_plan(job_id,items,reactions,quality_notes,volumes))
+
+@tool
+def preview_ranking_plan(job_id:str) -> dict:
+    """Render a 360x640 preview MP4 and a cut-boundary sheet. Read the sheet before apply."""
+    return api.preview_ranking_plan(job_id)
+
+@tool
+def apply_ranking_batch(batch_id:str,auto_close:bool=True) -> dict:
+    """Write previewed ranking cuts natively (main track + muted B&W overlay track), normal auto-close, RAM rollback."""
+    return api.apply_ranking_batch(batch_id,auto_close)
+
+@tool
+def learn_ranking_revision(job_id:str) -> dict:
+    """Compare an applied ranking cut with the user's saved revision and keep the corrections as ranking evidence."""
+    return slim_result(api.learn_ranking_revision(job_id))
 
 if __name__=='__main__':mcp.run(transport='streamable-http' if args.http else 'stdio')

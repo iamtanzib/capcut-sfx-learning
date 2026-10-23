@@ -1,0 +1,29 @@
+{
+  "batch_id": "ea7c80cb06a04e43",
+  "mode": "just_sfx",
+  "analysis_batch_id": "ea7c80cb06a04e43",
+  "targets": [
+    {
+      "project": "1022",
+      "timeline": "8B9BADE9-C9C7-4C48-A11A-BE3758158DAA"
+    },
+    {
+      "project": "1022",
+      "timeline": "F3B6CEEC-0851-4E4F-8B1F-E7A066768DC2"
+    },
+    {
+      "project": "1022",
+      "timeline": "585D5231-489B-4CE1-84F5-3E4365F30D2A"
+    },
+    {
+      "project": "1022",
+      "timeline": "C502E438-4C42-4B55-8EE4-BA82F5B31234"
+    }
+  ],
+  "analysis_jobs": [
+    "476efb0fd570439d",
+    "c57cee93ecdb491d",
+    "ab98cd6ceebe4804",
+    "a44765066d654c2b"
+  ]
+}

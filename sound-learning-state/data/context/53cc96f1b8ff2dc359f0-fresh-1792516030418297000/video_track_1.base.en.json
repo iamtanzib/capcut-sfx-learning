@@ -1,0 +1,303 @@
+{
+  "model": "base.en",
+  "seconds": 1.51,
+  "cached": false,
+  "rows": [
+    {
+      "start": 2.19,
+      "end": 22.2,
+      "text": "I did. Okay. Let's see. Okay. I'll do that. I'll do that. What the? Dog, you're not alive.",
+      "words": [
+        {
+          "start": 2.19,
+          "end": 2.63,
+          "text": "I"
+        },
+        {
+          "start": 2.63,
+          "end": 2.83,
+          "text": "did."
+        },
+        {
+          "start": 5.56,
+          "end": 6.02,
+          "text": "Okay."
+        },
+        {
+          "start": 7.28,
+          "end": 7.58,
+          "text": "Let's"
+        },
+        {
+          "start": 7.58,
+          "end": 7.68,
+          "text": "see."
+        },
+        {
+          "start": 9.29,
+          "end": 9.77,
+          "text": "Okay."
+        },
+        {
+          "start": 12.02,
+          "end": 12.28,
+          "text": "I'll"
+        },
+        {
+          "start": 12.28,
+          "end": 12.4,
+          "text": "do"
+        },
+        {
+          "start": 12.4,
+          "end": 12.58,
+          "text": "that."
+        },
+        {
+          "start": 15.09,
+          "end": 15.35,
+          "text": "I'll"
+        },
+        {
+          "start": 15.35,
+          "end": 15.49,
+          "text": "do"
+        },
+        {
+          "start": 15.49,
+          "end": 15.77,
+          "text": "that."
+        },
+        {
+          "start": 17.6,
+          "end": 17.8,
+          "text": "What"
+        },
+        {
+          "start": 17.8,
+          "end": 17.98,
+          "text": "the?"
+        },
+        {
+          "start": 21.18,
+          "end": 21.56,
+          "text": "Dog,"
+        },
+        {
+          "start": 21.68,
+          "end": 21.78,
+          "text": "you're"
+        },
+        {
+          "start": 21.78,
+          "end": 21.94,
+          "text": "not"
+        },
+        {
+          "start": 21.94,
+          "end": 22.2,
+          "text": "alive."
+        }
+      ]
+    },
+    {
+      "start": 23.06,
+      "end": 32.22,
+      "text": "Bro, no, no. For all het now. That's Diddy. That's a Diddy something, but I don't know.",
+      "words": [
+        {
+          "start": 23.06,
+          "end": 23.3,
+          "text": "Bro,"
+        },
+        {
+          "start": 23.54,
+          "end": 23.6,
+          "text": "no,"
+        },
+        {
+          "start": 23.78,
+          "end": 23.94,
+          "text": "no."
+        },
+        {
+          "start": 25.82,
+          "end": 26.02,
+          "text": "For"
+        },
+        {
+          "start": 26.02,
+          "end": 26.28,
+          "text": "all"
+        },
+        {
+          "start": 26.28,
+          "end": 26.58,
+          "text": "het"
+        },
+        {
+          "start": 26.58,
+          "end": 26.8,
+          "text": "now."
+        },
+        {
+          "start": 28.04,
+          "end": 28.52,
+          "text": "That's"
+        },
+        {
+          "start": 28.52,
+          "end": 28.8,
+          "text": "Diddy."
+        },
+        {
+          "start": 30.64,
+          "end": 31.12,
+          "text": "That's"
+        },
+        {
+          "start": 31.12,
+          "end": 31.2,
+          "text": "a"
+        },
+        {
+          "start": 31.2,
+          "end": 31.44,
+          "text": "Diddy"
+        },
+        {
+          "start": 31.44,
+          "end": 31.58,
+          "text": "something,"
+        },
+        {
+          "start": 31.82,
+          "end": 31.88,
+          "text": "but"
+        },
+        {
+          "start": 31.88,
+          "end": 31.92,
+          "text": "I"
+        },
+        {
+          "start": 31.92,
+          "end": 32.06,
+          "text": "don't"
+        },
+        {
+          "start": 32.06,
+          "end": 32.22,
+          "text": "know."
+        }
+      ]
+    },
+    {
+      "start": 33.3,
+      "end": 55.65,
+      "text": "You're not. Oh, okay. Okay. What? Oh, het now. Oh. That's fair. That's fair. Oh, for real. I do that.",
+      "words": [
+        {
+          "start": 33.3,
+          "end": 33.62,
+          "text": "You're"
+        },
+        {
+          "start": 33.62,
+          "end": 33.76,
+          "text": "not."
+        },
+        {
+          "start": 33.92,
+          "end": 34.02,
+          "text": "Oh,"
+        },
+        {
+          "start": 34.12,
+          "end": 34.5,
+          "text": "okay."
+        },
+        {
+          "start": 35.67,
+          "end": 36.03,
+          "text": "Okay."
+        },
+        {
+          "start": 39.35,
+          "end": 39.37,
+          "text": "What?"
+        },
+        {
+          "start": 39.75,
+          "end": 39.75,
+          "text": "Oh,"
+        },
+        {
+          "start": 39.91,
+          "end": 39.99,
+          "text": "het"
+        },
+        {
+          "start": 39.99,
+          "end": 40.19,
+          "text": "now."
+        },
+        {
+          "start": 41.92,
+          "end": 42.06,
+          "text": "Oh."
+        },
+        {
+          "start": 47.31,
+          "end": 47.79,
+          "text": "That's"
+        },
+        {
+          "start": 47.79,
+          "end": 47.95,
+          "text": "fair."
+        },
+        {
+          "start": 48.41,
+          "end": 48.57,
+          "text": "That's"
+        },
+        {
+          "start": 48.57,
+          "end": 48.75,
+          "text": "fair."
+        },
+        {
+          "start": 52.1,
+          "end": 52.18,
+          "text": "Oh,"
+        },
+        {
+          "start": 52.26,
+          "end": 52.34,
+          "text": "for"
+        },
+        {
+          "start": 52.34,
+          "end": 52.54,
+          "text": "real."
+        },
+        {
+          "start": 55.19,
+          "end": 55.29,
+          "text": "I"
+        },
+        {
+          "start": 55.29,
+          "end": 55.47,
+          "text": "do"
+        },
+        {
+          "start": 55.47,
+          "end": 55.65,
+          "text": "that."
+        }
+      ]
+    }
+  ]
+}

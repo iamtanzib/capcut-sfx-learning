@@ -1,0 +1,201 @@
+{
+  "job_id": "9127b6caf141423a",
+  "source_hash": "83d72da04829f5897cd615b6350bb00cdce33276998b07031f29167cb4979a04",
+  "style_version": 22,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 2.2,
+      "end": 3.4,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I did",
+      "reason": "Skeptical I-did reaction to the six-societies invite, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 2.19,
+        "text": "I",
+        "word_index": 0
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 12.033333,
+      "end": 13.4,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'll do that",
+      "reason": "Rich-grandma acceptance held through that and the settling face.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 12.02,
+        "text": "I'll",
+        "word_index": 6
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 17.6,
+      "end": 18.9,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the?",
+      "reason": "What-the at the hide-and-seek society, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 17.6,
+        "text": "What",
+        "word_index": 12
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 21.166667,
+      "end": 24.1,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Dog, you're not alive. Bro, no, no.",
+      "reason": "Not-alive roast and bro-no-no refusal in one connected hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 21.18,
+        "text": "Dog,",
+        "word_index": 14
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 25.833333,
+      "end": 27.5,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "oh heck no (foot sniffing)",
+      "reason": "Grimacing foot-sniffing refusal held through the disgust expression.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 25.82,
+        "text": "For",
+        "word_index": 21
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 28.033333,
+      "end": 32.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "That's Diddy. That's a Diddy something, but I don't know",
+      "reason": "Both connected Diddy remarks about the same society in one hold instead of two rapid cuts.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 28.04,
+        "text": "That's",
+        "word_index": 25
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.333333,
+      "end": 40.8,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What? Oh, heck no",
+      "reason": "Grimacing pizza-rule rejection held through heck no.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.35,
+        "text": "What?",
+        "word_index": 40
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 41.933333,
+      "end": 43.3,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "Oh.",
+      "reason": "Strong punch-in on the wide open-mouth oh at the anime society.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 41.92,
+        "text": "Oh.",
+        "word_index": 44
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 47.3,
+      "end": 49.0,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "That's fair. That's fair.",
+      "reason": "Mild hold on the calm repeated that's-fair agreement.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 47.31,
+        "text": "That's",
+        "word_index": 45
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 52.1,
+      "end": 53.2,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh, for real",
+      "reason": "Oh-for-real reaction to the compliment society, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 52.1,
+        "text": "Oh,",
+        "word_index": 49
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.2,
+      "end": 56.0,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I do that",
+      "reason": "Big-smile final choice held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.19,
+        "text": "I",
+        "word_index": 52
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_notes": "Preview inspected in enlarged crops: head, hair and eyes stay in frame at every onset/end; clean baseline resets."
+  }
+}

@@ -1,0 +1,1266 @@
+{
+  "project": "1022",
+  "timeline": "A936ECA1-0A55-4752-9A84-F1E685D7771B",
+  "model": "base.en",
+  "cache_key": "5fe029c70b401c963fad",
+  "cache_folder": "/Users/tanzibsrijon/SoundPilotLearning/data/context/5fe029c70b401c963fad-fresh-1792658544691104000",
+  "seconds": 12.84,
+  "tracks": [
+    {
+      "role": "video_track_1",
+      "speech": [
+        {
+          "start": 1.43,
+          "end": 24.67,
+          "text": "Oh, I do? Let's see. What the? Hey, did you like it out of the hood? Yeah. Hey, Joe, wait. Yeah, definitely not. Mm-hmm. That's evil.",
+          "words": [
+            {
+              "start": 1.43,
+              "end": 1.87,
+              "text": "Oh,"
+            },
+            {
+              "start": 3.93,
+              "end": 4.15,
+              "text": "I"
+            },
+            {
+              "start": 4.15,
+              "end": 4.37,
+              "text": "do?"
+            },
+            {
+              "start": 7.21,
+              "end": 7.55,
+              "text": "Let's"
+            },
+            {
+              "start": 7.55,
+              "end": 7.69,
+              "text": "see."
+            },
+            {
+              "start": 10.25,
+              "end": 10.47,
+              "text": "What"
+            },
+            {
+              "start": 10.47,
+              "end": 10.69,
+              "text": "the?"
+            },
+            {
+              "start": 16.39,
+              "end": 16.47,
+              "text": "Hey,"
+            },
+            {
+              "start": 16.57,
+              "end": 16.65,
+              "text": "did"
+            },
+            {
+              "start": 16.65,
+              "end": 16.71,
+              "text": "you"
+            },
+            {
+              "start": 16.71,
+              "end": 16.85,
+              "text": "like"
+            },
+            {
+              "start": 16.85,
+              "end": 16.91,
+              "text": "it"
+            },
+            {
+              "start": 16.91,
+              "end": 17.03,
+              "text": "out"
+            },
+            {
+              "start": 17.03,
+              "end": 17.15,
+              "text": "of"
+            },
+            {
+              "start": 17.15,
+              "end": 17.17,
+              "text": "the"
+            },
+            {
+              "start": 17.17,
+              "end": 17.31,
+              "text": "hood?"
+            },
+            {
+              "start": 17.91,
+              "end": 18.11,
+              "text": "Yeah."
+            },
+            {
+              "start": 22.11,
+              "end": 22.31,
+              "text": "Hey,"
+            },
+            {
+              "start": 22.37,
+              "end": 22.47,
+              "text": "Joe,"
+            },
+            {
+              "start": 22.63,
+              "end": 22.65,
+              "text": "wait."
+            },
+            {
+              "start": 22.79,
+              "end": 22.89,
+              "text": "Yeah,"
+            },
+            {
+              "start": 22.99,
+              "end": 23.11,
+              "text": "definitely"
+            },
+            {
+              "start": 23.11,
+              "end": 23.45,
+              "text": "not."
+            },
+            {
+              "start": 23.75,
+              "end": 23.83,
+              "text": "Mm"
+            },
+            {
+              "start": 23.83,
+              "end": 24.05,
+              "text": "-hmm."
+            },
+            {
+              "start": 24.29,
+              "end": 24.49,
+              "text": "That's"
+            },
+            {
+              "start": 24.49,
+              "end": 24.67,
+              "text": "evil."
+            }
+          ]
+        },
+        {
+          "start": 26.21,
+          "end": 48.55,
+          "text": "Okay. That's a nice game. Oh, heck nah. Literally, they're gonna jump you. Like, what's nah? Bubbles? I don't want to get bubbled. That's a threat. Oh, heck nah.",
+          "words": [
+            {
+              "start": 26.21,
+              "end": 26.65,
+              "text": "Okay."
+            },
+            {
+              "start": 30.76,
+              "end": 31.12,
+              "text": "That's"
+            },
+            {
+              "start": 31.12,
+              "end": 31.2,
+              "text": "a"
+            },
+            {
+              "start": 31.2,
+              "end": 31.42,
+              "text": "nice"
+            },
+            {
+              "start": 31.42,
+              "end": 31.76,
+              "text": "game."
+            },
+            {
+              "start": 34.07,
+              "end": 34.11,
+              "text": "Oh,"
+            },
+            {
+              "start": 34.29,
+              "end": 34.35,
+              "text": "heck"
+            },
+            {
+              "start": 34.35,
+              "end": 34.75,
+              "text": "nah."
+            },
+            {
+              "start": 37.72,
+              "end": 38.16,
+              "text": "Literally,"
+            },
+            {
+              "start": 38.58,
+              "end": 38.68,
+              "text": "they're"
+            },
+            {
+              "start": 38.68,
+              "end": 38.8,
+              "text": "gonna"
+            },
+            {
+              "start": 38.8,
+              "end": 39.12,
+              "text": "jump"
+            },
+            {
+              "start": 39.12,
+              "end": 39.34,
+              "text": "you."
+            },
+            {
+              "start": 39.6,
+              "end": 39.68,
+              "text": "Like,"
+            },
+            {
+              "start": 39.8,
+              "end": 40.06,
+              "text": "what's"
+            },
+            {
+              "start": 40.06,
+              "end": 40.4,
+              "text": "nah?"
+            },
+            {
+              "start": 41.42,
+              "end": 41.7,
+              "text": "Bubbles?"
+            },
+            {
+              "start": 44.08,
+              "end": 44.1,
+              "text": "I"
+            },
+            {
+              "start": 44.1,
+              "end": 44.2,
+              "text": "don't"
+            },
+            {
+              "start": 44.2,
+              "end": 44.3,
+              "text": "want"
+            },
+            {
+              "start": 44.3,
+              "end": 44.34,
+              "text": "to"
+            },
+            {
+              "start": 44.34,
+              "end": 44.46,
+              "text": "get"
+            },
+            {
+              "start": 44.46,
+              "end": 44.72,
+              "text": "bubbled."
+            },
+            {
+              "start": 46.89,
+              "end": 47.17,
+              "text": "That's"
+            },
+            {
+              "start": 47.17,
+              "end": 47.25,
+              "text": "a"
+            },
+            {
+              "start": 47.25,
+              "end": 47.51,
+              "text": "threat."
+            },
+            {
+              "start": 47.91,
+              "end": 47.93,
+              "text": "Oh,"
+            },
+            {
+              "start": 48.15,
+              "end": 48.25,
+              "text": "heck"
+            },
+            {
+              "start": 48.25,
+              "end": 48.55,
+              "text": "nah."
+            }
+          ]
+        }
+      ],
+      "transcription_seconds": 1.41,
+      "cached": false,
+      "loud_moments": [
+        1.8,
+        4.1,
+        7.4,
+        10.4,
+        13.0,
+        16.1,
+        17.2,
+        18.0,
+        22.6,
+        26.6,
+        31.1,
+        34.1,
+        38.1,
+        39.0,
+        39.8,
+        41.7,
+        44.1,
+        47.2,
+        48.2,
+        55.5
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "speech": [
+        {
+          "start": 0.0,
+          "end": 5.14,
+          "text": "You just moved to the hood and now you got to join a gang to survive which one are you joining?",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.2,
+              "text": "You"
+            },
+            {
+              "start": 0.2,
+              "end": 0.36,
+              "text": "just"
+            },
+            {
+              "start": 0.36,
+              "end": 0.6,
+              "text": "moved"
+            },
+            {
+              "start": 0.6,
+              "end": 0.76,
+              "text": "to"
+            },
+            {
+              "start": 0.76,
+              "end": 0.86,
+              "text": "the"
+            },
+            {
+              "start": 0.86,
+              "end": 1.1,
+              "text": "hood"
+            },
+            {
+              "start": 1.1,
+              "end": 1.68,
+              "text": "and"
+            },
+            {
+              "start": 1.68,
+              "end": 1.84,
+              "text": "now"
+            },
+            {
+              "start": 1.84,
+              "end": 1.94,
+              "text": "you"
+            },
+            {
+              "start": 1.94,
+              "end": 2.06,
+              "text": "got"
+            },
+            {
+              "start": 2.06,
+              "end": 2.14,
+              "text": "to"
+            },
+            {
+              "start": 2.14,
+              "end": 2.38,
+              "text": "join"
+            },
+            {
+              "start": 2.38,
+              "end": 2.48,
+              "text": "a"
+            },
+            {
+              "start": 2.48,
+              "end": 2.68,
+              "text": "gang"
+            },
+            {
+              "start": 2.68,
+              "end": 2.92,
+              "text": "to"
+            },
+            {
+              "start": 2.92,
+              "end": 3.22,
+              "text": "survive"
+            },
+            {
+              "start": 3.22,
+              "end": 4.36,
+              "text": "which"
+            },
+            {
+              "start": 4.36,
+              "end": 4.62,
+              "text": "one"
+            },
+            {
+              "start": 4.62,
+              "end": 4.74,
+              "text": "are"
+            },
+            {
+              "start": 4.74,
+              "end": 4.84,
+              "text": "you"
+            },
+            {
+              "start": 4.84,
+              "end": 5.14,
+              "text": "joining?"
+            }
+          ]
+        },
+        {
+          "start": 6.42,
+          "end": 12.84,
+          "text": "We the music gang we making it out the hood with this song boob boop boop boop",
+          "words": [
+            {
+              "start": 6.42,
+              "end": 6.94,
+              "text": "We"
+            },
+            {
+              "start": 7.74,
+              "end": 8.26,
+              "text": "the"
+            },
+            {
+              "start": 8.26,
+              "end": 8.52,
+              "text": "music"
+            },
+            {
+              "start": 8.52,
+              "end": 8.92,
+              "text": "gang"
+            },
+            {
+              "start": 8.92,
+              "end": 9.38,
+              "text": "we"
+            },
+            {
+              "start": 9.38,
+              "end": 9.62,
+              "text": "making"
+            },
+            {
+              "start": 9.62,
+              "end": 9.92,
+              "text": "it"
+            },
+            {
+              "start": 9.92,
+              "end": 10.08,
+              "text": "out"
+            },
+            {
+              "start": 10.08,
+              "end": 10.24,
+              "text": "the"
+            },
+            {
+              "start": 10.24,
+              "end": 10.54,
+              "text": "hood"
+            },
+            {
+              "start": 10.54,
+              "end": 10.76,
+              "text": "with"
+            },
+            {
+              "start": 10.76,
+              "end": 10.92,
+              "text": "this"
+            },
+            {
+              "start": 10.92,
+              "end": 11.26,
+              "text": "song"
+            },
+            {
+              "start": 11.26,
+              "end": 11.9,
+              "text": "boob"
+            },
+            {
+              "start": 11.9,
+              "end": 12.3,
+              "text": "boop"
+            },
+            {
+              "start": 12.3,
+              "end": 12.42,
+              "text": "boop"
+            },
+            {
+              "start": 12.42,
+              "end": 12.84,
+              "text": "boop"
+            }
+          ]
+        },
+        {
+          "start": 12.84,
+          "end": 19.3,
+          "text": "ski bitty flop my grandma stole my lollipop. We the HOA gang your grass is two inches too tall",
+          "words": [
+            {
+              "start": 12.84,
+              "end": 12.98,
+              "text": "ski"
+            },
+            {
+              "start": 12.98,
+              "end": 13.34,
+              "text": "bitty"
+            },
+            {
+              "start": 13.34,
+              "end": 13.72,
+              "text": "flop"
+            },
+            {
+              "start": 13.72,
+              "end": 13.92,
+              "text": "my"
+            },
+            {
+              "start": 13.92,
+              "end": 14.2,
+              "text": "grandma"
+            },
+            {
+              "start": 14.2,
+              "end": 14.5,
+              "text": "stole"
+            },
+            {
+              "start": 14.5,
+              "end": 14.72,
+              "text": "my"
+            },
+            {
+              "start": 14.72,
+              "end": 15.32,
+              "text": "lollipop."
+            },
+            {
+              "start": 15.88,
+              "end": 16.12,
+              "text": "We"
+            },
+            {
+              "start": 16.12,
+              "end": 16.3,
+              "text": "the"
+            },
+            {
+              "start": 16.3,
+              "end": 16.76,
+              "text": "HOA"
+            },
+            {
+              "start": 16.76,
+              "end": 17.1,
+              "text": "gang"
+            },
+            {
+              "start": 17.1,
+              "end": 17.78,
+              "text": "your"
+            },
+            {
+              "start": 17.78,
+              "end": 18.08,
+              "text": "grass"
+            },
+            {
+              "start": 18.08,
+              "end": 18.26,
+              "text": "is"
+            },
+            {
+              "start": 18.26,
+              "end": 18.44,
+              "text": "two"
+            },
+            {
+              "start": 18.44,
+              "end": 18.7,
+              "text": "inches"
+            },
+            {
+              "start": 18.7,
+              "end": 18.96,
+              "text": "too"
+            },
+            {
+              "start": 18.96,
+              "end": 19.3,
+              "text": "tall"
+            }
+          ]
+        },
+        {
+          "start": 19.3,
+          "end": 27.36,
+          "text": "fix it before we find your whole bloodline. We the shopping cart racing gang around here speed is",
+          "words": [
+            {
+              "start": 19.3,
+              "end": 19.84,
+              "text": "fix"
+            },
+            {
+              "start": 19.84,
+              "end": 20.06,
+              "text": "it"
+            },
+            {
+              "start": 20.06,
+              "end": 20.32,
+              "text": "before"
+            },
+            {
+              "start": 20.32,
+              "end": 20.58,
+              "text": "we"
+            },
+            {
+              "start": 20.58,
+              "end": 20.82,
+              "text": "find"
+            },
+            {
+              "start": 20.82,
+              "end": 21.0,
+              "text": "your"
+            },
+            {
+              "start": 21.0,
+              "end": 21.2,
+              "text": "whole"
+            },
+            {
+              "start": 21.2,
+              "end": 21.82,
+              "text": "bloodline."
+            },
+            {
+              "start": 23.96,
+              "end": 24.32,
+              "text": "We"
+            },
+            {
+              "start": 24.32,
+              "end": 24.46,
+              "text": "the"
+            },
+            {
+              "start": 24.46,
+              "end": 24.66,
+              "text": "shopping"
+            },
+            {
+              "start": 24.66,
+              "end": 25.02,
+              "text": "cart"
+            },
+            {
+              "start": 25.02,
+              "end": 25.32,
+              "text": "racing"
+            },
+            {
+              "start": 25.32,
+              "end": 25.64,
+              "text": "gang"
+            },
+            {
+              "start": 25.64,
+              "end": 26.22,
+              "text": "around"
+            },
+            {
+              "start": 26.22,
+              "end": 26.62,
+              "text": "here"
+            },
+            {
+              "start": 26.62,
+              "end": 27.12,
+              "text": "speed"
+            },
+            {
+              "start": 27.12,
+              "end": 27.36,
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "start": 27.36,
+          "end": 33.54,
+          "text": "everything. Last place gotta push everybody home. We the pogo stick gang.",
+          "words": [
+            {
+              "start": 27.36,
+              "end": 27.86,
+              "text": "everything."
+            },
+            {
+              "start": 28.36,
+              "end": 28.48,
+              "text": "Last"
+            },
+            {
+              "start": 28.48,
+              "end": 28.82,
+              "text": "place"
+            },
+            {
+              "start": 28.82,
+              "end": 29.06,
+              "text": "gotta"
+            },
+            {
+              "start": 29.06,
+              "end": 29.38,
+              "text": "push"
+            },
+            {
+              "start": 29.38,
+              "end": 29.78,
+              "text": "everybody"
+            },
+            {
+              "start": 29.78,
+              "end": 30.32,
+              "text": "home."
+            },
+            {
+              "start": 32.08,
+              "end": 32.26,
+              "text": "We"
+            },
+            {
+              "start": 32.26,
+              "end": 32.42,
+              "text": "the"
+            },
+            {
+              "start": 32.42,
+              "end": 32.76,
+              "text": "pogo"
+            },
+            {
+              "start": 32.76,
+              "end": 33.22,
+              "text": "stick"
+            },
+            {
+              "start": 33.22,
+              "end": 33.54,
+              "text": "gang."
+            }
+          ]
+        },
+        {
+          "start": 34.3,
+          "end": 40.82,
+          "text": "You better get off my block right now before we jump you. We the bubble gang.",
+          "words": [
+            {
+              "start": 34.3,
+              "end": 34.52,
+              "text": "You"
+            },
+            {
+              "start": 34.52,
+              "end": 34.68,
+              "text": "better"
+            },
+            {
+              "start": 34.68,
+              "end": 34.92,
+              "text": "get"
+            },
+            {
+              "start": 34.92,
+              "end": 35.1,
+              "text": "off"
+            },
+            {
+              "start": 35.1,
+              "end": 35.28,
+              "text": "my"
+            },
+            {
+              "start": 35.28,
+              "end": 35.54,
+              "text": "block"
+            },
+            {
+              "start": 35.54,
+              "end": 35.88,
+              "text": "right"
+            },
+            {
+              "start": 35.88,
+              "end": 36.2,
+              "text": "now"
+            },
+            {
+              "start": 36.2,
+              "end": 36.5,
+              "text": "before"
+            },
+            {
+              "start": 36.5,
+              "end": 36.76,
+              "text": "we"
+            },
+            {
+              "start": 36.76,
+              "end": 37.04,
+              "text": "jump"
+            },
+            {
+              "start": 37.04,
+              "end": 37.38,
+              "text": "you."
+            },
+            {
+              "start": 39.9,
+              "end": 40.06,
+              "text": "We"
+            },
+            {
+              "start": 40.06,
+              "end": 40.28,
+              "text": "the"
+            },
+            {
+              "start": 40.28,
+              "end": 40.54,
+              "text": "bubble"
+            },
+            {
+              "start": 40.54,
+              "end": 40.82,
+              "text": "gang."
+            }
+          ]
+        },
+        {
+          "start": 41.42,
+          "end": 45.34,
+          "text": "You step on our block, you getting bubbled. Keep playing. I put your whole",
+          "words": [
+            {
+              "start": 41.42,
+              "end": 41.44,
+              "text": "You"
+            },
+            {
+              "start": 41.44,
+              "end": 41.66,
+              "text": "step"
+            },
+            {
+              "start": 41.66,
+              "end": 41.88,
+              "text": "on"
+            },
+            {
+              "start": 41.88,
+              "end": 42.04,
+              "text": "our"
+            },
+            {
+              "start": 42.04,
+              "end": 42.28,
+              "text": "block,"
+            },
+            {
+              "start": 42.62,
+              "end": 42.68,
+              "text": "you"
+            },
+            {
+              "start": 42.68,
+              "end": 42.88,
+              "text": "getting"
+            },
+            {
+              "start": 42.88,
+              "end": 43.46,
+              "text": "bubbled."
+            },
+            {
+              "start": 43.96,
+              "end": 44.04,
+              "text": "Keep"
+            },
+            {
+              "start": 44.04,
+              "end": 44.5,
+              "text": "playing."
+            },
+            {
+              "start": 44.74,
+              "end": 44.74,
+              "text": "I"
+            },
+            {
+              "start": 44.74,
+              "end": 44.94,
+              "text": "put"
+            },
+            {
+              "start": 44.94,
+              "end": 45.1,
+              "text": "your"
+            },
+            {
+              "start": 45.1,
+              "end": 45.34,
+              "text": "whole"
+            }
+          ]
+        },
+        {
+          "start": 45.34,
+          "end": 51.64,
+          "text": "family in a bubble. We the hide-and-seek gang. You join us? Nobody can find you.",
+          "words": [
+            {
+              "start": 45.34,
+              "end": 45.76,
+              "text": "family"
+            },
+            {
+              "start": 45.76,
+              "end": 46.08,
+              "text": "in"
+            },
+            {
+              "start": 46.08,
+              "end": 46.18,
+              "text": "a"
+            },
+            {
+              "start": 46.18,
+              "end": 46.42,
+              "text": "bubble."
+            },
+            {
+              "start": 48.16,
+              "end": 48.22,
+              "text": "We"
+            },
+            {
+              "start": 48.22,
+              "end": 48.38,
+              "text": "the"
+            },
+            {
+              "start": 48.38,
+              "end": 48.56,
+              "text": "hide"
+            },
+            {
+              "start": 48.56,
+              "end": 48.7,
+              "text": "-and"
+            },
+            {
+              "start": 48.7,
+              "end": 48.9,
+              "text": "-seek"
+            },
+            {
+              "start": 48.9,
+              "end": 49.18,
+              "text": "gang."
+            },
+            {
+              "start": 49.66,
+              "end": 49.72,
+              "text": "You"
+            },
+            {
+              "start": 49.72,
+              "end": 49.9,
+              "text": "join"
+            },
+            {
+              "start": 49.9,
+              "end": 50.22,
+              "text": "us?"
+            },
+            {
+              "start": 50.64,
+              "end": 50.76,
+              "text": "Nobody"
+            },
+            {
+              "start": 50.76,
+              "end": 51.12,
+              "text": "can"
+            },
+            {
+              "start": 51.12,
+              "end": 51.38,
+              "text": "find"
+            },
+            {
+              "start": 51.38,
+              "end": 51.64,
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "start": 52.4,
+          "end": 54.02,
+          "text": "Accept my boys. They terrible at hiding.",
+          "words": [
+            {
+              "start": 52.4,
+              "end": 52.4,
+              "text": "Accept"
+            },
+            {
+              "start": 52.4,
+              "end": 52.64,
+              "text": "my"
+            },
+            {
+              "start": 52.64,
+              "end": 52.9,
+              "text": "boys."
+            },
+            {
+              "start": 53.22,
+              "end": 53.22,
+              "text": "They"
+            },
+            {
+              "start": 53.22,
+              "end": 53.5,
+              "text": "terrible"
+            },
+            {
+              "start": 53.5,
+              "end": 53.82,
+              "text": "at"
+            },
+            {
+              "start": 53.82,
+              "end": 54.02,
+              "text": "hiding."
+            }
+          ]
+        }
+      ],
+      "transcription_seconds": 2.24,
+      "cached": false,
+      "loud_moments": [
+        2.0,
+        3.2,
+        8.4,
+        10.2,
+        11.7,
+        13.1,
+        14.1,
+        15.3,
+        16.1,
+        18.0,
+        19.1,
+        20.4,
+        21.4,
+        24.3,
+        26.6,
+        28.4,
+        29.3,
+        30.2,
+        32.2,
+        33.5,
+        34.6,
+        35.5,
+        36.5,
+        37.3,
+        40.4,
+        42.0,
+        42.8,
+        44.0,
+        45.6,
+        48.3,
+        49.1,
+        49.9,
+        50.8,
+        52.6,
+        53.4
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "role": "video_track_1",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 56.0
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 1.75
+        },
+        {
+          "start": 1.75,
+          "end": 6.75
+        },
+        {
+          "start": 6.75,
+          "end": 8.0
+        },
+        {
+          "start": 8.0,
+          "end": 9.0
+        },
+        {
+          "start": 9.0,
+          "end": 15.0
+        },
+        {
+          "start": 15.0,
+          "end": 16.0
+        },
+        {
+          "start": 16.0,
+          "end": 17.5
+        },
+        {
+          "start": 17.5,
+          "end": 23.0
+        },
+        {
+          "start": 23.0,
+          "end": 24.0
+        },
+        {
+          "start": 24.0,
+          "end": 25.5
+        },
+        {
+          "start": 25.5,
+          "end": 30.0
+        },
+        {
+          "start": 30.0,
+          "end": 31.25
+        },
+        {
+          "start": 31.25,
+          "end": 34.5
+        },
+        {
+          "start": 34.5,
+          "end": 36.0
+        },
+        {
+          "start": 36.0,
+          "end": 37.5
+        },
+        {
+          "start": 37.5,
+          "end": 40.0
+        },
+        {
+          "start": 40.0,
+          "end": 42.0
+        },
+        {
+          "start": 42.0,
+          "end": 47.0
+        },
+        {
+          "start": 47.0,
+          "end": 48.0
+        },
+        {
+          "start": 48.0,
+          "end": 50.0
+        },
+        {
+          "start": 50.0,
+          "end": 51.0
+        },
+        {
+          "start": 51.0,
+          "end": 53.25
+        },
+        {
+          "start": 53.25,
+          "end": 56.0
+        }
+      ]
+    }
+  ],
+  "keyframes": [
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/5fe029c70b401c963fad-fresh-1792658544691104000/keyframes-keyframes-1.jpg",
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/5fe029c70b401c963fad-fresh-1792658544691104000/keyframes-keyframes-2.jpg"
+  ],
+  "brief": "/Users/tanzibsrijon/SoundPilotLearning/jobs/10eb6e2fe13b4534/enhanced_brief.json",
+  "scene_decode": "keyframes",
+  "brief_characters": 28865,
+  "old_sfx_used_as_input": false,
+  "excluded_style_timelines": [],
+  "quality_note": "Preprocessing validated. This does not establish sound-selection accuracy or a 90% score.",
+  "analysis_created_at": 1792658557.534129,
+  "analysis_reused": false,
+  "transcription_runs": 2
+}

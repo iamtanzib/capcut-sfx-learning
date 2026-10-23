@@ -1,0 +1,1142 @@
+{
+  "job_id": "f379de491bd44dbd",
+  "project": "1022",
+  "timeline": "Day6.6",
+  "timeline_id": "0C10ECF2-49DF-4613-968B-4EC85717C5B5",
+  "kevin": {
+    "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+    "duration": 22.551667,
+    "width": 2160,
+    "height": 3840,
+    "fps": 59.996,
+    "has_audio": true,
+    "size": 174455110,
+    "mtime": 1792590230000000000
+  },
+  "ranking": {
+    "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_2405F274-DA79-46FB-93B4-C6798A862C97.mov",
+    "duration": 19.093333,
+    "width": 2160,
+    "height": 3840,
+    "fps": 30.063,
+    "has_audio": true,
+    "size": 71233273,
+    "mtime": 1792589722000000000
+  },
+  "kevin_words": {
+    "$columns": [
+      "i",
+      "start",
+      "end",
+      "text"
+    ],
+    "$rows": [
+      [
+        0,
+        0.0,
+        0.2,
+        "best"
+      ],
+      [
+        1,
+        0.2,
+        0.38,
+        "sea"
+      ],
+      [
+        2,
+        0.38,
+        0.52,
+        "lion"
+      ],
+      [
+        3,
+        0.52,
+        0.96,
+        "moments."
+      ],
+      [
+        4,
+        1.87,
+        2.25,
+        "Yo"
+      ],
+      [
+        5,
+        2.25,
+        2.45,
+        "am"
+      ],
+      [
+        6,
+        2.45,
+        2.53,
+        "I"
+      ],
+      [
+        7,
+        2.53,
+        2.63,
+        "the"
+      ],
+      [
+        8,
+        2.63,
+        2.83,
+        "only"
+      ],
+      [
+        9,
+        2.83,
+        3.01,
+        "one"
+      ],
+      [
+        10,
+        3.01,
+        3.09,
+        "who"
+      ],
+      [
+        11,
+        3.09,
+        3.25,
+        "picked"
+      ],
+      [
+        12,
+        3.25,
+        3.39,
+        "the"
+      ],
+      [
+        13,
+        3.39,
+        3.63,
+        "same"
+      ],
+      [
+        14,
+        3.63,
+        3.83,
+        "one"
+      ],
+      [
+        15,
+        3.83,
+        3.95,
+        "as"
+      ],
+      [
+        16,
+        3.95,
+        4.11,
+        "him?"
+      ],
+      [
+        17,
+        4.65,
+        4.71,
+        "Am"
+      ],
+      [
+        18,
+        4.71,
+        4.83,
+        "I"
+      ],
+      [
+        19,
+        4.83,
+        5.07,
+        "stupid?"
+      ],
+      [
+        20,
+        6.79,
+        6.93,
+        "Oh"
+      ],
+      [
+        21,
+        6.93,
+        7.11,
+        "yeah"
+      ],
+      [
+        22,
+        7.11,
+        7.29,
+        "we're"
+      ],
+      [
+        23,
+        7.29,
+        7.59,
+        "definitely"
+      ],
+      [
+        24,
+        7.59,
+        7.87,
+        "cooked."
+      ],
+      [
+        25,
+        8.07,
+        8.25,
+        "Animals"
+      ],
+      [
+        26,
+        8.25,
+        8.51,
+        "just"
+      ],
+      [
+        27,
+        8.51,
+        8.67,
+        "learned"
+      ],
+      [
+        28,
+        8.67,
+        8.85,
+        "how"
+      ],
+      [
+        29,
+        8.85,
+        8.95,
+        "to"
+      ],
+      [
+        30,
+        8.95,
+        9.19,
+        "flirt"
+      ],
+      [
+        31,
+        9.19,
+        9.49,
+        "bro."
+      ],
+      [
+        32,
+        9.71,
+        9.71,
+        "What"
+      ],
+      [
+        33,
+        9.71,
+        9.81,
+        "is"
+      ],
+      [
+        34,
+        9.81,
+        9.95,
+        "going"
+      ],
+      [
+        35,
+        9.95,
+        10.29,
+        "on?"
+      ],
+      [
+        36,
+        11.58,
+        11.9,
+        "The"
+      ],
+      [
+        37,
+        11.9,
+        12.08,
+        "only"
+      ],
+      [
+        38,
+        12.08,
+        12.28,
+        "one"
+      ],
+      [
+        39,
+        12.28,
+        12.4,
+        "who"
+      ],
+      [
+        40,
+        12.4,
+        12.58,
+        "thought"
+      ],
+      [
+        41,
+        12.58,
+        12.72,
+        "that"
+      ],
+      [
+        42,
+        12.72,
+        12.86,
+        "was"
+      ],
+      [
+        43,
+        12.86,
+        13.1,
+        "real"
+      ],
+      [
+        44,
+        13.1,
+        13.3,
+        "for"
+      ],
+      [
+        45,
+        13.3,
+        13.4,
+        "the"
+      ],
+      [
+        46,
+        13.4,
+        13.64,
+        "first"
+      ],
+      [
+        47,
+        13.64,
+        13.9,
+        "two"
+      ],
+      [
+        48,
+        13.9,
+        14.34,
+        "seconds"
+      ],
+      [
+        49,
+        14.34,
+        14.56,
+        "bro."
+      ],
+      [
+        50,
+        15.1,
+        15.48,
+        "Ayes"
+      ],
+      [
+        51,
+        15.48,
+        15.78,
+        "cook."
+      ],
+      [
+        52,
+        17.08,
+        17.46,
+        "If"
+      ],
+      [
+        53,
+        17.46,
+        17.6,
+        "I"
+      ],
+      [
+        54,
+        17.6,
+        17.72,
+        "was"
+      ],
+      [
+        55,
+        17.72,
+        17.82,
+        "our"
+      ],
+      [
+        56,
+        17.82,
+        18.04,
+        "sea"
+      ],
+      [
+        57,
+        18.04,
+        18.24,
+        "lion"
+      ],
+      [
+        58,
+        18.24,
+        18.42,
+        "I"
+      ],
+      [
+        59,
+        18.42,
+        18.52,
+        "want"
+      ],
+      [
+        60,
+        18.52,
+        18.62,
+        "to"
+      ],
+      [
+        61,
+        18.62,
+        18.96,
+        "smack"
+      ],
+      [
+        62,
+        18.96,
+        19.28,
+        "them"
+      ],
+      [
+        63,
+        19.28,
+        19.52,
+        "bro."
+      ],
+      [
+        64,
+        20.04,
+        20.06,
+        "You"
+      ],
+      [
+        65,
+        20.06,
+        20.2,
+        "just"
+      ],
+      [
+        66,
+        20.2,
+        20.32,
+        "have"
+      ],
+      [
+        67,
+        20.32,
+        20.44,
+        "to"
+      ],
+      [
+        68,
+        20.44,
+        20.62,
+        "pay"
+      ],
+      [
+        69,
+        20.62,
+        20.76,
+        "for"
+      ],
+      [
+        70,
+        20.76,
+        20.76,
+        "I'm"
+      ],
+      [
+        71,
+        20.76,
+        20.76,
+        "gonna"
+      ],
+      [
+        72,
+        20.76,
+        20.92,
+        "click"
+      ],
+      [
+        73,
+        20.92,
+        21.08,
+        "my"
+      ],
+      [
+        74,
+        21.08,
+        21.34,
+        "what?"
+      ],
+      [
+        75,
+        21.72,
+        21.9,
+        "I'm"
+      ],
+      [
+        76,
+        21.9,
+        21.9,
+        "gonna"
+      ],
+      [
+        77,
+        21.9,
+        21.9,
+        "click"
+      ],
+      [
+        78,
+        21.9,
+        21.9,
+        "my"
+      ],
+      [
+        79,
+        21.9,
+        21.9,
+        "what?"
+      ]
+    ]
+  },
+  "kevin_phrases": [
+    {
+      "from_word": 0,
+      "to_word": 3,
+      "start": 0.0,
+      "end": 0.96,
+      "gap_before": 0.0,
+      "text": "best sea lion moments."
+    },
+    {
+      "from_word": 4,
+      "to_word": 19,
+      "start": 1.87,
+      "end": 5.07,
+      "gap_before": 0.91,
+      "text": "Yo am I the only one who picked the same one as him? Am I stupid?"
+    },
+    {
+      "from_word": 20,
+      "to_word": 35,
+      "start": 6.79,
+      "end": 10.29,
+      "gap_before": 1.72,
+      "text": "Oh yeah we're definitely cooked. Animals just learned how to flirt bro. What is going on?"
+    },
+    {
+      "from_word": 36,
+      "to_word": 51,
+      "start": 11.58,
+      "end": 15.78,
+      "gap_before": 1.29,
+      "text": "The only one who thought that was real for the first two seconds bro. Ayes cook."
+    },
+    {
+      "from_word": 52,
+      "to_word": 79,
+      "start": 17.08,
+      "end": 21.9,
+      "gap_before": 1.3,
+      "text": "If I was our sea lion I want to smack them bro. You just have to pay for I'm gonna click my what? I'm gonna click my what?"
+    }
+  ],
+  "ranking_analysis": {
+    "scene_cuts": [
+      1.387,
+      5.973,
+      6.007,
+      6.14,
+      11.46,
+      14.693
+    ],
+    "label_onsets": [
+      {
+        "at": 6.4,
+        "pixels": 217
+      },
+      {
+        "at": 14.6,
+        "pixels": 38
+      },
+      {
+        "at": 18.6,
+        "pixels": 14588
+      }
+    ],
+    "builtin_sfx": [
+      {
+        "sound": "awkward-moment.mp3",
+        "start": 3.659,
+        "score": 0.906
+      }
+    ],
+    "contact_sheets": [
+      "/Users/tanzibsrijon/SoundPilotLearning/ranking_jobs/f379de491bd44dbd/ranking_sheet_1.jpg"
+    ],
+    "sheet_fps": 2
+  },
+  "proposal": {
+    "note": "Automatic draft only. Verify every item boundary on frames and every reaction mapping by content.",
+    "items": [
+      {
+        "start": 0.0,
+        "end": 6.14
+      },
+      {
+        "start": 6.14,
+        "end": 14.693
+      },
+      {
+        "start": 14.693,
+        "end": 18.6
+      },
+      {
+        "start": 18.6,
+        "end": 19.093
+      }
+    ],
+    "reactions": [
+      {
+        "from_word": 4,
+        "to_word": 19,
+        "text": "Yo am I the only one who picked the same one as him? Am I stupid?"
+      },
+      {
+        "from_word": 20,
+        "to_word": 35,
+        "text": "Oh yeah we're definitely cooked. Animals just learned how to flirt bro. What is going on?"
+      },
+      {
+        "from_word": 36,
+        "to_word": 51,
+        "text": "The only one who thought that was real for the first two seconds bro. Ayes cook."
+      },
+      {
+        "from_word": 52,
+        "to_word": 79,
+        "text": "If I was our sea lion I want to smack them bro. You just have to pay for I'm gonna click my what? I'm gonna click my what?"
+      }
+    ]
+  },
+  "style": {
+    "version": 1,
+    "rules": [
+      "Open directly on ranked item #1 of the source (its baked title and rank list are the hook). Never use Kevin's slate (\"one of the ranking videos...\", \"best sea lion moments\").",
+      "Strictly alternate: ranked item -> Kevin's reaction to that item -> next item. Every reference ends on Kevin's reaction to the final item.",
+      "Items play in source order, each from its first frame through its payoff and rank-label/price reveal; trim only dead frames. Never cut the payoff or the source's own punch SFX.",
+      "Kevin records the reactions in item order in one take. Map each reaction to the item it talks about by content, not by counting pauses.",
+      "Reactions are tight jump cuts: start on the first word, end right after the last word, no dead air. Drop slates, retakes, stumbles and repeated lines.",
+      "B&W replay: when a reaction runs long and Kevin points back at the clip (\"that\", \"them\", \"in there\", \"like that\", naming the object/event), cover the later part of the reaction with the LAST part of that same item replayed in black and white at 1x, zoomed about 1.1x, muted; Kevin's voice continues underneath.",
+      "Show Kevin's face first (at least about 1s, median 1.6s) before the B&W. The B&W lasts about 0.9-2.1s (median 1.4s) and usually runs to the cut into the next item; sometimes the face returns for a short final exclamation (\"Oh my god\").",
+      "Each reference used B&W on 4 of 6 reactions. Opinion/hypothetical reactions and usually the final reaction stay on Kevin's face. The count is calibration, not a quota.",
+      "SFX go on Kevin only: 1-3 per reaction, first usually 0.7-1.5s in on the punch word. Error is the most common (disbelief), FAH often lands right at the B&W start, plus vine boom, among us, mac-quack, ceeday-huh, undertaker bell, rizz, movie_1.",
+      "Ranked items already carry the source creator's SFX (vine boom, ding, correct, roblox death). Never add SFX over item clips.",
+      "Transition whoosh: core-sound-effect.mp3 starts about 0.33s before every reaction -> next-item cut (20/20 in references); none at item -> reaction cuts.",
+      "The user adds CapCut transitions, music and captions. Keep all cuts on the main track so default transitions can be placed between them.",
+      "Kevin sits about 4-5 dB above the item clips in the references."
+    ],
+    "defaults": {
+      "kevin_volume": 0.63,
+      "ranking_volume": 0.5,
+      "bw_zoom": 1.1,
+      "bw_face_first": 0.6,
+      "gap_split": 0.45,
+      "whoosh_lead": 0.33,
+      "start_pad": 0.04,
+      "end_pad": 0.06
+    },
+    "stats": {
+      "videos": 4,
+      "items_per_video": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "item_seconds": {
+        "median": 3.8,
+        "min": 1.9,
+        "max": 8.5
+      },
+      "reaction_seconds": {
+        "median": 3.35,
+        "min": 1.9,
+        "max": 6.1
+      },
+      "bw_per_video": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "bw_seconds": {
+        "median": 1.4,
+        "min": 0.9,
+        "max": 2.1
+      },
+      "face_before_bw": {
+        "median": 1.8,
+        "min": 1.0
+      },
+      "bw_zoom_median": 1.1,
+      "bw_position": {
+        "end": 13,
+        "middle": 3
+      },
+      "bw_source_end_offset_median": 0.0,
+      "final_reaction_has_bw": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "kevin_sfx_per_reaction": 1.0,
+      "kevin_sfx_families": {
+        "error_CDOxCYm.mp3": 8,
+        "fah": 8,
+        "mac-quack.mp3": 2,
+        "undertakers-bell_2UwFCIe.mp3": 2,
+        "vine boom": 2,
+        "among us": 2,
+        "dry-fart (1).mp3": 1,
+        "rizz-sound-effect (19).mp3": 1,
+        "ceeday-huh-sound-effect.mp3": 1
+      },
+      "first_sfx_offset_median": 1.17,
+      "fah_offset_from_bw_start": [
+        0.47,
+        0.17,
+        -0.67,
+        -0.43,
+        0.13,
+        -0.6,
+        0.17
+      ],
+      "whoosh": {
+        "cuts": 20,
+        "with_whoosh": 20,
+        "lead_median": 0.33
+      },
+      "level_gap_db_kevin_minus_item": 4.65,
+      "first_word_offset_median": -0.1
+    },
+    "learned_adjustments": {},
+    "recent_revisions": [],
+    "reference_reactions": [
+      {
+        "video": "Ranking Funniest Ice Cream Moments 😂.mp4",
+        "reactions": [
+          {
+            "words": "better not eat that again",
+            "duration": 4.6,
+            "bw": {
+              "face_before": 2.5,
+              "duration": 2.1,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.5,
+                "again"
+              ],
+              [
+                "fahhhh.mp3",
+                2.97,
+                "again"
+              ]
+            ]
+          },
+          {
+            "words": "Spongebob away from the drugs. Oh my",
+            "duration": 2.7,
+            "bw": {
+              "face_before": 1.5,
+              "duration": 1.2,
+              "position": "end",
+              "words": "Oh my"
+            },
+            "sfx": [
+              [
+                "mac-quack.mp3",
+                1.4,
+                "drugs."
+              ]
+            ]
+          },
+          {
+            "words": "exactly like my",
+            "duration": 3.4,
+            "bw": {
+              "face_before": 1.0,
+              "duration": 1.3,
+              "position": "middle",
+              "words": "my"
+            },
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.17,
+                "my"
+              ],
+              [
+                "dry-fart (1).mp3",
+                1.74,
+                "my"
+              ]
+            ]
+          },
+          {
+            "words": "",
+            "duration": 6.1,
+            "bw": {
+              "face_before": 4.7,
+              "duration": 1.4,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": [
+              [
+                "rizz-sound-effect (19).mp3",
+                0.17,
+                "my"
+              ],
+              [
+                "undertakers-bell_2UwFCIe.mp3",
+                1.97,
+                "I"
+              ],
+              [
+                "fahhhh.mp3",
+                4.04,
+                "I"
+              ]
+            ]
+          },
+          {
+            "words": "I know those people be trolling Activated something in them bro.",
+            "duration": 3.4,
+            "bw": null,
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.5,
+                "those"
+              ]
+            ]
+          },
+          {
+            "words": "Anybody else's heart just jump onto the chest How was you holding that frog captain?",
+            "duration": 3.7,
+            "bw": null,
+            "sfx": []
+          }
+        ]
+      },
+      {
+        "video": "Ranking The Best Aiming Moments 😭 #shorts #funny #relatable.mp4",
+        "reactions": [
+          {
+            "words": "will be excited too. How did you do that on the first try?",
+            "duration": 2.8,
+            "bw": {
+              "face_before": 1.6,
+              "duration": 1.2,
+              "position": "end",
+              "words": "that on the first try?"
+            },
+            "sfx": []
+          },
+          {
+            "words": "doesn't even look right. Oh, hack now",
+            "duration": 2.1,
+            "bw": null,
+            "sfx": []
+          },
+          {
+            "words": "Humiliation ritual. I will not let somebody shoot at me like that",
+            "duration": 3.8,
+            "bw": {
+              "face_before": 2.1,
+              "duration": 1.7,
+              "position": "end",
+              "words": "will not let somebody shoot at me like that"
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.87,
+                "I"
+              ]
+            ]
+          },
+          {
+            "words": "Evil they definitely targeted him. Oh, hack now",
+            "duration": 2.5,
+            "bw": {
+              "face_before": 1.5,
+              "duration": 1.0,
+              "position": "end",
+              "words": "Oh, hack now"
+            },
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.07,
+                "him."
+              ]
+            ]
+          },
+          {
+            "words": "took it out on the window double punishment the",
+            "duration": 3.3,
+            "bw": null,
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.3,
+                "out"
+              ]
+            ]
+          },
+          {
+            "words": "army right now. He has good aim",
+            "duration": 2.8,
+            "bw": {
+              "face_before": 1.8,
+              "duration": 1.0,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": []
+          }
+        ]
+      },
+      {
+        "video": "Ranking The Best Expensive Car Damage😭🥀#shorts #funny #relatable.mp4",
+        "reactions": [
+          {
+            "words": "why do you have mirrors on the car if you're not gonna use them? Let's",
+            "duration": 3.4,
+            "bw": {
+              "face_before": 2.0,
+              "duration": 1.4,
+              "position": "end",
+              "words": "them? Let's"
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                1.0,
+                "the"
+              ],
+              [
+                "fahhhh.mp3",
+                2.13,
+                "them?"
+              ]
+            ]
+          },
+          {
+            "words": "do you have a Bugatti in the jungle that doesn't even make sense? Oh my god",
+            "duration": 4.3,
+            "bw": {
+              "face_before": 1.7,
+              "duration": 1.6,
+              "position": "middle",
+              "words": "that doesn't even make sense?"
+            },
+            "sfx": [
+              [
+                "ceeday-huh-sound-effect.mp3",
+                1.23,
+                "in"
+              ],
+              [
+                "undertakers-bell_2UwFCIe.mp3",
+                2.37,
+                "make"
+              ]
+            ]
+          },
+          {
+            "words": "Over the bump right left and right to get over a low car",
+            "duration": 4.6,
+            "bw": {
+              "face_before": 2.8,
+              "duration": 1.8,
+              "position": "end",
+              "words": "a low car"
+            },
+            "sfx": [
+              [
+                "vine-boom (20).mp3",
+                1.1,
+                "left"
+              ],
+              [
+                "error_CDOxCYm.mp3",
+                3.57,
+                "car"
+              ]
+            ]
+          },
+          {
+            "words": "there was nobody in that car. I would have been over Nice",
+            "duration": 3.2,
+            "bw": {
+              "face_before": 1.4,
+              "duration": 0.9,
+              "position": "middle",
+              "words": "that car. I"
+            },
+            "sfx": []
+          },
+          {
+            "words": "a drop if I scratch an expensive car. They got to take everything from here",
+            "duration": 4.0,
+            "bw": null,
+            "sfx": [
+              [
+                "among-us-role-reveal-sound.mp3",
+                1.6,
+                "car."
+              ]
+            ]
+          },
+          {
+            "words": "I'm moving to a different country ASAP",
+            "duration": 3.0,
+            "bw": null,
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.1,
+                "to"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "video": "Ranking The Best Hard Food Moments 😂 #shorts #funny #relatable.mp4",
+        "reactions": [
+          {
+            "words": "sure that's a chicken egg, but I might be a dinosaur in there",
+            "duration": 3.1,
+            "bw": {
+              "face_before": 1.3,
+              "duration": 1.8,
+              "position": "end",
+              "words": "but I might be a dinosaur in there"
+            },
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                0.77,
+                "a"
+              ]
+            ]
+          },
+          {
+            "words": "no that is not a brownie anymore",
+            "duration": 3.5,
+            "bw": {
+              "face_before": 2.1,
+              "duration": 1.4,
+              "position": "end",
+              "words": ""
+            },
+            "sfx": [
+              [
+                "among-us-role-reveal-sound.mp3",
+                1.17,
+                "brownie"
+              ]
+            ]
+          },
+          {
+            "words": "bread is beyond steel, how do they have sports?",
+            "duration": 2.8,
+            "bw": {
+              "face_before": 1.8,
+              "duration": 1.0,
+              "position": "end",
+              "words": "do they have sports?"
+            },
+            "sfx": [
+              [
+                "fahhhh.mp3",
+                1.2,
+                "steel,"
+              ]
+            ]
+          },
+          {
+            "words": "it really that hard to make down? Oh my god",
+            "duration": 2.7,
+            "bw": null,
+            "sfx": [
+              [
+                "vine-boom (20).mp3",
+                1.47,
+                "down?"
+              ]
+            ]
+          },
+          {
+            "words": "throw the ice cream away, bro, that's been in there since 2014 or something",
+            "duration": 4.0,
+            "bw": {
+              "face_before": 2.1,
+              "duration": 1.9,
+              "position": "end",
+              "words": "there since 2014 or something"
+            },
+            "sfx": [
+              [
+                "mac-quack.mp3",
+                1.17,
+                "bro,"
+              ],
+              [
+                "fahhhh.mp3",
+                2.27,
+                "since"
+              ]
+            ]
+          },
+          {
+            "words": "he had no other choice.",
+            "duration": 1.9,
+            "bw": null,
+            "sfx": [
+              [
+                "error_CDOxCYm.mp3",
+                0.73,
+                "he"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "plan_schema": "stage_ranking_plan(job_id, items=[{start,end,rank,label,reason}], reactions=[{item,about,pieces:[{from_word,to_word}],tighten?,bw?:{at_word,duration|until_end,tail_end?,zoom?,reason}}], quality_notes, volumes?). See references/ranking.md."
+}

@@ -1,0 +1,25 @@
+{
+  "job_id": "d9a43ab7c4a84b6e",
+  "source_hash": "012c871ce942e59b0d49bfc9f8a48f68e7ad614e1d00e691aba55b05748393b4",
+  "style_version": 20,
+  "hook": {
+    "text": "SNEAKING OUT AT 3AM\nYOUR BIRTH MONTH IS\nWHO CAUGHT YOU\nWHO DID YOU GET?",
+    "highlight_phrases": [
+      "CAUGHT YOU"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "But somebody just caught you. Your birth month decides who it is."
+    },
+    "reason": "Keeps the 3 a.m. sneak-out premise and the birth-month-decides-who-caught-you question in the learned birth-month hook format; replaces the stale walls hook.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_note": "Native Rubik-Bold preview inspected: four lines fit the width like the learned 4-line 20-million hook, CAUGHT YOU yellow, no overflow.",
+    "replace_existing_authorization": "On 2026-10-22 the user said 'hook 4 tari chng hbe' (all four hooks must change); the field still holds the old SOMEBODY'S MOVING INSIDE YOUR WALLS text."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "237764e12fe54671",
+  "source_hash": "f6bae2d3a961caa311d649333f35ddc01bcb0d1d1e3b372b4140bdaab12c6758",
+  "style_version": 20,
+  "hook": {
+    "text": "YOU MOVED TO THE\nHOOD JOIN A GANG\nWHICH WILL YOU JOIN?",
+    "highlight_phrases": [
+      "JOIN A GANG"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You just moved to the hood and now you got to join a gang to survive which one are you joining?"
+    },
+    "reason": "Keep the actual moved-to-the-hood, join-a-gang premise and the which-one choice question from the narrator intro; replaces the stale toilet hook copied from another timeline.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replace_authorization": "User explicitly asked to change the text hook for Day6.2 (text hook chng hbe)."
+  }
+}

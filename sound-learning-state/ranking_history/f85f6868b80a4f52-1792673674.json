@@ -1,0 +1,519 @@
+{
+  "report": {
+    "job_id": "f85f6868b80a4f52",
+    "timeline": "Day6.3",
+    "revision_hash": "891a5c5972df0715dc52f43ade40c5649648f2d8693554e9353d92c4e78b3516",
+    "unchanged": false,
+    "items": {
+      "matched": 5,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 2,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 4,
+          "start_delta": 0.133,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "kevin_pieces": {
+      "matched": 6,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 2,
+          "start_delta": 0.267,
+          "end_delta": -0.233
+        },
+        {
+          "planned": 3,
+          "start_delta": 0.167,
+          "end_delta": 0.0
+        },
+        {
+          "planned": 4,
+          "start_delta": 0.133,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "bw": {
+      "planned": 4,
+      "kept": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "duration_delta": -0.0,
+          "zoom": 1.1,
+          "start_shift": -0.1
+        },
+        {
+          "planned": 1,
+          "duration_delta": 0.0,
+          "zoom": 1.1,
+          "start_shift": -0.133
+        },
+        {
+          "planned": 2,
+          "duration_delta": 0.0,
+          "zoom": 1.1,
+          "start_shift": -0.5
+        },
+        {
+          "planned": 3,
+          "duration_delta": -0.0,
+          "zoom": 1.1,
+          "start_shift": -0.9
+        }
+      ]
+    },
+    "main_track_other_media": 0,
+    "learned_at": 1792673674.0518432
+  },
+  "plan": {
+    "job_id": "f85f6868b80a4f52",
+    "project": "1022",
+    "timeline": "5CB7A401-A950-49FC-8830-2CE86E7B49C8",
+    "source_hash": "223d36a0cc28a848a3d8b73cee21f687cc63dd82c95f5e8524a17bfef3d7d853",
+    "style_version": 1,
+    "items": [
+      {
+        "start": 0.0,
+        "end": 5.377,
+        "rank": 5,
+        "label": "the fun backroom",
+        "reason": "swing rider drops into the ball-pit net"
+      },
+      {
+        "start": 5.387,
+        "end": 10.983,
+        "rank": 4,
+        "label": "peaceful, yet uneasy",
+        "reason": "empty pastel houses street with label reveal"
+      },
+      {
+        "start": 10.993,
+        "end": 17.89,
+        "rank": 3,
+        "label": "dont do it",
+        "reason": "ceiling vent opens onto the lit backrooms tunnel"
+      },
+      {
+        "start": 17.9,
+        "end": 24.263,
+        "rank": 2,
+        "label": "Level 188",
+        "reason": "Level 188 hotel corridor, LOOKS REAL caption"
+      },
+      {
+        "start": 24.273,
+        "end": 37.39,
+        "rank": 1,
+        "label": "no escape",
+        "reason": "yellow backrooms walk ending with the ceiling entity"
+      }
+    ],
+    "reactions": [
+      {
+        "item": 0,
+        "about": "falling into the pit and never coming back",
+        "pieces": [
+          {
+            "from_word": 9,
+            "to_word": 17,
+            "start": 4.51,
+            "end": 6.89,
+            "text": "if I fall down there. I'm never coming back."
+          }
+        ],
+        "bw": {
+          "at_word": 14,
+          "until_end": true,
+          "reason": "\"never coming back\" from \"down there\" points at the fall into the pit"
+        }
+      },
+      {
+        "item": 1,
+        "about": "a free house in this economy",
+        "pieces": [
+          {
+            "from_word": 26,
+            "to_word": 43,
+            "start": 10.86,
+            "end": 14.85,
+            "text": "don't care if it's a back room. Well, that's a free house and this economy. I'm taking it."
+          }
+        ],
+        "bw": {
+          "at_word": 34,
+          "duration": 1.3,
+          "reason": "\"that's a free house\" points at the houses street"
+        }
+      },
+      {
+        "item": 2,
+        "about": "would never climb into the vent",
+        "pieces": [
+          {
+            "from_word": 45,
+            "to_word": 65,
+            "start": 16.44,
+            "end": 21.63,
+            "text": "Back on why if I'm him? I'm throwing a sticker down to my in there and moving out immediately heck nah"
+          }
+        ],
+        "bw": {
+          "at_word": 52,
+          "duration": 1.8,
+          "reason": "\"throwing ... down ... in there\" points into the vent tunnel"
+        }
+      },
+      {
+        "item": 3,
+        "about": "Level 188 looks like his childhood nightmares",
+        "pieces": [
+          {
+            "from_word": 66,
+            "to_word": 79,
+            "start": 22.98,
+            "end": 26.72,
+            "text": "This looks exactly like my nightmares as a kid. There's definitely a monster I"
+          }
+        ],
+        "bw": {
+          "at_word": 75,
+          "until_end": true,
+          "reason": "\"there's definitely a monster\" points at the empty corridor"
+        }
+      },
+      {
+        "item": 4,
+        "about": "guy walks toward the entity, he is out",
+        "pieces": [
+          {
+            "from_word": 80,
+            "to_word": 93,
+            "start": 28.54,
+            "end": 31.98,
+            "text": "have the survival instincts of a 5 year old bro, what are you doing?"
+          },
+          {
+            "from_word": 94,
+            "to_word": 96,
+            "start": 32.16,
+            "end": 33.2,
+            "text": "I'm outta there!"
+          }
+        ]
+      }
+    ],
+    "segments": [
+      {
+        "role": "ranking",
+        "index": 0,
+        "source_start": 0.0,
+        "frames": 161,
+        "target_frame": 0
+      },
+      {
+        "role": "kevin",
+        "index": 0,
+        "source_start": 4.51,
+        "frames": 71,
+        "target_frame": 161
+      },
+      {
+        "role": "ranking",
+        "index": 1,
+        "source_start": 5.387,
+        "frames": 167,
+        "target_frame": 232
+      },
+      {
+        "role": "kevin",
+        "index": 1,
+        "source_start": 10.86,
+        "frames": 120,
+        "target_frame": 399
+      },
+      {
+        "role": "ranking",
+        "index": 2,
+        "source_start": 10.993,
+        "frames": 206,
+        "target_frame": 519
+      },
+      {
+        "role": "kevin",
+        "index": 2,
+        "source_start": 16.44,
+        "frames": 156,
+        "target_frame": 725
+      },
+      {
+        "role": "ranking",
+        "index": 3,
+        "source_start": 17.9,
+        "frames": 190,
+        "target_frame": 881
+      },
+      {
+        "role": "kevin",
+        "index": 3,
+        "source_start": 22.98,
+        "frames": 112,
+        "target_frame": 1071
+      },
+      {
+        "role": "ranking",
+        "index": 4,
+        "source_start": 24.273,
+        "frames": 393,
+        "target_frame": 1183
+      },
+      {
+        "role": "kevin",
+        "index": 4,
+        "source_start": 28.54,
+        "frames": 103,
+        "target_frame": 1576
+      },
+      {
+        "role": "kevin",
+        "index": 4,
+        "source_start": 32.16,
+        "frames": 31,
+        "target_frame": 1679
+      }
+    ],
+    "overlays": [
+      {
+        "reaction": 0,
+        "target_frame": 192,
+        "frames": 40,
+        "source_start": 4.044,
+        "zoom": 1.1,
+        "reason": "\"never coming back\" from \"down there\" points at the fall into the pit",
+        "under_words": "I'm never coming back."
+      },
+      {
+        "reaction": 1,
+        "target_frame": 449,
+        "frames": 39,
+        "source_start": 9.683,
+        "zoom": 1.1,
+        "reason": "\"that's a free house\" points at the houses street",
+        "under_words": "that's a free house and this economy."
+      },
+      {
+        "reaction": 2,
+        "target_frame": 765,
+        "frames": 54,
+        "source_start": 16.09,
+        "zoom": 1.1,
+        "reason": "\"throwing ... down ... in there\" points into the vent tunnel",
+        "under_words": "I'm throwing a sticker down to my in there and moving"
+      },
+      {
+        "reaction": 3,
+        "target_frame": 1143,
+        "frames": 40,
+        "source_start": 22.93,
+        "zoom": 1.1,
+        "reason": "\"there's definitely a monster\" points at the empty corridor",
+        "under_words": "There's definitely a monster I"
+      }
+    ],
+    "volumes": {
+      "kevin": 0.63,
+      "ranking": 0.5
+    },
+    "total_frames": 1710,
+    "whoosh_cues": [
+      7.403,
+      16.97,
+      29.037,
+      39.103
+    ],
+    "quality_notes": {
+      "item_boundaries_checked_on_frames": true,
+      "reaction_mapping_reviewed": true,
+      "dropped_speech_reviewed": true,
+      "dropped": "slates, the Backrooms false start + off-take aside, a stray \"What?\" before a 1s pause, and the Sea Lion zero-length ASR repeat"
+    }
+  },
+  "observed": {
+    "main": [
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_269E558A-08B9-421B-B358-90FD94E98D19.mov",
+        "start": 0.0,
+        "duration": 5.366666,
+        "source_start": 0.0,
+        "source_duration": 5.366667,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+        "start": 5.366666,
+        "duration": 2.266667,
+        "source_start": 4.609999,
+        "source_duration": 2.266667,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_269E558A-08B9-421B-B358-90FD94E98D19.mov",
+        "start": 7.633333,
+        "duration": 5.533333,
+        "source_start": 5.420333,
+        "source_duration": 5.533334,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+        "start": 13.166666,
+        "duration": 4.0,
+        "source_start": 10.86,
+        "source_duration": 4.0,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_269E558A-08B9-421B-B358-90FD94E98D19.mov",
+        "start": 17.166666,
+        "duration": 6.766667,
+        "source_start": 11.093,
+        "source_duration": 6.766667,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+        "start": 23.933333,
+        "duration": 4.7,
+        "source_start": 16.706667,
+        "source_duration": 4.7,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_269E558A-08B9-421B-B358-90FD94E98D19.mov",
+        "start": 28.633333,
+        "duration": 6.333333,
+        "source_start": 17.9,
+        "source_duration": 6.333333,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+        "start": 34.966666,
+        "duration": 3.566667,
+        "source_start": 23.146667,
+        "source_duration": 3.566666,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_269E558A-08B9-421B-B358-90FD94E98D19.mov",
+        "start": 38.533333,
+        "duration": 12.966667,
+        "source_start": 24.406333,
+        "source_duration": 12.966667,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+        "start": 51.5,
+        "duration": 3.3,
+        "source_start": 28.673333,
+        "source_duration": 3.300001,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7667.MOV",
+        "start": 54.8,
+        "duration": 1.033333,
+        "source_start": 32.16,
+        "source_duration": 1.033333,
+        "volume": 0.63,
+        "scale": 1.0
+      }
+    ],
+    "overlays": [
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f85f6868b80a4f52/bw_01_884babce1e.mp4",
+        "start": 6.3,
+        "duration": 1.333333,
+        "source_start": 0.0,
+        "source_duration": 1.333333,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f85f6868b80a4f52/bw_02_7c73450336.mp4",
+        "start": 14.833333,
+        "duration": 1.3,
+        "source_start": 0.0,
+        "source_duration": 1.3,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f85f6868b80a4f52/bw_03_d58fbd8369.mp4",
+        "start": 25.0,
+        "duration": 1.8,
+        "source_start": 0.0,
+        "source_duration": 1.8,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f85f6868b80a4f52/bw_04_2e00d78185.mp4",
+        "start": 37.2,
+        "duration": 1.333333,
+        "source_start": 0.0,
+        "source_duration": 1.333333,
+        "volume": 0.0,
+        "scale": 1.1
+      }
+    ]
+  }
+}

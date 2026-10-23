@@ -1,0 +1,34 @@
+Preparing video_track_1 (cached results are reused)...
+Decoding video_track_1: IMG_7717.MOV
+Transcribing video_track_1, base.en, CPU int8...
+video_track_1: speech read through 15.9s
+video_track_1: speech read through 24.6s
+video_track_1: speech read through 47.7s
+video_track_1: speech read through 55.9s
+Preparing small frame proxy for video_track_1...
+Detecting scene changes in video_track_1.proxy-keyframes...
+Preparing video_track_2 (cached results are reused)...
+Decoding video_track_2: copy_764631FC-DCE7-476E-8891-F29A7CE5974A.mov
+Transcribing video_track_2, base.en, CPU int8...
+video_track_2: speech read through 5.2s
+video_track_2: speech read through 7.1s
+video_track_2: speech read through 12.4s
+video_track_2: speech read through 14.8s
+video_track_2: speech read through 16.9s
+video_track_2: speech read through 19.0s
+video_track_2: speech read through 21.5s
+video_track_2: speech read through 25.4s
+video_track_2: speech read through 27.9s
+video_track_2: speech read through 30.2s
+video_track_2: speech read through 33.2s
+video_track_2: speech read through 35.8s
+video_track_2: speech read through 38.9s
+video_track_2: speech read through 41.6s
+video_track_2: speech read through 44.1s
+video_track_2: speech read through 46.5s
+video_track_2: speech read through 49.1s
+video_track_2: speech read through 51.6s
+video_track_2: speech read through 54.1s
+Preparing small frame proxy for video_track_2...
+Detecting scene changes in video_track_2.proxy-keyframes...
+Context ready: 12.92s; 2 video tracks; 23 speech segments.

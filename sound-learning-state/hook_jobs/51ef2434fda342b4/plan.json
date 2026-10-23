@@ -1,0 +1,25 @@
+{
+  "job_id": "51ef2434fda342b4",
+  "source_hash": "a157877f95c3dff70a62f8f0f788db25800ac693e08a85d8b1037f49e2d1e087",
+  "style_version": 20,
+  "hook": {
+    "text": "STUCK IN THE SNOW\nONE BAG TO SURVIVE\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "SURVIVE"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You're stuck in the freezing snow. You can only choose one mystery duffel bag to survive."
+    },
+    "reason": "Keeps the real freezing-snow scenario and the choose-one-duffel-bag-to-survive choice from the narrator intro; replaces the stale walls hook copied from the old timeline.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_note": "Native Rubik-Bold preview inspected: three lines fit the width, SURVIVE yellow, no overflow.",
+    "replace_existing_authorization": "On 2026-10-22 the user said 'hook 4 tari chng hbe' (all four hooks must change); the field still holds the old SOMEBODY'S MOVING INSIDE YOUR WALLS text."
+  }
+}

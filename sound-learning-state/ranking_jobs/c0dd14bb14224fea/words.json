@@ -1,0 +1,308 @@
+[
+  {
+    "i": 0,
+    "start": 0.0,
+    "end": 0.28,
+    "text": "one."
+  },
+  {
+    "i": 1,
+    "start": 1.83,
+    "end": 2.39,
+    "text": "Say"
+  },
+  {
+    "i": 2,
+    "start": 2.39,
+    "end": 2.69,
+    "text": "goodbye"
+  },
+  {
+    "i": 3,
+    "start": 2.69,
+    "end": 2.93,
+    "text": "to"
+  },
+  {
+    "i": 4,
+    "start": 2.93,
+    "end": 3.03,
+    "text": "your"
+  },
+  {
+    "i": 5,
+    "start": 3.03,
+    "end": 3.37,
+    "text": "kids"
+  },
+  {
+    "i": 6,
+    "start": 3.37,
+    "end": 3.59,
+    "text": "buddy,"
+  },
+  {
+    "i": 7,
+    "start": 3.75,
+    "end": 3.77,
+    "text": "you're"
+  },
+  {
+    "i": 8,
+    "start": 3.77,
+    "end": 3.93,
+    "text": "not"
+  },
+  {
+    "i": 9,
+    "start": 3.93,
+    "end": 4.25,
+    "text": "having"
+  },
+  {
+    "i": 10,
+    "start": 4.25,
+    "end": 4.53,
+    "text": "them."
+  },
+  {
+    "i": 11,
+    "start": 6.2,
+    "end": 6.38,
+    "text": "We"
+  },
+  {
+    "i": 12,
+    "start": 6.38,
+    "end": 6.52,
+    "text": "can"
+  },
+  {
+    "i": 13,
+    "start": 6.52,
+    "end": 6.68,
+    "text": "all"
+  },
+  {
+    "i": 14,
+    "start": 6.68,
+    "end": 7.0,
+    "text": "agree"
+  },
+  {
+    "i": 15,
+    "start": 7.0,
+    "end": 7.34,
+    "text": "that's"
+  },
+  {
+    "i": 16,
+    "start": 7.34,
+    "end": 7.46,
+    "text": "the"
+  },
+  {
+    "i": 17,
+    "start": 7.46,
+    "end": 7.74,
+    "text": "best"
+  },
+  {
+    "i": 18,
+    "start": 7.74,
+    "end": 8.04,
+    "text": "use"
+  },
+  {
+    "i": 19,
+    "start": 8.04,
+    "end": 8.28,
+    "text": "of"
+  },
+  {
+    "i": 20,
+    "start": 8.28,
+    "end": 8.66,
+    "text": "spidey"
+  },
+  {
+    "i": 21,
+    "start": 8.66,
+    "end": 8.96,
+    "text": "scents"
+  },
+  {
+    "i": 22,
+    "start": 8.96,
+    "end": 9.28,
+    "text": "literally."
+  },
+  {
+    "i": 23,
+    "start": 10.35,
+    "end": 10.81,
+    "text": "At"
+  },
+  {
+    "i": 24,
+    "start": 10.81,
+    "end": 11.01,
+    "text": "that"
+  },
+  {
+    "i": 25,
+    "start": 11.01,
+    "end": 11.33,
+    "text": "point"
+  },
+  {
+    "i": 26,
+    "start": 11.33,
+    "end": 11.57,
+    "text": "I"
+  },
+  {
+    "i": 27,
+    "start": 11.57,
+    "end": 11.67,
+    "text": "would"
+  },
+  {
+    "i": 28,
+    "start": 11.67,
+    "end": 11.89,
+    "text": "start"
+  },
+  {
+    "i": 29,
+    "start": 11.89,
+    "end": 12.43,
+    "text": "panicking."
+  },
+  {
+    "i": 30,
+    "start": 12.87,
+    "end": 12.95,
+    "text": "I"
+  },
+  {
+    "i": 31,
+    "start": 12.95,
+    "end": 13.07,
+    "text": "would"
+  },
+  {
+    "i": 32,
+    "start": 13.07,
+    "end": 13.55,
+    "text": "suffocate."
+  },
+  {
+    "i": 33,
+    "start": 14.64,
+    "end": 15.16,
+    "text": "Definitely"
+  },
+  {
+    "i": 34,
+    "start": 15.16,
+    "end": 15.42,
+    "text": "the"
+  },
+  {
+    "i": 35,
+    "start": 15.42,
+    "end": 16.06,
+    "text": "exaggerated"
+  },
+  {
+    "i": 36,
+    "start": 16.06,
+    "end": 16.5,
+    "text": "swagger"
+  },
+  {
+    "i": 37,
+    "start": 16.5,
+    "end": 16.68,
+    "text": "of"
+  },
+  {
+    "i": 38,
+    "start": 16.68,
+    "end": 16.76,
+    "text": "a"
+  },
+  {
+    "i": 39,
+    "start": 16.76,
+    "end": 16.96,
+    "text": "black"
+  },
+  {
+    "i": 40,
+    "start": 16.96,
+    "end": 17.24,
+    "text": "teen"
+  },
+  {
+    "i": 41,
+    "start": 17.24,
+    "end": 17.82,
+    "text": "that"
+  },
+  {
+    "i": 42,
+    "start": 17.82,
+    "end": 18.0,
+    "text": "was"
+  },
+  {
+    "i": 43,
+    "start": 18.0,
+    "end": 18.26,
+    "text": "right."
+  },
+  {
+    "i": 44,
+    "start": 18.78,
+    "end": 18.9,
+    "text": "I"
+  },
+  {
+    "i": 45,
+    "start": 18.9,
+    "end": 19.02,
+    "text": "was"
+  },
+  {
+    "i": 46,
+    "start": 19.02,
+    "end": 19.16,
+    "text": "not"
+  },
+  {
+    "i": 47,
+    "start": 19.16,
+    "end": 19.46,
+    "text": "saving"
+  },
+  {
+    "i": 48,
+    "start": 19.46,
+    "end": 19.84,
+    "text": "anybody."
+  },
+  {
+    "i": 49,
+    "start": 20.2,
+    "end": 20.54,
+    "text": "Everyone's"
+  },
+  {
+    "i": 50,
+    "start": 20.54,
+    "end": 20.74,
+    "text": "cooked."
+  }
+]

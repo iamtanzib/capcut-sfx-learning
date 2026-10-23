@@ -1,0 +1,481 @@
+{
+  "report": {
+    "job_id": "f379de491bd44dbd",
+    "timeline": "Day6.6",
+    "revision_hash": "fd2fe4b13f66259b1458d1470d92156f953f2625b1cfa919d28558e7cf2f95a4",
+    "unchanged": false,
+    "items": {
+      "matched": 4,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 2,
+          "start_delta": 0.067,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "kevin_pieces": {
+      "matched": 7,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "start_delta": 0.067,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 1,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 2,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 3,
+          "start_delta": 0.167,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 5,
+          "start_delta": 0.1,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "bw": {
+      "planned": 3,
+      "kept": [
+        0,
+        1,
+        2
+      ],
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "duration_delta": -0.067,
+          "zoom": 1.1,
+          "start_shift": 0.3
+        },
+        {
+          "planned": 1,
+          "duration_delta": -0.1,
+          "zoom": 1.1,
+          "start_shift": -0.267
+        },
+        {
+          "planned": 2,
+          "duration_delta": 0.0,
+          "zoom": 1.1,
+          "start_shift": -0.5
+        }
+      ]
+    },
+    "main_track_other_media": 0,
+    "learned_at": 1792673674.0826828
+  },
+  "plan": {
+    "job_id": "f379de491bd44dbd",
+    "project": "1022",
+    "timeline": "0C10ECF2-49DF-4613-968B-4EC85717C5B5",
+    "source_hash": "4eff5d2f14ae15196e2d89713e6261e5cd0d4bee834424b3d861ba1121ca26ea",
+    "style_version": 1,
+    "items": [
+      {
+        "start": 0.0,
+        "end": 5.963,
+        "rank": 4,
+        "label": "Magic",
+        "reason": "sea lion picks the cup in the shell game"
+      },
+      {
+        "start": 6.14,
+        "end": 11.45,
+        "rank": 6,
+        "label": "Cutie",
+        "reason": "petting, Rock eyebrow, tongue-out payoff"
+      },
+      {
+        "start": 11.46,
+        "end": 14.683,
+        "rank": 2,
+        "label": "Bazooka",
+        "reason": "walrus plays the saxophone"
+      },
+      {
+        "start": 14.693,
+        "end": 19.08,
+        "rank": 3,
+        "label": "Painful?",
+        "reason": "stapler on the flipper, seal was NOT hurt"
+      }
+    ],
+    "reactions": [
+      {
+        "item": 0,
+        "about": "he picked the same cup as the sea lion",
+        "pieces": [
+          {
+            "from_word": 4,
+            "to_word": 16,
+            "start": 2.11,
+            "end": 4.39,
+            "text": "Yo am I the only one who picked the same one as him?"
+          },
+          {
+            "from_word": 17,
+            "to_word": 19,
+            "start": 4.63,
+            "end": 5.48,
+            "text": "Am I stupid?"
+          }
+        ],
+        "bw": {
+          "at_word": 11,
+          "duration": 1.0,
+          "reason": "\"picked the same one as him\" replays the cup pick"
+        }
+      },
+      {
+        "item": 1,
+        "about": "the sea lion is flirting",
+        "pieces": [
+          {
+            "from_word": 20,
+            "to_word": 35,
+            "start": 6.81,
+            "end": 10.57,
+            "text": "Oh yeah we're definitely cooked. Animals just learned how to flirt bro. What is going on?"
+          }
+        ],
+        "bw": {
+          "at_word": 25,
+          "duration": 1.45,
+          "reason": "\"animals just learned how to flirt\" replays the tongue"
+        }
+      },
+      {
+        "item": 2,
+        "about": "thought the walrus sax was real",
+        "pieces": [
+          {
+            "from_word": 36,
+            "to_word": 49,
+            "start": 11.86,
+            "end": 14.84,
+            "text": "The only one who thought that was real for the first two seconds bro."
+          },
+          {
+            "from_word": 50,
+            "to_word": 51,
+            "start": 15.14,
+            "end": 16.05,
+            "text": "Ayes cook."
+          }
+        ],
+        "bw": {
+          "at_word": 41,
+          "duration": 1.4,
+          "reason": "\"thought that was real\" replays the walrus"
+        }
+      },
+      {
+        "item": 3,
+        "about": "he would smack them for the stapler",
+        "pieces": [
+          {
+            "from_word": 52,
+            "to_word": 63,
+            "start": 17.21,
+            "end": 19.82,
+            "text": "If I was our sea lion I want to smack them bro."
+          },
+          {
+            "from_word": 64,
+            "to_word": 74,
+            "start": 19.99,
+            "end": 21.59,
+            "text": "You just have to pay for I'm gonna click my what?"
+          }
+        ]
+      }
+    ],
+    "segments": [
+      {
+        "role": "ranking",
+        "index": 0,
+        "source_start": 0.0,
+        "frames": 178,
+        "target_frame": 0
+      },
+      {
+        "role": "kevin",
+        "index": 0,
+        "source_start": 2.11,
+        "frames": 68,
+        "target_frame": 178
+      },
+      {
+        "role": "kevin",
+        "index": 0,
+        "source_start": 4.63,
+        "frames": 26,
+        "target_frame": 246
+      },
+      {
+        "role": "ranking",
+        "index": 1,
+        "source_start": 6.14,
+        "frames": 159,
+        "target_frame": 272
+      },
+      {
+        "role": "kevin",
+        "index": 1,
+        "source_start": 6.81,
+        "frames": 113,
+        "target_frame": 431
+      },
+      {
+        "role": "ranking",
+        "index": 2,
+        "source_start": 11.46,
+        "frames": 96,
+        "target_frame": 544
+      },
+      {
+        "role": "kevin",
+        "index": 2,
+        "source_start": 11.86,
+        "frames": 89,
+        "target_frame": 640
+      },
+      {
+        "role": "kevin",
+        "index": 2,
+        "source_start": 15.14,
+        "frames": 27,
+        "target_frame": 729
+      },
+      {
+        "role": "ranking",
+        "index": 3,
+        "source_start": 14.693,
+        "frames": 131,
+        "target_frame": 756
+      },
+      {
+        "role": "kevin",
+        "index": 3,
+        "source_start": 17.21,
+        "frames": 78,
+        "target_frame": 887
+      },
+      {
+        "role": "kevin",
+        "index": 3,
+        "source_start": 19.99,
+        "frames": 48,
+        "target_frame": 965
+      }
+    ],
+    "overlays": [
+      {
+        "reaction": 0,
+        "target_frame": 207,
+        "frames": 30,
+        "source_start": 4.963,
+        "zoom": 1.1,
+        "reason": "\"picked the same one as him\" replays the cup pick",
+        "under_words": "picked the same one as him?"
+      },
+      {
+        "reaction": 1,
+        "target_frame": 468,
+        "frames": 44,
+        "source_start": 9.983,
+        "zoom": 1.1,
+        "reason": "\"animals just learned how to flirt\" replays the tongue",
+        "under_words": "Animals just learned how to flirt bro."
+      },
+      {
+        "reaction": 2,
+        "target_frame": 661,
+        "frames": 42,
+        "source_start": 13.283,
+        "zoom": 1.1,
+        "reason": "\"thought that was real\" replays the walrus",
+        "under_words": "that was real for the first two seconds"
+      }
+    ],
+    "volumes": {
+      "kevin": 0.63,
+      "ranking": 0.5
+    },
+    "total_frames": 1013,
+    "whoosh_cues": [
+      8.737,
+      17.803,
+      24.87
+    ],
+    "quality_notes": {
+      "item_boundaries_checked_on_frames": true,
+      "reaction_mapping_reviewed": true,
+      "dropped_speech_reviewed": true,
+      "dropped": "slates, the Backrooms false start + off-take aside, a stray \"What?\" before a 1s pause, and the Sea Lion zero-length ASR repeat"
+    }
+  },
+  "observed": {
+    "main": [
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_2405F274-DA79-46FB-93B4-C6798A862C97.mov",
+        "start": 0.0,
+        "duration": 5.933333,
+        "source_start": 0.0,
+        "source_duration": 5.933333,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 5.933333,
+        "duration": 2.2,
+        "source_start": 2.176667,
+        "source_duration": 2.2,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 8.133333,
+        "duration": 0.766667,
+        "source_start": 4.73,
+        "source_duration": 0.766667,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_2405F274-DA79-46FB-93B4-C6798A862C97.mov",
+        "start": 8.9,
+        "duration": 5.3,
+        "source_start": 6.14,
+        "source_duration": 5.3,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 14.2,
+        "duration": 3.666666,
+        "source_start": 6.91,
+        "source_duration": 3.666666,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_2405F274-DA79-46FB-93B4-C6798A862C97.mov",
+        "start": 17.866666,
+        "duration": 3.133334,
+        "source_start": 11.526667,
+        "source_duration": 3.133333,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 21.0,
+        "duration": 2.8,
+        "source_start": 12.026666,
+        "source_duration": 2.800001,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 23.8,
+        "duration": 0.9,
+        "source_start": 15.14,
+        "source_duration": 0.9,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_2405F274-DA79-46FB-93B4-C6798A862C97.mov",
+        "start": 24.7,
+        "duration": 4.333333,
+        "source_start": 14.726333,
+        "source_duration": 4.333334,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 29.033333,
+        "duration": 2.5,
+        "source_start": 17.31,
+        "source_duration": 2.5,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7670.MOV",
+        "start": 31.533333,
+        "duration": 1.6,
+        "source_start": 19.99,
+        "source_duration": 1.6,
+        "volume": 0.63,
+        "scale": 1.0
+      }
+    ],
+    "overlays": [
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f379de491bd44dbd/bw_01_b42e7a1a26.mp4",
+        "start": 7.2,
+        "duration": 0.933333,
+        "source_start": 0.0,
+        "source_duration": 0.933333,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f379de491bd44dbd/bw_02_298274a8d6.mp4",
+        "start": 15.333333,
+        "duration": 1.366667,
+        "source_start": 0.0,
+        "source_duration": 1.366667,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/f379de491bd44dbd/bw_03_90e43a0f2a.mp4",
+        "start": 21.533333,
+        "duration": 1.4,
+        "source_start": 0.0,
+        "source_duration": 1.4,
+        "volume": 0.0,
+        "scale": 1.1
+      }
+    ]
+  }
+}

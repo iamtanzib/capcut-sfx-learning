@@ -1,0 +1,54 @@
+Preparing video_track_1 (cached results are reused)...
+Decoding video_track_1: IMG_7488.MOV
+Transcribing video_track_1, base.en, CPU int8...
+video_track_1: speech read through 15.6s
+video_track_1: speech read through 40.3s
+video_track_1: speech read through 76.0s
+video_track_1: speech read through 96.5s
+video_track_1: speech read through 101.5s
+Preparing small frame proxy for video_track_1...
+Detecting scene changes in video_track_1.proxy-keyframes...
+Preparing video_track_2 (cached results are reused)...
+Decoding video_track_2: copy_0FAEE7FD-B529-41FC-B987-B1096FCEB67C.mov
+Transcribing video_track_2, base.en, CPU int8...
+video_track_2: speech read through 2.4s
+video_track_2: speech read through 4.5s
+video_track_2: speech read through 6.5s
+video_track_2: speech read through 7.2s
+video_track_2: speech read through 8.2s
+video_track_2: speech read through 10.6s
+video_track_2: speech read through 12.4s
+video_track_2: speech read through 14.1s
+video_track_2: speech read through 18.1s
+video_track_2: speech read through 20.7s
+video_track_2: speech read through 21.6s
+video_track_2: speech read through 23.0s
+video_track_2: speech read through 24.0s
+video_track_2: speech read through 26.9s
+video_track_2: speech read through 28.8s
+video_track_2: speech read through 30.3s
+video_track_2: speech read through 36.0s
+video_track_2: speech read through 38.9s
+video_track_2: speech read through 40.1s
+video_track_2: speech read through 45.8s
+video_track_2: speech read through 46.9s
+video_track_2: speech read through 52.3s
+video_track_2: speech read through 55.0s
+video_track_2: speech read through 58.1s
+video_track_2: speech read through 62.0s
+video_track_2: speech read through 63.4s
+video_track_2: speech read through 65.9s
+video_track_2: speech read through 68.5s
+video_track_2: speech read through 71.3s
+video_track_2: speech read through 75.5s
+video_track_2: speech read through 77.0s
+video_track_2: speech read through 79.3s
+video_track_2: speech read through 83.9s
+video_track_2: speech read through 87.2s
+video_track_2: speech read through 92.4s
+video_track_2: speech read through 95.3s
+video_track_2: speech read through 100.7s
+video_track_2: speech read through 103.1s
+Preparing small frame proxy for video_track_2...
+Detecting scene changes in video_track_2.proxy-keyframes...
+Context ready: 22.79s; 2 video tracks; 43 speech segments.

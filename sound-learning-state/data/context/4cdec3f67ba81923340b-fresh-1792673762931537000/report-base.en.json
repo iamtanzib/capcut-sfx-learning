@@ -1,0 +1,578 @@
+{
+  "project": "1022",
+  "timeline": "7064D7FC-FFF5-4BF5-B498-E762230A0F0B",
+  "model": "base.en",
+  "cache_key": "4cdec3f67ba81923340b",
+  "cache_folder": "/Users/tanzibsrijon/SoundPilotLearning/data/context/4cdec3f67ba81923340b-fresh-1792673762931537000",
+  "seconds": 6.53,
+  "tracks": [
+    {
+      "role": "video_track_1",
+      "speech": [
+        {
+          "start": 0.24,
+          "end": 7.7,
+          "text": "Let's go. All right, the first one made me flinch. Did anybody else flinch? Oh my god",
+          "words": [
+            {
+              "start": 0.24,
+              "end": 0.78,
+              "text": "Let's"
+            },
+            {
+              "start": 0.78,
+              "end": 0.94,
+              "text": "go."
+            },
+            {
+              "start": 4.06,
+              "end": 4.5,
+              "text": "All"
+            },
+            {
+              "start": 4.5,
+              "end": 4.62,
+              "text": "right,"
+            },
+            {
+              "start": 4.66,
+              "end": 4.72,
+              "text": "the"
+            },
+            {
+              "start": 4.72,
+              "end": 4.92,
+              "text": "first"
+            },
+            {
+              "start": 4.92,
+              "end": 5.12,
+              "text": "one"
+            },
+            {
+              "start": 5.12,
+              "end": 5.26,
+              "text": "made"
+            },
+            {
+              "start": 5.26,
+              "end": 5.42,
+              "text": "me"
+            },
+            {
+              "start": 5.42,
+              "end": 5.74,
+              "text": "flinch."
+            },
+            {
+              "start": 5.82,
+              "end": 5.86,
+              "text": "Did"
+            },
+            {
+              "start": 5.86,
+              "end": 6.04,
+              "text": "anybody"
+            },
+            {
+              "start": 6.04,
+              "end": 6.36,
+              "text": "else"
+            },
+            {
+              "start": 6.36,
+              "end": 6.76,
+              "text": "flinch?"
+            },
+            {
+              "start": 7.12,
+              "end": 7.22,
+              "text": "Oh"
+            },
+            {
+              "start": 7.22,
+              "end": 7.34,
+              "text": "my"
+            },
+            {
+              "start": 7.34,
+              "end": 7.7,
+              "text": "god"
+            }
+          ]
+        },
+        {
+          "start": 11.69,
+          "end": 16.11,
+          "text": "Well sign this guy up for the army immediately we need him. Oh my god",
+          "words": [
+            {
+              "start": 11.69,
+              "end": 12.13,
+              "text": "Well"
+            },
+            {
+              "start": 12.13,
+              "end": 12.57,
+              "text": "sign"
+            },
+            {
+              "start": 12.57,
+              "end": 12.75,
+              "text": "this"
+            },
+            {
+              "start": 12.75,
+              "end": 12.93,
+              "text": "guy"
+            },
+            {
+              "start": 12.93,
+              "end": 13.11,
+              "text": "up"
+            },
+            {
+              "start": 13.11,
+              "end": 13.23,
+              "text": "for"
+            },
+            {
+              "start": 13.23,
+              "end": 13.33,
+              "text": "the"
+            },
+            {
+              "start": 13.33,
+              "end": 13.63,
+              "text": "army"
+            },
+            {
+              "start": 13.63,
+              "end": 14.19,
+              "text": "immediately"
+            },
+            {
+              "start": 14.19,
+              "end": 14.45,
+              "text": "we"
+            },
+            {
+              "start": 14.45,
+              "end": 14.65,
+              "text": "need"
+            },
+            {
+              "start": 14.65,
+              "end": 15.07,
+              "text": "him."
+            },
+            {
+              "start": 15.25,
+              "end": 15.59,
+              "text": "Oh"
+            },
+            {
+              "start": 15.59,
+              "end": 15.73,
+              "text": "my"
+            },
+            {
+              "start": 15.73,
+              "end": 16.11,
+              "text": "god"
+            }
+          ]
+        },
+        {
+          "start": 20.82,
+          "end": 24.22,
+          "text": "Instead of guns we use golf balls as a weapon. He's cooking everyone",
+          "words": [
+            {
+              "start": 20.82,
+              "end": 21.26,
+              "text": "Instead"
+            },
+            {
+              "start": 21.26,
+              "end": 21.6,
+              "text": "of"
+            },
+            {
+              "start": 21.6,
+              "end": 21.8,
+              "text": "guns"
+            },
+            {
+              "start": 21.8,
+              "end": 22.06,
+              "text": "we"
+            },
+            {
+              "start": 22.06,
+              "end": 22.26,
+              "text": "use"
+            },
+            {
+              "start": 22.26,
+              "end": 22.42,
+              "text": "golf"
+            },
+            {
+              "start": 22.42,
+              "end": 22.72,
+              "text": "balls"
+            },
+            {
+              "start": 22.72,
+              "end": 22.94,
+              "text": "as"
+            },
+            {
+              "start": 22.94,
+              "end": 23.04,
+              "text": "a"
+            },
+            {
+              "start": 23.04,
+              "end": 23.3,
+              "text": "weapon."
+            },
+            {
+              "start": 23.3,
+              "end": 23.54,
+              "text": "He's"
+            },
+            {
+              "start": 23.54,
+              "end": 23.74,
+              "text": "cooking"
+            },
+            {
+              "start": 23.74,
+              "end": 24.22,
+              "text": "everyone"
+            }
+          ]
+        },
+        {
+          "start": 26.29,
+          "end": 26.73,
+          "text": "Okay",
+          "words": [
+            {
+              "start": 26.29,
+              "end": 26.73,
+              "text": "Okay"
+            }
+          ]
+        },
+        {
+          "start": 28.5,
+          "end": 30.86,
+          "text": "Admit that was satisfying the way that pop",
+          "words": [
+            {
+              "start": 28.5,
+              "end": 28.94,
+              "text": "Admit"
+            },
+            {
+              "start": 28.94,
+              "end": 29.16,
+              "text": "that"
+            },
+            {
+              "start": 29.16,
+              "end": 29.28,
+              "text": "was"
+            },
+            {
+              "start": 29.28,
+              "end": 29.84,
+              "text": "satisfying"
+            },
+            {
+              "start": 29.84,
+              "end": 30.36,
+              "text": "the"
+            },
+            {
+              "start": 30.36,
+              "end": 30.5,
+              "text": "way"
+            },
+            {
+              "start": 30.5,
+              "end": 30.64,
+              "text": "that"
+            },
+            {
+              "start": 30.64,
+              "end": 30.86,
+              "text": "pop"
+            }
+          ]
+        },
+        {
+          "start": 33.55,
+          "end": 40.91,
+          "text": "Another one his mom is definitely pissed. He just stole all his mom's vases and broke them bro. What oh",
+          "words": [
+            {
+              "start": 33.55,
+              "end": 33.99,
+              "text": "Another"
+            },
+            {
+              "start": 33.99,
+              "end": 34.43,
+              "text": "one"
+            },
+            {
+              "start": 34.43,
+              "end": 35.13,
+              "text": "his"
+            },
+            {
+              "start": 36.57,
+              "end": 36.85,
+              "text": "mom"
+            },
+            {
+              "start": 36.85,
+              "end": 37.01,
+              "text": "is"
+            },
+            {
+              "start": 37.01,
+              "end": 37.41,
+              "text": "definitely"
+            },
+            {
+              "start": 37.41,
+              "end": 37.75,
+              "text": "pissed."
+            },
+            {
+              "start": 38.07,
+              "end": 38.23,
+              "text": "He"
+            },
+            {
+              "start": 38.23,
+              "end": 38.37,
+              "text": "just"
+            },
+            {
+              "start": 38.37,
+              "end": 38.59,
+              "text": "stole"
+            },
+            {
+              "start": 38.59,
+              "end": 38.75,
+              "text": "all"
+            },
+            {
+              "start": 38.75,
+              "end": 38.89,
+              "text": "his"
+            },
+            {
+              "start": 38.89,
+              "end": 39.21,
+              "text": "mom's"
+            },
+            {
+              "start": 39.21,
+              "end": 39.53,
+              "text": "vases"
+            },
+            {
+              "start": 39.53,
+              "end": 39.67,
+              "text": "and"
+            },
+            {
+              "start": 39.67,
+              "end": 39.85,
+              "text": "broke"
+            },
+            {
+              "start": 39.85,
+              "end": 40.07,
+              "text": "them"
+            },
+            {
+              "start": 40.07,
+              "end": 40.21,
+              "text": "bro."
+            },
+            {
+              "start": 40.21,
+              "end": 40.51,
+              "text": "What"
+            },
+            {
+              "start": 40.51,
+              "end": 40.91,
+              "text": "oh"
+            }
+          ]
+        },
+        {
+          "start": 42.25,
+          "end": 48.66,
+          "text": "Oh, damn imagine if that was a person, bro. Oh my gosh",
+          "words": [
+            {
+              "start": 42.25,
+              "end": 42.95,
+              "text": "Oh,"
+            },
+            {
+              "start": 42.97,
+              "end": 43.21,
+              "text": "damn"
+            },
+            {
+              "start": 43.21,
+              "end": 44.97,
+              "text": "imagine"
+            },
+            {
+              "start": 45.96,
+              "end": 46.32,
+              "text": "if"
+            },
+            {
+              "start": 46.32,
+              "end": 46.48,
+              "text": "that"
+            },
+            {
+              "start": 46.48,
+              "end": 46.68,
+              "text": "was"
+            },
+            {
+              "start": 46.68,
+              "end": 46.8,
+              "text": "a"
+            },
+            {
+              "start": 46.8,
+              "end": 47.18,
+              "text": "person,"
+            },
+            {
+              "start": 47.18,
+              "end": 47.62,
+              "text": "bro."
+            },
+            {
+              "start": 47.92,
+              "end": 48.16,
+              "text": "Oh"
+            },
+            {
+              "start": 48.16,
+              "end": 48.32,
+              "text": "my"
+            },
+            {
+              "start": 48.32,
+              "end": 48.66,
+              "text": "gosh"
+            }
+          ]
+        }
+      ],
+      "transcription_seconds": 2.3,
+      "cached": false,
+      "loud_moments": [
+        0.6,
+        3.7,
+        5.2,
+        7.6,
+        13.0,
+        14.7,
+        16.2,
+        17.1,
+        19.7,
+        20.5,
+        21.4,
+        26.7,
+        27.9,
+        28.7,
+        32.8,
+        33.8,
+        36.0,
+        37.1,
+        38.5,
+        39.3,
+        41.7,
+        42.9,
+        44.4,
+        45.9,
+        47.0
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "speech": [],
+      "transcription_seconds": 0.2,
+      "cached": false,
+      "loud_moments": []
+    }
+  ],
+  "scenes": [
+    {
+      "role": "video_track_1",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 12.25
+        },
+        {
+          "start": 12.25,
+          "end": 21.125
+        },
+        {
+          "start": 21.125,
+          "end": 36.5
+        },
+        {
+          "start": 36.5,
+          "end": 45.875
+        },
+        {
+          "start": 45.875,
+          "end": 48.875
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 40.125
+        }
+      ]
+    }
+  ],
+  "keyframes": [
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/4cdec3f67ba81923340b-fresh-1792673762931537000/keyframes-keyframes-1.jpg"
+  ],
+  "brief": "/Users/tanzibsrijon/SoundPilotLearning/jobs/390e1d76e3aa4af1/enhanced_brief.json",
+  "scene_decode": "keyframes",
+  "brief_characters": 26706,
+  "old_sfx_used_as_input": false,
+  "excluded_style_timelines": [],
+  "quality_note": "Preprocessing validated. This does not establish sound-selection accuracy or a 90% score.",
+  "analysis_created_at": 1792673769.465694,
+  "analysis_reused": false,
+  "transcription_runs": 2
+}

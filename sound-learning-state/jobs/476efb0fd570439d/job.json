@@ -1,0 +1,21 @@
+{
+  "job_id": "476efb0fd570439d",
+  "batch_id": "ea7c80cb06a04e43",
+  "project": "1022",
+  "timeline": "Day 7.3",
+  "timeline_id": "8B9BADE9-C9C7-4C48-A11A-BE3758158DAA",
+  "source_hash": "10c9a048a2a698257b0aa7a1eebc2ca9fe9cda84ed04b197ef1e8eafc191f7f6",
+  "duration": 46.2,
+  "style_version": 40,
+  "status": "applied",
+  "has_existing_sfx": false,
+  "created_at": 1792754058.568288,
+  "plan_schema_version": 2,
+  "zoom_required": false,
+  "hook_required": false,
+  "seconds": 6.12,
+  "cache_key": "350126097c15435f180c",
+  "analysis_reused": false,
+  "analysis_expires_at": 1793358865.239582,
+  "applied_at": 1792754556.1527739
+}

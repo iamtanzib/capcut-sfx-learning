@@ -1,0 +1,301 @@
+{
+  "model": "base.en",
+  "seconds": 1.41,
+  "cached": false,
+  "rows": [
+    {
+      "start": 1.43,
+      "end": 24.67,
+      "text": "Oh, I do? Let's see. What the? Hey, did you like it out of the hood? Yeah. Hey, Joe, wait. Yeah, definitely not. Mm-hmm. That's evil.",
+      "words": [
+        {
+          "start": 1.43,
+          "end": 1.87,
+          "text": "Oh,"
+        },
+        {
+          "start": 3.93,
+          "end": 4.15,
+          "text": "I"
+        },
+        {
+          "start": 4.15,
+          "end": 4.37,
+          "text": "do?"
+        },
+        {
+          "start": 7.21,
+          "end": 7.55,
+          "text": "Let's"
+        },
+        {
+          "start": 7.55,
+          "end": 7.69,
+          "text": "see."
+        },
+        {
+          "start": 10.25,
+          "end": 10.47,
+          "text": "What"
+        },
+        {
+          "start": 10.47,
+          "end": 10.69,
+          "text": "the?"
+        },
+        {
+          "start": 16.39,
+          "end": 16.47,
+          "text": "Hey,"
+        },
+        {
+          "start": 16.57,
+          "end": 16.65,
+          "text": "did"
+        },
+        {
+          "start": 16.65,
+          "end": 16.71,
+          "text": "you"
+        },
+        {
+          "start": 16.71,
+          "end": 16.85,
+          "text": "like"
+        },
+        {
+          "start": 16.85,
+          "end": 16.91,
+          "text": "it"
+        },
+        {
+          "start": 16.91,
+          "end": 17.03,
+          "text": "out"
+        },
+        {
+          "start": 17.03,
+          "end": 17.15,
+          "text": "of"
+        },
+        {
+          "start": 17.15,
+          "end": 17.17,
+          "text": "the"
+        },
+        {
+          "start": 17.17,
+          "end": 17.31,
+          "text": "hood?"
+        },
+        {
+          "start": 17.91,
+          "end": 18.11,
+          "text": "Yeah."
+        },
+        {
+          "start": 22.11,
+          "end": 22.31,
+          "text": "Hey,"
+        },
+        {
+          "start": 22.37,
+          "end": 22.47,
+          "text": "Joe,"
+        },
+        {
+          "start": 22.63,
+          "end": 22.65,
+          "text": "wait."
+        },
+        {
+          "start": 22.79,
+          "end": 22.89,
+          "text": "Yeah,"
+        },
+        {
+          "start": 22.99,
+          "end": 23.11,
+          "text": "definitely"
+        },
+        {
+          "start": 23.11,
+          "end": 23.45,
+          "text": "not."
+        },
+        {
+          "start": 23.75,
+          "end": 23.83,
+          "text": "Mm"
+        },
+        {
+          "start": 23.83,
+          "end": 24.05,
+          "text": "-hmm."
+        },
+        {
+          "start": 24.29,
+          "end": 24.49,
+          "text": "That's"
+        },
+        {
+          "start": 24.49,
+          "end": 24.67,
+          "text": "evil."
+        }
+      ]
+    },
+    {
+      "start": 26.21,
+      "end": 48.55,
+      "text": "Okay. That's a nice game. Oh, heck nah. Literally, they're gonna jump you. Like, what's nah? Bubbles? I don't want to get bubbled. That's a threat. Oh, heck nah.",
+      "words": [
+        {
+          "start": 26.21,
+          "end": 26.65,
+          "text": "Okay."
+        },
+        {
+          "start": 30.76,
+          "end": 31.12,
+          "text": "That's"
+        },
+        {
+          "start": 31.12,
+          "end": 31.2,
+          "text": "a"
+        },
+        {
+          "start": 31.2,
+          "end": 31.42,
+          "text": "nice"
+        },
+        {
+          "start": 31.42,
+          "end": 31.76,
+          "text": "game."
+        },
+        {
+          "start": 34.07,
+          "end": 34.11,
+          "text": "Oh,"
+        },
+        {
+          "start": 34.29,
+          "end": 34.35,
+          "text": "heck"
+        },
+        {
+          "start": 34.35,
+          "end": 34.75,
+          "text": "nah."
+        },
+        {
+          "start": 37.72,
+          "end": 38.16,
+          "text": "Literally,"
+        },
+        {
+          "start": 38.58,
+          "end": 38.68,
+          "text": "they're"
+        },
+        {
+          "start": 38.68,
+          "end": 38.8,
+          "text": "gonna"
+        },
+        {
+          "start": 38.8,
+          "end": 39.12,
+          "text": "jump"
+        },
+        {
+          "start": 39.12,
+          "end": 39.34,
+          "text": "you."
+        },
+        {
+          "start": 39.6,
+          "end": 39.68,
+          "text": "Like,"
+        },
+        {
+          "start": 39.8,
+          "end": 40.06,
+          "text": "what's"
+        },
+        {
+          "start": 40.06,
+          "end": 40.4,
+          "text": "nah?"
+        },
+        {
+          "start": 41.42,
+          "end": 41.7,
+          "text": "Bubbles?"
+        },
+        {
+          "start": 44.08,
+          "end": 44.1,
+          "text": "I"
+        },
+        {
+          "start": 44.1,
+          "end": 44.2,
+          "text": "don't"
+        },
+        {
+          "start": 44.2,
+          "end": 44.3,
+          "text": "want"
+        },
+        {
+          "start": 44.3,
+          "end": 44.34,
+          "text": "to"
+        },
+        {
+          "start": 44.34,
+          "end": 44.46,
+          "text": "get"
+        },
+        {
+          "start": 44.46,
+          "end": 44.72,
+          "text": "bubbled."
+        },
+        {
+          "start": 46.89,
+          "end": 47.17,
+          "text": "That's"
+        },
+        {
+          "start": 47.17,
+          "end": 47.25,
+          "text": "a"
+        },
+        {
+          "start": 47.25,
+          "end": 47.51,
+          "text": "threat."
+        },
+        {
+          "start": 47.91,
+          "end": 47.93,
+          "text": "Oh,"
+        },
+        {
+          "start": 48.15,
+          "end": 48.25,
+          "text": "heck"
+        },
+        {
+          "start": 48.25,
+          "end": 48.55,
+          "text": "nah."
+        }
+      ]
+    }
+  ]
+}

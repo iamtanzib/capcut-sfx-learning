@@ -1,0 +1,866 @@
+{
+  "model": "base.en",
+  "seconds": 2.64,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Choose one ring that deletes a problem from your life forever, but whichever ring you pick,",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.2,
+          "text": "Choose"
+        },
+        {
+          "start": 0.2,
+          "end": 0.56,
+          "text": "one"
+        },
+        {
+          "start": 0.56,
+          "end": 0.82,
+          "text": "ring"
+        },
+        {
+          "start": 0.82,
+          "end": 1.04,
+          "text": "that"
+        },
+        {
+          "start": 1.04,
+          "end": 1.4,
+          "text": "deletes"
+        },
+        {
+          "start": 1.4,
+          "end": 1.46,
+          "text": "a"
+        },
+        {
+          "start": 1.46,
+          "end": 1.74,
+          "text": "problem"
+        },
+        {
+          "start": 1.74,
+          "end": 2.02,
+          "text": "from"
+        },
+        {
+          "start": 2.02,
+          "end": 2.16,
+          "text": "your"
+        },
+        {
+          "start": 2.16,
+          "end": 2.4,
+          "text": "life"
+        },
+        {
+          "start": 2.4,
+          "end": 2.64,
+          "text": "forever,"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "text": "but"
+        },
+        {
+          "start": 3.3,
+          "end": 3.48,
+          "text": "whichever"
+        },
+        {
+          "start": 3.48,
+          "end": 3.88,
+          "text": "ring"
+        },
+        {
+          "start": 3.88,
+          "end": 4.04,
+          "text": "you"
+        },
+        {
+          "start": 4.04,
+          "end": 4.28,
+          "text": "pick,"
+        }
+      ]
+    },
+    {
+      "start": 4.62,
+      "end": 5.56,
+      "text": "you can never take it off.",
+      "words": [
+        {
+          "start": 4.62,
+          "end": 4.64,
+          "text": "you"
+        },
+        {
+          "start": 4.64,
+          "end": 4.76,
+          "text": "can"
+        },
+        {
+          "start": 4.76,
+          "end": 5.02,
+          "text": "never"
+        },
+        {
+          "start": 5.02,
+          "end": 5.26,
+          "text": "take"
+        },
+        {
+          "start": 5.26,
+          "end": 5.38,
+          "text": "it"
+        },
+        {
+          "start": 5.38,
+          "end": 5.56,
+          "text": "off."
+        }
+      ]
+    },
+    {
+      "start": 5.92,
+      "end": 6.8,
+      "text": "Which one are you choosing?",
+      "words": [
+        {
+          "start": 5.92,
+          "end": 6.02,
+          "text": "Which"
+        },
+        {
+          "start": 6.02,
+          "end": 6.28,
+          "text": "one"
+        },
+        {
+          "start": 6.28,
+          "end": 6.42,
+          "text": "are"
+        },
+        {
+          "start": 6.42,
+          "end": 6.54,
+          "text": "you"
+        },
+        {
+          "start": 6.54,
+          "end": 6.8,
+          "text": "choosing?"
+        }
+      ]
+    },
+    {
+      "start": 8.04,
+      "end": 9.58,
+      "text": "This ring deletes traffic forever.",
+      "words": [
+        {
+          "start": 8.04,
+          "end": 8.12,
+          "text": "This"
+        },
+        {
+          "start": 8.12,
+          "end": 8.42,
+          "text": "ring"
+        },
+        {
+          "start": 8.42,
+          "end": 8.96,
+          "text": "deletes"
+        },
+        {
+          "start": 8.96,
+          "end": 9.12,
+          "text": "traffic"
+        },
+        {
+          "start": 9.12,
+          "end": 9.58,
+          "text": "forever."
+        }
+      ]
+    },
+    {
+      "start": 10.28,
+      "end": 11.7,
+      "text": "Every road clears when you drive.",
+      "words": [
+        {
+          "start": 10.28,
+          "end": 10.42,
+          "text": "Every"
+        },
+        {
+          "start": 10.42,
+          "end": 10.68,
+          "text": "road"
+        },
+        {
+          "start": 10.68,
+          "end": 10.98,
+          "text": "clears"
+        },
+        {
+          "start": 10.98,
+          "end": 11.3,
+          "text": "when"
+        },
+        {
+          "start": 11.3,
+          "end": 11.46,
+          "text": "you"
+        },
+        {
+          "start": 11.46,
+          "end": 11.7,
+          "text": "drive."
+        }
+      ]
+    },
+    {
+      "start": 12.38,
+      "end": 14.0,
+      "text": "Rush hour can kiss my bumper goodbye.",
+      "words": [
+        {
+          "start": 12.38,
+          "end": 12.44,
+          "text": "Rush"
+        },
+        {
+          "start": 12.44,
+          "end": 12.7,
+          "text": "hour"
+        },
+        {
+          "start": 12.7,
+          "end": 13.02,
+          "text": "can"
+        },
+        {
+          "start": 13.02,
+          "end": 13.24,
+          "text": "kiss"
+        },
+        {
+          "start": 13.24,
+          "end": 13.44,
+          "text": "my"
+        },
+        {
+          "start": 13.44,
+          "end": 13.66,
+          "text": "bumper"
+        },
+        {
+          "start": 13.66,
+          "end": 14.0,
+          "text": "goodbye."
+        }
+      ]
+    },
+    {
+      "start": 16.06,
+      "end": 17.86,
+      "text": "This ring makes you never tired again.",
+      "words": [
+        {
+          "start": 16.06,
+          "end": 16.26,
+          "text": "This"
+        },
+        {
+          "start": 16.26,
+          "end": 16.52,
+          "text": "ring"
+        },
+        {
+          "start": 16.52,
+          "end": 16.74,
+          "text": "makes"
+        },
+        {
+          "start": 16.74,
+          "end": 16.94,
+          "text": "you"
+        },
+        {
+          "start": 16.94,
+          "end": 17.24,
+          "text": "never"
+        },
+        {
+          "start": 17.24,
+          "end": 17.58,
+          "text": "tired"
+        },
+        {
+          "start": 17.58,
+          "end": 17.86,
+          "text": "again."
+        }
+      ]
+    },
+    {
+      "start": 18.42,
+      "end": 20.7,
+      "text": "No sleep, no yawning, unlimited energy.",
+      "words": [
+        {
+          "start": 18.42,
+          "end": 18.5,
+          "text": "No"
+        },
+        {
+          "start": 18.5,
+          "end": 18.8,
+          "text": "sleep,"
+        },
+        {
+          "start": 19.1,
+          "end": 19.22,
+          "text": "no"
+        },
+        {
+          "start": 19.22,
+          "end": 19.68,
+          "text": "yawning,"
+        },
+        {
+          "start": 19.86,
+          "end": 20.18,
+          "text": "unlimited"
+        },
+        {
+          "start": 20.18,
+          "end": 20.7,
+          "text": "energy."
+        }
+      ]
+    },
+    {
+      "start": 21.16,
+      "end": 22.88,
+      "text": "My coffee machine just lost its job.",
+      "words": [
+        {
+          "start": 21.16,
+          "end": 21.24,
+          "text": "My"
+        },
+        {
+          "start": 21.24,
+          "end": 21.42,
+          "text": "coffee"
+        },
+        {
+          "start": 21.42,
+          "end": 21.84,
+          "text": "machine"
+        },
+        {
+          "start": 21.84,
+          "end": 22.12,
+          "text": "just"
+        },
+        {
+          "start": 22.12,
+          "end": 22.34,
+          "text": "lost"
+        },
+        {
+          "start": 22.34,
+          "end": 22.58,
+          "text": "its"
+        },
+        {
+          "start": 22.58,
+          "end": 22.88,
+          "text": "job."
+        }
+      ]
+    },
+    {
+      "start": 24.01,
+      "end": 27.89,
+      "text": "This ring automatically gives you every answer on any test or quiz.",
+      "words": [
+        {
+          "start": 24.01,
+          "end": 24.25,
+          "text": "This"
+        },
+        {
+          "start": 24.25,
+          "end": 24.49,
+          "text": "ring"
+        },
+        {
+          "start": 24.49,
+          "end": 24.93,
+          "text": "automatically"
+        },
+        {
+          "start": 24.93,
+          "end": 25.45,
+          "text": "gives"
+        },
+        {
+          "start": 25.45,
+          "end": 25.63,
+          "text": "you"
+        },
+        {
+          "start": 25.63,
+          "end": 25.93,
+          "text": "every"
+        },
+        {
+          "start": 25.93,
+          "end": 26.37,
+          "text": "answer"
+        },
+        {
+          "start": 26.37,
+          "end": 26.57,
+          "text": "on"
+        },
+        {
+          "start": 26.57,
+          "end": 26.85,
+          "text": "any"
+        },
+        {
+          "start": 26.85,
+          "end": 27.21,
+          "text": "test"
+        },
+        {
+          "start": 27.21,
+          "end": 27.53,
+          "text": "or"
+        },
+        {
+          "start": 27.53,
+          "end": 27.89,
+          "text": "quiz."
+        }
+      ]
+    },
+    {
+      "start": 27.89,
+      "end": 30.73,
+      "text": "is. I'm getting straight A's without knowing a single thing.",
+      "words": [
+        {
+          "start": 27.89,
+          "end": 28.11,
+          "text": "is."
+        },
+        {
+          "start": 28.41,
+          "end": 28.61,
+          "text": "I'm"
+        },
+        {
+          "start": 28.61,
+          "end": 28.75,
+          "text": "getting"
+        },
+        {
+          "start": 28.75,
+          "end": 29.01,
+          "text": "straight"
+        },
+        {
+          "start": 29.01,
+          "end": 29.45,
+          "text": "A's"
+        },
+        {
+          "start": 29.45,
+          "end": 29.55,
+          "text": "without"
+        },
+        {
+          "start": 29.55,
+          "end": 29.93,
+          "text": "knowing"
+        },
+        {
+          "start": 29.93,
+          "end": 30.07,
+          "text": "a"
+        },
+        {
+          "start": 30.07,
+          "end": 30.29,
+          "text": "single"
+        },
+        {
+          "start": 30.29,
+          "end": 30.73,
+          "text": "thing."
+        }
+      ]
+    },
+    {
+      "start": 31.88,
+      "end": 37.28,
+      "text": "This ring gives you perfect Wi-Fi everywhere. Even down here, full connection. My toilet",
+      "words": [
+        {
+          "start": 31.88,
+          "end": 32.24,
+          "text": "This"
+        },
+        {
+          "start": 32.24,
+          "end": 32.46,
+          "text": "ring"
+        },
+        {
+          "start": 32.46,
+          "end": 32.68,
+          "text": "gives"
+        },
+        {
+          "start": 32.68,
+          "end": 32.86,
+          "text": "you"
+        },
+        {
+          "start": 32.86,
+          "end": 33.14,
+          "text": "perfect"
+        },
+        {
+          "start": 33.14,
+          "end": 33.46,
+          "text": "Wi"
+        },
+        {
+          "start": 33.46,
+          "end": 33.72,
+          "text": "-Fi"
+        },
+        {
+          "start": 33.72,
+          "end": 34.18,
+          "text": "everywhere."
+        },
+        {
+          "start": 34.84,
+          "end": 34.96,
+          "text": "Even"
+        },
+        {
+          "start": 34.96,
+          "end": 35.22,
+          "text": "down"
+        },
+        {
+          "start": 35.22,
+          "end": 35.5,
+          "text": "here,"
+        },
+        {
+          "start": 35.8,
+          "end": 36.0,
+          "text": "full"
+        },
+        {
+          "start": 36.0,
+          "end": 36.34,
+          "text": "connection."
+        },
+        {
+          "start": 36.96,
+          "end": 37.04,
+          "text": "My"
+        },
+        {
+          "start": 37.04,
+          "end": 37.28,
+          "text": "toilet"
+        }
+      ]
+    },
+    {
+      "start": 37.28,
+      "end": 38.98,
+      "text": "has better internet than your house.",
+      "words": [
+        {
+          "start": 37.28,
+          "end": 37.64,
+          "text": "has"
+        },
+        {
+          "start": 37.64,
+          "end": 37.88,
+          "text": "better"
+        },
+        {
+          "start": 37.88,
+          "end": 38.16,
+          "text": "internet"
+        },
+        {
+          "start": 38.16,
+          "end": 38.54,
+          "text": "than"
+        },
+        {
+          "start": 38.54,
+          "end": 38.66,
+          "text": "your"
+        },
+        {
+          "start": 38.66,
+          "end": 38.98,
+          "text": "house."
+        }
+      ]
+    },
+    {
+      "start": 40.02,
+      "end": 45.46,
+      "text": "The Golden Ring deletes all your bills forever. No rent, no electricity, nothing. Your landlord",
+      "words": [
+        {
+          "start": 40.02,
+          "end": 40.12,
+          "text": "The"
+        },
+        {
+          "start": 40.12,
+          "end": 40.36,
+          "text": "Golden"
+        },
+        {
+          "start": 40.36,
+          "end": 40.64,
+          "text": "Ring"
+        },
+        {
+          "start": 40.64,
+          "end": 41.12,
+          "text": "deletes"
+        },
+        {
+          "start": 41.12,
+          "end": 41.38,
+          "text": "all"
+        },
+        {
+          "start": 41.38,
+          "end": 41.58,
+          "text": "your"
+        },
+        {
+          "start": 41.58,
+          "end": 41.82,
+          "text": "bills"
+        },
+        {
+          "start": 41.82,
+          "end": 42.22,
+          "text": "forever."
+        },
+        {
+          "start": 42.88,
+          "end": 42.9,
+          "text": "No"
+        },
+        {
+          "start": 42.9,
+          "end": 43.16,
+          "text": "rent,"
+        },
+        {
+          "start": 43.46,
+          "end": 43.56,
+          "text": "no"
+        },
+        {
+          "start": 43.56,
+          "end": 43.88,
+          "text": "electricity,"
+        },
+        {
+          "start": 44.68,
+          "end": 44.68,
+          "text": "nothing."
+        },
+        {
+          "start": 45.2,
+          "end": 45.24,
+          "text": "Your"
+        },
+        {
+          "start": 45.24,
+          "end": 45.46,
+          "text": "landlord"
+        }
+      ]
+    },
+    {
+      "start": 45.46,
+      "end": 46.86,
+      "text": "might actually start crying.",
+      "words": [
+        {
+          "start": 45.46,
+          "end": 45.88,
+          "text": "might"
+        },
+        {
+          "start": 45.88,
+          "end": 46.24,
+          "text": "actually"
+        },
+        {
+          "start": 46.24,
+          "end": 46.54,
+          "text": "start"
+        },
+        {
+          "start": 46.54,
+          "end": 46.86,
+          "text": "crying."
+        }
+      ]
+    },
+    {
+      "start": 48.01,
+      "end": 51.99,
+      "text": "This ring makes sure you never get caught again. Police, teachers, parents, nobody.",
+      "words": [
+        {
+          "start": 48.01,
+          "end": 48.17,
+          "text": "This"
+        },
+        {
+          "start": 48.17,
+          "end": 48.39,
+          "text": "ring"
+        },
+        {
+          "start": 48.39,
+          "end": 48.59,
+          "text": "makes"
+        },
+        {
+          "start": 48.59,
+          "end": 48.79,
+          "text": "sure"
+        },
+        {
+          "start": 48.79,
+          "end": 48.93,
+          "text": "you"
+        },
+        {
+          "start": 48.93,
+          "end": 49.11,
+          "text": "never"
+        },
+        {
+          "start": 49.11,
+          "end": 49.35,
+          "text": "get"
+        },
+        {
+          "start": 49.35,
+          "end": 49.57,
+          "text": "caught"
+        },
+        {
+          "start": 49.57,
+          "end": 49.83,
+          "text": "again."
+        },
+        {
+          "start": 50.29,
+          "end": 50.51,
+          "text": "Police,"
+        },
+        {
+          "start": 50.77,
+          "end": 50.93,
+          "text": "teachers,"
+        },
+        {
+          "start": 51.27,
+          "end": 51.51,
+          "text": "parents,"
+        },
+        {
+          "start": 51.81,
+          "end": 51.99,
+          "text": "nobody."
+        }
+      ]
+    },
+    {
+      "start": 52.83,
+      "end": 54.89,
+      "text": "Yeah, I probably should have picked this yesterday.",
+      "words": [
+        {
+          "start": 52.83,
+          "end": 53.11,
+          "text": "Yeah,"
+        },
+        {
+          "start": 53.53,
+          "end": 53.65,
+          "text": "I"
+        },
+        {
+          "start": 53.65,
+          "end": 53.89,
+          "text": "probably"
+        },
+        {
+          "start": 53.89,
+          "end": 54.07,
+          "text": "should"
+        },
+        {
+          "start": 54.07,
+          "end": 54.17,
+          "text": "have"
+        },
+        {
+          "start": 54.17,
+          "end": 54.29,
+          "text": "picked"
+        },
+        {
+          "start": 54.29,
+          "end": 54.51,
+          "text": "this"
+        },
+        {
+          "start": 54.51,
+          "end": 54.89,
+          "text": "yesterday."
+        }
+      ]
+    }
+  ]
+}

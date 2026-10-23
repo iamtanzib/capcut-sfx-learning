@@ -1,0 +1,307 @@
+{
+  "model": "base.en",
+  "seconds": 4.78,
+  "cached": false,
+  "rows": [
+    {
+      "start": 2.32,
+      "end": 14.88,
+      "text": "Again? Okay. Let's see. Monica. Oh, yeah. She can stay.",
+      "words": [
+        {
+          "start": 2.32,
+          "end": 2.98,
+          "text": "Again?"
+        },
+        {
+          "start": 4.84,
+          "end": 5.2,
+          "text": "Okay."
+        },
+        {
+          "start": 6.27,
+          "end": 6.55,
+          "text": "Let's"
+        },
+        {
+          "start": 6.55,
+          "end": 6.67,
+          "text": "see."
+        },
+        {
+          "start": 8.74,
+          "end": 9.1,
+          "text": "Monica."
+        },
+        {
+          "start": 10.86,
+          "end": 11.0,
+          "text": "Oh,"
+        },
+        {
+          "start": 11.12,
+          "end": 11.26,
+          "text": "yeah."
+        },
+        {
+          "start": 14.22,
+          "end": 14.46,
+          "text": "She"
+        },
+        {
+          "start": 14.46,
+          "end": 14.6,
+          "text": "can"
+        },
+        {
+          "start": 14.6,
+          "end": 14.88,
+          "text": "stay."
+        }
+      ]
+    },
+    {
+      "start": 15.22,
+      "end": 23.64,
+      "text": "Heck yeah, she can stay. Ooh, security. I'm still going to market it. First one.",
+      "words": [
+        {
+          "start": 15.22,
+          "end": 15.24,
+          "text": "Heck"
+        },
+        {
+          "start": 15.24,
+          "end": 15.46,
+          "text": "yeah,"
+        },
+        {
+          "start": 15.5,
+          "end": 15.62,
+          "text": "she"
+        },
+        {
+          "start": 15.62,
+          "end": 15.7,
+          "text": "can"
+        },
+        {
+          "start": 15.7,
+          "end": 15.94,
+          "text": "stay."
+        },
+        {
+          "start": 18.93,
+          "end": 19.05,
+          "text": "Ooh,"
+        },
+        {
+          "start": 19.39,
+          "end": 19.39,
+          "text": "security."
+        },
+        {
+          "start": 22.54,
+          "end": 22.68,
+          "text": "I'm"
+        },
+        {
+          "start": 22.68,
+          "end": 22.78,
+          "text": "still"
+        },
+        {
+          "start": 22.78,
+          "end": 22.9,
+          "text": "going"
+        },
+        {
+          "start": 22.9,
+          "end": 22.9,
+          "text": "to"
+        },
+        {
+          "start": 22.9,
+          "end": 23.18,
+          "text": "market"
+        },
+        {
+          "start": 23.18,
+          "end": 23.28,
+          "text": "it."
+        },
+        {
+          "start": 23.36,
+          "end": 23.46,
+          "text": "First"
+        },
+        {
+          "start": 23.46,
+          "end": 23.64,
+          "text": "one."
+        }
+      ]
+    },
+    {
+      "start": 27.06,
+      "end": 40.63,
+      "text": "Personal shop. Antonio Free, bro. Free rent, bro. What? I don't know about that.",
+      "words": [
+        {
+          "start": 27.06,
+          "end": 27.42,
+          "text": "Personal"
+        },
+        {
+          "start": 27.42,
+          "end": 27.78,
+          "text": "shop."
+        },
+        {
+          "start": 31.44,
+          "end": 31.44,
+          "text": "Antonio"
+        },
+        {
+          "start": 31.44,
+          "end": 31.66,
+          "text": "Free,"
+        },
+        {
+          "start": 31.8,
+          "end": 31.88,
+          "text": "bro."
+        },
+        {
+          "start": 32.08,
+          "end": 32.18,
+          "text": "Free"
+        },
+        {
+          "start": 32.18,
+          "end": 32.34,
+          "text": "rent,"
+        },
+        {
+          "start": 32.34,
+          "end": 32.52,
+          "text": "bro."
+        },
+        {
+          "start": 34.77,
+          "end": 34.95,
+          "text": "What?"
+        },
+        {
+          "start": 39.89,
+          "end": 39.99,
+          "text": "I"
+        },
+        {
+          "start": 39.99,
+          "end": 40.11,
+          "text": "don't"
+        },
+        {
+          "start": 40.11,
+          "end": 40.25,
+          "text": "know"
+        },
+        {
+          "start": 40.25,
+          "end": 40.45,
+          "text": "about"
+        },
+        {
+          "start": 40.45,
+          "end": 40.63,
+          "text": "that."
+        }
+      ]
+    },
+    {
+      "start": 42.14,
+      "end": 55.52,
+      "text": "What? Hey, he's a man. I do the work guy. I'm doing Daniel.",
+      "words": [
+        {
+          "start": 42.14,
+          "end": 42.5,
+          "text": "What?"
+        },
+        {
+          "start": 47.69,
+          "end": 47.83,
+          "text": "Hey,"
+        },
+        {
+          "start": 47.93,
+          "end": 48.07,
+          "text": "he's"
+        },
+        {
+          "start": 48.07,
+          "end": 48.13,
+          "text": "a"
+        },
+        {
+          "start": 48.13,
+          "end": 48.27,
+          "text": "man."
+        },
+        {
+          "start": 51.04,
+          "end": 51.1,
+          "text": "I"
+        },
+        {
+          "start": 51.1,
+          "end": 51.2,
+          "text": "do"
+        },
+        {
+          "start": 51.2,
+          "end": 51.3,
+          "text": "the"
+        },
+        {
+          "start": 51.3,
+          "end": 51.48,
+          "text": "work"
+        },
+        {
+          "start": 51.48,
+          "end": 51.66,
+          "text": "guy."
+        },
+        {
+          "start": 55.2,
+          "end": 55.2,
+          "text": "I'm"
+        },
+        {
+          "start": 55.2,
+          "end": 55.3,
+          "text": "doing"
+        },
+        {
+          "start": 55.3,
+          "end": 55.52,
+          "text": "Daniel."
+        }
+      ]
+    },
+    {
+      "start": 55.52,
+      "end": 55.68,
+      "text": "You",
+      "words": [
+        {
+          "start": 55.52,
+          "end": 55.68,
+          "text": "You"
+        }
+      ]
+    }
+  ]
+}

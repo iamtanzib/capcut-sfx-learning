@@ -1,0 +1,553 @@
+{
+  "project": "1022",
+  "timeline": "F3B6CEEC-0851-4E4F-8B1F-E7A066768DC2",
+  "model": "base.en",
+  "cache_key": "9d8ff0cb8e728e67245b",
+  "cache_folder": "/Users/tanzibsrijon/SoundPilotLearning/data/context/9d8ff0cb8e728e67245b-fresh-1792754059284395000",
+  "seconds": 5.39,
+  "tracks": [
+    {
+      "role": "video_track_1",
+      "speech": [
+        {
+          "start": 0.08,
+          "end": 6.34,
+          "text": "Let's go all fun it games until that bus starts moving your cook",
+          "words": [
+            {
+              "start": 0.08,
+              "end": 0.64,
+              "text": "Let's"
+            },
+            {
+              "start": 0.64,
+              "end": 0.78,
+              "text": "go"
+            },
+            {
+              "start": 0.78,
+              "end": 1.96,
+              "text": "all"
+            },
+            {
+              "start": 3.82,
+              "end": 4.12,
+              "text": "fun"
+            },
+            {
+              "start": 4.12,
+              "end": 4.22,
+              "text": "it"
+            },
+            {
+              "start": 4.22,
+              "end": 4.44,
+              "text": "games"
+            },
+            {
+              "start": 4.44,
+              "end": 4.66,
+              "text": "until"
+            },
+            {
+              "start": 4.66,
+              "end": 4.9,
+              "text": "that"
+            },
+            {
+              "start": 4.9,
+              "end": 5.12,
+              "text": "bus"
+            },
+            {
+              "start": 5.12,
+              "end": 5.44,
+              "text": "starts"
+            },
+            {
+              "start": 5.44,
+              "end": 5.84,
+              "text": "moving"
+            },
+            {
+              "start": 5.84,
+              "end": 6.02,
+              "text": "your"
+            },
+            {
+              "start": 6.02,
+              "end": 6.34,
+              "text": "cook"
+            }
+          ]
+        },
+        {
+          "start": 11.24,
+          "end": 16.66,
+          "text": "Mugen is going on. How does that work? Oh, no, bro? Huh?",
+          "words": [
+            {
+              "start": 11.24,
+              "end": 11.7,
+              "text": "Mugen"
+            },
+            {
+              "start": 11.7,
+              "end": 11.8,
+              "text": "is"
+            },
+            {
+              "start": 11.8,
+              "end": 12.04,
+              "text": "going"
+            },
+            {
+              "start": 12.04,
+              "end": 12.26,
+              "text": "on."
+            },
+            {
+              "start": 12.26,
+              "end": 12.5,
+              "text": "How"
+            },
+            {
+              "start": 12.5,
+              "end": 12.64,
+              "text": "does"
+            },
+            {
+              "start": 12.64,
+              "end": 12.78,
+              "text": "that"
+            },
+            {
+              "start": 12.78,
+              "end": 13.08,
+              "text": "work?"
+            },
+            {
+              "start": 13.34,
+              "end": 13.44,
+              "text": "Oh,"
+            },
+            {
+              "start": 13.58,
+              "end": 13.62,
+              "text": "no,"
+            },
+            {
+              "start": 13.94,
+              "end": 14.04,
+              "text": "bro?"
+            },
+            {
+              "start": 16.2,
+              "end": 16.66,
+              "text": "Huh?"
+            }
+          ]
+        },
+        {
+          "start": 21.33,
+          "end": 31.41,
+          "text": "Yo, that's way too freaky, bro. I actually tricked my mind for a second. I gotta admit that's impressive",
+          "words": [
+            {
+              "start": 21.33,
+              "end": 21.79,
+              "text": "Yo,"
+            },
+            {
+              "start": 22.09,
+              "end": 22.39,
+              "text": "that's"
+            },
+            {
+              "start": 22.39,
+              "end": 22.61,
+              "text": "way"
+            },
+            {
+              "start": 22.61,
+              "end": 22.95,
+              "text": "too"
+            },
+            {
+              "start": 22.95,
+              "end": 23.43,
+              "text": "freaky,"
+            },
+            {
+              "start": 23.63,
+              "end": 23.73,
+              "text": "bro."
+            },
+            {
+              "start": 23.95,
+              "end": 23.99,
+              "text": "I"
+            },
+            {
+              "start": 23.99,
+              "end": 24.29,
+              "text": "actually"
+            },
+            {
+              "start": 24.29,
+              "end": 24.53,
+              "text": "tricked"
+            },
+            {
+              "start": 24.53,
+              "end": 24.77,
+              "text": "my"
+            },
+            {
+              "start": 24.77,
+              "end": 25.05,
+              "text": "mind"
+            },
+            {
+              "start": 25.05,
+              "end": 25.25,
+              "text": "for"
+            },
+            {
+              "start": 25.25,
+              "end": 25.31,
+              "text": "a"
+            },
+            {
+              "start": 25.31,
+              "end": 25.63,
+              "text": "second."
+            },
+            {
+              "start": 29.41,
+              "end": 29.87,
+              "text": "I"
+            },
+            {
+              "start": 29.87,
+              "end": 30.05,
+              "text": "gotta"
+            },
+            {
+              "start": 30.05,
+              "end": 30.43,
+              "text": "admit"
+            },
+            {
+              "start": 30.43,
+              "end": 31.05,
+              "text": "that's"
+            },
+            {
+              "start": 31.05,
+              "end": 31.41,
+              "text": "impressive"
+            }
+          ]
+        },
+        {
+          "start": 31.41,
+          "end": 34.45,
+          "text": "But imagine looking at her from the other side. Oh, it looks so weird",
+          "words": [
+            {
+              "start": 31.41,
+              "end": 31.83,
+              "text": "But"
+            },
+            {
+              "start": 31.83,
+              "end": 32.01,
+              "text": "imagine"
+            },
+            {
+              "start": 32.01,
+              "end": 32.33,
+              "text": "looking"
+            },
+            {
+              "start": 32.33,
+              "end": 32.57,
+              "text": "at"
+            },
+            {
+              "start": 32.57,
+              "end": 32.65,
+              "text": "her"
+            },
+            {
+              "start": 32.65,
+              "end": 32.79,
+              "text": "from"
+            },
+            {
+              "start": 32.79,
+              "end": 32.91,
+              "text": "the"
+            },
+            {
+              "start": 32.91,
+              "end": 33.13,
+              "text": "other"
+            },
+            {
+              "start": 33.13,
+              "end": 33.49,
+              "text": "side."
+            },
+            {
+              "start": 33.61,
+              "end": 33.69,
+              "text": "Oh,"
+            },
+            {
+              "start": 33.79,
+              "end": 33.81,
+              "text": "it"
+            },
+            {
+              "start": 33.81,
+              "end": 33.97,
+              "text": "looks"
+            },
+            {
+              "start": 33.97,
+              "end": 34.15,
+              "text": "so"
+            },
+            {
+              "start": 34.15,
+              "end": 34.45,
+              "text": "weird"
+            }
+          ]
+        },
+        {
+          "start": 35.61,
+          "end": 40.42,
+          "text": "That was fire. I can't even get that position",
+          "words": [
+            {
+              "start": 35.61,
+              "end": 36.07,
+              "text": "That"
+            },
+            {
+              "start": 38.44,
+              "end": 38.9,
+              "text": "was"
+            },
+            {
+              "start": 38.9,
+              "end": 39.14,
+              "text": "fire."
+            },
+            {
+              "start": 39.34,
+              "end": 39.36,
+              "text": "I"
+            },
+            {
+              "start": 39.36,
+              "end": 39.58,
+              "text": "can't"
+            },
+            {
+              "start": 39.58,
+              "end": 39.66,
+              "text": "even"
+            },
+            {
+              "start": 39.66,
+              "end": 39.86,
+              "text": "get"
+            },
+            {
+              "start": 39.86,
+              "end": 40.02,
+              "text": "that"
+            },
+            {
+              "start": 40.02,
+              "end": 40.42,
+              "text": "position"
+            }
+          ]
+        },
+        {
+          "start": 41.0,
+          "end": 47.14,
+          "text": "Hello there are they hired actors. How did you do that?",
+          "words": [
+            {
+              "start": 41.0,
+              "end": 41.46,
+              "text": "Hello"
+            },
+            {
+              "start": 41.46,
+              "end": 41.88,
+              "text": "there"
+            },
+            {
+              "start": 41.88,
+              "end": 42.6,
+              "text": "are"
+            },
+            {
+              "start": 45.26,
+              "end": 45.42,
+              "text": "they"
+            },
+            {
+              "start": 45.42,
+              "end": 45.72,
+              "text": "hired"
+            },
+            {
+              "start": 45.72,
+              "end": 46.22,
+              "text": "actors."
+            },
+            {
+              "start": 46.4,
+              "end": 46.46,
+              "text": "How"
+            },
+            {
+              "start": 46.46,
+              "end": 46.56,
+              "text": "did"
+            },
+            {
+              "start": 46.56,
+              "end": 46.68,
+              "text": "you"
+            },
+            {
+              "start": 46.68,
+              "end": 46.86,
+              "text": "do"
+            },
+            {
+              "start": 46.86,
+              "end": 47.14,
+              "text": "that?"
+            }
+          ]
+        }
+      ],
+      "transcription_seconds": 1.66,
+      "cached": false,
+      "loud_moments": [
+        0.5,
+        3.4,
+        4.3,
+        7.3,
+        8.8,
+        10.0,
+        11.0,
+        20.1,
+        21.5,
+        22.6,
+        27.9,
+        29.2,
+        30.0,
+        35.5,
+        38.7,
+        41.5,
+        44.2,
+        45.6
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "speech": [],
+      "transcription_seconds": 0.21,
+      "cached": false,
+      "loud_moments": []
+    }
+  ],
+  "scenes": [
+    {
+      "role": "video_track_1",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 3.75
+        },
+        {
+          "start": 3.75,
+          "end": 6.5
+        },
+        {
+          "start": 6.5,
+          "end": 10.75
+        },
+        {
+          "start": 10.75,
+          "end": 14.25
+        },
+        {
+          "start": 14.25,
+          "end": 21.625
+        },
+        {
+          "start": 21.625,
+          "end": 25.875
+        },
+        {
+          "start": 25.875,
+          "end": 29.75
+        },
+        {
+          "start": 29.75,
+          "end": 34.625
+        },
+        {
+          "start": 34.625,
+          "end": 38.625
+        },
+        {
+          "start": 38.625,
+          "end": 40.75
+        },
+        {
+          "start": 40.75,
+          "end": 45.125
+        },
+        {
+          "start": 45.125,
+          "end": 47.375
+        }
+      ]
+    },
+    {
+      "role": "video_track_2",
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 34.625
+        }
+      ]
+    }
+  ],
+  "keyframes": [
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/9d8ff0cb8e728e67245b-fresh-1792754059284395000/keyframes-keyframes-1.jpg",
+    "/Users/tanzibsrijon/SoundPilotLearning/data/context/9d8ff0cb8e728e67245b-fresh-1792754059284395000/keyframes-keyframes-2.jpg"
+  ],
+  "brief": "/Users/tanzibsrijon/SoundPilotLearning/jobs/c57cee93ecdb491d/enhanced_brief.json",
+  "scene_decode": "keyframes",
+  "brief_characters": 26768,
+  "old_sfx_used_as_input": false,
+  "excluded_style_timelines": [],
+  "quality_note": "Preprocessing validated. This does not establish sound-selection accuracy or a 90% score.",
+  "analysis_created_at": 1792754064.669796,
+  "analysis_reused": false,
+  "transcription_runs": 2
+}

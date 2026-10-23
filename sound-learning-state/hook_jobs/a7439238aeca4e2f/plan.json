@@ -1,0 +1,25 @@
+{
+  "job_id": "a7439238aeca4e2f",
+  "source_hash": "1efad6b27e3cf8e3958cc04808873e8d5c65b90cc0c1ee5a498960f387b68460",
+  "style_version": 16,
+  "hook": {
+    "text": "MAKE ONE IMPOSSIBLE\nRULE PERMANENT\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "IMPOSSIBLE"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You get to make one impossible world rule permanent."
+    },
+    "reason": "Keep the actual one-impossible-rule-permanent premise and the which-rule choice question from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User explicitly asked in chat to change the hook text on all 4 videos (4 tari hook text chng hbe).",
+    "layout_notes": "Native Rubik-Bold preview: three lines fit after rebreak, yellow IMPOSSIBLE."
+  }
+}

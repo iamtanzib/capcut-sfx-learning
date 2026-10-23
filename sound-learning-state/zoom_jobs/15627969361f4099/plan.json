@@ -1,0 +1,167 @@
+{
+  "job_id": "15627969361f4099",
+  "source_hash": "a157877f95c3dff70a62f8f0f788db25800ac693e08a85d8b1037f49e2d1e087",
+  "style_version": 26,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 1.5,
+      "end": 2.9,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I am?",
+      "reason": "Surprised I-am? reaction to being stuck in the freezing snow, held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 1.49,
+        "text": "I",
+        "word_index": 0
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.6,
+      "end": 16.4,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I'll put those in my shoes, bro",
+      "reason": "Whole hand-warmers-in-shoes joke in one hold through bro.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.59,
+        "text": "I'll",
+        "word_index": 9
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.333333,
+      "end": 24.5,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "But how am I gonna eat? I asked to survive.",
+      "reason": "Complete practical eat/survive objection held through survive.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.33,
+        "text": "But",
+        "word_index": 19
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 26.266667,
+      "end": 27.7,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the?",
+      "reason": "Strong squinting what-the at the moon bounce, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 26.28,
+        "text": "What",
+        "word_index": 29
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 29.6,
+      "end": 31.7,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "That is, I mean, that's some protection.",
+      "reason": "Smirking protection justification held through the punchline word.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 29.6,
+        "text": "That",
+        "word_index": 31
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 35.266667,
+      "end": 37.9,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh, that's what I need.",
+      "reason": "Puckered oh and that's-what-I-need approval of the food bag in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 35.25,
+        "text": "Oh,",
+        "word_index": 38
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.666667,
+      "end": 48.4,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "She doing a bit, bro, what?",
+      "reason": "Grimace at the frozen water throw through the bro-what question.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 46.67,
+        "text": "She",
+        "word_index": 49
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 52.466667,
+      "end": 53.6,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I'm doing that.",
+      "reason": "Mild hold on the fire-kit choice statement and settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 52.47,
+        "text": "I'm",
+        "word_index": 55
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.566667,
+      "end": 56.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I don't know how I'm gonna...",
+      "reason": "Final open-mouth rethink about doing all the work, held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.58,
+        "text": "I",
+        "word_index": 58
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_note": "Preview onset tiles inspected: hair and eyes stay inside the actor half at 1.25-1.38x with dy -0.07; face centered; resets return to baseline."
+  }
+}

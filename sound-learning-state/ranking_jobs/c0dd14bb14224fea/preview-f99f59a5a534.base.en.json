@@ -1,0 +1,357 @@
+{
+  "model": "base.en",
+  "seconds": 5.54,
+  "cached": false,
+  "rows": [
+    {
+      "start": 5.04,
+      "end": 7.32,
+      "text": "Say goodbye to your kids, buddy. You're not having them.",
+      "words": [
+        {
+          "start": 5.04,
+          "end": 5.18,
+          "text": "Say"
+        },
+        {
+          "start": 5.18,
+          "end": 5.44,
+          "text": "goodbye"
+        },
+        {
+          "start": 5.44,
+          "end": 5.7,
+          "text": "to"
+        },
+        {
+          "start": 5.7,
+          "end": 5.78,
+          "text": "your"
+        },
+        {
+          "start": 5.78,
+          "end": 6.14,
+          "text": "kids,"
+        },
+        {
+          "start": 6.14,
+          "end": 6.38,
+          "text": "buddy."
+        },
+        {
+          "start": 6.5,
+          "end": 6.54,
+          "text": "You're"
+        },
+        {
+          "start": 6.54,
+          "end": 6.7,
+          "text": "not"
+        },
+        {
+          "start": 6.7,
+          "end": 7.0,
+          "text": "having"
+        },
+        {
+          "start": 7.0,
+          "end": 7.32,
+          "text": "them."
+        }
+      ]
+    },
+    {
+      "start": 8.86,
+      "end": 9.34,
+      "text": "Huh?",
+      "words": [
+        {
+          "start": 8.86,
+          "end": 9.34,
+          "text": "Huh?"
+        }
+      ]
+    },
+    {
+      "start": 9.9,
+      "end": 15.49,
+      "text": "Throw a agree. That's the best use of Spidey sense, literally.",
+      "words": [
+        {
+          "start": 9.9,
+          "end": 10.02,
+          "text": "Throw"
+        },
+        {
+          "start": 12.77,
+          "end": 12.93,
+          "text": "a"
+        },
+        {
+          "start": 12.93,
+          "end": 13.15,
+          "text": "agree."
+        },
+        {
+          "start": 13.37,
+          "end": 13.53,
+          "text": "That's"
+        },
+        {
+          "start": 13.53,
+          "end": 13.63,
+          "text": "the"
+        },
+        {
+          "start": 13.63,
+          "end": 13.91,
+          "text": "best"
+        },
+        {
+          "start": 13.91,
+          "end": 14.21,
+          "text": "use"
+        },
+        {
+          "start": 14.21,
+          "end": 14.45,
+          "text": "of"
+        },
+        {
+          "start": 14.45,
+          "end": 14.85,
+          "text": "Spidey"
+        },
+        {
+          "start": 14.85,
+          "end": 15.05,
+          "text": "sense,"
+        },
+        {
+          "start": 15.19,
+          "end": 15.49,
+          "text": "literally."
+        }
+      ]
+    },
+    {
+      "start": 15.87,
+      "end": 23.16,
+      "text": "At that point, I would start panicking.",
+      "words": [
+        {
+          "start": 15.87,
+          "end": 16.33,
+          "text": "At"
+        },
+        {
+          "start": 21.32,
+          "end": 21.74,
+          "text": "that"
+        },
+        {
+          "start": 21.74,
+          "end": 22.04,
+          "text": "point,"
+        },
+        {
+          "start": 22.18,
+          "end": 22.28,
+          "text": "I"
+        },
+        {
+          "start": 22.28,
+          "end": 22.38,
+          "text": "would"
+        },
+        {
+          "start": 22.38,
+          "end": 22.6,
+          "text": "start"
+        },
+        {
+          "start": 22.6,
+          "end": 23.16,
+          "text": "panicking."
+        }
+      ]
+    },
+    {
+      "start": 23.56,
+      "end": 24.26,
+      "text": "I would suffocate.",
+      "words": [
+        {
+          "start": 23.56,
+          "end": 23.68,
+          "text": "I"
+        },
+        {
+          "start": 23.68,
+          "end": 23.8,
+          "text": "would"
+        },
+        {
+          "start": 23.8,
+          "end": 24.26,
+          "text": "suffocate."
+        }
+      ]
+    },
+    {
+      "start": 28.4,
+      "end": 30.66,
+      "text": "I'm leaving exaggerated swagger of a black teen.",
+      "words": [
+        {
+          "start": 28.4,
+          "end": 28.52,
+          "text": "I'm"
+        },
+        {
+          "start": 28.52,
+          "end": 28.66,
+          "text": "leaving"
+        },
+        {
+          "start": 28.66,
+          "end": 29.16,
+          "text": "exaggerated"
+        },
+        {
+          "start": 29.16,
+          "end": 29.84,
+          "text": "swagger"
+        },
+        {
+          "start": 29.84,
+          "end": 30.08,
+          "text": "of"
+        },
+        {
+          "start": 30.08,
+          "end": 30.14,
+          "text": "a"
+        },
+        {
+          "start": 30.14,
+          "end": 30.36,
+          "text": "black"
+        },
+        {
+          "start": 30.36,
+          "end": 30.66,
+          "text": "teen."
+        }
+      ]
+    },
+    {
+      "start": 31.22,
+      "end": 31.58,
+      "text": "This is right.",
+      "words": [
+        {
+          "start": 31.22,
+          "end": 31.22,
+          "text": "This"
+        },
+        {
+          "start": 31.22,
+          "end": 31.5,
+          "text": "is"
+        },
+        {
+          "start": 31.5,
+          "end": 31.58,
+          "text": "right."
+        }
+      ]
+    },
+    {
+      "start": 32.1,
+      "end": 32.6,
+      "text": "I'll be back.",
+      "words": [
+        {
+          "start": 32.1,
+          "end": 32.36,
+          "text": "I'll"
+        },
+        {
+          "start": 32.36,
+          "end": 32.44,
+          "text": "be"
+        },
+        {
+          "start": 32.44,
+          "end": 32.6,
+          "text": "back."
+        }
+      ]
+    },
+    {
+      "start": 35.69,
+      "end": 36.79,
+      "text": "What the hell?",
+      "words": [
+        {
+          "start": 35.69,
+          "end": 36.17,
+          "text": "What"
+        },
+        {
+          "start": 36.17,
+          "end": 36.55,
+          "text": "the"
+        },
+        {
+          "start": 36.55,
+          "end": 36.79,
+          "text": "hell?"
+        }
+      ]
+    },
+    {
+      "start": 37.01,
+      "end": 38.73,
+      "text": "I was not saving anybody. Everyone's cooked.",
+      "words": [
+        {
+          "start": 37.01,
+          "end": 37.01,
+          "text": "I"
+        },
+        {
+          "start": 37.01,
+          "end": 37.09,
+          "text": "was"
+        },
+        {
+          "start": 37.09,
+          "end": 37.21,
+          "text": "not"
+        },
+        {
+          "start": 37.21,
+          "end": 37.53,
+          "text": "saving"
+        },
+        {
+          "start": 37.53,
+          "end": 37.81,
+          "text": "anybody."
+        },
+        {
+          "start": 38.41,
+          "end": 38.63,
+          "text": "Everyone's"
+        },
+        {
+          "start": 38.63,
+          "end": 38.73,
+          "text": "cooked."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "model": "base.en",
+  "seconds": 1.92,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 4.74,
+      "text": "best public disguise. D to you. All funny games until that bus starts moving",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.28,
+          "text": "best"
+        },
+        {
+          "start": 0.28,
+          "end": 0.54,
+          "text": "public"
+        },
+        {
+          "start": 0.54,
+          "end": 0.98,
+          "text": "disguise."
+        },
+        {
+          "start": 1.52,
+          "end": 1.54,
+          "text": "D"
+        },
+        {
+          "start": 1.54,
+          "end": 1.96,
+          "text": "to"
+        },
+        {
+          "start": 1.96,
+          "end": 2.2,
+          "text": "you."
+        },
+        {
+          "start": 2.48,
+          "end": 2.76,
+          "text": "All"
+        },
+        {
+          "start": 2.76,
+          "end": 3.02,
+          "text": "funny"
+        },
+        {
+          "start": 3.02,
+          "end": 3.32,
+          "text": "games"
+        },
+        {
+          "start": 3.32,
+          "end": 3.58,
+          "text": "until"
+        },
+        {
+          "start": 3.58,
+          "end": 3.82,
+          "text": "that"
+        },
+        {
+          "start": 3.82,
+          "end": 4.04,
+          "text": "bus"
+        },
+        {
+          "start": 4.04,
+          "end": 4.34,
+          "text": "starts"
+        },
+        {
+          "start": 4.34,
+          "end": 4.74,
+          "text": "moving"
+        }
+      ]
+    },
+    {
+      "start": 4.74,
+      "end": 11.24,
+      "text": "you're cooked. The Mecha Camillion is going on. How did that work? Oh no bro.",
+      "words": [
+        {
+          "start": 4.74,
+          "end": 4.92,
+          "text": "you're"
+        },
+        {
+          "start": 4.92,
+          "end": 5.24,
+          "text": "cooked."
+        },
+        {
+          "start": 7.96,
+          "end": 7.96,
+          "text": "The"
+        },
+        {
+          "start": 7.96,
+          "end": 8.2,
+          "text": "Mecha"
+        },
+        {
+          "start": 8.2,
+          "end": 8.6,
+          "text": "Camillion"
+        },
+        {
+          "start": 8.6,
+          "end": 8.84,
+          "text": "is"
+        },
+        {
+          "start": 8.84,
+          "end": 9.08,
+          "text": "going"
+        },
+        {
+          "start": 9.08,
+          "end": 9.3,
+          "text": "on."
+        },
+        {
+          "start": 9.54,
+          "end": 9.56,
+          "text": "How"
+        },
+        {
+          "start": 9.56,
+          "end": 9.64,
+          "text": "did"
+        },
+        {
+          "start": 9.64,
+          "end": 9.8,
+          "text": "that"
+        },
+        {
+          "start": 9.8,
+          "end": 10.1,
+          "text": "work?"
+        },
+        {
+          "start": 10.6,
+          "end": 10.7,
+          "text": "Oh"
+        },
+        {
+          "start": 10.7,
+          "end": 10.92,
+          "text": "no"
+        },
+        {
+          "start": 10.92,
+          "end": 11.24,
+          "text": "bro."
+        }
+      ]
+    },
+    {
+      "start": 12.58,
+      "end": 20.45,
+      "text": "Yo that's way too freaky bro. I actually chipped my mind for a second. Holy. I",
+      "words": [
+        {
+          "start": 12.58,
+          "end": 13.06,
+          "text": "Yo"
+        },
+        {
+          "start": 13.06,
+          "end": 13.54,
+          "text": "that's"
+        },
+        {
+          "start": 13.54,
+          "end": 13.76,
+          "text": "way"
+        },
+        {
+          "start": 13.76,
+          "end": 14.12,
+          "text": "too"
+        },
+        {
+          "start": 14.12,
+          "end": 14.56,
+          "text": "freaky"
+        },
+        {
+          "start": 14.56,
+          "end": 14.86,
+          "text": "bro."
+        },
+        {
+          "start": 15.36,
+          "end": 15.44,
+          "text": "I"
+        },
+        {
+          "start": 15.44,
+          "end": 15.72,
+          "text": "actually"
+        },
+        {
+          "start": 15.72,
+          "end": 16.06,
+          "text": "chipped"
+        },
+        {
+          "start": 16.06,
+          "end": 16.22,
+          "text": "my"
+        },
+        {
+          "start": 16.22,
+          "end": 16.5,
+          "text": "mind"
+        },
+        {
+          "start": 16.5,
+          "end": 16.68,
+          "text": "for"
+        },
+        {
+          "start": 16.68,
+          "end": 16.76,
+          "text": "a"
+        },
+        {
+          "start": 16.76,
+          "end": 17.1,
+          "text": "second."
+        },
+        {
+          "start": 17.88,
+          "end": 17.88,
+          "text": "Holy."
+        },
+        {
+          "start": 20.11,
+          "end": 20.45,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "start": 20.45,
+      "end": 24.03,
+      "text": "gotta admit that's impressive but imagine looking at her from the other side.",
+      "words": [
+        {
+          "start": 20.45,
+          "end": 20.59,
+          "text": "gotta"
+        },
+        {
+          "start": 20.59,
+          "end": 20.97,
+          "text": "admit"
+        },
+        {
+          "start": 20.97,
+          "end": 21.59,
+          "text": "that's"
+        },
+        {
+          "start": 21.59,
+          "end": 21.93,
+          "text": "impressive"
+        },
+        {
+          "start": 21.93,
+          "end": 22.37,
+          "text": "but"
+        },
+        {
+          "start": 22.37,
+          "end": 22.53,
+          "text": "imagine"
+        },
+        {
+          "start": 22.53,
+          "end": 22.89,
+          "text": "looking"
+        },
+        {
+          "start": 22.89,
+          "end": 23.13,
+          "text": "at"
+        },
+        {
+          "start": 23.13,
+          "end": 23.21,
+          "text": "her"
+        },
+        {
+          "start": 23.21,
+          "end": 23.33,
+          "text": "from"
+        },
+        {
+          "start": 23.33,
+          "end": 23.47,
+          "text": "the"
+        },
+        {
+          "start": 23.47,
+          "end": 23.69,
+          "text": "other"
+        },
+        {
+          "start": 23.69,
+          "end": 24.03,
+          "text": "side."
+        }
+      ]
+    },
+    {
+      "start": 24.21,
+      "end": 28.91,
+      "text": "That would look so weird. Okay that was fire. I can't even, hey don't I, I can't",
+      "words": [
+        {
+          "start": 24.21,
+          "end": 24.21,
+          "text": "That"
+        },
+        {
+          "start": 24.21,
+          "end": 24.31,
+          "text": "would"
+        },
+        {
+          "start": 24.31,
+          "end": 24.45,
+          "text": "look"
+        },
+        {
+          "start": 24.45,
+          "end": 24.65,
+          "text": "so"
+        },
+        {
+          "start": 24.65,
+          "end": 24.97,
+          "text": "weird."
+        },
+        {
+          "start": 26.39,
+          "end": 26.69,
+          "text": "Okay"
+        },
+        {
+          "start": 26.69,
+          "end": 26.89,
+          "text": "that"
+        },
+        {
+          "start": 26.89,
+          "end": 27.09,
+          "text": "was"
+        },
+        {
+          "start": 27.09,
+          "end": 27.29,
+          "text": "fire."
+        },
+        {
+          "start": 27.55,
+          "end": 27.57,
+          "text": "I"
+        },
+        {
+          "start": 27.57,
+          "end": 27.81,
+          "text": "can't"
+        },
+        {
+          "start": 27.81,
+          "end": 27.87,
+          "text": "even,"
+        },
+        {
+          "start": 27.99,
+          "end": 28.09,
+          "text": "hey"
+        },
+        {
+          "start": 28.09,
+          "end": 28.25,
+          "text": "don't"
+        },
+        {
+          "start": 28.25,
+          "end": 28.43,
+          "text": "I,"
+        },
+        {
+          "start": 28.57,
+          "end": 28.71,
+          "text": "I"
+        },
+        {
+          "start": 28.71,
+          "end": 28.91,
+          "text": "can't"
+        }
+      ]
+    },
+    {
+      "start": 28.91,
+      "end": 35.2,
+      "text": "even get in that position. Are they hired actors? How did you do that? That's",
+      "words": [
+        {
+          "start": 28.91,
+          "end": 28.99,
+          "text": "even"
+        },
+        {
+          "start": 28.99,
+          "end": 29.19,
+          "text": "get"
+        },
+        {
+          "start": 29.19,
+          "end": 29.31,
+          "text": "in"
+        },
+        {
+          "start": 29.31,
+          "end": 29.39,
+          "text": "that"
+        },
+        {
+          "start": 29.39,
+          "end": 29.75,
+          "text": "position."
+        },
+        {
+          "start": 31.44,
+          "end": 31.78,
+          "text": "Are"
+        },
+        {
+          "start": 31.78,
+          "end": 31.92,
+          "text": "they"
+        },
+        {
+          "start": 31.92,
+          "end": 32.22,
+          "text": "hired"
+        },
+        {
+          "start": 32.22,
+          "end": 32.74,
+          "text": "actors?"
+        },
+        {
+          "start": 32.92,
+          "end": 32.96,
+          "text": "How"
+        },
+        {
+          "start": 32.96,
+          "end": 33.08,
+          "text": "did"
+        },
+        {
+          "start": 33.08,
+          "end": 33.2,
+          "text": "you"
+        },
+        {
+          "start": 33.2,
+          "end": 33.38,
+          "text": "do"
+        },
+        {
+          "start": 33.38,
+          "end": 33.66,
+          "text": "that?"
+        },
+        {
+          "start": 35.2,
+          "end": 35.2,
+          "text": "That's"
+        }
+      ]
+    }
+  ]
+}

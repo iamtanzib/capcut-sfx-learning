@@ -1,0 +1,542 @@
+[
+  {
+    "i": 0,
+    "start": 0.0,
+    "end": 0.28,
+    "text": "best"
+  },
+  {
+    "i": 1,
+    "start": 0.28,
+    "end": 0.54,
+    "text": "public"
+  },
+  {
+    "i": 2,
+    "start": 0.54,
+    "end": 0.98,
+    "text": "disguise."
+  },
+  {
+    "i": 3,
+    "start": 1.52,
+    "end": 1.54,
+    "text": "D"
+  },
+  {
+    "i": 4,
+    "start": 1.54,
+    "end": 1.96,
+    "text": "to"
+  },
+  {
+    "i": 5,
+    "start": 1.96,
+    "end": 2.2,
+    "text": "you."
+  },
+  {
+    "i": 6,
+    "start": 2.48,
+    "end": 2.76,
+    "text": "All"
+  },
+  {
+    "i": 7,
+    "start": 2.76,
+    "end": 3.02,
+    "text": "funny"
+  },
+  {
+    "i": 8,
+    "start": 3.02,
+    "end": 3.32,
+    "text": "games"
+  },
+  {
+    "i": 9,
+    "start": 3.32,
+    "end": 3.58,
+    "text": "until"
+  },
+  {
+    "i": 10,
+    "start": 3.58,
+    "end": 3.82,
+    "text": "that"
+  },
+  {
+    "i": 11,
+    "start": 3.82,
+    "end": 4.04,
+    "text": "bus"
+  },
+  {
+    "i": 12,
+    "start": 4.04,
+    "end": 4.34,
+    "text": "starts"
+  },
+  {
+    "i": 13,
+    "start": 4.34,
+    "end": 4.74,
+    "text": "moving"
+  },
+  {
+    "i": 14,
+    "start": 4.74,
+    "end": 4.92,
+    "text": "you're"
+  },
+  {
+    "i": 15,
+    "start": 4.92,
+    "end": 5.24,
+    "text": "cooked."
+  },
+  {
+    "i": 16,
+    "start": 7.96,
+    "end": 7.96,
+    "text": "The"
+  },
+  {
+    "i": 17,
+    "start": 7.96,
+    "end": 8.2,
+    "text": "Mecha"
+  },
+  {
+    "i": 18,
+    "start": 8.2,
+    "end": 8.6,
+    "text": "Camillion"
+  },
+  {
+    "i": 19,
+    "start": 8.6,
+    "end": 8.84,
+    "text": "is"
+  },
+  {
+    "i": 20,
+    "start": 8.84,
+    "end": 9.08,
+    "text": "going"
+  },
+  {
+    "i": 21,
+    "start": 9.08,
+    "end": 9.3,
+    "text": "on."
+  },
+  {
+    "i": 22,
+    "start": 9.54,
+    "end": 9.56,
+    "text": "How"
+  },
+  {
+    "i": 23,
+    "start": 9.56,
+    "end": 9.64,
+    "text": "did"
+  },
+  {
+    "i": 24,
+    "start": 9.64,
+    "end": 9.8,
+    "text": "that"
+  },
+  {
+    "i": 25,
+    "start": 9.8,
+    "end": 10.1,
+    "text": "work?"
+  },
+  {
+    "i": 26,
+    "start": 10.6,
+    "end": 10.7,
+    "text": "Oh"
+  },
+  {
+    "i": 27,
+    "start": 10.7,
+    "end": 10.92,
+    "text": "no"
+  },
+  {
+    "i": 28,
+    "start": 10.92,
+    "end": 11.24,
+    "text": "bro."
+  },
+  {
+    "i": 29,
+    "start": 12.58,
+    "end": 13.06,
+    "text": "Yo"
+  },
+  {
+    "i": 30,
+    "start": 13.06,
+    "end": 13.54,
+    "text": "that's"
+  },
+  {
+    "i": 31,
+    "start": 13.54,
+    "end": 13.76,
+    "text": "way"
+  },
+  {
+    "i": 32,
+    "start": 13.76,
+    "end": 14.12,
+    "text": "too"
+  },
+  {
+    "i": 33,
+    "start": 14.12,
+    "end": 14.56,
+    "text": "freaky"
+  },
+  {
+    "i": 34,
+    "start": 14.56,
+    "end": 14.86,
+    "text": "bro."
+  },
+  {
+    "i": 35,
+    "start": 15.36,
+    "end": 15.44,
+    "text": "I"
+  },
+  {
+    "i": 36,
+    "start": 15.44,
+    "end": 15.72,
+    "text": "actually"
+  },
+  {
+    "i": 37,
+    "start": 15.72,
+    "end": 16.06,
+    "text": "chipped"
+  },
+  {
+    "i": 38,
+    "start": 16.06,
+    "end": 16.22,
+    "text": "my"
+  },
+  {
+    "i": 39,
+    "start": 16.22,
+    "end": 16.5,
+    "text": "mind"
+  },
+  {
+    "i": 40,
+    "start": 16.5,
+    "end": 16.68,
+    "text": "for"
+  },
+  {
+    "i": 41,
+    "start": 16.68,
+    "end": 16.76,
+    "text": "a"
+  },
+  {
+    "i": 42,
+    "start": 16.76,
+    "end": 17.1,
+    "text": "second."
+  },
+  {
+    "i": 43,
+    "start": 17.88,
+    "end": 17.88,
+    "text": "Holy."
+  },
+  {
+    "i": 44,
+    "start": 20.11,
+    "end": 20.45,
+    "text": "I"
+  },
+  {
+    "i": 45,
+    "start": 20.45,
+    "end": 20.59,
+    "text": "gotta"
+  },
+  {
+    "i": 46,
+    "start": 20.59,
+    "end": 20.97,
+    "text": "admit"
+  },
+  {
+    "i": 47,
+    "start": 20.97,
+    "end": 21.59,
+    "text": "that's"
+  },
+  {
+    "i": 48,
+    "start": 21.59,
+    "end": 21.93,
+    "text": "impressive"
+  },
+  {
+    "i": 49,
+    "start": 21.93,
+    "end": 22.37,
+    "text": "but"
+  },
+  {
+    "i": 50,
+    "start": 22.37,
+    "end": 22.53,
+    "text": "imagine"
+  },
+  {
+    "i": 51,
+    "start": 22.53,
+    "end": 22.89,
+    "text": "looking"
+  },
+  {
+    "i": 52,
+    "start": 22.89,
+    "end": 23.13,
+    "text": "at"
+  },
+  {
+    "i": 53,
+    "start": 23.13,
+    "end": 23.21,
+    "text": "her"
+  },
+  {
+    "i": 54,
+    "start": 23.21,
+    "end": 23.33,
+    "text": "from"
+  },
+  {
+    "i": 55,
+    "start": 23.33,
+    "end": 23.47,
+    "text": "the"
+  },
+  {
+    "i": 56,
+    "start": 23.47,
+    "end": 23.69,
+    "text": "other"
+  },
+  {
+    "i": 57,
+    "start": 23.69,
+    "end": 24.03,
+    "text": "side."
+  },
+  {
+    "i": 58,
+    "start": 24.21,
+    "end": 24.21,
+    "text": "That"
+  },
+  {
+    "i": 59,
+    "start": 24.21,
+    "end": 24.31,
+    "text": "would"
+  },
+  {
+    "i": 60,
+    "start": 24.31,
+    "end": 24.45,
+    "text": "look"
+  },
+  {
+    "i": 61,
+    "start": 24.45,
+    "end": 24.65,
+    "text": "so"
+  },
+  {
+    "i": 62,
+    "start": 24.65,
+    "end": 24.97,
+    "text": "weird."
+  },
+  {
+    "i": 63,
+    "start": 26.39,
+    "end": 26.69,
+    "text": "Okay"
+  },
+  {
+    "i": 64,
+    "start": 26.69,
+    "end": 26.89,
+    "text": "that"
+  },
+  {
+    "i": 65,
+    "start": 26.89,
+    "end": 27.09,
+    "text": "was"
+  },
+  {
+    "i": 66,
+    "start": 27.09,
+    "end": 27.29,
+    "text": "fire."
+  },
+  {
+    "i": 67,
+    "start": 27.55,
+    "end": 27.57,
+    "text": "I"
+  },
+  {
+    "i": 68,
+    "start": 27.57,
+    "end": 27.81,
+    "text": "can't"
+  },
+  {
+    "i": 69,
+    "start": 27.81,
+    "end": 27.87,
+    "text": "even,"
+  },
+  {
+    "i": 70,
+    "start": 27.99,
+    "end": 28.09,
+    "text": "hey"
+  },
+  {
+    "i": 71,
+    "start": 28.09,
+    "end": 28.25,
+    "text": "don't"
+  },
+  {
+    "i": 72,
+    "start": 28.25,
+    "end": 28.43,
+    "text": "I,"
+  },
+  {
+    "i": 73,
+    "start": 28.57,
+    "end": 28.71,
+    "text": "I"
+  },
+  {
+    "i": 74,
+    "start": 28.71,
+    "end": 28.91,
+    "text": "can't"
+  },
+  {
+    "i": 75,
+    "start": 28.91,
+    "end": 28.99,
+    "text": "even"
+  },
+  {
+    "i": 76,
+    "start": 28.99,
+    "end": 29.19,
+    "text": "get"
+  },
+  {
+    "i": 77,
+    "start": 29.19,
+    "end": 29.31,
+    "text": "in"
+  },
+  {
+    "i": 78,
+    "start": 29.31,
+    "end": 29.39,
+    "text": "that"
+  },
+  {
+    "i": 79,
+    "start": 29.39,
+    "end": 29.75,
+    "text": "position."
+  },
+  {
+    "i": 80,
+    "start": 31.44,
+    "end": 31.78,
+    "text": "Are"
+  },
+  {
+    "i": 81,
+    "start": 31.78,
+    "end": 31.92,
+    "text": "they"
+  },
+  {
+    "i": 82,
+    "start": 31.92,
+    "end": 32.22,
+    "text": "hired"
+  },
+  {
+    "i": 83,
+    "start": 32.22,
+    "end": 32.74,
+    "text": "actors?"
+  },
+  {
+    "i": 84,
+    "start": 32.92,
+    "end": 32.96,
+    "text": "How"
+  },
+  {
+    "i": 85,
+    "start": 32.96,
+    "end": 33.08,
+    "text": "did"
+  },
+  {
+    "i": 86,
+    "start": 33.08,
+    "end": 33.2,
+    "text": "you"
+  },
+  {
+    "i": 87,
+    "start": 33.2,
+    "end": 33.38,
+    "text": "do"
+  },
+  {
+    "i": 88,
+    "start": 33.38,
+    "end": 33.66,
+    "text": "that?"
+  },
+  {
+    "i": 89,
+    "start": 35.2,
+    "end": 35.2,
+    "text": "That's"
+  }
+]

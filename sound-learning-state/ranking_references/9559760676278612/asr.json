@@ -1,0 +1,481 @@
+{
+  "model": "base.en",
+  "seconds": 1.35,
+  "cached": false,
+  "rows": [
+    {
+      "start": 3.06,
+      "end": 5.84,
+      "text": "Oh, why do you have mirrors on the car if you're not gonna use them?",
+      "words": [
+        {
+          "start": 3.06,
+          "end": 3.42,
+          "text": "Oh,"
+        },
+        {
+          "start": 3.48,
+          "end": 3.64,
+          "text": "why"
+        },
+        {
+          "start": 3.64,
+          "end": 3.78,
+          "text": "do"
+        },
+        {
+          "start": 3.78,
+          "end": 3.84,
+          "text": "you"
+        },
+        {
+          "start": 3.84,
+          "end": 4.0,
+          "text": "have"
+        },
+        {
+          "start": 4.0,
+          "end": 4.32,
+          "text": "mirrors"
+        },
+        {
+          "start": 4.32,
+          "end": 4.5,
+          "text": "on"
+        },
+        {
+          "start": 4.5,
+          "end": 4.58,
+          "text": "the"
+        },
+        {
+          "start": 4.58,
+          "end": 4.8,
+          "text": "car"
+        },
+        {
+          "start": 4.8,
+          "end": 4.92,
+          "text": "if"
+        },
+        {
+          "start": 4.92,
+          "end": 5.0,
+          "text": "you're"
+        },
+        {
+          "start": 5.0,
+          "end": 5.14,
+          "text": "not"
+        },
+        {
+          "start": 5.14,
+          "end": 5.28,
+          "text": "gonna"
+        },
+        {
+          "start": 5.28,
+          "end": 5.54,
+          "text": "use"
+        },
+        {
+          "start": 5.54,
+          "end": 5.84,
+          "text": "them?"
+        }
+      ]
+    },
+    {
+      "start": 6.82,
+      "end": 7.4,
+      "text": "Let's go",
+      "words": [
+        {
+          "start": 6.82,
+          "end": 7.24,
+          "text": "Let's"
+        },
+        {
+          "start": 7.24,
+          "end": 7.4,
+          "text": "go"
+        }
+      ]
+    },
+    {
+      "start": 10.66,
+      "end": 14.98,
+      "text": "Why do you have a Bugatti in the jungle that doesn't even make sense? Oh my god",
+      "words": [
+        {
+          "start": 10.66,
+          "end": 11.08,
+          "text": "Why"
+        },
+        {
+          "start": 11.08,
+          "end": 11.18,
+          "text": "do"
+        },
+        {
+          "start": 11.18,
+          "end": 11.26,
+          "text": "you"
+        },
+        {
+          "start": 11.26,
+          "end": 11.44,
+          "text": "have"
+        },
+        {
+          "start": 11.44,
+          "end": 11.52,
+          "text": "a"
+        },
+        {
+          "start": 11.52,
+          "end": 11.98,
+          "text": "Bugatti"
+        },
+        {
+          "start": 11.98,
+          "end": 12.18,
+          "text": "in"
+        },
+        {
+          "start": 12.18,
+          "end": 12.24,
+          "text": "the"
+        },
+        {
+          "start": 12.24,
+          "end": 12.54,
+          "text": "jungle"
+        },
+        {
+          "start": 12.54,
+          "end": 12.78,
+          "text": "that"
+        },
+        {
+          "start": 12.78,
+          "end": 13.1,
+          "text": "doesn't"
+        },
+        {
+          "start": 13.1,
+          "end": 13.22,
+          "text": "even"
+        },
+        {
+          "start": 13.22,
+          "end": 13.44,
+          "text": "make"
+        },
+        {
+          "start": 13.44,
+          "end": 13.96,
+          "text": "sense?"
+        },
+        {
+          "start": 14.48,
+          "end": 14.54,
+          "text": "Oh"
+        },
+        {
+          "start": 14.54,
+          "end": 14.7,
+          "text": "my"
+        },
+        {
+          "start": 14.7,
+          "end": 14.98,
+          "text": "god"
+        }
+      ]
+    },
+    {
+      "start": 18.73,
+      "end": 22.29,
+      "text": "Over the bump right left and right to get over a low car",
+      "words": [
+        {
+          "start": 18.73,
+          "end": 18.89,
+          "text": "Over"
+        },
+        {
+          "start": 18.89,
+          "end": 19.17,
+          "text": "the"
+        },
+        {
+          "start": 19.17,
+          "end": 19.35,
+          "text": "bump"
+        },
+        {
+          "start": 19.35,
+          "end": 19.77,
+          "text": "right"
+        },
+        {
+          "start": 19.77,
+          "end": 20.25,
+          "text": "left"
+        },
+        {
+          "start": 20.25,
+          "end": 20.61,
+          "text": "and"
+        },
+        {
+          "start": 20.61,
+          "end": 20.89,
+          "text": "right"
+        },
+        {
+          "start": 20.89,
+          "end": 21.15,
+          "text": "to"
+        },
+        {
+          "start": 21.15,
+          "end": 21.31,
+          "text": "get"
+        },
+        {
+          "start": 21.31,
+          "end": 21.51,
+          "text": "over"
+        },
+        {
+          "start": 21.51,
+          "end": 21.67,
+          "text": "a"
+        },
+        {
+          "start": 21.67,
+          "end": 21.87,
+          "text": "low"
+        },
+        {
+          "start": 21.87,
+          "end": 22.29,
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "start": 27.46,
+      "end": 30.58,
+      "text": "God there was nobody in that car. I would have been over",
+      "words": [
+        {
+          "start": 27.46,
+          "end": 27.88,
+          "text": "God"
+        },
+        {
+          "start": 27.88,
+          "end": 28.3,
+          "text": "there"
+        },
+        {
+          "start": 28.3,
+          "end": 28.44,
+          "text": "was"
+        },
+        {
+          "start": 28.44,
+          "end": 28.88,
+          "text": "nobody"
+        },
+        {
+          "start": 28.88,
+          "end": 29.24,
+          "text": "in"
+        },
+        {
+          "start": 29.24,
+          "end": 29.42,
+          "text": "that"
+        },
+        {
+          "start": 29.42,
+          "end": 29.72,
+          "text": "car."
+        },
+        {
+          "start": 29.74,
+          "end": 29.92,
+          "text": "I"
+        },
+        {
+          "start": 29.92,
+          "end": 30.08,
+          "text": "would"
+        },
+        {
+          "start": 30.08,
+          "end": 30.2,
+          "text": "have"
+        },
+        {
+          "start": 30.2,
+          "end": 30.28,
+          "text": "been"
+        },
+        {
+          "start": 30.28,
+          "end": 30.58,
+          "text": "over"
+        }
+      ]
+    },
+    {
+      "start": 30.58,
+      "end": 39.61,
+      "text": "Nice what a drop if I scratch an expensive car. They got to take everything from here",
+      "words": [
+        {
+          "start": 30.58,
+          "end": 31.34,
+          "text": "Nice"
+        },
+        {
+          "start": 35.37,
+          "end": 35.97,
+          "text": "what"
+        },
+        {
+          "start": 35.97,
+          "end": 36.09,
+          "text": "a"
+        },
+        {
+          "start": 36.09,
+          "end": 36.31,
+          "text": "drop"
+        },
+        {
+          "start": 36.31,
+          "end": 36.49,
+          "text": "if"
+        },
+        {
+          "start": 36.49,
+          "end": 36.65,
+          "text": "I"
+        },
+        {
+          "start": 36.65,
+          "end": 37.05,
+          "text": "scratch"
+        },
+        {
+          "start": 37.05,
+          "end": 37.21,
+          "text": "an"
+        },
+        {
+          "start": 37.21,
+          "end": 37.37,
+          "text": "expensive"
+        },
+        {
+          "start": 37.37,
+          "end": 38.01,
+          "text": "car."
+        },
+        {
+          "start": 38.07,
+          "end": 38.31,
+          "text": "They"
+        },
+        {
+          "start": 38.31,
+          "end": 38.45,
+          "text": "got"
+        },
+        {
+          "start": 38.45,
+          "end": 38.59,
+          "text": "to"
+        },
+        {
+          "start": 38.59,
+          "end": 38.75,
+          "text": "take"
+        },
+        {
+          "start": 38.75,
+          "end": 39.01,
+          "text": "everything"
+        },
+        {
+          "start": 39.01,
+          "end": 39.35,
+          "text": "from"
+        },
+        {
+          "start": 39.35,
+          "end": 39.61,
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "start": 39.98,
+      "end": 47.07,
+      "text": "That driver I'm moving to a different country ASAP",
+      "words": [
+        {
+          "start": 39.98,
+          "end": 40.19,
+          "text": "That"
+        },
+        {
+          "start": 44.45,
+          "end": 45.05,
+          "text": "driver"
+        },
+        {
+          "start": 45.05,
+          "end": 45.49,
+          "text": "I'm"
+        },
+        {
+          "start": 45.49,
+          "end": 45.71,
+          "text": "moving"
+        },
+        {
+          "start": 45.71,
+          "end": 45.93,
+          "text": "to"
+        },
+        {
+          "start": 45.93,
+          "end": 46.09,
+          "text": "a"
+        },
+        {
+          "start": 46.09,
+          "end": 46.31,
+          "text": "different"
+        },
+        {
+          "start": 46.31,
+          "end": 46.69,
+          "text": "country"
+        },
+        {
+          "start": 46.69,
+          "end": 47.07,
+          "text": "ASAP"
+        }
+      ]
+    }
+  ]
+}

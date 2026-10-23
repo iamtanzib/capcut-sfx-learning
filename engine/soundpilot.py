@@ -76,6 +76,17 @@ def timelines(project):
     return [{'id': d['id'], 'name': Path(project).name}]
 
 
+def timeline_index_path(project):
+    """Multi-timeline index (Windows CapCut). Mac CapCut drafts have a single timeline and no index."""
+    path = Path(project) / 'Timelines' / 'project.json'
+    return path if path.exists() else None
+
+
+def is_main_timeline(project, timeline):
+    index = timeline_index_path(project)
+    return True if index is None else read_json(index)['main_timeline_id'] == timeline['id']
+
+
 def load_timeline(project, name):
     for t in timelines(project):
         if t['name'].casefold() == name.casefold() or t['id'] == name:
@@ -404,7 +415,8 @@ class Planner:
                     if style_version>=8 and effect['sound']=='MMMMMM.mp3':
                         effect['enabled']=False
                         effect['reason']='Needs resolved positive appraisal or explicit affirmation; raw sentence similarity is not enough. '+effect['reason']
-        snapshot = hashlib.sha256(draft_file(project/'Timelines'/draft['id']).read_bytes()).hexdigest()
+        timeline_folder = project/'Timelines'/draft['id']
+        snapshot = hashlib.sha256(draft_file(timeline_folder if timeline_folder.exists() else project).read_bytes()).hexdigest()
         plan = {'project':project_name, 'timeline':timeline_name, 'duration':duration, 'source_hash':snapshot,
             'created':time.time(), 'engine':'local semantic retrieval; captions only',
             'limitations':'Does not see facial expression, gesture, tone or visual-only jokes. Similarity is not a success percentage. Review every suggestion.',
@@ -635,23 +647,27 @@ def export_copy(plan, replace_existing=False):
     cover=project/'draft_cover.jpg'
     if cover.exists():
         shutil.copy2(cover,dest/cover.name)
-    timeline_dir=dest/'Timelines'/new_timeline_id
-    timeline_dir.mkdir(parents=True)
-    write_json(dest/'draft_content.json',draft)
-    write_json(dest/'draft_content.json.bak',draft)
     write_json(dest/'template-2.tmp',draft)
-    write_json(timeline_dir/'draft_content.json',draft)
-    write_json(timeline_dir/'draft_content.json.bak',draft)
-    source_timeline_folder=source_file.parent
-    for fname in ('attachment_editing.json','attachment_pc_common.json','draft.extra'):
-        f=source_timeline_folder/fname
-        if f.exists() and f.stat().st_size<1_000_000:
-            shutil.copy2(f,timeline_dir/fname)
-    tp=read_json(project/'Timelines'/'project.json')
-    tp.update({'id':uid(),'main_timeline_id':new_timeline_id,'timelines':[{'id':new_timeline_id,'name':draft['name'],'create_time':now,'update_time':now,'is_marked_delete':False}]})
-    write_json(dest/'Timelines'/'project.json',tp)
-    write_json(dest/'Timelines'/'project.json.bak',tp)
-    write_json(dest/'timeline_layout.json',{'dockItems':[{'dockIndex':0,'ratio':1,'timelineIds':[new_timeline_id],'timelineNames':[draft['name']]}],'layoutOrientation':1})
+    if timeline_index_path(project) is None:
+        # Mac CapCut: single timeline stored as draft_info.json in the project root.
+        write_json(dest/draft_file(project).name,draft)
+    else:
+        timeline_dir=dest/'Timelines'/new_timeline_id
+        timeline_dir.mkdir(parents=True)
+        write_json(dest/'draft_content.json',draft)
+        write_json(dest/'draft_content.json.bak',draft)
+        write_json(timeline_dir/'draft_content.json',draft)
+        write_json(timeline_dir/'draft_content.json.bak',draft)
+        source_timeline_folder=source_file.parent
+        for fname in ('attachment_editing.json','attachment_pc_common.json','draft.extra'):
+            f=source_timeline_folder/fname
+            if f.exists() and f.stat().st_size<1_000_000:
+                shutil.copy2(f,timeline_dir/fname)
+        tp=read_json(project/'Timelines'/'project.json')
+        tp.update({'id':uid(),'main_timeline_id':new_timeline_id,'timelines':[{'id':new_timeline_id,'name':draft['name'],'create_time':now,'update_time':now,'is_marked_delete':False}]})
+        write_json(dest/'Timelines'/'project.json',tp)
+        write_json(dest/'Timelines'/'project.json.bak',tp)
+        write_json(dest/'timeline_layout.json',{'dockItems':[{'dockIndex':0,'ratio':1,'timelineIds':[new_timeline_id],'timelineNames':[draft['name']]}],'layoutOrientation':1})
     meta=rebase_paths(read_json(project/'draft_meta_info.json'),project)
     meta.update({'draft_name':name,'draft_id':new_id,'draft_fold_path':dest.as_posix(),'draft_root_path':str(dest.parent.as_posix()),'draft_cover':(dest/'draft_cover.jpg').as_posix(),'tm_draft_create':now,'tm_draft_modified':now,'tm_duration':draft['duration']})
     # Register newly referenced sounds in the media bin as well as in the timeline.
@@ -689,7 +705,7 @@ def install_into_empty_timeline(export_path, project_name, timeline_name, review
             raise ValueError(f'{timeline_name} contains edits. Use the independent output copy instead.')
         if report.get('source_hash')!=hashlib.sha256(target_file.read_bytes()).hexdigest():
             raise ValueError('Original timeline changed since the reviewed copy was made. Rebuild the copy from the current edit.')
-    updated=read_json(export_path/'draft_content.json')
+    updated=read_json(draft_file(export_path))
     updated['id']=target['id']; updated['name']=timeline_name
     meta=read_json(project/'draft_meta_info.json')
     out_meta=read_json(export_path/'draft_meta_info.json')
@@ -700,12 +716,16 @@ def install_into_empty_timeline(export_path, project_name, timeline_name, review
         if target_group is None:
             target_group={'type':group['type'],'value':[]}; meta['draft_materials'].append(target_group)
         target_group['value'].extend(additions)
-    tp=read_json(project/'Timelines'/'project.json'); tp['main_timeline_id']=target['id']
-    now=int(time.time()*MICRO); tp['update_time']=now
+    now=int(time.time()*MICRO)
     meta['tm_duration']=updated['duration']; meta['tm_draft_modified']=now
-    changes={target_file:updated,target_file.with_name(target_file.name+'.bak'):updated,
-        project/'draft_content.json':updated,project/'draft_content.json.bak':updated,project/'template-2.tmp':updated,
-        project/'Timelines'/'project.json':tp,project/'Timelines'/'project.json.bak':tp,project/'draft_meta_info.json':meta}
+    if timeline_index_path(project) is None:
+        # Mac CapCut single-timeline project.
+        changes={target_file:updated,project/'template-2.tmp':updated,project/'draft_meta_info.json':meta}
+    else:
+        tp=read_json(project/'Timelines'/'project.json'); tp['main_timeline_id']=target['id']; tp['update_time']=now
+        changes={target_file:updated,target_file.with_name(target_file.name+'.bak'):updated,
+            project/'draft_content.json':updated,project/'draft_content.json.bak':updated,project/'template-2.tmp':updated,
+            project/'Timelines'/'project.json':tp,project/'Timelines'/'project.json.bak':tp,project/'draft_meta_info.json':meta}
     before={str(p):p.read_bytes() if p.exists() else None for p in changes}
     backup=OUTPUTS/f'timeline-install-backup-{time.time_ns()}'; backup.mkdir(parents=True)
     for path,content in before.items():
@@ -729,6 +749,10 @@ def install_into_empty_timeline(export_path, project_name, timeline_name, review
 
 
 def capcut_running():
+    if sys.platform=='darwin':
+        proc=subprocess.run(['pgrep','-x','CapCut'],capture_output=True,text=True,timeout=10)
+        if proc.returncode not in (0,1):raise RuntimeError('Cannot verify whether CapCut is running; do not write draft files.')
+        return proc.returncode==0
     if os.name!='nt':
         return False
     proc=subprocess.run(['tasklist','/FI','IMAGENAME eq CapCut.exe','/FO','CSV','/NH'],capture_output=True,text=True,creationflags=CREATE_NO_WINDOW,timeout=10)

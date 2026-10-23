@@ -1,0 +1,338 @@
+{
+  "name": "Ranking The Best Hard Food Moments 😂 #shorts #funny #relatable.mp4",
+  "path": "/Volumes/128 gb/Kevin/Example/Ranking The Best Hard Food Moments 😂 #shorts #funny #relatable.mp4",
+  "size": 14560646,
+  "duration": 39.3,
+  "segments": [
+    [
+      "R",
+      0.0,
+      4.1
+    ],
+    [
+      "K",
+      4.1,
+      5.4
+    ],
+    [
+      "B",
+      5.4,
+      7.2
+    ],
+    [
+      "R",
+      7.2,
+      11.3
+    ],
+    [
+      "K",
+      11.3,
+      13.4
+    ],
+    [
+      "B",
+      13.4,
+      14.8
+    ],
+    [
+      "R",
+      14.8,
+      18.5
+    ],
+    [
+      "K",
+      18.5,
+      20.3
+    ],
+    [
+      "B",
+      20.3,
+      21.3
+    ],
+    [
+      "R",
+      21.3,
+      24.0
+    ],
+    [
+      "K",
+      24.0,
+      26.7
+    ],
+    [
+      "R",
+      26.7,
+      30.1
+    ],
+    [
+      "K",
+      30.1,
+      32.2
+    ],
+    [
+      "B",
+      32.2,
+      34.1
+    ],
+    [
+      "R",
+      34.1,
+      37.4
+    ],
+    [
+      "K",
+      37.4,
+      39.3
+    ]
+  ],
+  "items": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "duration": 4.1
+    },
+    {
+      "start": 7.2,
+      "end": 11.3,
+      "duration": 4.1
+    },
+    {
+      "start": 14.8,
+      "end": 18.5,
+      "duration": 3.7
+    },
+    {
+      "start": 21.3,
+      "end": 24.0,
+      "duration": 2.7
+    },
+    {
+      "start": 26.7,
+      "end": 30.1,
+      "duration": 3.4
+    },
+    {
+      "start": 34.1,
+      "end": 37.4,
+      "duration": 3.3
+    }
+  ],
+  "reactions": [
+    {
+      "item": 0,
+      "start": 4.1,
+      "end": 7.2,
+      "duration": 3.1,
+      "words": "sure that's a chicken egg, but I might be a dinosaur in there",
+      "first_word_offset": -0.65,
+      "bw": {
+        "start": 5.4,
+        "end": 7.2,
+        "duration": 1.8,
+        "face_before": 1.3,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.8,
+        "source_end_offset_from_item_end": -2.2,
+        "words": "but I might be a dinosaur in there"
+      },
+      "sfx": [
+        {
+          "sound": "error_CDOxCYm.mp3",
+          "family": "error_CDOxCYm.mp3",
+          "start": 4.869,
+          "score": 0.8,
+          "gain": 0.8545,
+          "offset": 0.77,
+          "bw_offset": -0.53,
+          "near_word": "a"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "start": 11.3,
+      "end": 14.8,
+      "duration": 3.5,
+      "words": "no that is not a brownie anymore",
+      "first_word_offset": -0.49,
+      "bw": {
+        "start": 13.4,
+        "end": 14.8,
+        "duration": 1.4,
+        "face_before": 2.1,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.97,
+        "source_end_offset_from_item_end": 0.1,
+        "words": ""
+      },
+      "sfx": [
+        {
+          "sound": "among-us-role-reveal-sound.mp3",
+          "family": "among us",
+          "start": 12.47,
+          "score": 0.88,
+          "gain": 1.3037,
+          "offset": 1.17,
+          "bw_offset": -0.93,
+          "near_word": "brownie"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "start": 18.5,
+      "end": 21.3,
+      "duration": 2.8,
+      "words": "bread is beyond steel, how do they have sports?",
+      "first_word_offset": 0.19,
+      "bw": {
+        "start": 20.3,
+        "end": 21.3,
+        "duration": 1.0,
+        "face_before": 1.8,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.87,
+        "source_end_offset_from_item_end": 0.0,
+        "words": "do they have sports?"
+      },
+      "sfx": [
+        {
+          "sound": "fahhhh.mp3",
+          "family": "fah",
+          "start": 19.702,
+          "score": 0.584,
+          "gain": 0.9261,
+          "offset": 1.2,
+          "bw_offset": -0.6,
+          "near_word": "steel,"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "start": 24.0,
+      "end": 26.7,
+      "duration": 2.7,
+      "words": "it really that hard to make down? Oh my god",
+      "first_word_offset": -0.18,
+      "sfx": [
+        {
+          "sound": "vine-boom (20).mp3",
+          "family": "vine boom",
+          "start": 25.468,
+          "score": 0.932,
+          "gain": 0.7235,
+          "offset": 1.47,
+          "bw_offset": null,
+          "near_word": "down?"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "start": 30.1,
+      "end": 34.1,
+      "duration": 4.0,
+      "words": "throw the ice cream away, bro, that's been in there since 2014 or something",
+      "first_word_offset": -0.5,
+      "bw": {
+        "start": 32.2,
+        "end": 34.1,
+        "duration": 1.9,
+        "face_before": 2.1,
+        "position": "end",
+        "zoom": 1.1,
+        "match_score": 0.97,
+        "source_end_offset_from_item_end": 0.1,
+        "words": "there since 2014 or something"
+      },
+      "sfx": [
+        {
+          "sound": "mac-quack.mp3",
+          "family": "mac-quack.mp3",
+          "start": 31.268,
+          "score": 0.677,
+          "gain": 0.9177,
+          "offset": 1.17,
+          "bw_offset": -0.93,
+          "near_word": "bro,"
+        },
+        {
+          "sound": "fahhhh.mp3",
+          "family": "fah",
+          "start": 32.368,
+          "score": 0.618,
+          "gain": 0.9646,
+          "offset": 2.27,
+          "bw_offset": 0.17,
+          "near_word": "since"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "start": 37.4,
+      "end": 39.3,
+      "duration": 1.9,
+      "words": "he had no other choice.",
+      "first_word_offset": -0.7,
+      "sfx": [
+        {
+          "sound": "error_CDOxCYm.mp3",
+          "family": "error_CDOxCYm.mp3",
+          "start": 38.135,
+          "score": 0.697,
+          "gain": 0.8367,
+          "offset": 0.73,
+          "bw_offset": null,
+          "near_word": "he"
+        }
+      ]
+    }
+  ],
+  "whoosh": [
+    {
+      "start": 6.869,
+      "cut": 7.2,
+      "offset": -0.33
+    },
+    {
+      "start": 14.469,
+      "cut": 14.8,
+      "offset": -0.33
+    },
+    {
+      "start": 21.035,
+      "cut": 21.3,
+      "offset": -0.27
+    },
+    {
+      "start": 26.435,
+      "cut": 26.7,
+      "offset": -0.27
+    },
+    {
+      "start": 33.735,
+      "cut": 34.1,
+      "offset": -0.37
+    }
+  ],
+  "item_sfx": [
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 8.169,
+      "score": 0.927,
+      "gain": 0.4695
+    }
+  ],
+  "levels_db": {
+    "item": -15.6,
+    "kevin": -9.2,
+    "bw": -12.0
+  },
+  "work": "/Users/tanzibsrijon/SoundPilotLearning/ranking_references/d29a70a3991c2446"
+}

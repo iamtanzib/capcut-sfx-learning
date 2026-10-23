@@ -1,0 +1,24 @@
+{
+  "job_id": "4e31bbfbdeba4d21",
+  "source_hash": "145eef69f539622c36f62420622e7ba0e245493de3291e22c89f3acb7628fd3a",
+  "style_version": 20,
+  "hook": {
+    "text": "YOU QUALIFIED FOR\nTHE OLYMPICS PICK A\nRIDICULOUS SPORT",
+    "highlight_phrases": [
+      "OLYMPICS",
+      "RIDICULOUS SPORT"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You just qualified for the Olympics, but you've got to compete in one ridiculous sport."
+    },
+    "reason": "The existing hook is a stale gang/hood title from the duplicated timeline; this keeps the real Olympics topic and the pick-one-sport choice.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true
+  }
+}

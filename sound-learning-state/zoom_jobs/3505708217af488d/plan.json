@@ -1,0 +1,184 @@
+{
+  "job_id": "3505708217af488d",
+  "source_hash": "fc70396f8e53682483280914ecb9a6103cf03fc64e6cd81666ab229558b3b04d",
+  "style_version": 26,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 9.766667,
+      "end": 11.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh perfect.",
+      "reason": "Satisfied perfect at the traffic ring, held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 9.76,
+        "text": "perfect.",
+        "word_index": 4
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.966667,
+      "end": 16.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Yeah, bro. I would do that.",
+      "reason": "Smiling yeah-bro and I-would-do-that in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.98,
+        "text": "Yeah,",
+        "word_index": 8
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 17.9,
+      "end": 19.1,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh",
+      "reason": "Eyebrows-up oh at the never-tired ring, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 17.9,
+        "text": "Oh",
+        "word_index": 14
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.166667,
+      "end": 24.9,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "You know how much work I can get done with that. Maybe",
+      "reason": "Mild hold across the work line and the hedging maybe.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.17,
+        "text": "You",
+        "word_index": 15
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.166667,
+      "end": 33.0,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I can get into anything if it's a test. That's lucky.",
+      "reason": "Whole test-ring reasoning through the smiling that's-lucky.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 30.16,
+        "text": "I",
+        "word_index": 26
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.1,
+      "end": 40.3,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I wouldn't need that.",
+      "reason": "Dismissive squint rejecting the Wi-Fi ring, held through that.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.1,
+        "text": "wouldn't",
+        "word_index": 40
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 42.0,
+      "end": 43.3,
+      "scale": 1.33,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh",
+      "reason": "Oh at the Golden Ring that deletes all bills, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 41.99,
+        "text": "Oh",
+        "word_index": 43
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.666667,
+      "end": 48.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Give me that",
+      "reason": "Smiling give-me-that claim of the bills ring.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 46.67,
+        "text": "Give",
+        "word_index": 44
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 51.3,
+      "end": 52.6,
+      "scale": 1.33,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I need that now.",
+      "reason": "Big grin need-that-now at the never-get-caught ring.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 51.29,
+        "text": "need",
+        "word_index": 48
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.1,
+      "end": 56.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Give me the money.",
+      "reason": "Final give-me-the-money decision held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.1,
+        "text": "Give",
+        "word_index": 51
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_note": "Preview onset tiles inspected: hair and eyes stay inside the actor half at 1.27-1.35x with dy -0.07; face centered; resets return to baseline."
+  }
+}

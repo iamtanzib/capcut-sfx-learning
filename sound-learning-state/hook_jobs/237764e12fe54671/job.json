@@ -1,0 +1,15 @@
+{
+  "job_id": "237764e12fe54671",
+  "batch_id": "8b8f27eaad074f97",
+  "project": "1022",
+  "timeline": "Day6.2",
+  "timeline_id": "A936ECA1-0A55-4752-9A84-F1E685D7771B",
+  "source_hash": "f6bae2d3a961caa311d649333f35ddc01bcb0d1d1e3b372b4140bdaab12c6758",
+  "analysis_job_id": "10eb6e2fe13b4534",
+  "style_version": 20,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "YOUR BIRTH MONTH IS \nWHAT’S IN YOUR TOILET \nWHAT DID YOU GET?",
+  "duration": 56.0,
+  "applied_at": 1792658899.6918578
+}

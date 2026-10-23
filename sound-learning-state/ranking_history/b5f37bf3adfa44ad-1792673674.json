@@ -1,0 +1,565 @@
+{
+  "report": {
+    "job_id": "b5f37bf3adfa44ad",
+    "timeline": "Day6.5",
+    "revision_hash": "f79b4a48cedcddd2b399870b899ff06fbe592c3125258db293d35cbfcf594750",
+    "unchanged": false,
+    "items": {
+      "matched": 6,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 3,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 4,
+          "start_delta": 0.067,
+          "end_delta": 0.0
+        },
+        {
+          "planned": 5,
+          "start_delta": 0.1,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "kevin_pieces": {
+      "matched": 6,
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "start_delta": 0.233,
+          "end_delta": -0.133
+        },
+        {
+          "planned": 1,
+          "start_delta": 0.167,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 2,
+          "start_delta": 0.1,
+          "end_delta": -0.0
+        },
+        {
+          "planned": 3,
+          "start_delta": 0.1,
+          "end_delta": -0.233
+        },
+        {
+          "planned": 4,
+          "start_delta": 0.267,
+          "end_delta": 0.0
+        },
+        {
+          "planned": 5,
+          "start_delta": 0.1,
+          "end_delta": 0.0
+        }
+      ]
+    },
+    "bw": {
+      "planned": 4,
+      "kept": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "removed": [],
+      "added": 0,
+      "changes": [
+        {
+          "planned": 0,
+          "duration_delta": 0.0,
+          "zoom": 1.1,
+          "start_shift": -0.233
+        },
+        {
+          "planned": 1,
+          "duration_delta": 0.0,
+          "zoom": 1.1,
+          "start_shift": -0.567
+        },
+        {
+          "planned": 2,
+          "duration_delta": -0.067,
+          "zoom": 1.1,
+          "start_shift": -0.7
+        },
+        {
+          "planned": 3,
+          "duration_delta": -0.067,
+          "zoom": 1.1,
+          "start_shift": -1.467
+        }
+      ]
+    },
+    "main_track_other_media": 0,
+    "learned_at": 1792673674.074826
+  },
+  "plan": {
+    "job_id": "b5f37bf3adfa44ad",
+    "project": "1022",
+    "timeline": "7064D7FC-FFF5-4BF5-B498-E762230A0F0B",
+    "source_hash": "5f9add399515054134365084043edd18c7294119501bba5ee6adcc624521c97f",
+    "style_version": 1,
+    "items": [
+      {
+        "start": 0.0,
+        "end": 4.51,
+        "rank": 6,
+        "label": "Level 1",
+        "reason": "drive smashes the egg on the post"
+      },
+      {
+        "start": 4.52,
+        "end": 9.177,
+        "rank": 5,
+        "label": "Level 2",
+        "reason": "drive clears the row of beer glasses"
+      },
+      {
+        "start": 9.187,
+        "end": 14.13,
+        "rank": 4,
+        "label": "Level 3",
+        "reason": "drive shatters the wine glasses"
+      },
+      {
+        "start": 14.14,
+        "end": 18.317,
+        "rank": 3,
+        "label": "Level 4",
+        "reason": "drive pops the water balloon"
+      },
+      {
+        "start": 18.327,
+        "end": 23.243,
+        "rank": 2,
+        "label": "Level 5",
+        "reason": "drive breaks the blue vases"
+      },
+      {
+        "start": 23.253,
+        "end": 28.59,
+        "rank": 1,
+        "label": "Level 6",
+        "reason": "drive breaks the object held in a hand"
+      }
+    ],
+    "reactions": [
+      {
+        "item": 0,
+        "about": "the egg smash made him flinch",
+        "pieces": [
+          {
+            "from_word": 0,
+            "to_word": 12,
+            "start": 0,
+            "end": 3.55,
+            "text": "The first one made me flinch. Did anybody else flinch? Oh my gosh."
+          }
+        ],
+        "bw": {
+          "at_word": 6,
+          "duration": 1.0,
+          "reason": "\"did anybody else flinch?\" replays the smash"
+        }
+      },
+      {
+        "item": 1,
+        "about": "sign this golfer up for the army",
+        "pieces": [
+          {
+            "from_word": 13,
+            "to_word": 27,
+            "start": 4.51,
+            "end": 8.68,
+            "text": "Oh Sign this guy up for the army immediately. We need him. Oh my gosh"
+          }
+        ],
+        "bw": {
+          "at_word": 22,
+          "until_end": true,
+          "reason": "\"we need him\" replays the shot clearing the glasses"
+        }
+      },
+      {
+        "item": 2,
+        "about": "golf balls used as weapons",
+        "pieces": [
+          {
+            "from_word": 28,
+            "to_word": 42,
+            "start": 9.74,
+            "end": 13.3,
+            "text": "Isn't a set of guns. We use golf balls as a weapon. He's cooking everyone"
+          }
+        ]
+      },
+      {
+        "item": 3,
+        "about": "the balloon pop was satisfying",
+        "pieces": [
+          {
+            "from_word": 43,
+            "to_word": 52,
+            "start": 14.64,
+            "end": 17.99,
+            "text": "I'll admit that was satisfying the way that popped mmm"
+          }
+        ],
+        "bw": {
+          "at_word": 48,
+          "duration": 1.05,
+          "reason": "\"the way that popped\" replays the balloon pop"
+        }
+      },
+      {
+        "item": 4,
+        "about": "his mom will be mad about the vases",
+        "pieces": [
+          {
+            "from_word": 53,
+            "to_word": 70,
+            "start": 18.63,
+            "end": 23.02,
+            "text": "Yeah, his mom is definitely pissed. He just stole all his mom's faces and broke them bro. What?"
+          }
+        ],
+        "bw": {
+          "at_word": 59,
+          "duration": 2.0,
+          "reason": "\"stole all his mom's vases and broke them\" replays the vases"
+        }
+      },
+      {
+        "item": 5,
+        "about": "imagine that hitting a person",
+        "pieces": [
+          {
+            "from_word": 71,
+            "to_word": 80,
+            "start": 24.76,
+            "end": 27.86,
+            "text": "Imagine if that was a person bro. Oh my gosh"
+          }
+        ]
+      }
+    ],
+    "segments": [
+      {
+        "role": "ranking",
+        "index": 0,
+        "source_start": 0.0,
+        "frames": 135,
+        "target_frame": 0
+      },
+      {
+        "role": "kevin",
+        "index": 0,
+        "source_start": 0,
+        "frames": 106,
+        "target_frame": 135
+      },
+      {
+        "role": "ranking",
+        "index": 1,
+        "source_start": 4.52,
+        "frames": 139,
+        "target_frame": 241
+      },
+      {
+        "role": "kevin",
+        "index": 1,
+        "source_start": 4.51,
+        "frames": 125,
+        "target_frame": 380
+      },
+      {
+        "role": "ranking",
+        "index": 2,
+        "source_start": 9.187,
+        "frames": 148,
+        "target_frame": 505
+      },
+      {
+        "role": "kevin",
+        "index": 2,
+        "source_start": 9.74,
+        "frames": 107,
+        "target_frame": 653
+      },
+      {
+        "role": "ranking",
+        "index": 3,
+        "source_start": 14.14,
+        "frames": 125,
+        "target_frame": 760
+      },
+      {
+        "role": "kevin",
+        "index": 3,
+        "source_start": 14.64,
+        "frames": 100,
+        "target_frame": 885
+      },
+      {
+        "role": "ranking",
+        "index": 4,
+        "source_start": 18.327,
+        "frames": 147,
+        "target_frame": 985
+      },
+      {
+        "role": "kevin",
+        "index": 4,
+        "source_start": 18.63,
+        "frames": 132,
+        "target_frame": 1132
+      },
+      {
+        "role": "ranking",
+        "index": 5,
+        "source_start": 23.253,
+        "frames": 160,
+        "target_frame": 1264
+      },
+      {
+        "role": "kevin",
+        "index": 5,
+        "source_start": 24.76,
+        "frames": 93,
+        "target_frame": 1424
+      }
+    ],
+    "overlays": [
+      {
+        "reaction": 0,
+        "target_frame": 180,
+        "frames": 30,
+        "source_start": 3.51,
+        "zoom": 1.1,
+        "reason": "\"did anybody else flinch?\" replays the smash",
+        "under_words": "Did anybody else flinch?"
+      },
+      {
+        "reaction": 1,
+        "target_frame": 445,
+        "frames": 60,
+        "source_start": 7.177,
+        "zoom": 1.1,
+        "reason": "\"we need him\" replays the shot clearing the glasses",
+        "under_words": "We need him. Oh my gosh"
+      },
+      {
+        "reaction": 3,
+        "target_frame": 922,
+        "frames": 32,
+        "source_start": 17.25,
+        "zoom": 1.1,
+        "reason": "\"the way that popped\" replays the balloon pop",
+        "under_words": "the way that popped"
+      },
+      {
+        "reaction": 4,
+        "target_frame": 1189,
+        "frames": 60,
+        "source_start": 21.243,
+        "zoom": 1.1,
+        "reason": "\"stole all his mom's vases and broke them\" replays the vases",
+        "under_words": "He just stole all his mom's faces and broke them bro."
+      }
+    ],
+    "volumes": {
+      "kevin": 0.63,
+      "ranking": 0.5
+    },
+    "total_frames": 1517,
+    "whoosh_cues": [
+      7.703,
+      16.503,
+      25.003,
+      32.503,
+      41.803
+    ],
+    "quality_notes": {
+      "item_boundaries_checked_on_frames": true,
+      "reaction_mapping_reviewed": true,
+      "dropped_speech_reviewed": true,
+      "dropped": "slates, the Backrooms false start + off-take aside, a stray \"What?\" before a 1s pause, and the Sea Lion zero-length ASR repeat"
+    }
+  },
+  "observed": {
+    "main": [
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov",
+        "start": 0.0,
+        "duration": 4.5,
+        "source_start": 0.0,
+        "source_duration": 4.5,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7669.MOV",
+        "start": 4.5,
+        "duration": 3.166666,
+        "source_start": 0.233333,
+        "source_duration": 3.166666,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov",
+        "start": 7.666666,
+        "duration": 4.6,
+        "source_start": 4.553334,
+        "source_duration": 4.6,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7669.MOV",
+        "start": 12.266666,
+        "duration": 4.0,
+        "source_start": 4.676667,
+        "source_duration": 3.999999,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov",
+        "start": 16.266666,
+        "duration": 4.9,
+        "source_start": 9.220334,
+        "source_duration": 4.9,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7669.MOV",
+        "start": 21.166666,
+        "duration": 3.466667,
+        "source_start": 9.84,
+        "source_duration": 3.466666,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov",
+        "start": 24.633333,
+        "duration": 4.066667,
+        "source_start": 14.24,
+        "source_duration": 4.066667,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7669.MOV",
+        "start": 28.7,
+        "duration": 3.0,
+        "source_start": 14.74,
+        "source_duration": 3.0,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov",
+        "start": 31.7,
+        "duration": 4.833333,
+        "source_start": 18.393666,
+        "source_duration": 4.833334,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7669.MOV",
+        "start": 36.533333,
+        "duration": 4.133333,
+        "source_start": 18.896666,
+        "source_duration": 4.133334,
+        "volume": 0.63,
+        "scale": 1.0
+      },
+      {
+        "role": "ranking",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/copy_1093DAE3-2419-4111-8075-7C64561B6FF4.mov",
+        "start": 40.666666,
+        "duration": 5.233334,
+        "source_start": 23.353,
+        "source_duration": 5.233334,
+        "volume": 0.5,
+        "scale": 1.0
+      },
+      {
+        "role": "kevin",
+        "path": "/Volumes/128 gb/Kevin/mnth 4/week 1/Day 6/New Videos 2/IMG_7669.MOV",
+        "start": 45.9,
+        "duration": 3.0,
+        "source_start": 24.86,
+        "source_duration": 3.0,
+        "volume": 0.63,
+        "scale": 1.0
+      }
+    ],
+    "overlays": [
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/b5f37bf3adfa44ad/bw_01_59bd8387c1.mp4",
+        "start": 5.766666,
+        "duration": 1.0,
+        "source_start": 0.0,
+        "source_duration": 1.0,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/b5f37bf3adfa44ad/bw_02_85dd9e8606.mp4",
+        "start": 14.266666,
+        "duration": 2.0,
+        "source_start": 0.0,
+        "source_duration": 2.0,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/b5f37bf3adfa44ad/bw_03_e8e89eb263.mp4",
+        "start": 30.033333,
+        "duration": 1.0,
+        "source_start": 0.0,
+        "source_duration": 1.0,
+        "volume": 0.0,
+        "scale": 1.1
+      },
+      {
+        "role": "bw",
+        "path": "/Users/tanzibsrijon/SoundPilotLearning/ranking_media/b5f37bf3adfa44ad/bw_04_5d515ad7ba.mp4",
+        "start": 38.166666,
+        "duration": 1.933334,
+        "source_start": 0.0,
+        "source_duration": 1.933334,
+        "volume": 0.0,
+        "scale": 1.1
+      }
+    ]
+  }
+}

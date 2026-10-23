@@ -1,0 +1,481 @@
+{
+  "model": "base.en",
+  "seconds": 1.33,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.21,
+      "end": 3.09,
+      "text": "All right, I'm the fainting one. All right first part",
+      "words": [
+        {
+          "start": 0.21,
+          "end": 0.67,
+          "text": "All"
+        },
+        {
+          "start": 0.67,
+          "end": 0.81,
+          "text": "right,"
+        },
+        {
+          "start": 0.91,
+          "end": 1.09,
+          "text": "I'm"
+        },
+        {
+          "start": 1.09,
+          "end": 1.19,
+          "text": "the"
+        },
+        {
+          "start": 1.19,
+          "end": 1.49,
+          "text": "fainting"
+        },
+        {
+          "start": 1.49,
+          "end": 1.71,
+          "text": "one."
+        },
+        {
+          "start": 2.05,
+          "end": 2.49,
+          "text": "All"
+        },
+        {
+          "start": 2.49,
+          "end": 2.63,
+          "text": "right"
+        },
+        {
+          "start": 2.63,
+          "end": 2.83,
+          "text": "first"
+        },
+        {
+          "start": 2.83,
+          "end": 3.09,
+          "text": "part"
+        }
+      ]
+    },
+    {
+      "start": 4.19,
+      "end": 8.91,
+      "text": "He did not care that you fainted. He had murder on his mind, bro. He was not trolling",
+      "words": [
+        {
+          "start": 4.19,
+          "end": 4.63,
+          "text": "He"
+        },
+        {
+          "start": 4.63,
+          "end": 4.77,
+          "text": "did"
+        },
+        {
+          "start": 4.77,
+          "end": 5.09,
+          "text": "not"
+        },
+        {
+          "start": 5.09,
+          "end": 5.33,
+          "text": "care"
+        },
+        {
+          "start": 5.33,
+          "end": 5.51,
+          "text": "that"
+        },
+        {
+          "start": 5.51,
+          "end": 5.65,
+          "text": "you"
+        },
+        {
+          "start": 5.65,
+          "end": 6.05,
+          "text": "fainted."
+        },
+        {
+          "start": 6.35,
+          "end": 6.53,
+          "text": "He"
+        },
+        {
+          "start": 6.53,
+          "end": 6.69,
+          "text": "had"
+        },
+        {
+          "start": 6.69,
+          "end": 7.01,
+          "text": "murder"
+        },
+        {
+          "start": 7.01,
+          "end": 7.27,
+          "text": "on"
+        },
+        {
+          "start": 7.27,
+          "end": 7.43,
+          "text": "his"
+        },
+        {
+          "start": 7.43,
+          "end": 7.71,
+          "text": "mind,"
+        },
+        {
+          "start": 7.91,
+          "end": 7.97,
+          "text": "bro."
+        },
+        {
+          "start": 8.13,
+          "end": 8.15,
+          "text": "He"
+        },
+        {
+          "start": 8.15,
+          "end": 8.27,
+          "text": "was"
+        },
+        {
+          "start": 8.27,
+          "end": 8.47,
+          "text": "not"
+        },
+        {
+          "start": 8.47,
+          "end": 8.91,
+          "text": "trolling"
+        }
+      ]
+    },
+    {
+      "start": 10.54,
+      "end": 14.52,
+      "text": "Okay, those goose are W. They're W. They would have called the police too",
+      "words": [
+        {
+          "start": 10.54,
+          "end": 10.98,
+          "text": "Okay,"
+        },
+        {
+          "start": 11.34,
+          "end": 11.44,
+          "text": "those"
+        },
+        {
+          "start": 11.44,
+          "end": 11.74,
+          "text": "goose"
+        },
+        {
+          "start": 11.74,
+          "end": 12.08,
+          "text": "are"
+        },
+        {
+          "start": 12.08,
+          "end": 12.4,
+          "text": "W."
+        },
+        {
+          "start": 12.78,
+          "end": 12.86,
+          "text": "They're"
+        },
+        {
+          "start": 12.86,
+          "end": 13.06,
+          "text": "W."
+        },
+        {
+          "start": 13.38,
+          "end": 13.38,
+          "text": "They"
+        },
+        {
+          "start": 13.38,
+          "end": 13.5,
+          "text": "would"
+        },
+        {
+          "start": 13.5,
+          "end": 13.6,
+          "text": "have"
+        },
+        {
+          "start": 13.6,
+          "end": 13.74,
+          "text": "called"
+        },
+        {
+          "start": 13.74,
+          "end": 13.92,
+          "text": "the"
+        },
+        {
+          "start": 13.92,
+          "end": 14.16,
+          "text": "police"
+        },
+        {
+          "start": 14.16,
+          "end": 14.52,
+          "text": "too"
+        }
+      ]
+    },
+    {
+      "start": 16.92,
+      "end": 20.8,
+      "text": "Those emus like finally free food, bro. They did not care at all",
+      "words": [
+        {
+          "start": 16.92,
+          "end": 17.36,
+          "text": "Those"
+        },
+        {
+          "start": 17.36,
+          "end": 17.8,
+          "text": "emus"
+        },
+        {
+          "start": 17.8,
+          "end": 18.02,
+          "text": "like"
+        },
+        {
+          "start": 18.02,
+          "end": 18.42,
+          "text": "finally"
+        },
+        {
+          "start": 18.42,
+          "end": 18.72,
+          "text": "free"
+        },
+        {
+          "start": 18.72,
+          "end": 19.14,
+          "text": "food,"
+        },
+        {
+          "start": 19.24,
+          "end": 19.44,
+          "text": "bro."
+        },
+        {
+          "start": 19.78,
+          "end": 19.86,
+          "text": "They"
+        },
+        {
+          "start": 19.86,
+          "end": 19.94,
+          "text": "did"
+        },
+        {
+          "start": 19.94,
+          "end": 20.16,
+          "text": "not"
+        },
+        {
+          "start": 20.16,
+          "end": 20.38,
+          "text": "care"
+        },
+        {
+          "start": 20.38,
+          "end": 20.58,
+          "text": "at"
+        },
+        {
+          "start": 20.58,
+          "end": 20.8,
+          "text": "all"
+        }
+      ]
+    },
+    {
+      "start": 22.46,
+      "end": 25.02,
+      "text": "Go freaky dinky dog, bro. What is he doing?",
+      "words": [
+        {
+          "start": 22.46,
+          "end": 22.9,
+          "text": "Go"
+        },
+        {
+          "start": 22.9,
+          "end": 23.34,
+          "text": "freaky"
+        },
+        {
+          "start": 23.34,
+          "end": 23.68,
+          "text": "dinky"
+        },
+        {
+          "start": 23.68,
+          "end": 24.06,
+          "text": "dog,"
+        },
+        {
+          "start": 24.06,
+          "end": 24.26,
+          "text": "bro."
+        },
+        {
+          "start": 24.44,
+          "end": 24.44,
+          "text": "What"
+        },
+        {
+          "start": 24.44,
+          "end": 24.54,
+          "text": "is"
+        },
+        {
+          "start": 24.54,
+          "end": 24.66,
+          "text": "he"
+        },
+        {
+          "start": 24.66,
+          "end": 25.02,
+          "text": "doing?"
+        }
+      ]
+    },
+    {
+      "start": 25.98,
+      "end": 27.28,
+      "text": "You put your owners down",
+      "words": [
+        {
+          "start": 25.98,
+          "end": 26.02,
+          "text": "You"
+        },
+        {
+          "start": 26.02,
+          "end": 26.42,
+          "text": "put"
+        },
+        {
+          "start": 26.42,
+          "end": 26.6,
+          "text": "your"
+        },
+        {
+          "start": 26.6,
+          "end": 26.86,
+          "text": "owners"
+        },
+        {
+          "start": 26.86,
+          "end": 27.28,
+          "text": "down"
+        }
+      ]
+    },
+    {
+      "start": 29.33,
+      "end": 33.25,
+      "text": "And I'm at wholesome. At least he sits with you while you die. It's not bad",
+      "words": [
+        {
+          "start": 29.33,
+          "end": 29.77,
+          "text": "And"
+        },
+        {
+          "start": 29.77,
+          "end": 29.95,
+          "text": "I'm"
+        },
+        {
+          "start": 29.95,
+          "end": 30.05,
+          "text": "at"
+        },
+        {
+          "start": 30.05,
+          "end": 30.61,
+          "text": "wholesome."
+        },
+        {
+          "start": 30.77,
+          "end": 30.91,
+          "text": "At"
+        },
+        {
+          "start": 30.91,
+          "end": 31.03,
+          "text": "least"
+        },
+        {
+          "start": 31.03,
+          "end": 31.17,
+          "text": "he"
+        },
+        {
+          "start": 31.17,
+          "end": 31.37,
+          "text": "sits"
+        },
+        {
+          "start": 31.37,
+          "end": 31.59,
+          "text": "with"
+        },
+        {
+          "start": 31.59,
+          "end": 31.75,
+          "text": "you"
+        },
+        {
+          "start": 31.75,
+          "end": 31.89,
+          "text": "while"
+        },
+        {
+          "start": 31.89,
+          "end": 32.01,
+          "text": "you"
+        },
+        {
+          "start": 32.01,
+          "end": 32.25,
+          "text": "die."
+        },
+        {
+          "start": 32.53,
+          "end": 32.83,
+          "text": "It's"
+        },
+        {
+          "start": 32.83,
+          "end": 32.93,
+          "text": "not"
+        },
+        {
+          "start": 32.93,
+          "end": 33.25,
+          "text": "bad"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "job_id": "2c3c918bf0414cb2",
+  "source_hash": "f6bae2d3a961caa311d649333f35ddc01bcb0d1d1e3b372b4140bdaab12c6758",
+  "style_version": 26,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 3.933333,
+      "end": 5.2,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh, I do?",
+      "reason": "Surprised I-do reaction to having to join a gang, held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 1,
+        "at": 3.93,
+        "text": "I"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 10.266667,
+      "end": 11.6,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the?",
+      "reason": "Grinning what-the at the music gang's boop song, held through the smile.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 5,
+        "at": 10.25,
+        "text": "What"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 16.4,
+      "end": 18.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "he's making it out the hood? Yeah.",
+      "reason": "Whole mocking making-it-out-the-hood roast and the yeah, one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 7,
+        "at": 16.39,
+        "text": "Hey,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.1,
+      "end": 25.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "wait, definitely not, mm-hmm, that's evil",
+      "reason": "Connected HOA-bloodline refusal through that's evil in one hold instead of rapid cuts.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 17,
+        "at": 22.11,
+        "text": "Hey,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 30.766667,
+      "end": 32.3,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "That's a nice game.",
+      "reason": "Smiling shopping-cart racing approval held to its settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 28,
+        "at": 30.76,
+        "text": "That's"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 34.066667,
+      "end": 35.4,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Oh, heck nah.",
+      "reason": "Open-mouth pogo-gang refusal held through nah and the settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 32,
+        "at": 34.07,
+        "text": "Oh,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 37.733333,
+      "end": 40.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Literally, they're gonna jump you. Like, what's nah?",
+      "reason": "Laughing jump-you joke and its follow-up in one connected hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 35,
+        "at": 37.72,
+        "text": "Literally,"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 41.433333,
+      "end": 42.7,
+      "scale": 1.38,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Bubbles?",
+      "reason": "Strong squinting Bubbles? disbelief at the bubble gang, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 43,
+        "at": 41.42,
+        "text": "Bubbles?"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 44.066667,
+      "end": 45.4,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "I don't want to get bubbled.",
+      "reason": "Mild hold on the deadpan don't-want-to-get-bubbled plea.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 44,
+        "at": 44.08,
+        "text": "I"
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.9,
+      "end": 49.0,
+      "scale": 1.4,
+      "dx": 0,
+      "dy": -0.08,
+      "dialogue": "That's a threat. Oh, heck nah.",
+      "reason": "Deadpan that's-a-threat and the closing heck-nah refusal in one strong hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "word_index": 50,
+        "at": 46.89,
+        "text": "That's"
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "note": "Preview inspected: hair, eyes and mouth stay in frame at every onset/end; end oh/ha reactions left at baseline."
+  }
+}

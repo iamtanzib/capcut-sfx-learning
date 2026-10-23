@@ -1,0 +1,86 @@
+[
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 3.405,
+    "score": 0.847,
+    "gain": 0.3802
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 6.835,
+    "score": 0.967,
+    "gain": 2.1346
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 8.529,
+    "score": 0.905,
+    "gain": 0.4265
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 10.869,
+    "score": 0.951,
+    "gain": 1.9739
+  },
+  {
+    "sound": "error_CDOxCYm.mp3",
+    "family": "error_CDOxCYm.mp3",
+    "start": 21.569,
+    "score": 0.839,
+    "gain": 0.98
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 23.202,
+    "score": 0.969,
+    "gain": 2.1517
+  },
+  {
+    "sound": "fahhhh.mp3",
+    "family": "fah",
+    "start": 28.968,
+    "score": 0.564,
+    "gain": 0.8973
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 30.135,
+    "score": 0.982,
+    "gain": 2.1179
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 31.205,
+    "score": 0.909,
+    "gain": 0.4322
+  },
+  {
+    "sound": "vine-boom (20).mp3",
+    "family": "vine boom",
+    "start": 34.039,
+    "score": 0.893,
+    "gain": 0.4087
+  },
+  {
+    "sound": "error_CDOxCYm.mp3",
+    "family": "error_CDOxCYm.mp3",
+    "start": 35.802,
+    "score": 0.834,
+    "gain": 0.9253
+  },
+  {
+    "sound": "core-sound-effect.mp3",
+    "family": "whoosh",
+    "start": 37.468,
+    "score": 0.964,
+    "gain": 2.0159
+  }
+]

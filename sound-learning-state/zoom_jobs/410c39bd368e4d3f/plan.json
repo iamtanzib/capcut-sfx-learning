@@ -1,0 +1,151 @@
+{
+  "job_id": "410c39bd368e4d3f",
+  "source_hash": "eb4814341e340613c0a596e258d2074c391768c9c93a20bca6d8ee288b51c234",
+  "style_version": 22,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 2.333333,
+      "end": 3.6,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "Again?",
+      "reason": "Exasperated squinting Again? at the walls premise, held while the face settles.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 2.32,
+        "text": "Again?",
+        "word_index": 0
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.233333,
+      "end": 16.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "She can stay, heck yeah she can stay",
+      "reason": "One hold covers the grimacing underwear-joke acceptance and the smiling heck-yeah repeat.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.22,
+        "text": "She",
+        "word_index": 7
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 18.933333,
+      "end": 20.3,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Ooh, security",
+      "reason": "Pursed-lip ooh at the security guard reveal, held through security.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 18.93,
+        "text": "Ooh,",
+        "word_index": 15
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.433333,
+      "end": 33.3,
+      "scale": 1.34,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Antonio free bro, free rent bro",
+      "reason": "Whole free-rent roast with the hand-on-forehead gesture in one closeup.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.44,
+        "text": "Antonio",
+        "word_index": 27
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 39.9,
+      "end": 41.3,
+      "scale": 1.25,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I don't know about that",
+      "reason": "Mild hold on the hand-on-chin I-don't-know-about-that skepticism.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 39.89,
+        "text": "I",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 42.133333,
+      "end": 43.5,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What?",
+      "reason": "Pleased what at Daniel working for you, held to the smile.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 42.14,
+        "text": "What?",
+        "word_index": 39
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.633333,
+      "end": 48.7,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the what, hey he's a man",
+      "reason": "Confused flirting reaction and the he's-a-man punchline in one connected hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 47.69,
+        "text": "Hey,",
+        "word_index": 40,
+        "offset_reason": "Start on caption 12 what-the-what reaction at 46.633s that ASR missed; frame 46.7 shows the squint already under way, 1.06s before cached Hey."
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 55.2,
+      "end": 56.0,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.06,
+      "dialogue": "I'm doing Daniel",
+      "reason": "Final I'm-doing-Daniel choice held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 55.2,
+        "text": "I'm",
+        "word_index": 49
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_notes": "Preview inspected: head, hair and eyes stay in frame at every onset/end; clean baseline resets."
+  }
+}

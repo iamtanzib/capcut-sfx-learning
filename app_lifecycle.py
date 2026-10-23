@@ -1,5 +1,5 @@
 """Graceful CapCut closure only; never terminate it or answer save dialogs."""
-import json,os,subprocess,time
+import json,os,subprocess,sys,time
 
 CLOSE_SCRIPT=r'''
 $ErrorActionPreference = 'Stop'
@@ -21,8 +21,23 @@ foreach ($appProcess in [System.Diagnostics.Process]::GetProcessesByName('CapCut
 ConvertTo-Json -InputObject @($items) -Compress
 '''
 
+def request_close_mac(seen_handles=()):
+    # macOS has no per-window handle here; 0 stands for "quit already requested".
+    # A normal Quit (same as Cmd+Q) is sent once; a save dialog is never answered.
+    if 0 in seen_handles:return []
+    pids=subprocess.run(['pgrep','-x','CapCut'],capture_output=True,text=True,timeout=10)
+    if pids.returncode==1:return []
+    if pids.returncode:raise ValueError('Cannot list CapCut processes.')
+    result=subprocess.run(['osascript','-e','tell application id "com.lemon.lvoverseas" to quit'],
+        capture_output=True,text=True,encoding='utf-8',errors='replace',timeout=12)
+    # CapCut often answers a normal Quit with AppleEvent error -128 and still exits; the caller's
+    # process wait decides, and a CapCut that really stays open still blocks the write.
+    if result.returncode and '-128' not in result.stderr:raise ValueError('Normal CapCut quit request failed. Quit CapCut manually; no files were written.')
+    return [{'process_id':int(pid),'window_handle':0,'close_requested':True} for pid in pids.stdout.split()]
+
 def request_close(seen_handles=()):
-    if os.name!='nt':raise ValueError('Auto-close supports Windows only. Quit CapCut manually before applying.')
+    if sys.platform=='darwin':return request_close_mac(seen_handles)
+    if os.name!='nt':raise ValueError('Auto-close supports Windows and macOS only. Quit CapCut manually before applying.')
     # Only validated integer HWNDs enter the fixed script. A dialog on an already
     # requested window is never dismissed by repeatedly sending close messages.
     if any(type(v)!=int or v<0 for v in seen_handles):raise ValueError('Invalid window identity.')

@@ -1,0 +1,454 @@
+{
+  "model": "base.en",
+  "seconds": 1.35,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "The first one made me flinch. Did anybody else flinch? Oh my gosh. Oh",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.42,
+          "text": "The"
+        },
+        {
+          "start": 0.42,
+          "end": 0.64,
+          "text": "first"
+        },
+        {
+          "start": 0.64,
+          "end": 0.84,
+          "text": "one"
+        },
+        {
+          "start": 0.84,
+          "end": 0.98,
+          "text": "made"
+        },
+        {
+          "start": 0.98,
+          "end": 1.14,
+          "text": "me"
+        },
+        {
+          "start": 1.14,
+          "end": 1.46,
+          "text": "flinch."
+        },
+        {
+          "start": 1.54,
+          "end": 1.58,
+          "text": "Did"
+        },
+        {
+          "start": 1.58,
+          "end": 1.78,
+          "text": "anybody"
+        },
+        {
+          "start": 1.78,
+          "end": 2.1,
+          "text": "else"
+        },
+        {
+          "start": 2.1,
+          "end": 2.46,
+          "text": "flinch?"
+        },
+        {
+          "start": 2.8,
+          "end": 2.94,
+          "text": "Oh"
+        },
+        {
+          "start": 2.94,
+          "end": 3.1,
+          "text": "my"
+        },
+        {
+          "start": 3.1,
+          "end": 3.52,
+          "text": "gosh."
+        },
+        {
+          "start": 4.24,
+          "end": 4.64,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "start": 4.64,
+      "end": 8.54,
+      "text": "Sign this guy up for the army immediately. We need him. Oh my gosh",
+      "words": [
+        {
+          "start": 4.64,
+          "end": 4.96,
+          "text": "Sign"
+        },
+        {
+          "start": 4.96,
+          "end": 5.16,
+          "text": "this"
+        },
+        {
+          "start": 5.16,
+          "end": 5.34,
+          "text": "guy"
+        },
+        {
+          "start": 5.34,
+          "end": 5.52,
+          "text": "up"
+        },
+        {
+          "start": 5.52,
+          "end": 5.64,
+          "text": "for"
+        },
+        {
+          "start": 5.64,
+          "end": 5.74,
+          "text": "the"
+        },
+        {
+          "start": 5.74,
+          "end": 6.0,
+          "text": "army"
+        },
+        {
+          "start": 6.0,
+          "end": 6.56,
+          "text": "immediately."
+        },
+        {
+          "start": 6.72,
+          "end": 6.88,
+          "text": "We"
+        },
+        {
+          "start": 6.88,
+          "end": 7.04,
+          "text": "need"
+        },
+        {
+          "start": 7.04,
+          "end": 7.46,
+          "text": "him."
+        },
+        {
+          "start": 7.8,
+          "end": 7.98,
+          "text": "Oh"
+        },
+        {
+          "start": 7.98,
+          "end": 8.14,
+          "text": "my"
+        },
+        {
+          "start": 8.14,
+          "end": 8.54,
+          "text": "gosh"
+        }
+      ]
+    },
+    {
+      "start": 9.55,
+      "end": 12.89,
+      "text": "Isn't a set of guns. We use golf balls as a weapon. He's cooking everyone",
+      "words": [
+        {
+          "start": 9.55,
+          "end": 9.95,
+          "text": "Isn't"
+        },
+        {
+          "start": 9.95,
+          "end": 9.97,
+          "text": "a"
+        },
+        {
+          "start": 9.97,
+          "end": 10.17,
+          "text": "set"
+        },
+        {
+          "start": 10.17,
+          "end": 10.29,
+          "text": "of"
+        },
+        {
+          "start": 10.29,
+          "end": 10.49,
+          "text": "guns."
+        },
+        {
+          "start": 10.73,
+          "end": 10.75,
+          "text": "We"
+        },
+        {
+          "start": 10.75,
+          "end": 10.93,
+          "text": "use"
+        },
+        {
+          "start": 10.93,
+          "end": 11.09,
+          "text": "golf"
+        },
+        {
+          "start": 11.09,
+          "end": 11.39,
+          "text": "balls"
+        },
+        {
+          "start": 11.39,
+          "end": 11.61,
+          "text": "as"
+        },
+        {
+          "start": 11.61,
+          "end": 11.73,
+          "text": "a"
+        },
+        {
+          "start": 11.73,
+          "end": 11.95,
+          "text": "weapon."
+        },
+        {
+          "start": 12.13,
+          "end": 12.21,
+          "text": "He's"
+        },
+        {
+          "start": 12.21,
+          "end": 12.39,
+          "text": "cooking"
+        },
+        {
+          "start": 12.39,
+          "end": 12.89,
+          "text": "everyone"
+        }
+      ]
+    },
+    {
+      "start": 14.4,
+      "end": 17.9,
+      "text": "I'll admit that was satisfying the way that popped mmm",
+      "words": [
+        {
+          "start": 14.4,
+          "end": 14.8,
+          "text": "I'll"
+        },
+        {
+          "start": 14.8,
+          "end": 15.0,
+          "text": "admit"
+        },
+        {
+          "start": 15.0,
+          "end": 15.2,
+          "text": "that"
+        },
+        {
+          "start": 15.2,
+          "end": 15.32,
+          "text": "was"
+        },
+        {
+          "start": 15.32,
+          "end": 15.9,
+          "text": "satisfying"
+        },
+        {
+          "start": 15.9,
+          "end": 16.4,
+          "text": "the"
+        },
+        {
+          "start": 16.4,
+          "end": 16.54,
+          "text": "way"
+        },
+        {
+          "start": 16.54,
+          "end": 16.68,
+          "text": "that"
+        },
+        {
+          "start": 16.68,
+          "end": 16.96,
+          "text": "popped"
+        },
+        {
+          "start": 16.96,
+          "end": 17.9,
+          "text": "mmm"
+        }
+      ]
+    },
+    {
+      "start": 18.51,
+      "end": 22.83,
+      "text": "Yeah, his mom is definitely pissed. He just stole all his mom's faces and broke them bro. What?",
+      "words": [
+        {
+          "start": 18.51,
+          "end": 18.71,
+          "text": "Yeah,"
+        },
+        {
+          "start": 18.91,
+          "end": 18.97,
+          "text": "his"
+        },
+        {
+          "start": 18.97,
+          "end": 19.21,
+          "text": "mom"
+        },
+        {
+          "start": 19.21,
+          "end": 19.37,
+          "text": "is"
+        },
+        {
+          "start": 19.37,
+          "end": 19.77,
+          "text": "definitely"
+        },
+        {
+          "start": 19.77,
+          "end": 20.13,
+          "text": "pissed."
+        },
+        {
+          "start": 20.55,
+          "end": 20.59,
+          "text": "He"
+        },
+        {
+          "start": 20.59,
+          "end": 20.71,
+          "text": "just"
+        },
+        {
+          "start": 20.71,
+          "end": 20.95,
+          "text": "stole"
+        },
+        {
+          "start": 20.95,
+          "end": 21.11,
+          "text": "all"
+        },
+        {
+          "start": 21.11,
+          "end": 21.25,
+          "text": "his"
+        },
+        {
+          "start": 21.25,
+          "end": 21.57,
+          "text": "mom's"
+        },
+        {
+          "start": 21.57,
+          "end": 21.87,
+          "text": "faces"
+        },
+        {
+          "start": 21.87,
+          "end": 22.03,
+          "text": "and"
+        },
+        {
+          "start": 22.03,
+          "end": 22.23,
+          "text": "broke"
+        },
+        {
+          "start": 22.23,
+          "end": 22.45,
+          "text": "them"
+        },
+        {
+          "start": 22.45,
+          "end": 22.59,
+          "text": "bro."
+        },
+        {
+          "start": 22.83,
+          "end": 22.83,
+          "text": "What?"
+        }
+      ]
+    },
+    {
+      "start": 24.69,
+      "end": 27.65,
+      "text": "Imagine if that was a person bro. Oh my gosh",
+      "words": [
+        {
+          "start": 24.69,
+          "end": 25.09,
+          "text": "Imagine"
+        },
+        {
+          "start": 25.09,
+          "end": 25.29,
+          "text": "if"
+        },
+        {
+          "start": 25.29,
+          "end": 25.47,
+          "text": "that"
+        },
+        {
+          "start": 25.47,
+          "end": 25.65,
+          "text": "was"
+        },
+        {
+          "start": 25.65,
+          "end": 25.77,
+          "text": "a"
+        },
+        {
+          "start": 25.77,
+          "end": 26.17,
+          "text": "person"
+        },
+        {
+          "start": 26.17,
+          "end": 26.55,
+          "text": "bro."
+        },
+        {
+          "start": 26.91,
+          "end": 27.11,
+          "text": "Oh"
+        },
+        {
+          "start": 27.11,
+          "end": 27.29,
+          "text": "my"
+        },
+        {
+          "start": 27.29,
+          "end": 27.65,
+          "text": "gosh"
+        }
+      ]
+    }
+  ]
+}

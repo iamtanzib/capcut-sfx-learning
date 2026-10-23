@@ -1,0 +1,469 @@
+{
+  "model": "base.en",
+  "seconds": 7.27,
+  "cached": false,
+  "rows": [
+    {
+      "start": 5.72,
+      "end": 8.02,
+      "text": "Y'all, am I the only one who picked the same one as him?",
+      "words": [
+        {
+          "start": 5.72,
+          "end": 6.08,
+          "text": "Y"
+        },
+        {
+          "start": 6.08,
+          "end": 6.2,
+          "text": "'all,"
+        },
+        {
+          "start": 6.26,
+          "end": 6.36,
+          "text": "am"
+        },
+        {
+          "start": 6.36,
+          "end": 6.44,
+          "text": "I"
+        },
+        {
+          "start": 6.44,
+          "end": 6.54,
+          "text": "the"
+        },
+        {
+          "start": 6.54,
+          "end": 6.72,
+          "text": "only"
+        },
+        {
+          "start": 6.72,
+          "end": 6.9,
+          "text": "one"
+        },
+        {
+          "start": 6.9,
+          "end": 7.02,
+          "text": "who"
+        },
+        {
+          "start": 7.02,
+          "end": 7.14,
+          "text": "picked"
+        },
+        {
+          "start": 7.14,
+          "end": 7.3,
+          "text": "the"
+        },
+        {
+          "start": 7.3,
+          "end": 7.54,
+          "text": "same"
+        },
+        {
+          "start": 7.54,
+          "end": 7.72,
+          "text": "one"
+        },
+        {
+          "start": 7.72,
+          "end": 7.86,
+          "text": "as"
+        },
+        {
+          "start": 7.86,
+          "end": 8.02,
+          "text": "him?"
+        }
+      ]
+    },
+    {
+      "start": 8.36,
+      "end": 8.76,
+      "text": "Am I stupid?",
+      "words": [
+        {
+          "start": 8.36,
+          "end": 8.42,
+          "text": "Am"
+        },
+        {
+          "start": 8.42,
+          "end": 8.52,
+          "text": "I"
+        },
+        {
+          "start": 8.52,
+          "end": 8.76,
+          "text": "stupid?"
+        }
+      ]
+    },
+    {
+      "start": 14.45,
+      "end": 15.65,
+      "text": "Oh yeah, we're definitely cooked.",
+      "words": [
+        {
+          "start": 14.45,
+          "end": 14.47,
+          "text": "Oh"
+        },
+        {
+          "start": 14.47,
+          "end": 14.87,
+          "text": "yeah,"
+        },
+        {
+          "start": 14.99,
+          "end": 15.05,
+          "text": "we're"
+        },
+        {
+          "start": 15.05,
+          "end": 15.35,
+          "text": "definitely"
+        },
+        {
+          "start": 15.35,
+          "end": 15.65,
+          "text": "cooked."
+        }
+      ]
+    },
+    {
+      "start": 15.87,
+      "end": 17.29,
+      "text": "Animals just learned how to flirt, bro.",
+      "words": [
+        {
+          "start": 15.87,
+          "end": 15.99,
+          "text": "Animals"
+        },
+        {
+          "start": 15.99,
+          "end": 16.27,
+          "text": "just"
+        },
+        {
+          "start": 16.27,
+          "end": 16.45,
+          "text": "learned"
+        },
+        {
+          "start": 16.45,
+          "end": 16.61,
+          "text": "how"
+        },
+        {
+          "start": 16.61,
+          "end": 16.73,
+          "text": "to"
+        },
+        {
+          "start": 16.73,
+          "end": 16.97,
+          "text": "flirt,"
+        },
+        {
+          "start": 17.07,
+          "end": 17.29,
+          "text": "bro."
+        }
+      ]
+    },
+    {
+      "start": 17.45,
+      "end": 18.15,
+      "text": "What is going on?",
+      "words": [
+        {
+          "start": 17.45,
+          "end": 17.49,
+          "text": "What"
+        },
+        {
+          "start": 17.49,
+          "end": 17.59,
+          "text": "is"
+        },
+        {
+          "start": 17.59,
+          "end": 17.73,
+          "text": "going"
+        },
+        {
+          "start": 17.73,
+          "end": 18.15,
+          "text": "on?"
+        }
+      ]
+    },
+    {
+      "start": 18.65,
+      "end": 21.51,
+      "text": "Resipes my granny, she got hit by a bazooka.",
+      "words": [
+        {
+          "start": 18.65,
+          "end": 19.01,
+          "text": "Resipes"
+        },
+        {
+          "start": 19.01,
+          "end": 19.33,
+          "text": "my"
+        },
+        {
+          "start": 19.33,
+          "end": 19.67,
+          "text": "granny,"
+        },
+        {
+          "start": 19.87,
+          "end": 19.93,
+          "text": "she"
+        },
+        {
+          "start": 19.93,
+          "end": 20.19,
+          "text": "got"
+        },
+        {
+          "start": 20.19,
+          "end": 20.35,
+          "text": "hit"
+        },
+        {
+          "start": 20.35,
+          "end": 20.67,
+          "text": "by"
+        },
+        {
+          "start": 20.67,
+          "end": 20.79,
+          "text": "a"
+        },
+        {
+          "start": 20.79,
+          "end": 21.51,
+          "text": "bazooka."
+        }
+      ]
+    },
+    {
+      "start": 21.69,
+      "end": 24.41,
+      "text": "The only one who thought that was real for the first two seconds, bro.",
+      "words": [
+        {
+          "start": 21.69,
+          "end": 21.73,
+          "text": "The"
+        },
+        {
+          "start": 21.73,
+          "end": 21.91,
+          "text": "only"
+        },
+        {
+          "start": 21.91,
+          "end": 22.09,
+          "text": "one"
+        },
+        {
+          "start": 22.09,
+          "end": 22.21,
+          "text": "who"
+        },
+        {
+          "start": 22.21,
+          "end": 22.39,
+          "text": "thought"
+        },
+        {
+          "start": 22.39,
+          "end": 22.53,
+          "text": "that"
+        },
+        {
+          "start": 22.53,
+          "end": 22.67,
+          "text": "was"
+        },
+        {
+          "start": 22.67,
+          "end": 22.91,
+          "text": "real"
+        },
+        {
+          "start": 22.91,
+          "end": 23.11,
+          "text": "for"
+        },
+        {
+          "start": 23.11,
+          "end": 23.19,
+          "text": "the"
+        },
+        {
+          "start": 23.19,
+          "end": 23.45,
+          "text": "first"
+        },
+        {
+          "start": 23.45,
+          "end": 23.71,
+          "text": "two"
+        },
+        {
+          "start": 23.71,
+          "end": 24.09,
+          "text": "seconds,"
+        },
+        {
+          "start": 24.09,
+          "end": 24.41,
+          "text": "bro."
+        }
+      ]
+    },
+    {
+      "start": 24.65,
+      "end": 25.31,
+      "text": "Ayes cook.",
+      "words": [
+        {
+          "start": 24.65,
+          "end": 24.99,
+          "text": "Ayes"
+        },
+        {
+          "start": 24.99,
+          "end": 25.31,
+          "text": "cook."
+        }
+      ]
+    },
+    {
+      "start": 26.13,
+      "end": 31.07,
+      "text": "What's that sea lion?",
+      "words": [
+        {
+          "start": 26.13,
+          "end": 26.41,
+          "text": "What's"
+        },
+        {
+          "start": 30.57,
+          "end": 30.67,
+          "text": "that"
+        },
+        {
+          "start": 30.67,
+          "end": 30.85,
+          "text": "sea"
+        },
+        {
+          "start": 30.85,
+          "end": 31.07,
+          "text": "lion?"
+        }
+      ]
+    },
+    {
+      "start": 31.23,
+      "end": 32.29,
+      "text": "I want to smack him, bro.",
+      "words": [
+        {
+          "start": 31.23,
+          "end": 31.23,
+          "text": "I"
+        },
+        {
+          "start": 31.23,
+          "end": 31.35,
+          "text": "want"
+        },
+        {
+          "start": 31.35,
+          "end": 31.43,
+          "text": "to"
+        },
+        {
+          "start": 31.43,
+          "end": 31.77,
+          "text": "smack"
+        },
+        {
+          "start": 31.77,
+          "end": 32.09,
+          "text": "him,"
+        },
+        {
+          "start": 32.21,
+          "end": 32.29,
+          "text": "bro."
+        }
+      ]
+    },
+    {
+      "start": 32.71,
+      "end": 34.01,
+      "text": "He just had to pay for cooking, bro, what?",
+      "words": [
+        {
+          "start": 32.71,
+          "end": 32.73,
+          "text": "He"
+        },
+        {
+          "start": 32.73,
+          "end": 32.83,
+          "text": "just"
+        },
+        {
+          "start": 32.83,
+          "end": 32.97,
+          "text": "had"
+        },
+        {
+          "start": 32.97,
+          "end": 33.09,
+          "text": "to"
+        },
+        {
+          "start": 33.09,
+          "end": 33.27,
+          "text": "pay"
+        },
+        {
+          "start": 33.27,
+          "end": 33.41,
+          "text": "for"
+        },
+        {
+          "start": 33.41,
+          "end": 33.55,
+          "text": "cooking,"
+        },
+        {
+          "start": 33.77,
+          "end": 33.79,
+          "text": "bro,"
+        },
+        {
+          "start": 33.91,
+          "end": 34.01,
+          "text": "what?"
+        }
+      ]
+    }
+  ]
+}

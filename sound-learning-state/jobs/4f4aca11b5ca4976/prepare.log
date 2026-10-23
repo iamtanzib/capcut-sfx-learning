@@ -1,0 +1,31 @@
+Preparing video_track_1 (cached results are reused)...
+Decoding video_track_1: IMG_7668.MOV
+Decoding video_track_1: copy_8E81FEC9-C814-4D5A-B403-993628887B9F.mov
+Transcribing video_track_1, base.en, CPU int8...
+video_track_1: speech read through 7.0s
+video_track_1: speech read through 15.0s
+video_track_1: speech read through 23.8s
+video_track_1: speech read through 30.0s
+video_track_1: speech read through 37.7s
+Preparing small frame proxy for video_track_1...
+Detecting scene changes in video_track_1.proxy-keyframes...
+Preparing video_track_2 (cached results are reused)...
+Decoding video_track_2: bw_01_2fbb44acd4.mp4
+No usable audio in bw_01_2fbb44acd4.mp4: [out#0/f32le @ 0x148805d20] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Decoding video_track_2: bw_02_374152b23c.mp4
+No usable audio in bw_02_374152b23c.mp4: [out#0/f32le @ 0x132616b20] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Decoding video_track_2: bw_03_baec513141.mp4
+No usable audio in bw_03_baec513141.mp4: [out#0/f32le @ 0x126e04560] Output file does not contain any stream
+Error opening output file -.
+Error opening output files: Invalid argument
+
+Transcribing video_track_2, base.en, CPU int8...
+Preparing small frame proxy for video_track_2...
+Detecting scene changes in video_track_2.proxy-keyframes...
+Context ready: 4.76s; 2 video tracks; 5 speech segments.

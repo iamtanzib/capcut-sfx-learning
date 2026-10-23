@@ -1,0 +1,25 @@
+{
+  "job_id": "c2770fa4806e497c",
+  "source_hash": "83d72da04829f5897cd615b6350bb00cdce33276998b07031f29167cb4979a04",
+  "style_version": 16,
+  "hook": {
+    "text": "YOU GOT INVITED TO\nSIX SECRET SOCIETIES\nWHICH WILL YOU JOIN?",
+    "highlight_phrases": [
+      "SECRET SOCIETIES"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "You accidentally got invited to six secret societies."
+    },
+    "reason": "Keep the actual six-secret-societies invitation and the which-one-are-you-joining question from the narrator intro.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "replacement_authorization": "User explicitly asked in chat to change the hook text on all 4 videos (4 tari hook text chng hbe).",
+    "layout_notes": "Native Rubik-Bold preview: three lines fit, yellow SECRET SOCIETIES."
+  }
+}

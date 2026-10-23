@@ -1,0 +1,25 @@
+{
+  "job_id": "b5e2f47c1fde4795",
+  "source_hash": "fc70396f8e53682483280914ecb9a6103cf03fc64e6cd81666ab229558b3b04d",
+  "style_version": 20,
+  "hook": {
+    "text": "ONE RING DELETES\nA PROBLEM FOREVER\nWHICH WILL YOU PICK?",
+    "highlight_phrases": [
+      "DELETES"
+    ],
+    "evidence": {
+      "role": "video_track_2",
+      "quote": "Choose one ring that deletes a problem from your life forever, but whichever ring you pick, you can never take it off."
+    },
+    "reason": "Keeps the narrator's actual premise, one ring that deletes a problem forever, plus the choice question; replaces the stale walls hook.",
+    "replace_existing": true,
+    "action": "fill_blank"
+  },
+  "quality_notes": {
+    "intro_reviewed": true,
+    "unresolved": [],
+    "layout_reviewed": true,
+    "layout_note": "Native Rubik-Bold preview inspected: three lines fit the width, DELETES yellow, no overflow.",
+    "replace_existing_authorization": "On 2026-10-22 the user said 'hook 4 tari chng hbe' (all four hooks must change); the field still holds the old SOMEBODY'S MOVING INSIDE YOUR WALLS text."
+  }
+}

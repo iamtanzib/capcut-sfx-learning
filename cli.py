@@ -11,6 +11,9 @@ allowed={'list_projects':api.s.list_projects,'prepare_batch':api.prepare_batch,'
     'apply_zoom_batch':api.apply_zoom_batch,'learn_zoom_revision':api.learn_zoom_revision,
     'prepare_edit_batch':api.prepare_edit_batch,'get_edit_briefs':api.get_edit_briefs,'apply_edit_batch':api.apply_edit_batch,
     'learn_hook_style':api.learn_hook_style,'stage_hook_plan':api.stage_hook_plan,'preview_hook_plan':api.preview_hook_plan,
-    'learn_hook_revision':api.learn_hook_revision,'analysis_cache_status':api.analysis_cache_status,'learn_edit_revision':api.learn_edit_revision}
+    'learn_hook_revision':api.learn_hook_revision,'analysis_cache_status':api.analysis_cache_status,'learn_edit_revision':api.learn_edit_revision,
+    'learn_ranking_style':api.learn_ranking_style,'prepare_ranking_batch':api.prepare_ranking_batch,'get_ranking_briefs':api.get_ranking_briefs,
+    'ranking_frames':api.ranking_frames,'stage_ranking_plan':api.stage_ranking_plan,'preview_ranking_plan':api.preview_ranking_plan,
+    'apply_ranking_batch':api.apply_ranking_batch,'learn_ranking_revision':api.learn_ranking_revision}
 if args.tool not in allowed:raise ValueError('Unknown tool.')
 print(json.dumps(allowed[args.tool](**params),ensure_ascii=False,separators=(',',':')))

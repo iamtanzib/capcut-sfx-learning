@@ -14,7 +14,7 @@ def prepare(api,targets,edit_mode='full_combo',workers=2):
     record={'batch_id':analysis['batch_id'],'mode':chosen,'analysis_batch_id':analysis['batch_id'],'targets':targets,'analysis_jobs':analysis['jobs']}
     (api.STATE/'edit_batches').mkdir(exist_ok=True);api.s.write_json(api.STATE/'edit_batches'/(record['batch_id']+'.json'),record)
     return {**analysis,'mode':chosen,'next':'batch_status then get_edit_briefs. One analysis is shared by all selected components.'}
-def briefs(api,batch):
+def briefs(api,batch,lean=0):
     import hooks,zoom
     rec=load(api,batch);records=[api.job_data(j) for j in rec['analysis_jobs']]
     if any(r['status'] not in ('ready','staged','applied') for r in records):raise ValueError('Wait for all analysis jobs; inspect batch_status failures.')
@@ -32,7 +32,8 @@ def briefs(api,batch):
     rows=[api.get_brief(j,True) for j in rec['analysis_jobs']]
     if rec['mode']=='full_combo':
         for row,j in zip(rows,rec['hook_jobs']):row['text_hook']=api.s.read_json(hooks.path(api,j)/'brief.json');row['hook_job_id']=j
-    common=api.shared_fields(rows)
+    import lean as ln
+    rows=ln.apply(rows,lean);common=api.shared_fields(rows)
     value={'mode':rec['mode'],'$shared':api.pack(common),'$jobs':[{'job_id':j,'$delta':api.pack(api.difference(r,common))} for j,r in zip(rec['analysis_jobs'],rows)]}
     for row,part in zip(rows,value['$jobs']):assert api.merge(api.unpack(value['$shared']),api.unpack(part['$delta']))==row,'Edit briefing evidence changed.'
     return value
@@ -51,8 +52,8 @@ def apply_hooks(api,jobs,auto_close=True):
                 rec=hooks.record(api,j);pr=api.s.project_path(rec['project']);tl,current,path=api.s.load_timeline(pr,rec['timeline_id'])
                 updated=hooks.validated(api,j,current)
                 if updated==current:continue
-                result[path]=updated;index=api.s.read_json(pr/'Timelines/project.json')
-                if index['main_timeline_id']==tl['id']:result[api.s.draft_file(pr)]=updated
+                result[path]=updated
+                if api.s.is_main_timeline(pr,tl):result[api.s.draft_file(pr)]=updated
             return result
         changes=build()
         closure={'auto_close_requested':False,'not_needed':True}

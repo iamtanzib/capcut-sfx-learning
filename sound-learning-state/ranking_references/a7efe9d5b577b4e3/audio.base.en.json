@@ -1,0 +1,337 @@
+{
+  "model": "base.en",
+  "seconds": 1.21,
+  "cached": false,
+  "rows": [
+    {
+      "start": 1.05,
+      "end": 7.01,
+      "text": "I will be excited too. How did you do that on the first try?",
+      "words": [
+        {
+          "start": 1.05,
+          "end": 1.51,
+          "text": "I"
+        },
+        {
+          "start": 4.55,
+          "end": 4.67,
+          "text": "will"
+        },
+        {
+          "start": 4.67,
+          "end": 4.79,
+          "text": "be"
+        },
+        {
+          "start": 4.79,
+          "end": 5.15,
+          "text": "excited"
+        },
+        {
+          "start": 5.15,
+          "end": 5.47,
+          "text": "too."
+        },
+        {
+          "start": 5.47,
+          "end": 5.71,
+          "text": "How"
+        },
+        {
+          "start": 5.71,
+          "end": 5.81,
+          "text": "did"
+        },
+        {
+          "start": 5.81,
+          "end": 5.91,
+          "text": "you"
+        },
+        {
+          "start": 5.91,
+          "end": 6.05,
+          "text": "do"
+        },
+        {
+          "start": 6.05,
+          "end": 6.17,
+          "text": "that"
+        },
+        {
+          "start": 6.17,
+          "end": 6.27,
+          "text": "on"
+        },
+        {
+          "start": 6.27,
+          "end": 6.37,
+          "text": "the"
+        },
+        {
+          "start": 6.37,
+          "end": 6.61,
+          "text": "first"
+        },
+        {
+          "start": 6.61,
+          "end": 7.01,
+          "text": "try?"
+        }
+      ]
+    },
+    {
+      "start": 8.89,
+      "end": 11.07,
+      "text": "That doesn't even look right. Oh, hack now",
+      "words": [
+        {
+          "start": 8.89,
+          "end": 9.35,
+          "text": "That"
+        },
+        {
+          "start": 9.35,
+          "end": 9.61,
+          "text": "doesn't"
+        },
+        {
+          "start": 9.61,
+          "end": 9.75,
+          "text": "even"
+        },
+        {
+          "start": 9.75,
+          "end": 10.01,
+          "text": "look"
+        },
+        {
+          "start": 10.01,
+          "end": 10.33,
+          "text": "right."
+        },
+        {
+          "start": 10.51,
+          "end": 10.53,
+          "text": "Oh,"
+        },
+        {
+          "start": 10.69,
+          "end": 10.77,
+          "text": "hack"
+        },
+        {
+          "start": 10.77,
+          "end": 11.07,
+          "text": "now"
+        }
+      ]
+    },
+    {
+      "start": 20.35,
+      "end": 23.37,
+      "text": "Humiliation ritual. I will not let somebody shoot at me like that",
+      "words": [
+        {
+          "start": 20.35,
+          "end": 20.81,
+          "text": "Humiliation"
+        },
+        {
+          "start": 20.81,
+          "end": 21.27,
+          "text": "ritual."
+        },
+        {
+          "start": 21.65,
+          "end": 21.89,
+          "text": "I"
+        },
+        {
+          "start": 21.89,
+          "end": 21.99,
+          "text": "will"
+        },
+        {
+          "start": 21.99,
+          "end": 22.13,
+          "text": "not"
+        },
+        {
+          "start": 22.13,
+          "end": 22.29,
+          "text": "let"
+        },
+        {
+          "start": 22.29,
+          "end": 22.51,
+          "text": "somebody"
+        },
+        {
+          "start": 22.51,
+          "end": 22.81,
+          "text": "shoot"
+        },
+        {
+          "start": 22.81,
+          "end": 22.95,
+          "text": "at"
+        },
+        {
+          "start": 22.95,
+          "end": 23.03,
+          "text": "me"
+        },
+        {
+          "start": 23.03,
+          "end": 23.19,
+          "text": "like"
+        },
+        {
+          "start": 23.19,
+          "end": 23.37,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "start": 27.85,
+      "end": 30.29,
+      "text": "Evil they definitely targeted him. Oh, hack now",
+      "words": [
+        {
+          "start": 27.85,
+          "end": 28.31,
+          "text": "Evil"
+        },
+        {
+          "start": 28.31,
+          "end": 28.51,
+          "text": "they"
+        },
+        {
+          "start": 28.51,
+          "end": 28.79,
+          "text": "definitely"
+        },
+        {
+          "start": 28.79,
+          "end": 29.13,
+          "text": "targeted"
+        },
+        {
+          "start": 29.13,
+          "end": 29.61,
+          "text": "him."
+        },
+        {
+          "start": 29.71,
+          "end": 29.79,
+          "text": "Oh,"
+        },
+        {
+          "start": 29.91,
+          "end": 29.99,
+          "text": "hack"
+        },
+        {
+          "start": 29.99,
+          "end": 30.29,
+          "text": "now"
+        }
+      ]
+    },
+    {
+      "start": 30.8,
+      "end": 42.76,
+      "text": "He took it out on the window double punishment the army right now. He has good aim",
+      "words": [
+        {
+          "start": 30.8,
+          "end": 31.03,
+          "text": "He"
+        },
+        {
+          "start": 34.84,
+          "end": 35.18,
+          "text": "took"
+        },
+        {
+          "start": 35.18,
+          "end": 35.98,
+          "text": "it"
+        },
+        {
+          "start": 35.98,
+          "end": 36.08,
+          "text": "out"
+        },
+        {
+          "start": 36.08,
+          "end": 36.2,
+          "text": "on"
+        },
+        {
+          "start": 36.2,
+          "end": 36.3,
+          "text": "the"
+        },
+        {
+          "start": 36.3,
+          "end": 36.6,
+          "text": "window"
+        },
+        {
+          "start": 36.6,
+          "end": 37.04,
+          "text": "double"
+        },
+        {
+          "start": 37.04,
+          "end": 37.48,
+          "text": "punishment"
+        },
+        {
+          "start": 37.48,
+          "end": 37.82,
+          "text": "the"
+        },
+        {
+          "start": 41.02,
+          "end": 41.26,
+          "text": "army"
+        },
+        {
+          "start": 41.26,
+          "end": 41.58,
+          "text": "right"
+        },
+        {
+          "start": 41.58,
+          "end": 41.84,
+          "text": "now."
+        },
+        {
+          "start": 41.88,
+          "end": 42.04,
+          "text": "He"
+        },
+        {
+          "start": 42.04,
+          "end": 42.16,
+          "text": "has"
+        },
+        {
+          "start": 42.16,
+          "end": 42.38,
+          "text": "good"
+        },
+        {
+          "start": 42.38,
+          "end": 42.76,
+          "text": "aim"
+        }
+      ]
+    }
+  ]
+}

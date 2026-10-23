@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 26,
   "references": [
     {
       "project": "test 1",
@@ -10116,19 +10116,2156 @@
         }
       ],
       "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.3",
+      "timeline_id": "8C89CF6D-1DBD-4B47-96CD-3ED05493F7CD",
+      "source_hash": "b6d191a9b68b640fbaa991138ceb2c1a600e3efd58a358c36ec917e8f5937fd1",
+      "analysis_job_id": "9c0283cc27914b4f",
+      "events": [
+        {
+          "role": "video_track_1",
+          "start": 2.333333,
+          "end": 3.6,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.05999999999999994,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Again?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "Somebody's moving inside your walls for the next 10 years, but each person comes with a different benefit."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 14.233333,
+          "end": 16.3,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.06999999999999995,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "She can stay. Heck yeah, she can stay."
+            },
+            {
+              "role": "video_track_2",
+              "text": "your nasty bathroom. Just don't ask me to clean your underwear. I'm Marcus."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 18.933333,
+          "end": 20.3,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.06999999999999995,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Ooh, security."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Marcus. I'll guard your house day and night. Even the burglar's gonna need an appointment to"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 31.433333,
+          "end": 33.3,
+          "scale": 1.34,
+          "scale_y": 1.34,
+          "dx": 0.0,
+          "dy": -0.06999999999999995,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Antonio Free, bro. Free rent, bro."
+            },
+            {
+              "role": "video_track_2",
+              "text": ".m.? I'm already seasoning the steak. I'm Jasmine. I'll mow your lawn,"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 39.9,
+          "end": 41.3,
+          "scale": 1.25,
+          "scale_y": 1.25,
+          "dx": 0.0,
+          "dy": -0.05999999999999994,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I don't know about that. What?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "for ten whole years. I'm Daniel. I'll go to work for you every day."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 42.133333,
+          "end": 43.5,
+          "scale": 1.36,
+          "scale_y": 1.36,
+          "dx": 0.0,
+          "dy": -0.06999999999999995,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I don't know about that. What?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "I'm Daniel. I'll go to work for you every day. You stay home and sleep? Just"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 46.633333,
+          "end": 48.7,
+          "scale": 1.35,
+          "scale_y": 1.35,
+          "dx": 0.0,
+          "dy": -0.06999999999999995,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Hey, he's a man."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Just don't blame me if I flirt with your boss. I'm Layla. I'll"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 55.2,
+          "end": 56.0,
+          "scale": 1.28,
+          "scale_y": 1.28,
+          "dx": 0.0,
+          "dy": -0.05999999999999994,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I'm doing Daniel. You"
+            },
+            {
+              "role": "video_track_2",
+              "text": "at 4 a .m. Just don't throw up in my car."
+            }
+          ]
+        }
+      ],
+      "video_signature": "9ee925bb8ef52f022ec779f99e1e4c00c5560ec9c66dbf0c9ec3dd4bacea5ea8",
+      "revision_diff": {
+        "matches": [
+          {
+            "predicted_index": 0,
+            "manual_index": 0,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 1,
+            "manual_index": 1,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 2,
+            "manual_index": 2,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 3,
+            "manual_index": 3,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 4,
+            "manual_index": 4,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 5,
+            "manual_index": 5,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 6,
+            "manual_index": 6,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 7,
+            "manual_index": 7,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          }
+        ],
+        "added": [],
+        "removed_or_distant_move": [],
+        "retained_without_material_change": 8,
+        "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+      },
+      "predicted": [
+        {
+          "role": "video_track_1",
+          "start": 2.333333,
+          "end": 3.6,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "Again?",
+          "reason": "Exasperated squinting Again? at the walls premise, held while the face settles.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 2.32,
+            "text": "Again?",
+            "word_index": 0
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 14.233333,
+          "end": 16.3,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "She can stay, heck yeah she can stay",
+          "reason": "One hold covers the grimacing underwear-joke acceptance and the smiling heck-yeah repeat.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 14.22,
+            "text": "She",
+            "word_index": 7
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 18.933333,
+          "end": 20.3,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Ooh, security",
+          "reason": "Pursed-lip ooh at the security guard reveal, held through security.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 18.93,
+            "text": "Ooh,",
+            "word_index": 15
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 31.433333,
+          "end": 33.3,
+          "scale": 1.34,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Antonio free bro, free rent bro",
+          "reason": "Whole free-rent roast with the hand-on-forehead gesture in one closeup.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 31.44,
+            "text": "Antonio",
+            "word_index": 27
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 39.9,
+          "end": 41.3,
+          "scale": 1.25,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "I don't know about that",
+          "reason": "Mild hold on the hand-on-chin I-don't-know-about-that skepticism.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 39.89,
+            "text": "I",
+            "word_index": 34
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 42.133333,
+          "end": 43.5,
+          "scale": 1.36,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "What?",
+          "reason": "Pleased what at Daniel working for you, held to the smile.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 42.14,
+            "text": "What?",
+            "word_index": 39
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 46.633333,
+          "end": 48.7,
+          "scale": 1.35,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "What the what, hey he's a man",
+          "reason": "Confused flirting reaction and the he's-a-man punchline in one connected hold.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 47.69,
+            "text": "Hey,",
+            "word_index": 40,
+            "offset_reason": "Start on caption 12 what-the-what reaction at 46.633s that ASR missed; frame 46.7 shows the squint already under way, 1.06s before cached Hey."
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 55.2,
+          "end": 56.0,
+          "scale": 1.28,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "I'm doing Daniel",
+          "reason": "Final I'm-doing-Daniel choice held to the video end.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 55.2,
+            "text": "I'm",
+            "word_index": 49
+          }
+        }
+      ],
+      "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.4",
+      "timeline_id": "11AEF51B-7B36-44E6-8839-944A98062901",
+      "source_hash": "6674ee33a09e11f20792f37f1487202f38400bc056d4b75e2f2ede3eb02204ca",
+      "analysis_job_id": "43f6283461ec42fc",
+      "events": [
+        {
+          "role": "video_track_1",
+          "start": 14.333333,
+          "end": 17.8,
+          "scale": 1.28,
+          "scale_y": 1.28,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Yeah, I don't know about that. Definitely not honestly."
+            },
+            {
+              "role": "video_track_2",
+              "text": "energy. But now your boss expects you to work all night too. Every animal can"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 21.733333,
+          "end": 24.0,
+          "scale": 1.34,
+          "scale_y": 1.34,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Birds, birds in the morning will be annoying. Oh."
+            },
+            {
+              "role": "video_track_2",
+              "text": "But your dog might expose what you do when nobody's home. Everybody"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 30.066667,
+          "end": 31.5,
+          "scale": 1.35,
+          "scale_y": 1.35,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Okay. Everyone's a vulture mate?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "money, money, but imagine hitting a bird at 80 miles an hour. Money grows on trees now."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 37.433333,
+          "end": 39.3,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I'm cut down the tree, bro. I'll do that."
+            },
+            {
+              "role": "video_track_2",
+              "text": "neighbors already stole every dollar off your tree. You can teleport anywhere"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 45.666667,
+          "end": 47.0,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "That's not good. No."
+            },
+            {
+              "role": "video_track_2",
+              "text": "but imagine sneezing and ending up in Antarctica. Food is free forever."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 48.266667,
+          "end": 50.1,
+          "scale": 1.32,
+          "scale_y": 1.32,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "That's not good. No. Yes. Yes."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Food is free forever. Take whatever you want, but now your family"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 54.433333,
+          "end": 55.3,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "That's not too bad."
+            },
+            {
+              "role": "video_track_2",
+              "text": "with a 47 -page grocery grocery list."
+            }
+          ]
+        }
+      ],
+      "video_signature": "a5844eba28bf372241e320014047133e090fb1c46e0619c24a9b0c3af54f968b",
+      "revision_diff": {
+        "matches": [
+          {
+            "predicted_index": 0,
+            "manual_index": 0,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 1,
+            "manual_index": 1,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 2,
+            "manual_index": 2,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 3,
+            "manual_index": 3,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 4,
+            "manual_index": 4,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 5,
+            "manual_index": 5,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 6,
+            "manual_index": 6,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          }
+        ],
+        "added": [],
+        "removed_or_distant_move": [],
+        "retained_without_material_change": 7,
+        "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+      },
+      "predicted": [
+        {
+          "role": "video_track_1",
+          "start": 14.333333,
+          "end": 17.8,
+          "scale": 1.28,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "Yeah I don't know about that, definitely not, no",
+          "reason": "One connected hold across the amused doubt, definitely-not and final no.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 14.34,
+            "text": "Yeah,",
+            "word_index": 3
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 21.733333,
+          "end": 24.0,
+          "scale": 1.34,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Birds, birds in the morning will be annoying",
+          "reason": "Frowning birds-in-the-morning complaint held through annoying.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 21.72,
+            "text": "Birds,",
+            "word_index": 13
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 30.066667,
+          "end": 31.5,
+          "scale": 1.35,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Everyone's a vulture mate?",
+          "reason": "Skeptical vulture question and side-glance, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 30.07,
+            "text": "Everyone's",
+            "word_index": 23
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 37.433333,
+          "end": 39.3,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "I'm cut down the tree bro, I'll do that",
+          "reason": "Cut-down-the-tree solution and I'll-do-that acceptance in one hold.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 37.43,
+            "text": "I'm",
+            "word_index": 27
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 45.666667,
+          "end": 47.0,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "That's not good. No.",
+          "reason": "Hand-on-chin that's-not-good appraisal through the no.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 45.67,
+            "text": "That's",
+            "word_index": 37
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 48.266667,
+          "end": 50.1,
+          "scale": 1.32,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Yes. Yes.",
+          "reason": "Pointing yes-yes celebration of free food, held through both yeses.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 48.25,
+            "text": "Yes.",
+            "word_index": 41
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 54.433333,
+          "end": 55.3,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "That's not too bad",
+          "reason": "Final not-too-bad acceptance held to the video end.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 54.42,
+            "text": "That's",
+            "word_index": 43
+          }
+        }
+      ],
+      "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.5",
+      "timeline_id": "16B492FB-6124-472A-9861-25ADAA2C6EF6",
+      "source_hash": "ebc634349633a2852912db3ceaadeb9118b1f8e3a989fec156fcb9743c97bea5",
+      "analysis_job_id": "fc5747556cfb4776",
+      "events": [
+        {
+          "role": "video_track_1",
+          "start": 2.2,
+          "end": 3.4,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I did."
+            },
+            {
+              "role": "video_track_2",
+              "text": "You accidentally got invited to six secret societies. Some are amazing and some are absolutely"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 12.033333,
+          "end": 13.4,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Okay. I'll do that."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Society. We just want someone to play bingo with us. And honey, you're taking cookies home whether you"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 17.6,
+          "end": 18.9,
+          "scale": 1.35,
+          "scale_y": 1.35,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I'll do that. What the?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "not. Welcome to the Professional Hide and Seek Society. We're so good. Three of our members have been missing"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 21.166667,
+          "end": 24.1,
+          "scale": 1.32,
+          "scale_y": 1.32,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Dog, you're not alive. Bro, no,"
+            },
+            {
+              "role": "video_track_2",
+              "text": "good. Three of our members have been missing since 2019. Nobody's found them yet."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 25.833333,
+          "end": 27.5,
+          "scale": 1.36,
+          "scale_y": 1.36,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "no, no. For all het now. That's"
+            },
+            {
+              "role": "video_track_2",
+              "text": "Welcome to the Secret Foot Sniffing Society. We collect the stinkiest socks on Earth."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 28.033333,
+          "end": 32.3,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "For all het now. That's Diddy."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Sniffing Society. We collect the stinkiest socks on Earth. Take your shoes off. off, we need to inspect those"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 39.333333,
+          "end": 40.8,
+          "scale": 1.36,
+          "scale_y": 1.36,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "What? Oh, het now."
+            },
+            {
+              "role": "video_track_2",
+              "text": "if you finish the pizza, you gotta make another. Welcome to the Secret Anime Society."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 41.933333,
+          "end": 43.3,
+          "scale": 1.4,
+          "scale_y": 1.4,
+          "dx": 0.0,
+          "dy": -0.07999999999999996,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Oh, het now. Oh."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Welcome to the Secret Anime Society. We watch anime all day and eat ramen,"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 47.3,
+          "end": 49.0,
+          "scale": 1.25,
+          "scale_y": 1.25,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "That's fair. That's fair."
+            },
+            {
+              "role": "video_track_2",
+              "text": "but if you spoil the ending, you're getting kicked out. Welcome to the Secret Compliment Society."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 52.1,
+          "end": 53.2,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Oh, for real."
+            },
+            {
+              "role": "video_track_2",
+              "text": "Society. We hype you up every single day. You could wake up looking crazy and we'd still call"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 55.2,
+          "end": 56.0,
+          "scale": 1.28,
+          "scale_y": 1.28,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I do that."
+            },
+            {
+              "role": "video_track_2",
+              "text": "could wake up looking crazy and we'd still call you gorgeous. We're going to start with the It's a little bit more gorgeous. Yeah."
+            }
+          ]
+        }
+      ],
+      "video_signature": "b36557cbe8a2286d2a57c628e3851e92814018f01bea7d6c0c1ee430e92c8361",
+      "revision_diff": {
+        "matches": [
+          {
+            "predicted_index": 0,
+            "manual_index": 0,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 1,
+            "manual_index": 1,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 2,
+            "manual_index": 2,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 3,
+            "manual_index": 3,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 4,
+            "manual_index": 4,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 5,
+            "manual_index": 5,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 6,
+            "manual_index": 6,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 7,
+            "manual_index": 7,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 8,
+            "manual_index": 8,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 9,
+            "manual_index": 9,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 10,
+            "manual_index": 10,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          }
+        ],
+        "added": [],
+        "removed_or_distant_move": [],
+        "retained_without_material_change": 11,
+        "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+      },
+      "predicted": [
+        {
+          "role": "video_track_1",
+          "start": 2.2,
+          "end": 3.4,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "I did",
+          "reason": "Skeptical I-did reaction to the six-societies invite, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 2.19,
+            "text": "I",
+            "word_index": 0
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 12.033333,
+          "end": 13.4,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "I'll do that",
+          "reason": "Rich-grandma acceptance held through that and the settling face.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 12.02,
+            "text": "I'll",
+            "word_index": 6
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 17.6,
+          "end": 18.9,
+          "scale": 1.35,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "What the?",
+          "reason": "What-the at the hide-and-seek society, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 17.6,
+            "text": "What",
+            "word_index": 12
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 21.166667,
+          "end": 24.1,
+          "scale": 1.32,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Dog, you're not alive. Bro, no, no.",
+          "reason": "Not-alive roast and bro-no-no refusal in one connected hold.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 21.18,
+            "text": "Dog,",
+            "word_index": 14
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 25.833333,
+          "end": 27.5,
+          "scale": 1.36,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "oh heck no (foot sniffing)",
+          "reason": "Grimacing foot-sniffing refusal held through the disgust expression.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 25.82,
+            "text": "For",
+            "word_index": 21
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 28.033333,
+          "end": 32.3,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "That's Diddy. That's a Diddy something, but I don't know",
+          "reason": "Both connected Diddy remarks about the same society in one hold instead of two rapid cuts.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 28.04,
+            "text": "That's",
+            "word_index": 25
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 39.333333,
+          "end": 40.8,
+          "scale": 1.36,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "What? Oh, heck no",
+          "reason": "Grimacing pizza-rule rejection held through heck no.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 39.35,
+            "text": "What?",
+            "word_index": 40
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 41.933333,
+          "end": 43.3,
+          "scale": 1.4,
+          "dx": 0,
+          "dy": -0.08,
+          "dialogue": "Oh.",
+          "reason": "Strong punch-in on the wide open-mouth oh at the anime society.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 41.92,
+            "text": "Oh.",
+            "word_index": 44
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 47.3,
+          "end": 49.0,
+          "scale": 1.25,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "That's fair. That's fair.",
+          "reason": "Mild hold on the calm repeated that's-fair agreement.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 47.31,
+            "text": "That's",
+            "word_index": 45
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 52.1,
+          "end": 53.2,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Oh, for real",
+          "reason": "Oh-for-real reaction to the compliment society, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 52.1,
+            "text": "Oh,",
+            "word_index": 49
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 55.2,
+          "end": 56.0,
+          "scale": 1.28,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "I do that",
+          "reason": "Big-smile final choice held to the video end.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 55.19,
+            "text": "I",
+            "word_index": 52
+          }
+        }
+      ],
+      "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
+    },
+    {
+      "project": "New",
+      "timeline": "Day 4.6",
+      "timeline_id": "A699152C-F0E1-4744-89DC-CBE2B7BCB8A3",
+      "source_hash": "c04fbb9987ca1a4c3a0e88b82bf4b0203355d447a6441d466373e4745a93bbf9",
+      "analysis_job_id": "0277b5656793439d",
+      "events": [
+        {
+          "role": "video_track_1",
+          "start": 0.733333,
+          "end": 2.1,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I did? Well,"
+            },
+            {
+              "role": "video_track_2",
+              "text": "You just committed a crime, and now your friend is getting interrogated. If they snitch,"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 8.766666,
+          "end": 9.9,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "hopefully I can get out. What the? He snitched."
+            },
+            {
+              "role": "video_track_2",
+              "text": "chair. Who did you get? January? Bro, you ain't got nothing to worry about. They gave me"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 10.533333,
+          "end": 13.2,
+          "scale": 1.35,
+          "scale_y": 1.35,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "can get out. What the? He snitched. He snitched."
+            },
+            {
+              "role": "video_track_2",
+              "text": "January? Bro, you ain't got nothing to worry about. They gave me all this chicken for free. I definitely"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 17.7,
+          "end": 19.2,
+          "scale": 1.38,
+          "scale_y": 1.38,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "look at him. Have you? What? What?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "February. Yeah, I ain't gonna lie, you're cooked. They offered me $100 ,000 to tell"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 21.033333,
+          "end": 25.3,
+          "scale": 1.33,
+          "scale_y": 1.33,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "What?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "They offered me $100 ,000 to tell them everything. I'm rich now. Sorry, Bestie."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 39.266666,
+          "end": 41.1,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "April got a good one. The person."
+            },
+            {
+              "role": "video_track_2",
+              "text": "keep me here all year. I'm not snitching on you May Bro, I'm trying not"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 46.833333,
+          "end": 48.0,
+          "scale": 1.35,
+          "scale_y": 1.35,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "But he's scared of the dark?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "seconds and I started telling them stuff They didn't even ask about June bro relax."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 55.7,
+          "end": 56.8,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Bro."
+            },
+            {
+              "role": "video_track_2",
+              "text": "tasted like chocolate chip cookies, but you're welcome July I'm so sorry"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 58.8,
+          "end": 60.1,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Ah, she snitched."
+            },
+            {
+              "role": "video_track_2",
+              "text": "July I'm so sorry The officer said he was disappointed in me, and I"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 71.766666,
+          "end": 73.0,
+          "scale": 1.36,
+          "scale_y": 1.36,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Bro, what?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "exactly where you were and what time you did it instead. September, bro, they offered me a free vacation"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 75.666666,
+          "end": 77.1,
+          "scale": 1.3,
+          "scale_y": 1.3,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Or your cooked."
+            },
+            {
+              "role": "video_track_2",
+              "text": "they offered me a free vacation if I told them everything. I'm going to Hawaii tomorrow. I hope prison got"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 79.4,
+          "end": 80.9,
+          "scale": 1.28,
+          "scale_y": 1.28,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "That's messed up."
+            },
+            {
+              "role": "video_track_2",
+              "text": "tomorrow. I hope prison got good Wi -Fi for you. Toba, bro, they offered me a new car,"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 84.4,
+          "end": 85.9,
+          "scale": 1.32,
+          "scale_y": 1.32,
+          "dx": 0.0,
+          "dy": -0.07000000000000006,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "I would have snitched."
+            },
+            {
+              "role": "video_track_2",
+              "text": "car, a whole cake, and a trip to Dubai. I told them keep all that. I'm not snitching on my day"
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 95.533333,
+          "end": 96.9,
+          "scale": 1.4,
+          "scale_y": 1.4,
+          "dx": 0.0,
+          "dy": -0.07999999999999996,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "Snitched for a PS5?"
+            },
+            {
+              "role": "video_track_2",
+              "text": "But don't worry. I'll visit you in prison after I beat this game December bro, you're good."
+            }
+          ]
+        },
+        {
+          "role": "video_track_1",
+          "start": 99.9,
+          "end": 102.2,
+          "scale": 1.27,
+          "scale_y": 1.27,
+          "dx": 0.0,
+          "dy": -0.06000000000000005,
+          "animated": false,
+          "contexts": [
+            {
+              "role": "video_track_1",
+              "text": "It's a ride or die."
+            },
+            {
+              "role": "video_track_2",
+              "text": "good. I told him I did everything by myself. They don't even know you were there Just don't forget about me when"
+            }
+          ]
+        }
+      ],
+      "video_signature": "6bbfc145bf387c0d4ca69a8c2d8d291cdfb9422100d3a6b63d02713d639598b7",
+      "revision_diff": {
+        "matches": [
+          {
+            "predicted_index": 0,
+            "manual_index": 0,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 1,
+            "manual_index": 1,
+            "delta": {
+              "start": -1e-06,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 2,
+            "manual_index": 2,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 3,
+            "manual_index": 3,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 4,
+            "manual_index": 4,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 5,
+            "manual_index": 5,
+            "delta": {
+              "start": -1e-06,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 6,
+            "manual_index": 6,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 7,
+            "manual_index": 7,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 8,
+            "manual_index": 8,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 9,
+            "manual_index": 9,
+            "delta": {
+              "start": -1e-06,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 10,
+            "manual_index": 10,
+            "delta": {
+              "start": -1e-06,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 11,
+            "manual_index": 11,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 12,
+            "manual_index": 12,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 13,
+            "manual_index": 13,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": 0.0
+            },
+            "retimed": false,
+            "reframed": false
+          },
+          {
+            "predicted_index": 14,
+            "manual_index": 14,
+            "delta": {
+              "start": 0.0,
+              "end": 0.0,
+              "scale": 0.0,
+              "dx": 0.0,
+              "dy": -0.0
+            },
+            "retimed": false,
+            "reframed": false
+          }
+        ],
+        "added": [],
+        "removed_or_distant_move": [],
+        "retained_without_material_change": 15,
+        "interpretation": "Retrospective interval association, not an independent creative accuracy score. Unmatched distant moves need contextual review."
+      },
+      "predicted": [
+        {
+          "role": "video_track_1",
+          "start": 0.733333,
+          "end": 2.1,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "I did?",
+          "reason": "Serious I-did? at the crime premise, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 0.75,
+            "text": "I",
+            "word_index": 0
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 8.766667,
+          "end": 9.9,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "What the?",
+          "reason": "What-the at the chicken-surrounded January friend.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 8.78,
+            "text": "What",
+            "word_index": 8
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 10.533333,
+          "end": 13.2,
+          "scale": 1.35,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "He snitched. He snitched.",
+          "reason": "Both he-snitched accusations in one hold before the ironic denial.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 10.52,
+            "text": "He",
+            "word_index": 10
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 17.7,
+          "end": 19.2,
+          "scale": 1.38,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "What? What?",
+          "reason": "What-what at February's you're-cooked confession, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 17.69,
+            "text": "What?",
+            "word_index": 21
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 21.033333,
+          "end": 25.3,
+          "scale": 1.33,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "no no, I'm cooked I'm cooked",
+          "reason": "One connected hold over the no-no refusal and the hands-out I'm-cooked burst.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 18.43,
+            "text": "What?",
+            "word_index": 22,
+            "offset_reason": "ASR missed the no-no and I'm-cooked reaction; start on caption 6 at 21.033s, confirmed by the 21.1s grimace frame, 2.6s after the nearest cached What."
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 39.266667,
+          "end": 41.1,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "April got a good one. The person.",
+          "reason": "April-got-a-good-one approval held through person.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 39.28,
+            "text": "April",
+            "word_index": 34
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 46.833333,
+          "end": 48.0,
+          "scale": 1.35,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "scared of the dark?",
+          "reason": "Scared-of-the-dark roast held through dark and the settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 46.82,
+            "text": "scared",
+            "word_index": 43
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 55.7,
+          "end": 56.8,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Bro.",
+          "reason": "Deadpan bro at the eaten-evidence cookies, held for the stare.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 55.71,
+            "text": "Bro.",
+            "word_index": 47
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 58.8,
+          "end": 60.1,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Ah, she snitched",
+          "reason": "Ah-she-snitched realization at crying July, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 58.79,
+            "text": "Ah,",
+            "word_index": 48
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 71.766667,
+          "end": 73.0,
+          "scale": 1.36,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Bro, what?",
+          "reason": "Frowning bro-what at August's logic, held to settle.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 71.78,
+            "text": "Bro,",
+            "word_index": 52
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 75.666667,
+          "end": 77.1,
+          "scale": 1.3,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "Or you're cooked",
+          "reason": "Complete you're-cooked roast of the Hawaii trade.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 75.67,
+            "text": "Or",
+            "word_index": 54
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 79.4,
+          "end": 80.9,
+          "scale": 1.28,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "That's messed up",
+          "reason": "That's-messed-up verdict on the prison Wi-Fi line, held through up.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 79.4,
+            "text": "That's",
+            "word_index": 57
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 84.4,
+          "end": 85.9,
+          "scale": 1.32,
+          "dx": 0,
+          "dy": -0.07,
+          "dialogue": "I would have snitched",
+          "reason": "Funny I-would-have-snitched confession held through snitched.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 84.39,
+            "text": "I",
+            "word_index": 60
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 95.533333,
+          "end": 96.9,
+          "scale": 1.4,
+          "dx": 0,
+          "dy": -0.08,
+          "dialogue": "Snitched for a PS5?",
+          "reason": "Strong frowning PS5 disbelief, held through the question.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 95.53,
+            "text": "Snitched",
+            "word_index": 68
+          }
+        },
+        {
+          "role": "video_track_1",
+          "start": 99.9,
+          "end": 102.2,
+          "scale": 1.27,
+          "dx": 0,
+          "dy": -0.06,
+          "dialogue": "oh, it's a ride or die",
+          "reason": "Eyes-closed oh and ride-or-die approval of December in one hold.",
+          "timing_anchor": {
+            "kind": "speech_word",
+            "role": "video_track_1",
+            "at": 100.8,
+            "text": "It's",
+            "word_index": 72,
+            "offset_reason": "Start on the inspected 99.9s eyes-closed oh reaction (caption 27 begins 99.833s) that ASR missed, 0.9s before cached It's; hold through ride or die."
+          }
+        }
+      ],
+      "scope": "Manual examples and removed/retimed predicted zooms for this scene; no automatic global keyword rule."
     }
   ],
   "statistics": {
-    "events": 213,
+    "events": 254,
     "median_scale": 1.3,
     "scale_range": [
       1.1729237288135592,
       1.6380932203389833
     ],
-    "median_duration": 1.5,
+    "median_duration": 1.466667000000001,
     "duration_range": [
       0.5666670000000025,
-      4.0
+      4.266667000000002
     ]
   },
   "policy": "Observed hard-cut reaction punch-ins then baseline reset. Select meaningful reaction phrases, not every SFX, option, keyword or fixed quota. Position for THIS face/layout. Reference offsets/times are examples, not target timestamps. Latest explicit user correction (2026-10-11) overrides the old brief-duration examples: For future zooms, hold the complete meaningful reaction/punchline and its natural settling beat. Avoid a jarring brief punch-in that starts late on a final syllable and immediately returns. Choose the visual hold separately from the SFX length, without a fixed minimum/quota or extending across unrelated options. The user did not revise Day2 zoom timing; do not count the unchanged generated intervals as new manual approval. Observed Day2.3 framing-only revision strengthens the closing unfairness face from 1.19x to 1.5535x inside the existing zoom coverage. Learn the expressive scale in scene context; this is not approval of its unchanged duration. The explicit future longer-hold instruction still applies.",

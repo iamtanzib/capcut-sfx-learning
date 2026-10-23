@@ -8,7 +8,7 @@ if not os.environ.get('SOUNDPILOT_STATE') and session.exists():
 state = Path(os.environ.get('SOUNDPILOT_STATE', str(Path(os.environ.get('LOCALAPPDATA', str(Path.home()))) / 'SoundPilotLearning')))
 runtime = state / 'runtime.json'
 if not runtime.exists():
-    print('Run INSTALL_CLAUDE_CODE.bat first.', file=sys.stderr); sys.exit(1)
+    print('Run setup.py first (Windows: INSTALL_CLAUDE_CODE.bat).', file=sys.stderr); sys.exit(1)
 settings = json.loads(runtime.read_text(encoding='utf-8-sig'))
 python = Path(settings['python'])
 if not python.is_file():

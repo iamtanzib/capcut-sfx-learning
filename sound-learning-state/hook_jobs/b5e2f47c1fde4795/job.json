@@ -1,0 +1,15 @@
+{
+  "job_id": "b5e2f47c1fde4795",
+  "batch_id": "143956cab8c449fb",
+  "project": "New",
+  "timeline": "Day 5.5",
+  "timeline_id": "C8421ECF-733E-41C3-B659-89EC83E0D58B",
+  "source_hash": "fc70396f8e53682483280914ecb9a6103cf03fc64e6cd81666ab229558b3b04d",
+  "analysis_job_id": "c8e573ec46614913",
+  "style_version": 20,
+  "status": "applied",
+  "existing_field": true,
+  "existing_text": "SOMEBODY'S MOVING\nINSIDE YOUR WALLS\nWHO ARE YOU PICKING?",
+  "duration": 56.0,
+  "applied_at": 1792606968.355052
+}

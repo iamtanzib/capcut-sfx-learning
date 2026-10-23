@@ -1,0 +1,269 @@
+{
+  "job_id": "ecc34668926a4756",
+  "source_hash": "012c871ce942e59b0d49bfc9f8a48f68e7ad614e1d00e691aba55b05748393b4",
+  "style_version": 26,
+  "zooms": [
+    {
+      "role": "video_track_1",
+      "start": 2.766667,
+      "end": 4.0,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What?",
+      "reason": "Smiling what? at being caught sneaking out, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 2.76,
+        "text": "What?",
+        "word_index": 2
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 14.466667,
+      "end": 16.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "He's a snitch bro",
+      "reason": "Whole smiling he's-a-snitch accusation through bro.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 14.45,
+        "text": "He's",
+        "word_index": 8
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 22.133333,
+      "end": 25.0,
+      "scale": 1.33,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "A bite? You gonna try to kill me, no",
+      "reason": "Squinting a-bite? and the completed zombie refusal in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 22.14,
+        "text": "bite",
+        "word_index": 17
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 31.266667,
+      "end": 33.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "You're this Mario. That's good",
+      "reason": "Mario recognition and smiling that's-good acceptance together.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 31.28,
+        "text": "You're",
+        "word_index": 26
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 34.566667,
+      "end": 36.0,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the, oh",
+      "reason": "Smiling what-the at the Nami babysitter, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 34.58,
+        "text": "What",
+        "word_index": 31
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 40.6,
+      "end": 42.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "you know Michael Jackson bro",
+      "reason": "Michael Jackson recognition held through bro.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 40.61,
+        "text": "you",
+        "word_index": 34
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 46.733333,
+      "end": 49.3,
+      "scale": 1.28,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "made that so easy, y'all can do that, that's so lucky",
+      "reason": "Connected so-easy and eyes-closed so-lucky grin in one hold.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 46.74,
+        "text": "made",
+        "word_index": 39
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 54.733333,
+      "end": 56.8,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "He knows, see that's a real problem",
+      "reason": "Skeptical conspiracy reply held through problem.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 54.72,
+        "text": "He",
+        "word_index": 52
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 64.033333,
+      "end": 65.6,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "She just wants some wings",
+      "reason": "Big-smile wings remark about grandma, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 64.04,
+        "text": "She's",
+        "word_index": 61
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 71.266667,
+      "end": 73.0,
+      "scale": 1.27,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "Snack tax, I mean it's not bad",
+      "reason": "Mild hold across the snack-tax acceptance.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 71.27,
+        "text": "That's",
+        "word_index": 66
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 74.3,
+      "end": 75.7,
+      "scale": 1.35,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "It's like Nami",
+      "reason": "Smiling Nami comparison held through the name.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 74.31,
+        "text": "It's",
+        "word_index": 73
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 80.866667,
+      "end": 82.2,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "What the?",
+      "reason": "Hand-on-chin what-the as Silas climbs out, held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 80.85,
+        "text": "What",
+        "word_index": 81
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 83.233333,
+      "end": 84.5,
+      "scale": 1.36,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "dog what?",
+      "reason": "Dog-what at six years under the house, held for the stare.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 83.22,
+        "text": "Thought",
+        "word_index": 83
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 94.933333,
+      "end": 96.5,
+      "scale": 1.3,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "She's a W",
+      "reason": "Pointing grin she's-a-W held to settle.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 94.92,
+        "text": "She's",
+        "word_index": 89
+      }
+    },
+    {
+      "role": "video_track_1",
+      "start": 102.733333,
+      "end": 104.0,
+      "scale": 1.32,
+      "dx": 0,
+      "dy": -0.07,
+      "dialogue": "God bless December",
+      "reason": "Final dry blessing held to the video end.",
+      "timing_anchor": {
+        "kind": "speech_word",
+        "role": "video_track_1",
+        "at": 102.73,
+        "text": "God",
+        "word_index": 94
+      }
+    }
+  ],
+  "quality_notes": {
+    "whole_video_reviewed": true,
+    "silence_reviewed": true,
+    "unresolved": [],
+    "framing_reviewed": true,
+    "framing_note": "Preview onset tiles inspected: hair and eyes stay inside the actor half at 1.27-1.36x with dy -0.07; face centered; resets return to baseline."
+  }
+}

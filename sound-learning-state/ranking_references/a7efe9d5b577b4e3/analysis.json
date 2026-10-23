@@ -1,0 +1,316 @@
+{
+  "name": "Ranking The Best Aiming Moments 😭 #shorts #funny #relatable.mp4",
+  "path": "/Volumes/128 gb/Kevin/Example/Ranking The Best Aiming Moments 😭 #shorts #funny #relatable.mp4",
+  "size": 18690511,
+  "duration": 43.6,
+  "segments": [
+    [
+      "R",
+      0.0,
+      4.4
+    ],
+    [
+      "K",
+      4.4,
+      6.0
+    ],
+    [
+      "B",
+      6.0,
+      7.2
+    ],
+    [
+      "R",
+      7.2,
+      9.1
+    ],
+    [
+      "K",
+      9.1,
+      11.2
+    ],
+    [
+      "R",
+      11.2,
+      19.7
+    ],
+    [
+      "K",
+      19.7,
+      21.8
+    ],
+    [
+      "B",
+      21.8,
+      23.5
+    ],
+    [
+      "R",
+      23.5,
+      27.9
+    ],
+    [
+      "K",
+      27.9,
+      29.4
+    ],
+    [
+      "B",
+      29.4,
+      30.4
+    ],
+    [
+      "R",
+      30.4,
+      34.5
+    ],
+    [
+      "K",
+      34.5,
+      37.8
+    ],
+    [
+      "R",
+      37.8,
+      40.8
+    ],
+    [
+      "K",
+      40.8,
+      42.6
+    ],
+    [
+      "B",
+      42.6,
+      43.6
+    ]
+  ],
+  "items": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "duration": 4.4
+    },
+    {
+      "start": 7.2,
+      "end": 9.1,
+      "duration": 1.9
+    },
+    {
+      "start": 11.2,
+      "end": 19.7,
+      "duration": 8.5
+    },
+    {
+      "start": 23.5,
+      "end": 27.9,
+      "duration": 4.4
+    },
+    {
+      "start": 30.4,
+      "end": 34.5,
+      "duration": 4.1
+    },
+    {
+      "start": 37.8,
+      "end": 40.8,
+      "duration": 3.0
+    }
+  ],
+  "reactions": [
+    {
+      "item": 0,
+      "start": 4.4,
+      "end": 7.2,
+      "duration": 2.8,
+      "words": "will be excited too. How did you do that on the first try?",
+      "first_word_offset": 0.15,
+      "bw": {
+        "start": 6.0,
+        "end": 7.2,
+        "duration": 1.2,
+        "face_before": 1.6,
+        "position": "end",
+        "zoom": 1.0,
+        "match_score": 0.87,
+        "source_end_offset_from_item_end": 0.1,
+        "words": "that on the first try?"
+      },
+      "sfx": []
+    },
+    {
+      "item": 1,
+      "start": 9.1,
+      "end": 11.2,
+      "duration": 2.1,
+      "words": "doesn't even look right. Oh, hack now",
+      "first_word_offset": -0.21,
+      "sfx": []
+    },
+    {
+      "item": 2,
+      "start": 19.7,
+      "end": 23.5,
+      "duration": 3.8,
+      "words": "Humiliation ritual. I will not let somebody shoot at me like that",
+      "first_word_offset": 0.65,
+      "bw": {
+        "start": 21.8,
+        "end": 23.5,
+        "duration": 1.7,
+        "face_before": 2.1,
+        "position": "end",
+        "zoom": 1.0,
+        "match_score": 0.96,
+        "source_end_offset_from_item_end": 0.0,
+        "words": "will not let somebody shoot at me like that"
+      },
+      "sfx": [
+        {
+          "sound": "error_CDOxCYm.mp3",
+          "family": "error_CDOxCYm.mp3",
+          "start": 21.569,
+          "score": 0.839,
+          "gain": 0.98,
+          "offset": 1.87,
+          "bw_offset": -0.23,
+          "near_word": "I"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "start": 27.9,
+      "end": 30.4,
+      "duration": 2.5,
+      "words": "Evil they definitely targeted him. Oh, hack now",
+      "first_word_offset": -0.05,
+      "bw": {
+        "start": 29.4,
+        "end": 30.4,
+        "duration": 1.0,
+        "face_before": 1.5,
+        "position": "end",
+        "zoom": 1.0,
+        "match_score": 0.98,
+        "source_end_offset_from_item_end": 0.0,
+        "words": "Oh, hack now"
+      },
+      "sfx": [
+        {
+          "sound": "fahhhh.mp3",
+          "family": "fah",
+          "start": 28.968,
+          "score": 0.564,
+          "gain": 0.8973,
+          "offset": 1.07,
+          "bw_offset": -0.43,
+          "near_word": "him."
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "start": 34.5,
+      "end": 37.8,
+      "duration": 3.3,
+      "words": "took it out on the window double punishment the",
+      "first_word_offset": 0.34,
+      "sfx": [
+        {
+          "sound": "error_CDOxCYm.mp3",
+          "family": "error_CDOxCYm.mp3",
+          "start": 35.802,
+          "score": 0.834,
+          "gain": 0.9253,
+          "offset": 1.3,
+          "bw_offset": null,
+          "near_word": "out"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "start": 40.8,
+      "end": 43.6,
+      "duration": 2.8,
+      "words": "army right now. He has good aim",
+      "first_word_offset": 0.22,
+      "bw": {
+        "start": 42.6,
+        "end": 43.6,
+        "duration": 1.0,
+        "face_before": 1.8,
+        "position": "end",
+        "zoom": 1.0,
+        "match_score": 0.96,
+        "source_end_offset_from_item_end": -0.1,
+        "words": ""
+      },
+      "sfx": []
+    }
+  ],
+  "whoosh": [
+    {
+      "start": 6.835,
+      "cut": 7.2,
+      "offset": -0.37
+    },
+    {
+      "start": 10.869,
+      "cut": 11.2,
+      "offset": -0.33
+    },
+    {
+      "start": 23.202,
+      "cut": 23.5,
+      "offset": -0.3
+    },
+    {
+      "start": 30.135,
+      "cut": 30.4,
+      "offset": -0.26
+    },
+    {
+      "start": 37.468,
+      "cut": 37.8,
+      "offset": -0.33
+    }
+  ],
+  "item_sfx": [
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 3.405,
+      "score": 0.847,
+      "gain": 0.3802
+    },
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 8.529,
+      "score": 0.905,
+      "gain": 0.4265
+    },
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 31.205,
+      "score": 0.909,
+      "gain": 0.4322
+    },
+    {
+      "sound": "vine-boom (20).mp3",
+      "family": "vine boom",
+      "start": 34.039,
+      "score": 0.893,
+      "gain": 0.4087
+    }
+  ],
+  "levels_db": {
+    "item": -15.9,
+    "kevin": -10.5,
+    "bw": -14.9
+  },
+  "work": "/Users/tanzibsrijon/SoundPilotLearning/ranking_references/a7efe9d5b577b4e3"
+}

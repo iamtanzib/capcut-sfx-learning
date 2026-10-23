@@ -1,0 +1,958 @@
+{
+  "model": "base.en",
+  "seconds": 2.78,
+  "cached": false,
+  "rows": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Somebody's moving inside your walls for the next 10 years,",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.44,
+          "text": "Somebody's"
+        },
+        {
+          "start": 0.44,
+          "end": 0.68,
+          "text": "moving"
+        },
+        {
+          "start": 0.68,
+          "end": 0.94,
+          "text": "inside"
+        },
+        {
+          "start": 0.94,
+          "end": 1.16,
+          "text": "your"
+        },
+        {
+          "start": 1.16,
+          "end": 1.38,
+          "text": "walls"
+        },
+        {
+          "start": 1.38,
+          "end": 1.62,
+          "text": "for"
+        },
+        {
+          "start": 1.62,
+          "end": 1.72,
+          "text": "the"
+        },
+        {
+          "start": 1.72,
+          "end": 1.92,
+          "text": "next"
+        },
+        {
+          "start": 1.92,
+          "end": 2.26,
+          "text": "10"
+        },
+        {
+          "start": 2.26,
+          "end": 2.56,
+          "text": "years,"
+        }
+      ]
+    },
+    {
+      "start": 2.96,
+      "end": 4.9,
+      "text": "but each person comes with a different benefit.",
+      "words": [
+        {
+          "start": 2.96,
+          "end": 3.06,
+          "text": "but"
+        },
+        {
+          "start": 3.06,
+          "end": 3.24,
+          "text": "each"
+        },
+        {
+          "start": 3.24,
+          "end": 3.6,
+          "text": "person"
+        },
+        {
+          "start": 3.6,
+          "end": 3.94,
+          "text": "comes"
+        },
+        {
+          "start": 3.94,
+          "end": 4.1,
+          "text": "with"
+        },
+        {
+          "start": 4.1,
+          "end": 4.18,
+          "text": "a"
+        },
+        {
+          "start": 4.18,
+          "end": 4.46,
+          "text": "different"
+        },
+        {
+          "start": 4.46,
+          "end": 4.9,
+          "text": "benefit."
+        }
+      ]
+    },
+    {
+      "start": 5.32,
+      "end": 6.38,
+      "text": "Choose who's moving in.",
+      "words": [
+        {
+          "start": 5.32,
+          "end": 5.58,
+          "text": "Choose"
+        },
+        {
+          "start": 5.58,
+          "end": 5.94,
+          "text": "who's"
+        },
+        {
+          "start": 5.94,
+          "end": 6.2,
+          "text": "moving"
+        },
+        {
+          "start": 6.2,
+          "end": 6.38,
+          "text": "in."
+        }
+      ]
+    },
+    {
+      "start": 6.7,
+      "end": 7.32,
+      "text": "Who are you picking?",
+      "words": [
+        {
+          "start": 6.7,
+          "end": 6.9,
+          "text": "Who"
+        },
+        {
+          "start": 6.9,
+          "end": 6.98,
+          "text": "are"
+        },
+        {
+          "start": 6.98,
+          "end": 7.1,
+          "text": "you"
+        },
+        {
+          "start": 7.1,
+          "end": 7.32,
+          "text": "picking?"
+        }
+      ]
+    },
+    {
+      "start": 8.08,
+      "end": 8.52,
+      "text": "I'm Monica.",
+      "words": [
+        {
+          "start": 8.08,
+          "end": 8.38,
+          "text": "I'm"
+        },
+        {
+          "start": 8.38,
+          "end": 8.52,
+          "text": "Monica."
+        }
+      ]
+    },
+    {
+      "start": 9.04,
+      "end": 11.06,
+      "text": "I'll clean your whole house every day.",
+      "words": [
+        {
+          "start": 9.04,
+          "end": 9.28,
+          "text": "I'll"
+        },
+        {
+          "start": 9.28,
+          "end": 9.48,
+          "text": "clean"
+        },
+        {
+          "start": 9.48,
+          "end": 9.64,
+          "text": "your"
+        },
+        {
+          "start": 9.64,
+          "end": 9.9,
+          "text": "whole"
+        },
+        {
+          "start": 9.9,
+          "end": 10.3,
+          "text": "house"
+        },
+        {
+          "start": 10.3,
+          "end": 10.62,
+          "text": "every"
+        },
+        {
+          "start": 10.62,
+          "end": 11.06,
+          "text": "day."
+        }
+      ]
+    },
+    {
+      "start": 11.54,
+      "end": 12.58,
+      "text": "Even your nasty bathroom.",
+      "words": [
+        {
+          "start": 11.54,
+          "end": 11.6,
+          "text": "Even"
+        },
+        {
+          "start": 11.6,
+          "end": 11.76,
+          "text": "your"
+        },
+        {
+          "start": 11.76,
+          "end": 12.06,
+          "text": "nasty"
+        },
+        {
+          "start": 12.06,
+          "end": 12.58,
+          "text": "bathroom."
+        }
+      ]
+    },
+    {
+      "start": 13.04,
+      "end": 14.48,
+      "text": "Just don't ask me to clean your underwear.",
+      "words": [
+        {
+          "start": 13.04,
+          "end": 13.2,
+          "text": "Just"
+        },
+        {
+          "start": 13.2,
+          "end": 13.44,
+          "text": "don't"
+        },
+        {
+          "start": 13.44,
+          "end": 13.58,
+          "text": "ask"
+        },
+        {
+          "start": 13.58,
+          "end": 13.76,
+          "text": "me"
+        },
+        {
+          "start": 13.76,
+          "end": 13.82,
+          "text": "to"
+        },
+        {
+          "start": 13.82,
+          "end": 14.02,
+          "text": "clean"
+        },
+        {
+          "start": 14.02,
+          "end": 14.18,
+          "text": "your"
+        },
+        {
+          "start": 14.18,
+          "end": 14.48,
+          "text": "underwear."
+        }
+      ]
+    },
+    {
+      "start": 16.28,
+      "end": 16.64,
+      "text": "I'm Marcus.",
+      "words": [
+        {
+          "start": 16.28,
+          "end": 16.42,
+          "text": "I'm"
+        },
+        {
+          "start": 16.42,
+          "end": 16.64,
+          "text": "Marcus."
+        }
+      ]
+    },
+    {
+      "start": 17.18,
+      "end": 19.2,
+      "text": "I'll guard your house day and night.",
+      "words": [
+        {
+          "start": 17.18,
+          "end": 17.44,
+          "text": "I'll"
+        },
+        {
+          "start": 17.44,
+          "end": 17.6,
+          "text": "guard"
+        },
+        {
+          "start": 17.6,
+          "end": 17.82,
+          "text": "your"
+        },
+        {
+          "start": 17.82,
+          "end": 18.06,
+          "text": "house"
+        },
+        {
+          "start": 18.06,
+          "end": 18.38,
+          "text": "day"
+        },
+        {
+          "start": 18.38,
+          "end": 18.94,
+          "text": "and"
+        },
+        {
+          "start": 18.94,
+          "end": 19.2,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "start": 19.88,
+      "end": 22.26,
+      "text": "Even the burglar's gonna need an appointment to get past me.",
+      "words": [
+        {
+          "start": 19.88,
+          "end": 19.96,
+          "text": "Even"
+        },
+        {
+          "start": 19.96,
+          "end": 20.1,
+          "text": "the"
+        },
+        {
+          "start": 20.1,
+          "end": 20.56,
+          "text": "burglar's"
+        },
+        {
+          "start": 20.56,
+          "end": 20.66,
+          "text": "gonna"
+        },
+        {
+          "start": 20.66,
+          "end": 20.9,
+          "text": "need"
+        },
+        {
+          "start": 20.9,
+          "end": 21.0,
+          "text": "an"
+        },
+        {
+          "start": 21.0,
+          "end": 21.3,
+          "text": "appointment"
+        },
+        {
+          "start": 21.3,
+          "end": 21.6,
+          "text": "to"
+        },
+        {
+          "start": 21.6,
+          "end": 21.74,
+          "text": "get"
+        },
+        {
+          "start": 21.74,
+          "end": 22.04,
+          "text": "past"
+        },
+        {
+          "start": 22.04,
+          "end": 22.26,
+          "text": "me."
+        }
+      ]
+    },
+    {
+      "start": 24.18,
+      "end": 24.46,
+      "text": "I'm Antonio.",
+      "words": [
+        {
+          "start": 24.18,
+          "end": 24.26,
+          "text": "I'm"
+        },
+        {
+          "start": 24.26,
+          "end": 24.46,
+          "text": "Antonio."
+        }
+      ]
+    },
+    {
+      "start": 25.22,
+      "end": 27.5,
+      "text": "I'll cook whatever you want, whenever you want.",
+      "words": [
+        {
+          "start": 25.22,
+          "end": 25.28,
+          "text": "I'll"
+        },
+        {
+          "start": 25.28,
+          "end": 25.42,
+          "text": "cook"
+        },
+        {
+          "start": 25.42,
+          "end": 25.72,
+          "text": "whatever"
+        },
+        {
+          "start": 25.72,
+          "end": 26.0,
+          "text": "you"
+        },
+        {
+          "start": 26.0,
+          "end": 26.2,
+          "text": "want,"
+        },
+        {
+          "start": 26.76,
+          "end": 26.86,
+          "text": "whenever"
+        },
+        {
+          "start": 26.86,
+          "end": 27.28,
+          "text": "you"
+        },
+        {
+          "start": 27.28,
+          "end": 27.5,
+          "text": "want."
+        }
+      ]
+    },
+    {
+      "start": 27.98,
+      "end": 29.28,
+      "text": "You hungry at 3 a.m.?",
+      "words": [
+        {
+          "start": 27.98,
+          "end": 28.02,
+          "text": "You"
+        },
+        {
+          "start": 28.02,
+          "end": 28.26,
+          "text": "hungry"
+        },
+        {
+          "start": 28.26,
+          "end": 28.48,
+          "text": "at"
+        },
+        {
+          "start": 28.48,
+          "end": 28.68,
+          "text": "3"
+        },
+        {
+          "start": 28.68,
+          "end": 28.84,
+          "text": "a"
+        },
+        {
+          "start": 28.84,
+          "end": 29.28,
+          "text": ".m.?"
+        }
+      ]
+    },
+    {
+      "start": 29.28,
+      "end": 30.78,
+      "text": "I'm already seasoning the steak.",
+      "words": [
+        {
+          "start": 29.28,
+          "end": 29.56,
+          "text": "I'm"
+        },
+        {
+          "start": 29.56,
+          "end": 29.74,
+          "text": "already"
+        },
+        {
+          "start": 29.74,
+          "end": 30.2,
+          "text": "seasoning"
+        },
+        {
+          "start": 30.2,
+          "end": 30.52,
+          "text": "the"
+        },
+        {
+          "start": 30.52,
+          "end": 30.78,
+          "text": "steak."
+        }
+      ]
+    },
+    {
+      "start": 31.98,
+      "end": 36.16,
+      "text": "I'm Jasmine. I'll mow your lawn, wash your clothes, and do every chore.",
+      "words": [
+        {
+          "start": 31.98,
+          "end": 32.3,
+          "text": "I'm"
+        },
+        {
+          "start": 32.3,
+          "end": 32.72,
+          "text": "Jasmine."
+        },
+        {
+          "start": 33.34,
+          "end": 33.42,
+          "text": "I'll"
+        },
+        {
+          "start": 33.42,
+          "end": 33.56,
+          "text": "mow"
+        },
+        {
+          "start": 33.56,
+          "end": 33.72,
+          "text": "your"
+        },
+        {
+          "start": 33.72,
+          "end": 33.92,
+          "text": "lawn,"
+        },
+        {
+          "start": 34.36,
+          "end": 34.54,
+          "text": "wash"
+        },
+        {
+          "start": 34.54,
+          "end": 34.76,
+          "text": "your"
+        },
+        {
+          "start": 34.76,
+          "end": 34.96,
+          "text": "clothes,"
+        },
+        {
+          "start": 35.2,
+          "end": 35.26,
+          "text": "and"
+        },
+        {
+          "start": 35.26,
+          "end": 35.38,
+          "text": "do"
+        },
+        {
+          "start": 35.38,
+          "end": 35.86,
+          "text": "every"
+        },
+        {
+          "start": 35.86,
+          "end": 36.16,
+          "text": "chore."
+        }
+      ]
+    },
+    {
+      "start": 36.66,
+      "end": 38.42,
+      "text": "You can be lazy for ten whole years.",
+      "words": [
+        {
+          "start": 36.66,
+          "end": 36.74,
+          "text": "You"
+        },
+        {
+          "start": 36.74,
+          "end": 36.86,
+          "text": "can"
+        },
+        {
+          "start": 36.86,
+          "end": 36.98,
+          "text": "be"
+        },
+        {
+          "start": 36.98,
+          "end": 37.18,
+          "text": "lazy"
+        },
+        {
+          "start": 37.18,
+          "end": 37.48,
+          "text": "for"
+        },
+        {
+          "start": 37.48,
+          "end": 37.8,
+          "text": "ten"
+        },
+        {
+          "start": 37.8,
+          "end": 38.06,
+          "text": "whole"
+        },
+        {
+          "start": 38.06,
+          "end": 38.42,
+          "text": "years."
+        }
+      ]
+    },
+    {
+      "start": 40.06,
+      "end": 42.52,
+      "text": "I'm Daniel. I'll go to work for you every day.",
+      "words": [
+        {
+          "start": 40.06,
+          "end": 40.42,
+          "text": "I'm"
+        },
+        {
+          "start": 40.42,
+          "end": 40.56,
+          "text": "Daniel."
+        },
+        {
+          "start": 41.08,
+          "end": 41.28,
+          "text": "I'll"
+        },
+        {
+          "start": 41.28,
+          "end": 41.38,
+          "text": "go"
+        },
+        {
+          "start": 41.38,
+          "end": 41.46,
+          "text": "to"
+        },
+        {
+          "start": 41.46,
+          "end": 41.62,
+          "text": "work"
+        },
+        {
+          "start": 41.62,
+          "end": 41.8,
+          "text": "for"
+        },
+        {
+          "start": 41.8,
+          "end": 41.9,
+          "text": "you"
+        },
+        {
+          "start": 41.9,
+          "end": 42.14,
+          "text": "every"
+        },
+        {
+          "start": 42.14,
+          "end": 42.52,
+          "text": "day."
+        }
+      ]
+    },
+    {
+      "start": 42.88,
+      "end": 43.76,
+      "text": "You stay home and sleep?",
+      "words": [
+        {
+          "start": 42.88,
+          "end": 43.0,
+          "text": "You"
+        },
+        {
+          "start": 43.0,
+          "end": 43.18,
+          "text": "stay"
+        },
+        {
+          "start": 43.18,
+          "end": 43.38,
+          "text": "home"
+        },
+        {
+          "start": 43.38,
+          "end": 43.5,
+          "text": "and"
+        },
+        {
+          "start": 43.5,
+          "end": 43.76,
+          "text": "sleep?"
+        }
+      ]
+    },
+    {
+      "start": 44.54,
+      "end": 46.14,
+      "text": "Just don't blame me if I flirt with your boss.",
+      "words": [
+        {
+          "start": 44.54,
+          "end": 44.68,
+          "text": "Just"
+        },
+        {
+          "start": 44.68,
+          "end": 44.94,
+          "text": "don't"
+        },
+        {
+          "start": 44.94,
+          "end": 45.08,
+          "text": "blame"
+        },
+        {
+          "start": 45.08,
+          "end": 45.28,
+          "text": "me"
+        },
+        {
+          "start": 45.28,
+          "end": 45.4,
+          "text": "if"
+        },
+        {
+          "start": 45.4,
+          "end": 45.5,
+          "text": "I"
+        },
+        {
+          "start": 45.5,
+          "end": 45.66,
+          "text": "flirt"
+        },
+        {
+          "start": 45.66,
+          "end": 45.8,
+          "text": "with"
+        },
+        {
+          "start": 45.8,
+          "end": 45.92,
+          "text": "your"
+        },
+        {
+          "start": 45.92,
+          "end": 46.14,
+          "text": "boss."
+        }
+      ]
+    },
+    {
+      "start": 48.05,
+      "end": 51.15,
+      "text": "I'm Layla. I'll drive you anywhere for ten years.",
+      "words": [
+        {
+          "start": 48.05,
+          "end": 48.47,
+          "text": "I'm"
+        },
+        {
+          "start": 48.47,
+          "end": 48.75,
+          "text": "Layla."
+        },
+        {
+          "start": 49.07,
+          "end": 49.31,
+          "text": "I'll"
+        },
+        {
+          "start": 49.31,
+          "end": 49.45,
+          "text": "drive"
+        },
+        {
+          "start": 49.45,
+          "end": 49.67,
+          "text": "you"
+        },
+        {
+          "start": 49.67,
+          "end": 50.01,
+          "text": "anywhere"
+        },
+        {
+          "start": 50.01,
+          "end": 50.47,
+          "text": "for"
+        },
+        {
+          "start": 50.47,
+          "end": 50.79,
+          "text": "ten"
+        },
+        {
+          "start": 50.79,
+          "end": 51.15,
+          "text": "years."
+        }
+      ]
+    },
+    {
+      "start": 51.75,
+      "end": 53.31,
+      "text": "Even to get snacks at 4 a.m.",
+      "words": [
+        {
+          "start": 51.75,
+          "end": 51.87,
+          "text": "Even"
+        },
+        {
+          "start": 51.87,
+          "end": 52.03,
+          "text": "to"
+        },
+        {
+          "start": 52.03,
+          "end": 52.15,
+          "text": "get"
+        },
+        {
+          "start": 52.15,
+          "end": 52.39,
+          "text": "snacks"
+        },
+        {
+          "start": 52.39,
+          "end": 52.75,
+          "text": "at"
+        },
+        {
+          "start": 52.75,
+          "end": 52.93,
+          "text": "4"
+        },
+        {
+          "start": 52.93,
+          "end": 53.13,
+          "text": "a"
+        },
+        {
+          "start": 53.13,
+          "end": 53.31,
+          "text": ".m."
+        }
+      ]
+    },
+    {
+      "start": 53.69,
+      "end": 55.15,
+      "text": "Just don't throw up in my car.",
+      "words": [
+        {
+          "start": 53.69,
+          "end": 54.05,
+          "text": "Just"
+        },
+        {
+          "start": 54.05,
+          "end": 54.37,
+          "text": "don't"
+        },
+        {
+          "start": 54.37,
+          "end": 54.49,
+          "text": "throw"
+        },
+        {
+          "start": 54.49,
+          "end": 54.67,
+          "text": "up"
+        },
+        {
+          "start": 54.67,
+          "end": 54.77,
+          "text": "in"
+        },
+        {
+          "start": 54.77,
+          "end": 54.89,
+          "text": "my"
+        },
+        {
+          "start": 54.89,
+          "end": 55.15,
+          "text": "car."
+        }
+      ]
+    }
+  ]
+}
