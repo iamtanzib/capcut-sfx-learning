@@ -29,3 +29,10 @@ See [[capcut-batch-pitfalls]], [[capcut-mac-install]].
 - Cut batch `2afc47f79fff480f` (jobs 4559b386 / 9ffd7301 / fe506ae3 / 39b7c208); SFX batch `ea7c80cb06a04e43` (48 cues, whoosh at each cut). Day 7.2 full combo batch `32db47889ff840ff` (14 SFX, 7 zooms, stale "HOOD/GANG" hook replaced with the Olympics hook).
 - Bug fixed: a B&W tail defaulting to the raw scene-cut time rendered the NEXT shot's first frame (or a whip-blur) as its last frame. `ranking.py` now defaults to `tail_end = end - 0.05` (backup `ranking.py.pre-bwtail.bak`, test updated). The running MCP server needs a restart to load it; until then pass `tail_end` explicitly.
 - Next: `learn_ranking_revision` + `learn_edit_revision(ea7c80cb06a04e43)` / `learn_edit_revision(32db47889ff840ff)` after Srijon revises.
+
+**2026-10-24 Day 1 batch (project `1024`, media `/Volumes/1 TB HDD/Kevin/Month 4/Week 2/Day 1/New Vids 1 /`, note trailing space in folder name):**
+- 1.3–1.6 were EMPTY; matched by quick ASR + one frame: 1.3 3D Printed (IMG_7773 + copy_4787), 1.4 Drain (7774 + copy_6AEF), 1.5 Childhood (7775 + copy_3D79), 1.6 Water Balloon (7776 + copy_54D1). IMG_7772 + copy_09B5 = Day 1.2 reaction video.
+- Cut batch `645bc57a6421461e` (jobs 1716bc88 / 0f29ebcb / fdb5b26d / 1de76359). ASR put stray words ("I", "he", "this", "getting") on silence before pauses; a no-VAD energy check found the real onsets, fixed with start_adjust. Check preview "heard" for 0.07–0.1s pieces.
+- SFX batch `a8fe277210b24ab2` (14/9/9/13 cues incl. whooshes). stage_plan rejects `confidence:"low"` cues ("Inspect uncertain cues").
+- Day 1.2 full combo batch `81ef3232e16b423b` (14 SFX, 9 zooms, hook "$100,000 FOR EVERY / DISGUSTING FOOD"), dialogue 0.63/0.50 for headroom.
+- Next: in a NEW Sonnet chat, `learn_ranking_revision` + `learn_edit_revision` for those batches after Srijon revises.

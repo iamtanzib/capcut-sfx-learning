@@ -3,5 +3,6 @@
 - [CapCut speed patch](capcut-speed-patch.md) — 2026-10-14 live bundle path (outputs/v0.1.15), set_mix, all-errors staging, backups
 - [CapCut SFX density](capcut-sfx-density.md) — 2026-10-15 planner too sparse (13.7 vs 11.4 SFX/min); density calibration + slim brief
 - [CapCut Mac install](capcut-mac-install.md) — 2026-10-20 Mac paths (drive code, home venv/state), Mac draft format, osascript quit
-- [CapCut ranking type](capcut-ranking-type.md) — ranking.py type; Day6 + Day7.3-7.6 cut+SFX (2026-10-23), B&W tail fix, revision learning pending
+- [CapCut ranking type](capcut-ranking-type.md) — ranking.py type; Day6, Day7.3-7.6, Day1.3-1.6 (2026-10-24) batches; learning pending
 - [CapCut Mac token pass](capcut-mac-token-pass.md) — 2026-10-23 cache reads ~49% of cost ($10.38 batch); read_parts.py + lean=1 adopted, lean=2+big ASR rejected & deleted; learn in new Sonnet chat; never switch model mid batch
+- [Ranking B&W/SFX feedback](ranking-feedback-bw-sfx.md) — 2026-10-24: B&W on almost every reaction and longer, 2-3 SFX per reaction, cuts 1-2 frames tighter (next batches)
