@@ -36,7 +36,7 @@ def highlights(mat):
     return out
 def appearance(field):
     m,s=field['material'],field['segment']
-    return {'font':m.get('fonts',[{}])[0].get('title',Path(m.get('font_path','')).stem),'font_size':m.get('font_size'),
+    return {'font':(m.get('fonts') or [{}])[0].get('title',Path(m.get('font_path','')).stem),'font_size':m.get('font_size'),
         'clip':s.get('clip'),'alignment':m.get('alignment'),'line_spacing':m.get('line_spacing'),
         'letter_spacing':m.get('letter_spacing'),'background_color':m.get('background_color'),'background_alpha':m.get('background_alpha'),
         'fixed_width':m.get('fixed_width'),'line_max_width':m.get('line_max_width')}

@@ -7,7 +7,10 @@ Learned from 4 rendered references (`/Volumes/128 gb/Kevin/Example/Ranking*.mp4`
 - Items: whole item from its first frame through the payoff/label reveal; median 3.8s (1.9-8.5).
 - Reactions: tight jump cuts on Kevin's words; median 3.35s (1.9-6.1). Drop slates, false starts, off-take asides, ASR junk.
 - B&W replay: the LAST part of the same item, 1x speed, zoom 1.1, muted, over the later part of a long reaction where Kevin points back at the clip. Face first >=1.0s (median 1.8s), B&W 0.9-2.1s (median 1.4s), usually to the cut (13/16), sometimes mid-reaction then face again (3/16). Every reference: 4 of 6 reactions; the final reaction usually stays on the face.
-- SFX on Kevin only, 1-3 per reaction (error most common, FAH often at the B&W start). Items already contain the source's own SFX. `core-sound-effect.mp3` whoosh starts 0.33s before every reaction -> next-item cut (20/20). Kevin about 4.65 dB above the items.
+- **Srijon 2026-10-24 (overrides the reference counts):** B&W on almost every reaction (skip only very short ones, under about 2s), and LONG: cover most of the reaction after the face-first beat, about 1.5-3.5s, usually to the cut. Staging warns on a missing or short B&W (limit now 0.5-4.5s).
+- SFX on Kevin only, 1-3 per reaction in the references; **Srijon 2026-10-24: use more, about 2-3 per reaction (2+ on any reaction over about 3s)** (error most common, FAH often at the B&W start). Items already contain the source's own SFX. `core-sound-effect.mp3` whoosh starts 0.33s before every reaction -> next-item cut (20/20). Kevin about 4.65 dB above the items.
+
+- **Srijon 2026-10-24:** several cuts still showed 1-2 extra frames. Cut edges tighter and check every boundary on the preview sheet; `learn_ranking_revision` on his revised Day 1.3-1.6 measures the exact frames.
 
 ## Workflow (CLI fallback: `cli.py <tool> --json/--input`)
 

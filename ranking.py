@@ -19,15 +19,16 @@ RULES=[
     'Items play in source order, each from its first frame through its payoff and rank-label/price reveal; trim only dead frames. Never cut the payoff or the source\'s own punch SFX.',
     'Kevin records the reactions in item order in one take. Map each reaction to the item it talks about by content, not by counting pauses.',
     'Reactions are tight jump cuts: start on the first word, end right after the last word, no dead air. Drop slates, retakes, stumbles and repeated lines.',
-    'B&W replay: when a reaction runs long and Kevin points back at the clip ("that", "them", "in there", "like that", naming the object/event), cover the later part of the reaction with the LAST part of that same item replayed in black and white at 1x, zoomed about 1.1x, muted; Kevin\'s voice continues underneath.',
-    'Show Kevin\'s face first (at least about 1s, median 1.6s) before the B&W. The B&W lasts about 0.9-2.1s (median 1.4s) and usually runs to the cut into the next item; sometimes the face returns for a short final exclamation ("Oh my god").',
-    'Each reference used B&W on 4 of 6 reactions. Opinion/hypothetical reactions and usually the final reaction stay on Kevin\'s face. The count is calibration, not a quota.',
-    'SFX go on Kevin only: 1-3 per reaction, first usually 0.7-1.5s in on the punch word. Error is the most common (disbelief), FAH often lands right at the B&W start, plus vine boom, among us, mac-quack, ceeday-huh, undertaker bell, rizz, movie_1.',
+    'B&W replay: on almost every reaction, especially where Kevin points back at the clip ("that", "them", "in there", "like that", naming the object/event), cover the later part of the reaction with the LAST part of that same item replayed in black and white at 1x, zoomed about 1.1x, muted; Kevin\'s voice continues underneath.',
+    'Show Kevin\'s face first (about 0.6-1.5s) before the B&W. Srijon 2026-10-24: the B&W was too short while Kevin kept talking; make it LONG, covering most of the reaction after the face-first beat (about 1.5-3.5s), usually running to the cut into the next item. A face return is only for a short final exclamation.',
+    'Srijon 2026-10-24: put a B&W replay on almost every reaction, including the final one; skip it only when a reaction is very short (under about 2s of speech). The references used 4 of 6; this explicit preference overrides that calibration.',
+    'SFX go on Kevin only. Srijon 2026-10-24: add MORE SFX on Kevin\'s reactions, about 2-3 per reaction (2+ on every reaction longer than about 3s), on each clear punch word, B&W start or reaction beat; first usually 0.7-1.5s in. Error is the most common (disbelief), FAH often lands right at the B&W start, plus vine boom, among us, mac-quack, ceeday-huh, undertaker bell, rizz, movie_1. Still never over item clips.',
     'Ranked items already carry the source creator\'s SFX (vine boom, ding, correct, roblox death). Never add SFX over item clips.',
     'Transition whoosh: core-sound-effect.mp3 starts about 0.33s before every reaction -> next-item cut (20/20 in references); none at item -> reaction cuts.',
     'The user adds CapCut transitions, music and captions. Keep all cuts on the main track so default transitions can be placed between them.',
     'Kevin sits about 4-5 dB above the item clips in the references.',
-    'Srijon revisions (2026-10-22, 4 videos): item starts about 3 frames later (skips the source whip-blur), reaction starts 0.1-0.27s later (drops lead-ins like "Oh", "Yeah,"), ends kept, all 14 B&W replays kept.']
+    'Srijon revisions (2026-10-22, 4 videos): item starts about 3 frames later (skips the source whip-blur), reaction starts 0.1-0.27s later (drops lead-ins like "Oh", "Yeah,"), ends kept, all 14 B&W replays kept.',
+    'Srijon 2026-10-24: several cuts still showed 1-2 extra frames; cut edges tighter (no leftover breath, word tail or next-shot frame) and check every boundary frame on the preview sheet.']
 DEFAULTS={'kevin_volume':.63,'ranking_volume':.5,'bw_zoom':1.1,'bw_face_first':.6,'gap_split':.45,'whoosh_lead':.33,'start_pad':.04,'end_pad':.06}
 
 def folder(api,job):return api.STATE/'ranking_jobs'/api.safe_id(job)
@@ -554,7 +555,7 @@ def stage(api,job,items,reactions,quality_notes,volumes=None):
                 f1=frame if bw.get('until_end') else min(frame,f0+max(1,snap(float(bw['duration']))))
                 # Default tail stops 0.05s before the cut: nearest-frame rendering at the cut time shows the next shot.
                 length=(f1-f0)/FPS;tail=float(bw.get('tail_end',it['end']-.05));zoom=float(bw.get('zoom',d['bw_zoom']))
-                if not .5<=length<=2.6:raise ValueError(f'B&W length {length:.2f}s; keep 0.5-2.6s')
+                if not .5<=length<=4.5:raise ValueError(f'B&W length {length:.2f}s; keep 0.5-4.5s')
                 if not (it['start']-1e-3<=tail-length and tail<=it['end']+1e-3):raise ValueError('tail must be the last part of this same item')
                 if not 1.0<=zoom<=1.6:raise ValueError('zoom 1.0-1.6')
                 if len(str(bw.get('reason','')))<12:raise ValueError('B&W needs a reason (what Kevin points back at)')
@@ -563,9 +564,13 @@ def stage(api,job,items,reactions,quality_notes,volumes=None):
                 timeline.append([round(f0/FPS,3),round(f1/FPS,3),'bw',overlays[-1]['under_words']])
             except (KeyError,TypeError,ValueError) as err:errors.append(f'reaction {k} bw: {err}')
     if errors:raise ValueError(f'{len(errors)} problem(s), nothing staged; fix all then retry: '+' || '.join(errors))
-    stats=st.get('stats',{});typical=statistics.median(stats.get('bw_per_video') or [0]) if stats.get('bw_per_video') else None
-    if typical is not None and abs(len(overlays)-typical*len(items)/6)>2:warnings.append(f'{len(overlays)} B&W replays; references used about {typical:g} per 6 reactions (calibration, not a quota).')
-    if overlays and overlays[-1]['reaction']==len(items)-1 and sum(stats.get('final_reaction_has_bw',[]))<len(stats.get('final_reaction_has_bw',[]))/2:warnings.append('Final reaction ends on B&W; most references end on Kevin\'s face.')
+    stats=st.get('stats',{})
+    # Srijon 2026-10-24: B&W on almost every reaction, and long. Short reactions (<2s) may skip it.
+    with_bw={o['reaction'] for o in overlays};long_spans=[k for k,(a,b) in enumerate(spans) if (b-a)/FPS>=2.0 and k not in with_bw]
+    if long_spans:warnings.append(f'reactions {long_spans} have no B&W; Srijon wants it on almost every reaction (skip only very short ones).')
+    for o in overlays:
+        a,b=spans[o['reaction']]
+        if o['frames']/FPS<1.5 and (b-a)/FPS>=2.5:warnings.append(f"reaction {o['reaction']} B&W is only {o['frames']/FPS:.2f}s of a {(b-a)/FPS:.1f}s reaction; make it longer.")
     for k,(a,b) in enumerate(spans):
         if (b-a)/FPS>7:warnings.append(f'reaction {k} lasts {(b-a)/FPS:.1f}s; references max {stats.get("reaction_seconds",{}).get("max")}s.')
     used_words={i for r in planned for p in r['pieces'] for i in range(p['from_word'],p['to_word']+1)}
@@ -803,7 +808,7 @@ def annotate_brief(api,record_,brief,draft):
         'reference_reactions':[{'video':r['name'],'reactions':[{'words':x['words'],'bw_words':(x.get('bw') or {}).get('words'),'sfx':[[s['sound'],s['offset'],s['near_word']] for s in x['sfx']]} for x in r['reactions']]} for r in st['references']]}
     brief.setdefault('plan_requirements',{})['ranking']=('Ranking video: place SFX only on Kevin reaction spans (cut_map kind=reaction, including B&W overlays where his voice continues). '
         'Item clips already contain the source creator\'s SFX (item_clip_builtin_sfx): never add over them. Add the transition whoosh at each whoosh_cues time with a visual_reveal anchor '
-        'on an inspected frame at the cut. The general sfx_density target does not apply; use the reference ranking stats instead.')
+        'on an inspected frame at the cut. The general sfx_density target does not apply. Srijon 2026-10-24: use about 2-3 SFX per reaction (2+ on any reaction over about 3s), more than the 1.0 reference median.')
     if brief['plan_requirements'].get('sfx_density'):brief['plan_requirements']['sfx_density']['guidance']+=' Not applicable to ranking videos: see plan_requirements.ranking.'
 
 def observed(api,rec,draft,project):
